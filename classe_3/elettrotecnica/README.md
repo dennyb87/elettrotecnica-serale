@@ -15,15 +15,14 @@
  
 # Strumenti di misura
 
+### Amperometro
+
+Misura la corrente sche scorre in un conduttore in **Ampere** con simbolo **A** 
+
 ### Voltmetro
 
 Misura la tensione tra due punti in **Volt** con simbolo **V**  
 Puo misurare una tensione negativa e.g. -9V in questo caso significa che ho invertito i puntali, in quanto il segno indica la polarita del circuito. 
-
-
-### Amperometro
-
-Misura la corrente sche scorre in un conduttore in **Ampere** con simbolo **A** 
 
 ### Ohmmetro
 
@@ -31,8 +30,7 @@ Misura la resistenza di uno o piu resistori in **Ohm** con simbolo **Ω**
 
 
 # Simboli degli strumenti
-![voltmetro_amperometro_ohmmetro](https://user-images.githubusercontent.com/7195133/195444468-f7484f57-75d7-4cd2-a8f2-3f6d18638ce1.png)
-
+![amperometro_voltmetro_ohmmetro](https://user-images.githubusercontent.com/7195133/195451448-da8c72a3-f5a2-42c7-aa7c-cf6b5e98811f.png)
 
 # Legge di Ohm
 
