@@ -17,11 +17,12 @@
 
 ### Amperometro
 
-Misura la corrente sche scorre in un conduttore in **Ampere** con simbolo **A** 
+Misura la corrente sche scorre in un conduttore in **Ampere** con simbolo **A** e si collega in serie.  
+In un analogia idraulica, per misurare quanta acqua passa in un tubo, si deve intervenire sul tubo, inserendo una sorta di contatore. 
 
 ### Voltmetro
 
-Misura la tensione tra due punti in **Volt** con simbolo **V**  
+Misura la tensione tra due punti in **Volt** con simbolo **V** e si collega in parallelo.
 Puo misurare una tensione negativa e.g. -9V in questo caso significa che ho invertito i puntali, in quanto il segno indica la polarita del circuito. 
 
 ### Ohmmetro
@@ -63,4 +64,22 @@ In un certo senso e' la velocita con cui il lavoro viene compiuto dato che $P = 
 
 ![multimetro_simboli](https://user-images.githubusercontent.com/7195133/195452312-d78da9f5-85aa-4c4d-a259-316bc03646a6.png)
 
+### Portata
 
+La portata e' il valore massimo che lo strumento puo misurare, e' configurabile entro i limiti della portata massima.  
+Nel dubbio, seleziona la portata maggiore e poi scendi per non danneggiare lo strumento.  
+Ci sono **strumenti analogici**, riconoscibili da una **scala graduata** e.g. una bilancia, e **strumenti digitali** dove la misura viene indicata direttamente con dei **numeri su un display** e.g. orologio digitale.
+
+### Misure e notazione scientifica
+
+ |Base 10|Nome|Simbolo|Decimale|
+ |--|--|--|--|
+ |$10^6$|mega|M|1000000|  
+ |$10^3$|kilo|k|1000|  
+ |$10^2$|hecto|h|100|  
+ |$10^1$|deca|da|10|  
+ |$10^0$|_|_|1|  
+ |$10^-1$|deci|d|0.1|
+ |$10^-2$|centi|c|0.01|
+ |$10^-3$|milli|m|0.001|
+ |$10^-6$|micro|μ|0.0001|
