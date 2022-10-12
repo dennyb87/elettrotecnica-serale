@@ -30,7 +30,7 @@ Misura la corrente sche scorre in un conduttore in **Ampere** con simbolo **A**
 Misura la resistenza di uno o piu resistori in **Ohm** con simbolo **Ω**
 
 
-# Simboli elettrici
+# Simboli degli strumenti
 ![voltmetro_amperometro_ohmmetro](https://user-images.githubusercontent.com/7195133/195444468-f7484f57-75d7-4cd2-a8f2-3f6d18638ce1.png)
 
 
