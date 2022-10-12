@@ -54,6 +54,8 @@ La tensione e' la causa della corrente elettrica.
 
 ### Potenza
 
-$P = \frac{EN}{t}$
+$P = VI$  
+$P = \frac{EN}{t}$  
 
-Energia fornita o assorbita (o lavoro compiuto) nell'unita di tempo, si misura in **Watt** con simbolo **W**
+La potenza equivale all'energia fornita o assorbita (o lavoro compiuto) nell'unita di tempo, si misura in **Watt** con simbolo **W**
+In un certo senso e' la velocita con cui il lavoro viene compiuto dato che $P = \frac{W}{t}$.
