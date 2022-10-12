@@ -32,3 +32,25 @@ Misura la resistenza di uno o piu resistori in **Ohm** con simbolo **Ω**
 
 # Simboli elettrici
 ![voltmetro_amperometro_ohmmetro](https://user-images.githubusercontent.com/7195133/195444468-f7484f57-75d7-4cd2-a8f2-3f6d18638ce1.png)
+
+
+# Legge di Ohm
+
+$V = IR$  
+$\frac{V}{I} = R$  
+$\frac{V}{R} = I$  
+
+
+ |R[Ω]|V[V]|I[A]|P[W]|
+ |---|---|---|---|
+ |10|0|0|0|
+ |10|5|0.5|2.5|
+ |10|10|1|10|
+ |10|15|1.5|22.5|
+ |10|20|2|40|
+
+### Potenza
+
+$P = \frac{EN}{t}$
+
+Energia fornita o assorbita (o lavoro compiuto) nell'unita di tempo, si misura in **Watt** con simbolo **W**
