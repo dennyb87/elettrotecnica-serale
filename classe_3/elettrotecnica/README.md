@@ -40,6 +40,9 @@ $V = IR$
 $\frac{V}{I} = R$  
 $\frac{V}{R} = I$  
 
+Una tensione **V** su una resistenza **R** produce una corrente **I**.  
+La tensione e' la causa della corrente elettrica.  
+
 
  |R[Ω]|V[V]|I[A]|P[W]|
  |---|---|---|---|
