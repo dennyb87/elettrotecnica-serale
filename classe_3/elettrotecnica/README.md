@@ -57,3 +57,10 @@ $P = \frac{EN}{t}$
 
 La potenza equivale all'energia fornita o assorbita (o lavoro compiuto) nell'unita di tempo, si misura in **Watt** con simbolo **W**.  
 In un certo senso e' la velocita con cui il lavoro viene compiuto dato che $P = \frac{W}{t}$.
+
+
+# Multimetro
+
+![multimetro_simboli](https://user-images.githubusercontent.com/7195133/195452312-d78da9f5-85aa-4c4d-a259-316bc03646a6.png)
+
+
