@@ -20,18 +20,38 @@
 Misura la corrente sche scorre in un conduttore in **Ampere** con simbolo **A** e si collega in serie.  
 In un analogia idraulica, per misurare quanta acqua passa in un tubo, si deve intervenire sul tubo, inserendo una sorta di contatore. 
 
+```mermaid
+graph LR
+    START[ ]---A((A))
+    ---STOP[ ]
+    style START fill:#FFFFFF, stroke:#FFFFFF;
+    style STOP  fill:#FFFFFF, stroke:#FFFFFF;
+```
+
 ### Voltmetro
 
 Misura la tensione tra due punti in **Volt** con simbolo **V** e si collega in parallelo.
 Puo misurare una tensione negativa e.g. -9V in questo caso significa che ho invertito i puntali, in quanto il segno indica la polarita del circuito. 
 
+```mermaid
+graph LR
+    START[ ]---A((V))
+    ---STOP[ ]
+    style START fill:#FFFFFF, stroke:#FFFFFF;
+    style STOP  fill:#FFFFFF, stroke:#FFFFFF;
+```
+
 ### Ohmmetro
 
 Misura la resistenza di uno o piu resistori in **Ohm** con simbolo **Ω**
 
-
-# Simboli degli strumenti
-![amperometro_voltmetro_ohmmetro](https://user-images.githubusercontent.com/7195133/195451448-da8c72a3-f5a2-42c7-aa7c-cf6b5e98811f.png)
+```mermaid
+graph LR
+    START[ ]---A((Ω))
+    ---STOP[ ]
+    style START fill:#FFFFFF, stroke:#FFFFFF;
+    style STOP  fill:#FFFFFF, stroke:#FFFFFF;
+```
 
 # Legge di Ohm
 
