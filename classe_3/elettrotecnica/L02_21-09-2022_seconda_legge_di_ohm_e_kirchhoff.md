@@ -2,7 +2,12 @@
 
 $R = \rho \frac{l}{S}$  
 
-La seconda legge di Ohm ci dice che la resistenza $R$ dipende dal rapporto che c'e' tra la lunghezza $l$ e la sezione $S$ del conduttore, moltiplicato per un coefficiente di resistivita' $\rho$ (rho) che dipende dal tipo di materiale del conduttore stesso.  
+La seconda legge di Ohm ci dice che la resistenza $R$ dipende dal rapporto che c'e' tra la lunghezza $l$ e la sezione $S$ del conduttore  
+moltiplicato per un coefficiente di resistivita' $\rho$ (rho) che dipende dal tipo di materiale del conduttore stesso, e dalla temperatura.  
+Il coefficiente di **resistivita' e' quindi la resistenza di un cavo di $1m$ di lunghezza e $1mm^2$ di sezione ad una determinata temperatura**.
+Per esempio la resistivita' del rame a $20\degree C$ e' di $0.018 \cdot \frac{1m}{1mm^2} = 0.018 \Omega$  
+
+Con sezione si intende l'area della sezione dell'anima in rame del cavo, ovvero $S = \pi \cdot r^2$
 
 # Componenti attivi e passivi  
 
