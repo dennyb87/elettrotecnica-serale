@@ -1,6 +1,4 @@
-# Tools  
-
-Una collezione di strumenti utili, software, applicazioni web, etc...  
+Collezione di strumenti utili, software, applicazioni web, etc...  
 
 |website|descrizione|
 |--|--|
