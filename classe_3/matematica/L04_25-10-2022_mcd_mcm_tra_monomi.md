@@ -13,9 +13,21 @@ Diventa quindi facile intuire che l'*MCD* tra $x$ ed $x^2$ sia $x$ in quanto se 
 puo' dividere $x^2 = 2^2$ e ovviamente anche se stesso.  
 
 Possiamo allora concludere che l'*MCD* tra monomi si trova moltiplicando i fattori primi comuni con esponente piu piccolo  
-dei coefficienti numerici con le parti letterali in comune con esponente piu' piccolo.
+dei coefficienti numerici con le parti letterali in comune con esponente piu' piccolo.  
 
+Eseguiamo il calcolo dell'*MCD* dei seguenti monomi:  
 
+$3x^2y^2z$  
+$18x^3y^2$  
+$6xy^3$  
 
+Cominciando dai coefficienti $3, 18, 6$ di ha che e' l'unico fattore primo comune con esponente piu' piccolo e' $3$.  
+Mentre per le parti letterali, si prendono quelle comuni con esponente minore, quindi $xy^2$ overo:  
+
+$MCD(3x^2y^2z, 18x^3y^2, 6xy^3) = 3xy^2$  
+
+# mcm tra monomi  
+
+...
 
 
