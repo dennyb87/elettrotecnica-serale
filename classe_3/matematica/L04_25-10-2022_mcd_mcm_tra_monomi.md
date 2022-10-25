@@ -21,7 +21,7 @@ $3x^2y^2z$
 $18x^3y^2$  
 $6xy^3$  
 
-Cominciando dai coefficienti $3, 18, 6$ di ha che e' l'unico fattore primo comune con esponente piu' piccolo e' $3$.  
+Cominciando dai coefficienti $3, 18, 6$, si ha che l'unico fattore primo comune con esponente piu' piccolo e' $3$.  
 Mentre per le parti letterali, si prendono quelle comuni con esponente minore, quindi $xy^2$ overo:  
 
 $MCD(3x^2y^2z, 18x^3y^2, 6xy^3) = 3xy^2$  
