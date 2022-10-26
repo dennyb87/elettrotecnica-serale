@@ -38,7 +38,18 @@ Per essere considerati beni economici pero' devono essere:
 
 # Tipi di beni economici  
 
-...
+Si dicono **durevoli** i beni che possono essere usati piu' volte per soddisfare un bisogno (bicicletta, cappotto), mentre  
+si dicono non **durevoli** quelli che si distruggono con l'uso e possono quindi essere usati una volta sola.  
+
+Si dicono **diretti** o di **consumo** quelli che servono direttamente a soddisfare un bisogno, mentre  
+si dicono **strumentali** o **d'investivento** quelli che servono a produrre altri beni.  
+Un bene puo' essere considerato di entrambe i tipi a seconda dell'uso che se ne fa e.g. mangiare un uovo, oppure usare un uovo per fare una torta.  
+
+
+
+
+
+
 
 
 
