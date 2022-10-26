@@ -69,9 +69,18 @@ abbienti ne sono condizionate nei loro acquisti.
 
 La legge della domanda ci dice che la **domanda e' inversamente proporzionale al prezzo**.  
 
+![demand_curve](https://user-images.githubusercontent.com/7195133/198121759-0240ee60-514e-4377-b680-bf282974af0d.jpg)  
 
 
+Il rapporto tra la variazione della domanda per una variazione del prezzo prende il nome di **elasticita' della domanda**.  
 
+$E = \frac{\Delta{D}}{\Delta{P}}$
+
+E' alta se piccole variazioni di prezzo influiscono significativamente sulla domanda, e' bassa se influiscono poco.  
+Si prenda in considerazione la variazione di domanda a parita di variazione di prezzo.  
+
+$\frac{1000}{10} = 100$  
+$\frac{20}{10} = 2$  
 
 
 
