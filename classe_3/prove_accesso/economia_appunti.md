@@ -62,7 +62,7 @@ la differenza e' che i beni sono mezzi materiali, mentre i servizi sono prestazi
 La domanda rappresenta la quantita' di beni o servizi che i consumatori sono disposti a comprare in un certo mercato,  
 in un determinato momento, a un dato prezzo.  
 
-Possiamo distinguere tre tipologie, individuale, collettiva, e globale.  
+Possiamo distinguere tre tipologie, **individuale**, **collettiva**, e **globale**.  
 Sono moltissimi i fattori che possono influire sull'andamento della domanda: gusti personali, reddito, pubblicita', e prezzo.  
 L'incidenza che il prezzo esercita sulla domanda e' riconoscibile a qualsiasi livello di reddito e.g. anche le persone piu'  
 abbienti ne sono condizionate nei loro acquisti.  
@@ -82,11 +82,27 @@ Si prenda in considerazione la variazione di domanda a parita di variazione di p
 $\frac{1000}{10} = 100$  
 $\frac{20}{10} = 2$  
 
-E' importante notare che invece il prezzo e' direttamente proporzionale alla domanda.  
+E' importante notare che invece **il prezzo e' direttamente proporzionale alla domanda**.  
 Quando la domanda cresce, i venditori constatando l'interesse dei consumatori, tenderanno ad aumentare il prezzo.  
 
 
+# Legge dell'offerta  
+
+L'offerta e' quantita' di beni e servizi che le imprese sono disposte a cedere ad un certo prezzo, in un determinato momento, e un dato mercato.  
+La legge dell'offerta ci dice che **l'offerta e' direttamente proporzionale al prezzo**.  
+Quando il prezzo di un bene sale, gli imprenditori cerceranno di aumentarne la produzione per ovvi motivi di convenienza.  
+
+Si noti invece che **il prezzo e' inversamente proporzionale all'offerta**, in quanto se l'offerta di un bene diventa molto elevata  
+allora il prezzo tendera' a mantenersi basso per evitare la merce resti invenduta.  
+
+![supply_demand](https://user-images.githubusercontent.com/7195133/198143680-85591346-653d-4a4f-a10a-9114435b86d4.jpg)  
 
 
+# Prezzo di equilibrio  
 
-
+Nei mercati tende a formarsi il prezzo di equilibrio, che e' il punto in cui domanda e offerta coincidono.  
+Questo si forma spontaneamente, se per esempio un bene viene immesso nel mercato ad un prezzo basso, esso sara'  
+in grado di suscitare una domanda elevata, ma l'offerta sara' scarsa in quanto i consumatori faranno la fila nei negozi  
+per accaparrarsi il prodotto, ma la maggior parte restera' insoddisfatta.  
+I venditori allora ne approfitteranno per aumentare il prezzo, fino al punto in cui avranno la sicurezza di poter  
+vendere tutta la merce, che e' appunto il prezzo di equilibrio. 
