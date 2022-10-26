@@ -28,6 +28,9 @@ $MCD(3x^2y^2z, 18x^3y^2, 6xy^3) = 3xy^2$
 
 # mcm tra monomi  
 
-...
+Il minimo comune multiplo e' definito come un qualsiasi monomio di grado minimo che sia divisibile per tutti i monomi dati.  
+Si puo' procedere quindi trovando l'*mcm* dei coefficienti, e poi prendendo le parti letterali comuni e non comuni con esponente maggiore.  
+
+Per esempio $mcm(xy, 2ax^2y^2, 3xy) = 6ax^2y^2$
 
 
