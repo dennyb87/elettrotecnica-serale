@@ -100,7 +100,7 @@ allora il prezzo tendera' a mantenersi basso per evitare la merce resti invendut
 
 # Prezzo di equilibrio  
 
-Nei mercati tende a formarsi il prezzo di equilibrio, che e' il punto in cui domanda e offerta coincidono.  
+Nei mercati tende a formarsi il **prezzo di equilibrio**, che e' il punto in cui **domanda e offerta coincidono**.  
 Questo si forma spontaneamente, se per esempio un bene viene immesso nel mercato ad un prezzo basso, esso sara'  
 in grado di suscitare una domanda elevata, ma l'offerta sara' scarsa in quanto i consumatori faranno la fila nei negozi  
 per accaparrarsi il prodotto, ma la maggior parte restera' insoddisfatta.  
