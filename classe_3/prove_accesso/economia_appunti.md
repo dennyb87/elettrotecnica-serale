@@ -14,6 +14,9 @@ Tuttavia spesso la soddisfazione di un bisogno non e' definitiva, in quanto tend
 e.g. il bisogno di mangiare che soddisfo a pranzo si ripresenta la sera e dobbiamo cenare.  
 Sono inoltre **soggettivi** in quanto ognuno di noi ha bisogni diversi, e **variabili** dato che per una stessa persona variano nel tempo.  
 
+**illimitatezza, saziabilita', risorgenza, sogettivita', variabilita'**   
+
+
 # Tipi di bisogni economici  
 
 Si dicono **individuali** quando sono avvertiti da una persona singola, **collettivi** quando sono avvertiti dai soggetti membri  
