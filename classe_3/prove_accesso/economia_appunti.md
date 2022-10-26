@@ -82,20 +82,8 @@ Si prenda in considerazione la variazione di domanda a parita di variazione di p
 $\frac{1000}{10} = 100$  
 $\frac{20}{10} = 2$  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+E' importante notare che invece il prezzo e' direttamente proporzionale alla domanda.  
+Quando la domanda cresce, i venditori constatando l'interesse dei consumatori, tenderanno ad aumentare il prezzo.  
 
 
 
