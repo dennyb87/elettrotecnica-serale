@@ -26,6 +26,25 @@ gli altri sono secondari e.g. leggere, andare a teatro etc...
 
 
 
+# Beni economici  
+
+Quando si avverte un bisogno, si cerca di procurarsi un mezzo per soddisfarlo, questi mezzi si chiamano **beni**.  
+Per essere considerati beni economici pero' devono essere:
+
+* **utili** ovvero in grado di soddisfare un bisogno
+* **scarsi** ovvero esistere in misura limitata
+* **reperibile** quindi deve essere possibile entrarne in possesso in qualche modo  
+
+
+# Tipi di beni economici  
+
+...
+
+
+
+
+
+
 
 
 
