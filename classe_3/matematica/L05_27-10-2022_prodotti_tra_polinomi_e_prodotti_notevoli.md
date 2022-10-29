@@ -5,4 +5,13 @@ Se prendiamo in considerazione $(6 + 4) \cdot (8 + 2)$ si nota immediatamente ch
 E' meno intuitivo ma comunque equivalente scrivere $(6 \cdot 8) + (6 \cdot 2) + (4 \cdot 8) + (4 \cdot 2) = 48 + 12 + 32 + 8 = 100$.  
 Il prodotto di polinomi utilizza proprio il secondo metodo, che si basa sulla proprieta' distributiva del prodotto rispetto alla somma,  
 che pur essendo meno intuitivo per le sole parti numeriche, diventa invece fondamentale con le parti letterali per trasformare e/o  
-semplificare l'espressione.
+semplificare l'espressione.  
+
+$(x + 2y) \cdot (x + y) = x^2 + xy + 2xy + 2y^2 = x^2 + 3xy + 2y^2$  
+
+
+# Prodotti notevoli  
+
+## Somma per differenza  
+
+...
