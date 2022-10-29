@@ -25,3 +25,8 @@ ad arrivare al telaio mettendolo in tensione, diventando quindi pericoloso.
 
 $U$ e' invece la tensione massima **cavo-cavo** ovvero la tensione massima che l'isolamento del cavo puo supportare  
 rispetto ad un altro cavo isolato a stretto contatto.  
+
+**Perche' allora alcuni cavi hanno $U_0 = U$ ?**  
+
+
+
