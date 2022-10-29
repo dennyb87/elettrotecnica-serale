@@ -41,28 +41,13 @@ rispetto ad un altro cavo isolato a stretto contatto.
 
 # Tipi di pose  
 
-## Posa a vista  
-
-La posa a vista consiste semplicemnte nel fissare il conduttore su di una superficie visibile e.g. fissato ad una parete.  
-
-## Posa interrata  
-
-Letteralmente sottoterra quindi dentro ad un corrugato o un qualche altro tipo di protezione meccanica.  
-
-## Posa soffitto  
-
-![posa_controsoffitto](https://user-images.githubusercontent.com/7195133/198839933-8b2a3ce6-cd3d-47dd-a272-26017934a537.jpg)
-
-## Posa in canale  
-
-![canale](https://user-images.githubusercontent.com/7195133/198839821-b78243e2-e6b6-468c-b807-8baa70c32285.jpg)
-
-## Posa in asserella asolata  
-![passerella_asolata](https://user-images.githubusercontent.com/7195133/198838960-c26f0e56-5ff6-4d25-ba03-c641d302dfce.jpg)
-
-## Posa in passerella a filo   
-![passerella_a_filo](https://user-images.githubusercontent.com/7195133/198839026-4825edf1-3fc2-4f17-bd7b-0b8fbcfe305b.jpg)
-
-
+|tipo di posa|esempio|descrizione|
+|--|--|--|
+|a vista||La posa a vista consiste semplicemnte nel fissare il conduttore su di una superficie visibile e.g. fissato ad una parete.|
+|interrata||Letteralmente sottoterra quindi dentro ad un corrugato o un qualche altro tipo di protezione meccanica.|
+|controsoffitto|![posa_controsoffitto](https://user-images.githubusercontent.com/7195133/198839933-8b2a3ce6-cd3d-47dd-a272-26017934a537.jpg)||
+|in canale|![canale](https://user-images.githubusercontent.com/7195133/198839821-b78243e2-e6b6-468c-b807-8baa70c32285.jpg)||
+|in passerella asolata|![passerella_asolata](https://user-images.githubusercontent.com/7195133/198838960-c26f0e56-5ff6-4d25-ba03-c641d302dfce.jpg)||
+|in passerella a filo|![passerella_a_filo](https://user-images.githubusercontent.com/7195133/198839026-4825edf1-3fc2-4f17-bd7b-0b8fbcfe305b.jpg)||
 
 
