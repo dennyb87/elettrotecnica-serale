@@ -12,7 +12,16 @@ Accendendo una lampada si avra' una corrente di $0.48A$ mentre $0.96A$ se le acc
 # Accenni sui cavi  
 ## Tensione nominale  
 
-[da finire]
+![fs17](https://user-images.githubusercontent.com/7195133/198819412-a273efd9-a132-4163-8e6d-71fb3f70dad5.jpg)  
 
+Sui cavi e' indicata la tensione nominale, prendiamo ad esempio la tensione nominale in figura $450/750V$.  
+I due valori sono rispettivamente $U_0/U$ , di seguito il loro significato.  
 
+$U_0$ e' la tensione massima **cavo-terra**, ovvero la tensione massima che il singolo conduttore isolato puo' supportare  
+rispetto ad un qualunque oggetto conduttivo a potenziale zero adiacente allo stesso.  
+Ad esempio, se il cavo fosse poggiato su un materiale conduttore come il telaio di una lavatrice, e la tensione del cavo  
+fosse maggiore di $U_0$, allora l'isolante del cavo non riuscira' piu' a fermare il flusso di cariche che riuscira'  
+ad arrivare al telaio mettendolo in tensione, diventando quindi pericoloso.  
 
+$U$ e' invece la tensione massima **cavo-cavo** ovvero la tensione massima che l'isolamento del cavo puo supportare  
+rispetto ad un altro cavo isolato a stretto contatto.  
