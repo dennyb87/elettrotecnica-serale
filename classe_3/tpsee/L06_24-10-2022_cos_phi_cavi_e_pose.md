@@ -29,4 +29,36 @@ rispetto ad un altro cavo isolato a stretto contatto.
 **Perche' allora alcuni cavi hanno $U_0 = U$ ?**  
 
 
+# Classi di isolamento  
+
+## Classe 0  
+
+E' la classe dove la protezione si basa sull'isolamento principale, cioe' il normale isolamento tra conduttori e carcassa  
+o altre masse metalliche dell'apparecchio.  
+Non e' previsto dunque nessun conduttore di protezione (messa a terra) o protezioni di altro genere.  
+L'uso di questi in connesione alla rete elettrica non e' piu consentito in Italia, in quanto un semplice guasto puo' causare la folgorazione.  
+
+## Classe 1  
+
+![messa_a_terra](https://user-images.githubusercontent.com/7195133/198837885-2bc20c28-806e-4bba-95d4-6f3057a5f598.jpg)  
+
+Sono di classe 1 i dispositivi che utilizzano il conduttore di protezione (messa a terra).  
+
+![cavo_di_protezione](https://user-images.githubusercontent.com/7195133/198837894-e5cecc35-744d-4f23-ba06-3e58f7abf216.jpg)  
+
+
+## Classe 2  
+
+![doppio_isolamento](https://user-images.githubusercontent.com/7195133/198837880-f12420d6-8a8c-4341-8437-9288f3677a82.jpg)  
+
+Questi dispositivi sono costruiti in modo che le parti in tensione siano circondate da un doppio strato di materiale isolante (isolamento principale + isolamento supplementare).  
+
+
+
+
+
+
+
+
+
 
