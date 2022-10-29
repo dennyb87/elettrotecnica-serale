@@ -14,10 +14,8 @@ $(x + 2y) \cdot (x + y) = x^2 + xy + 2xy + 2y^2 = x^2 + 3xy + 2y^2$
 
 ## Somma per differenza  
 
-Consideriamo **due binomi non simili** $x + y$ e $x - y$.  
-Si nota immediatamented che il primo binomio e' una somma di monomi $x + y$, mentre il secondo e' la loro differenza.  
+Prendiamo **due monomi non simili** $x$ ed $y$, e consideriamo il prodotto tra la loro somma e la loro differenza  $x + y$ e $x - y$.  
 Il prodotto tra la somma e la differenza di questi monomi si chiama per brevita' **somma per differenza**.  
-
 Eseguendo i calcoli diventa evidente che la somma per differenza e' equivalente al quadrato del primo monomio meno il quadrato del secondo.  
 
 $(x + y) \cdot (x - y) = x^2 - xy + xy - y^2 = x^2 - y^2$
