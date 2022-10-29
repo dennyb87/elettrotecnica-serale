@@ -53,11 +53,21 @@ Sono di classe 1 i dispositivi che utilizzano il conduttore di protezione (messa
 
 Questi dispositivi sono costruiti in modo che le parti in tensione siano circondate da un doppio strato di materiale isolante (isolamento principale + isolamento supplementare).  
 
+# Tipi di pose  
 
+## Posa a vista
 
+## Posa interrata  
 
+## Posa soffitto  
 
+## Posa in canale senza coperchio
 
+## Posa in asserella asolata  
+![passerella_asolata](https://user-images.githubusercontent.com/7195133/198838960-c26f0e56-5ff6-4d25-ba03-c641d302dfce.jpg)
+
+## Posa in passerella a filo   
+![passerella_a_filo](https://user-images.githubusercontent.com/7195133/198839026-4825edf1-3fc2-4f17-bd7b-0b8fbcfe305b.jpg)
 
 
 
