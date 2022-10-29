@@ -49,7 +49,7 @@ Sono di classe 1 i dispositivi che utilizzano il conduttore di protezione (messa
 
 ## Classe 2  
 
-![doppio_isolamento](https://user-images.githubusercontent.com/7195133/198837880-f12420d6-8a8c-4341-8437-9288f3677a82.jpg)  
+![doppio_isolamento](https://user-images.githubusercontent.com/7195133/198837975-3c05dd38-1c5d-4b1e-b5d5-c0100dc3cb05.jpg)
 
 Questi dispositivi sono costruiti in modo che le parti in tensione siano circondate da un doppio strato di materiale isolante (isolamento principale + isolamento supplementare).  
 
