@@ -31,37 +31,31 @@ rispetto ad un altro cavo isolato a stretto contatto.
 
 # Classi di isolamento  
 
-## Classe 0  
 
-E' la classe dove la protezione si basa sull'isolamento principale, cioe' il normale isolamento tra conduttori e carcassa  
-o altre masse metalliche dell'apparecchio.  
-Non e' previsto dunque nessun conduttore di protezione (messa a terra) o protezioni di altro genere.  
-L'uso di questi in connesione alla rete elettrica non e' piu consentito in Italia, in quanto un semplice guasto puo' causare la folgorazione.  
-
-## Classe 1  
-
-![messa_a_terra](https://user-images.githubusercontent.com/7195133/198837885-2bc20c28-806e-4bba-95d4-6f3057a5f598.jpg)  
-
-Sono di classe 1 i dispositivi che utilizzano il conduttore di protezione (messa a terra).  
-
-![cavo_di_protezione](https://user-images.githubusercontent.com/7195133/198837894-e5cecc35-744d-4f23-ba06-3e58f7abf216.jpg)  
-
-
-## Classe 2  
-
-![doppio_isolamento](https://user-images.githubusercontent.com/7195133/198837975-3c05dd38-1c5d-4b1e-b5d5-c0100dc3cb05.jpg)
-
-Questi dispositivi sono costruiti in modo che le parti in tensione siano circondate da un doppio strato di materiale isolante (isolamento principale + isolamento supplementare).  
+|classe|descrizione|simbolo|
+|--|--|--|
+|0|E' la classe dove la protezione si basa sull'isolamento principale, cioe' il normale isolamento tra conduttori e carcassa o altre masse metalliche dell'apparecchio. Non e' previsto dunque nessun conduttore di protezione (messa a terra) o protezioni di altro genere. L'uso di questi in connesione alla rete elettrica non e' piu consentito in Italia, in quanto un semplice guasto puo' causare la folgorazione.| |
+|1|Sono di classe 1 i dispositivi che utilizzano il conduttore di protezione (messa a terra).|![messa_a_terra](https://user-images.githubusercontent.com/7195133/198837885-2bc20c28-806e-4bba-95d4-6f3057a5f598.jpg)|
+|2|Questi dispositivi sono costruiti in modo che le parti in tensione siano circondate da un doppio strato di materiale isolante (isolamento principale + isolamento supplementare).|![doppio_isolamento](https://user-images.githubusercontent.com/7195133/198837975-3c05dd38-1c5d-4b1e-b5d5-c0100dc3cb05.jpg)|
+ 
 
 # Tipi di pose  
 
-## Posa a vista
+## Posa a vista  
+
+La posa a vista consiste semplicemnte nel fissare il conduttore su di una superficie visibile e.g. fissato ad una parete.  
 
 ## Posa interrata  
 
+Letteralmente sottoterra quindi dentro ad un corrugato o un qualche altro tipo di protezione meccanica.  
+
 ## Posa soffitto  
 
-## Posa in canale senza coperchio
+![posa_controsoffitto](https://user-images.githubusercontent.com/7195133/198839933-8b2a3ce6-cd3d-47dd-a272-26017934a537.jpg)
+
+## Posa in canale  
+
+![canale](https://user-images.githubusercontent.com/7195133/198839821-b78243e2-e6b6-468c-b807-8baa70c32285.jpg)
 
 ## Posa in asserella asolata  
 ![passerella_asolata](https://user-images.githubusercontent.com/7195133/198838960-c26f0e56-5ff6-4d25-ba03-c641d302dfce.jpg)
