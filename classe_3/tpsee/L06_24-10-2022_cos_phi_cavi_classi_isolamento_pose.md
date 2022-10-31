@@ -27,6 +27,7 @@ $U$ e' invece la tensione massima **cavo-cavo** ovvero la tensione massima che l
 rispetto ad un altro cavo isolato a stretto contatto.  
 
 **Perche' allora alcuni cavi hanno $U_0 = U$ ?**  
+In attesa di risposta su [stackexchange](https://electronics.stackexchange.com/questions/640653/what-determines-the-voltage-rating-of-a-cable-and-why-do-some-cables-have-u-0)  
 
 
 # Classi di isolamento  
