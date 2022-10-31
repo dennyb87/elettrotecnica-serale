@@ -38,6 +38,8 @@ In attesa di risposta su [stackexchange](https://electronics.stackexchange.com/q
 |0||E' la classe dove la protezione si basa sull'isolamento principale, cioe' il normale isolamento tra conduttori e carcassa o altre masse metalliche dell'apparecchio. Non e' previsto dunque nessun conduttore di protezione (messa a terra) o protezioni di altro genere. L'uso di questi in connesione alla rete elettrica non e' piu consentito in Italia, in quanto un semplice guasto puo' causare la folgorazione.|
 |1|![messa_a_terra](https://user-images.githubusercontent.com/7195133/198837885-2bc20c28-806e-4bba-95d4-6f3057a5f598.jpg)|Sono di classe 1 i dispositivi che utilizzano il conduttore di protezione (messa a terra).|
 |2|![doppio_isolamento](https://user-images.githubusercontent.com/7195133/198837975-3c05dd38-1c5d-4b1e-b5d5-c0100dc3cb05.jpg)|Questi dispositivi sono costruiti in modo che le parti in tensione siano circondate da un doppio strato di materiale isolante (isolamento principale + isolamento supplementare).|
+|3|![classe_terza_isolamento](https://user-images.githubusercontent.com/7195133/199117278-b9d5cc57-453a-4bc5-a14c-c8701d75e31f.jpg)|Questi apparecchi non devono essere provvisti di alcuna protezione in quanto sono alimentati da bassissime tensioni|
+
  
 
 # Tipi di pose  
