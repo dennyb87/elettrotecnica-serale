@@ -29,7 +29,7 @@ rispetto ad un altro cavo adiacente dello stesso tipo.
 ![H03VVH2-F-300-300](https://user-images.githubusercontent.com/7195133/199588248-7e8f7e9c-d9d9-4534-93c6-ed470e749e64.jpg)  
 
 Non mi e' ancora del tutto chiaro perche' cavi con piu' di un anima come il [H03VVH2-F 300/300 V](https://www.comcavi.it/cavi/cavi-elettrici-bassa-tensione/h03vvh2-f/) in figura abbiano $U_0 = U$.  
-Una spiegazione potrebbe essere che la guaina venga considerata in questo come isolante, quindi tra le due anime si ha $U$, mentre tra una  
+Una spiegazione potrebbe essere che la guaina venga considerata in questo caso come isolante, quindi tra le due anime si ha $U$, mentre tra una  
 delle due, e il conduttore immaginario a contatto con la guaina si avrebbe $U_0$, che risulta quindi uguale a $U$ dato lo spessore della guaina.  
 
 Comunque non sono il solo ad essere confuso, vedi [electronics.stackexchange](https://electronics.stackexchange.com/questions/640653/what-determines-the-voltage-rating-of-a-cable-and-why-do-some-cables-have-u-0).
