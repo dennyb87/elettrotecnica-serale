@@ -24,10 +24,12 @@ fosse maggiore di $U_0$, allora l'isolante del cavo non riuscira' piu' a fermare
 ad arrivare al telaio mettendolo in tensione, diventando quindi pericoloso.  
 
 $U$ e' invece la tensione massima **cavo-cavo** ovvero la tensione massima che l'isolamento del cavo puo supportare  
-rispetto ad un altro cavo isolato a stretto contatto.  
+rispetto ad un altro cavo adiacente dello stesso tipo.  
 
-**Perche' allora alcuni cavi hanno $U_0 = U$ ?**  
-In attesa di risposta su [stackexchange](https://electronics.stackexchange.com/questions/640653/what-determines-the-voltage-rating-of-a-cable-and-why-do-some-cables-have-u-0)  
+![H03VVH2-F-300-300](https://user-images.githubusercontent.com/7195133/199588248-7e8f7e9c-d9d9-4534-93c6-ed470e749e64.jpg)  
+
+Non mi e' ancora del tutto chiaro perche' cavi con piu' di un anima come il [H03VVH2-F 300/300 V](https://www.comcavi.it/cavi/cavi-elettrici-bassa-tensione/h03vvh2-f/) in figura abbiano $U_0 = U$.  
+Comunque non sono il solo ad essere confuso, vedi [electronics.stackexchange](https://electronics.stackexchange.com/questions/640653/what-determines-the-voltage-rating-of-a-cable-and-why-do-some-cables-have-u-0).
 
 
 # Classi di isolamento  
