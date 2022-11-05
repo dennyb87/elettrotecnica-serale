@@ -1,6 +1,6 @@
 # Sentence structure  
 
-A sentence follows **subject + verb + complement** order, while questions follows **verb + subject + complement*.  
+A sentence follows **subject + verb + complement** order, while questions follows **verb + subject + complement**.  
 
 ### To be (affermative form)
 
