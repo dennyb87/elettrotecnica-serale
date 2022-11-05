@@ -27,7 +27,9 @@ We use the past simple to talk about events, states or habits at definite times 
 
 
 # Past continuous  
-We use the past continuous to talk about events and temporary states that were in progress around a certain time in the past e.g. *"I was running, when I saw Mike"*.  
+We use the past continuous to talk about events and temporary states that were in progress around a certain time in the past.  
+
+*I was running, when I saw Mike*.  
 
 
 # Regular & irregular verbs  
