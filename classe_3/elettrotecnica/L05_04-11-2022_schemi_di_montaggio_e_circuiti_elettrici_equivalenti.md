@@ -56,7 +56,7 @@ Si dice invece **reale** quando si tiene conto di questi dettagli, che rendono i
 
 ![curva_caratteristica_pila_reale](https://user-images.githubusercontent.com/7195133/200162981-7523217c-7523-4ae4-b9f7-9c3f90d945fa.jpg) 
 
-Se vogliamo che la nostra descrizione del comportamento di una pila sia piu' vicino alla realta' dobbiamo allora tenere conto della sua resistenza interna ($R_s$ in figura).  
+Se vogliamo che la nostra descrizione del comportamento di una pila sia piu' vicino alla realta' dobbiamo allora tenere conto della sua resistenza interna (vedi $R_s$ in figura).  
 Si intuisce quindi che se la pila ha una resistenza interna, allora ci deve essere una caduta di potenziale su quest'ultima.  
 Ne consegue che la tensione effettiva in uscita dalla pila $V_{out}$ sara' sempre minore di $V_s$ in dipendenza di $R_s$.  
 
