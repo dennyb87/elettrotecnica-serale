@@ -42,7 +42,7 @@ Nel circuito elettrico si devono indicare i punti di collegamento specificando s
 I **punti semplici** sono punti che collegano due elementi di filo conduttore.  
 Sono invece **nodi** se collegano almeno tre elementi di filo conduttore.  
 
-![punti_semplici_e_nodi](https://user-images.githubusercontent.com/7195133/200169440-97d21753-8ade-43dc-bf3a-2d67ef5292c6.jpg)   
+![punti_semplici_e_nodi](https://user-images.githubusercontent.com/7195133/200171084-0d9c5873-81e7-48eb-b5b3-5648f2da4cb2.jpg)  
 
 Nella figura, $F$ e $B$ sono nodi, tutti gli altri invece sono punti semplici.  
 
