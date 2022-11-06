@@ -20,7 +20,7 @@ graph TB
 
 Come si nota in figura le grandezze hanno una ed una sola dimensione, ma possono avere piu' unita' di misura. 
 
-Si puo' usare la notazione $[...]$ si usa per estrarre l'unita' di misura da una dimesione e.g. $[L] = m$  
+Si puo' usare la notazione $[...]$ per estrarre l'unita' di misura da una dimesione e.g. $[L] = m$  
 Questo equivale a dire che l'unita' di misura della lunghezza e' il *metro*.  
 Oppure $[I] = A$ ovvero l'unita' di misura della corrente e' l'*Ampere*.  
 
