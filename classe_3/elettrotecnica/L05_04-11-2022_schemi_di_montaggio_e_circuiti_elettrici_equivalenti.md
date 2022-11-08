@@ -1,7 +1,9 @@
 # Grandezze fisiche, dimensioni, e unita' di misura
 
-Una grandezza fisica e' la caratteristica di un oggetto misurabile e.g. la lunghezza di un tavolo.  
-Ci sono grandezze fondamentali e derivate, queste si esprimono con una dimensione che puo' essere costituita da una o piu' grandezze fondamentali.  
+Una **grandezza fisica** e' una caratteristica di un oggetto misurabile e.g. la lunghezza di un tavolo.  
+La **dimensione** fisica di una grandezza indica in quale modo essa è ottenuta a partire da una o piu' grandezze fondamentali.  
+Ci sono **grandezze fondamentali** e **grandezze derivate**, le grandezze si esprimono con una dimensione che puo' essere costituita da una o piu' grandezze fondamentali.
+
 Ad esempio la dimensione della lunghezza che ' una grandezza fondamentale e' $L$ (lunghezza ovviamente), mentre la dimensione dell'area che e' invece derivata e' $L^2$.
 
 ```mermaid
