@@ -1,6 +1,6 @@
-# Applicazioni delle leggi di Kirchhoff  
+# Leggi di Kirchhoff  
 
-Di seguito si ripetono le gia' affrontate leggi di Kirchhoff.  
+Per completeza di seguito si ripetono le gia' affrontate leggi di Kirchhoff.  
 
 ## Prima legge o legge dei nodi
 
@@ -21,8 +21,6 @@ Si noti come $V_s = V_{R_1} + V_{R_2} + V_{R_3}$ oppure $V_s - V_{R_1} - V_{R_2}
 
 # Prima legge di Kirchhoff per derivare la formula delle resistenze in parallelo  
 
-Grazie alla prima legge e' possibile derivare le correnti e le altre grandezze  
-elettriche semplicemente riarrangiando i termini di equazioni note.  
 Si prenda in considerazione il seguente circuito.  
 
 ![current_in_parallel_resistors](https://user-images.githubusercontent.com/7195133/202259331-f47e13bd-f296-4a7b-9324-817e9f898e57.jpg)  
