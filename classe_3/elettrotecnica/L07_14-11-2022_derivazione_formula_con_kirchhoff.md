@@ -32,7 +32,7 @@ Da questo si deduce che $I_1 = \frac{V_b}{R_1}$ e che $I_2 = \frac{V_b}{R_2}$ e 
 
 Riarrangiando i termini si ha allora che:
 
-$I = V_b(\frac{1}{R_1} + \frac{1}{R_2})$  
+$I = V_b \cdot (\frac{1}{R_1} + \frac{1}{R_2})$  
 $\frac{I}{V_b} = \frac{1}{R_1} + \frac{1}{R_2}$  
 
 Trovando il reciproco $\frac{V_b}{I} = \frac{1}{\frac{1}{R_1} + \frac{1}{R_2}}$ abbiamo in effetti trovato la resistenza equivalente  
