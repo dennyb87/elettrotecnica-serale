@@ -39,7 +39,14 @@ Esiste una relazione tra il numero di maglie indipendenti, rami e nodi tale che
 $m_{indipendenti}=r-n+1$  
 
 Quindi nel circuito in figura si ha che $6 - 4 + 1 = 3$ ovvero ci sono 3 maglie  
-indipendenti.  
+indipendenti che possiamo definire come seque.  
+
+$m_{i1} = A \rightarrow C \rightarrow F \rightarrow A$  
+$m_{i2} = A \rightarrow D \rightarrow C \rightarrow A$  
+$m_{i3} = C \rightarrow D \rightarrow F \rightarrow C$  
+
+
+Ci sono ovviamente altre maglie **non indipendenti** come $A \rightarrow D \rightarrow F \rightarrow A$ etc.
 
 
 ## Componenti attivi e passivi  
