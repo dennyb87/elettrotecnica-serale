@@ -60,6 +60,15 @@ $F \cdot input = output$
 
 # Funzione di trasferimento piatto rotante microonde  
 
+```mermaid
+flowchart LR
+    in("tempo")--"input"--->sistema
+    subgraph sistema[ ]
+        A["microonde"]
+    end
+    sistema--"output"--->out("rotazioni del piatto")
+```
+
 In tabella si ha il tempo $t$ in secondi impiegato per completare  
 $n$ giri del piatto rotante all'interno di un microonde.  
 L'ultima colonna rappresenta la **funzione di traserimento**.
