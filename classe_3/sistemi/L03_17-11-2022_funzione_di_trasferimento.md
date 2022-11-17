@@ -55,4 +55,17 @@ Dato che $F = \frac{1}{2}$ allora $\frac{1}{2} \cdot \epsilon = \ell$
 Il nome **funzione di trasferimento** viene proprio dal fatto che permette  
 di trasformare l'input in output.  
 
-$F \cdot input = output$
+$F \cdot input = output$  
+
+
+# Funzione di trasferimento piatto rotante microonde  
+
+In tabella si ha il tempo $t$ in secondi impiegato per completare  
+$n$ giri del piatto rotante all'interno di un microonde.  
+L'ultima colonna rappresenta la **funzione di traserimento**.
+
+| $t$  | $n$ | $n/t$          |
+| ---- | --- | -------------- |
+| $25$ | $1$ | $\frac{1}{25}$ |
+| $50$ | $2$ | $\frac{1}{25}$ |
+| $75$ | $3$ | $\frac{1}{25}$ |
