@@ -53,6 +53,6 @@ Nel nostro esempio abbiamo quindi $F = \frac{\ell}{\epsilon}$  ovvero $\ell = F 
 Dato che $F = \frac{1}{2}$ allora $\frac{1}{2} \cdot \epsilon = \ell$
 
 Il nome **funzione di trasferimento** viene proprio dal fatto che permette  
-di trasferire l'input all'output  
+di trasformare l'input in output.  
 
 $F \cdot input = output$
