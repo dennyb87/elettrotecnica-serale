@@ -25,6 +25,6 @@ che sara' negativo solo quando i due monomi hanno segni diversi.
 
 $(a + b)^2 = (a + b)\cdot(a + b) = a^2 + ab + ab + b^2 = a^2 + b^2 + 2ab$  
 $(-a -b)^2 = (-a -b)\cdot(-a -b) = a^2 + ab + ab + b^2 = a^2 + b^2 + 2ab$  
-$(a - b)^2 = (a - b)\cdot(a - b) = a^2 - ab - ab + b^2 = a^2 + b^2 - 2ab$
+$(a - b)^2 = (a - b)\cdot(a - b) = a^2 - ab - ab + b^2 = a^2 + b^2 - 2ab$  
 $(-a + b)^2 = (-a + b)\cdot(-a + b) = a^2 - ab - ab + b^2 = a^2 + b^2 - 2ab$
 
