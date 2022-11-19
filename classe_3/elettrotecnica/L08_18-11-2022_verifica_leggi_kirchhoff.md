@@ -76,6 +76,6 @@ Verificato $\checkmark$
 | $P_4$   | $20 \cdot 4$ | $80$  |
 
 $P_E = P_1 + P_2 + P_3 + P_4$  
-$38 = 162 + 25 + 75 + 80$  
+$342 = 162 + 25 + 75 + 80$  
 
 Verificato $\checkmark$  
