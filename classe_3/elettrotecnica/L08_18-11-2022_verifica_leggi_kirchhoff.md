@@ -33,15 +33,13 @@ $V_{CF} = I_2 \cdot R_3 = 5 \cdot 3 = 15V$
 
 Mettiamo un po' di ordine.  
 
-
-| tensioni |         | [V]  |
-| -------- | ------- | ---- |
-| $V_{AF}$ | $V$     | $38$ |
-| $V_{AB}$ | $V_1$   | $18$ |
-| $V_{BC}$ | $V_{2}$ | $5$  |
-| $V_{CF}$ | $V_{3}$ | $15$ |
-| $V_{BF}$ | $V_{4}$ | $20$ |
-
+| tensioni | [V]  |
+| -------- | ---- |
+| $V_{AF}$ | $38$ |
+| $V_{AB}$ | $18$ |
+| $V_{BC}$ | $5$  |
+| $V_{CF}$ | $15$ |
+| $V_{BF}$ | $20$ |
 
 
 # IPK - Verifica del primo principio di Kirchhoff  
