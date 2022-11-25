@@ -44,8 +44,8 @@ Possiamo quindi riscrivere $V_{out} = R_2 \cdot \frac{E}{R_1 + R_2}$
 Adesso ricordiamoci che $R_2 \cdot \frac{E}{R_1 + R_2} = \frac{R_2}{R_1 + R_2} \cdot E$  
 ed anche che $E = V_{in}$ allora si ha che...
 
-$V_{out} = \frac{R_1}{R_1 + R_2} \cdot V_{in}$  
+$V_{out} = \frac{R_2}{R_1 + R_2} \cdot V_{in}$  
 
-E' chiaro adesso che la funzione di trasferiemento e' quindi $F = \frac{R_1}{R_1 + R_2} = \frac{V_{out}}{V_{in}}$  
+E' chiaro adesso che la funzione di trasferiemento e' quindi $F = \frac{R_2}{R_1 + R_2} = \frac{V_{out}}{V_{in}}$  
 Abbiamo appena derivato la funzione di trasferimento del partitore di tensione  
 che come si puo' intuire non fa altro che ridurre la tensione di un fattore $F$.
