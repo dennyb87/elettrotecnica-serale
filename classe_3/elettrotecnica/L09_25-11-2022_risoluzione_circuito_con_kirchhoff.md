@@ -46,7 +46,7 @@ Oppure prendendo in considerazione i punti $A, B, D$
 $V_{BD} = V_{BA} + V_{AD} = - V_1 + V_3 = 8.94V$  
 
 Purtroppo le approssimazioni delle correnti non ci hanno permesso di ottenere un  
-risultato molto preciso, c'e' quindi una differenza di circa $1V$ per cui:  
+risultato molto preciso, c'e' quindi una differenza di circa $0.8V$ per cui:  
 
 $V_{BC} + V_{CD} \simeq V_{BA} + V_{AD}$  
 $9.825V \simeq 8.94V$  
