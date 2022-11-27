@@ -10,12 +10,25 @@
 
 * 1 Lampadina
 * 1 Cassetta di derivazione
-* 1 Presa
+* 1 Presa P10
 * 1 Interruttore
-* 5 Corrugati
+* 5 Corrugati 20mm
 * 3 Portafrutti 503
-* 3 Morsetti
+* 3 Morsetti 6mm
 * 1 Differenziale
 * 1 Magnetotermico
 * 3 Conduttori (F, N, PE)
+
+
+# Descrizione cablaggio  
+
+La fase esce dal magnetotermico ed arriva fino alla cassetta di derivazione da cui si divide in due rami: uno per la presa, l'altro per l'interruttore.  
+Dalla presa usciamo con il neutro tornando al magnetotermico passando per la cassetta di derivazione.  
+Dall'interruttore usciamo ancora con la fase per poi arrivare alla lampada passando dalla cassetta di derivazione, dalla lampada usciamo poi con il neutro che ritorna nella cassetta di derivazione riunendosi al neutro della presa, quindi tornando al magnetotermico.  
+
+
+
+
+
+
 
