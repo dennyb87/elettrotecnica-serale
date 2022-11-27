@@ -27,6 +27,10 @@ Dalla presa usciamo con il neutro tornando al magnetotermico passando per la cas
 Dall'interruttore usciamo ancora con la fase per poi arrivare alla lampada passando dalla cassetta di derivazione, dalla lampada usciamo poi con il neutro che ritorna nella cassetta di derivazione riunendosi al neutro della presa, quindi tornando al magnetotermico.  
 
 
+# Schema topografico/planimetrico  
+
+![c01_relazione_vista_2](https://user-images.githubusercontent.com/7195133/204137149-9dcc5f27-fd0b-4ea8-ab73-fab6a1554b37.jpg)  
+![c01_relazione_vista_1](https://user-images.githubusercontent.com/7195133/204137127-f1b62f23-2bc3-40bb-a398-71331d3c291f.jpg)  
 
 
 
