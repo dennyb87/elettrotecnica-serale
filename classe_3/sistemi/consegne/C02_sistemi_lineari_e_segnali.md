@@ -27,9 +27,12 @@ Ma $R_3 = R_s = R$ allora...
 $R_{eq} = \frac{R*R}{R+R} = \frac{R^2}{2R} = \frac{R}{2} = \frac{30}{2} = 15\Omega$  
 
 Adesso sapendo che $V_2 = \frac{R_4}{R_4 + R_{eq}} \cdot V_1$ si nota immediatamente che  
-la funzione di trasferimento e' $F = \frac{R_4}{R_4 + R_{eq}} = \frac{45}{60} = \frac{3}{4}$  
+la funzione di trasferimento e' $F = \frac{R_4}{R_4 + R_{eq}} = \frac{45}{60} = \frac{3}{4}$ quindi  
+
+$V_2 = F \cdot V_1 = \frac{3}{4} \cdot V_1$  
+
 Allora possiamo risolvere trovando $V_1$ moltiplicando entrambe i termini  
-dell'equazione per il reciproco di $F$ ovvero $\frac{1}{F} = \frac{R_4 + R_{eq}}{R_4}$. 
+dell'equazione per il reciproco di $F$ ovvero $\frac{1}{F} = \frac{R_4 + R_{eq}}{R_4} = \frac{4}{3}$. 
 
 $V_1 = \frac{R_4 + R_{eq}}{R_4} \cdot V_2 = \frac{4}{3} \cdot V_2$  
 
