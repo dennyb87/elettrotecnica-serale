@@ -89,8 +89,8 @@ Si consideri una lampada che assorbe la potenza $P_L = 100W$ quando la tensione
 applicata è $V_L = 230V$. Calcolare la resistenza equivalente $R_L$ della lampada.  
 
 ## Soluzione  
-Si procede trovando la corrente $I_L = \frac{P_L}{V_L} = \frac{1000}{230} \simeq 4.35A$  
-Di conseguenza la resistenza della lampada e' $\frac{V_L}{I_L} = \frac{230}{4.35} \simeq 52.87\Omega$
+Si procede trovando la corrente $I_L = \frac{P_L}{V_L} = \frac{100}{230} \simeq 0.4348A$  
+Di conseguenza la resistenza della lampada e' $\frac{V_L}{I_L} = \frac{230}{0.4348} \simeq 529\Omega$
 
 
 ## ESERCIZIO N. 4  
