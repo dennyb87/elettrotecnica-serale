@@ -64,9 +64,9 @@ $I_2 = \frac{V_{CB}}{R_2} = \frac{150}{30} = 5A$
 La potenza erogata dal generatore e' $P_E = V \cdot I_0 = 200 \cdot 20 = 4000W$  
 Mentre le potenze assorbite dalle singole resistenze sono:  
 
-$P_0 = V_{AC} \cdot I_0 = 50 \cdot 20 = 1000W$  
-$P_1 = V_{CB} \cdot I_1 = 150 \cdot 15 = 2250W$  
-$P_2 = V_{CB} \cdot I_2 = 150 \cdot 5 = 750W$  
+$P_R = V_{AC} \cdot I_0 = 50 \cdot 20 = 1000W$  
+$P_{R1} = V_{CB} \cdot I_1 = 150 \cdot 15 = 2250W$  
+$P_{R2} = V_{CB} \cdot I_2 = 150 \cdot 5 = 750W$  
 
 ## IPK  
 Nodo $C$
@@ -79,7 +79,7 @@ $50 + 150 - 200 = 0\ verficato\ \checkmark$
 
 
 ## Principio di conservazione dell'energia  
-$P_E = P_0 + P_1 + P_2$  
+$P_E = P_R + P_{R1} + P_{R2}$  
 $4000 = 1000 + 2250 + 750\ verfificato\ \checkmark$
 
 
@@ -89,8 +89,8 @@ Si consideri una lampada che assorbe la potenza $P_L = 100W$ quando la tensione
 applicata è $V_L = 230V$. Calcolare la resistenza equivalente $R_L$ della lampada.  
 
 ## Soluzione  
-Si procede trovando la corrente $I = \frac{P}{V} = \frac{1000}{230} \simeq 4.35A$  
-Di conseguenza la resistenza della lampada e' $\frac{V}{I} = \frac{230}{4.35} \simeq 52.87\Omega$
+Si procede trovando la corrente $I_L = \frac{P_L}{V_L} = \frac{1000}{230} \simeq 4.35A$  
+Di conseguenza la resistenza della lampada e' $\frac{V_L}{I_L} = \frac{230}{4.35} \simeq 52.87\Omega$
 
 
 ## ESERCIZIO N. 4  
@@ -98,7 +98,7 @@ Di conseguenza la resistenza della lampada e' $\frac{V}{I} = \frac{230}{4.35} \s
 ![elt_uda1_corrente_continua_fig3](https://user-images.githubusercontent.com/7195133/204860768-c12eab47-8a5b-49df-bf98-0c2dd1a44941.jpg)  
 
 Per il circuito mostrato in figura calcolare:
-1. la resistenza totale $R_T$
+1. la resistenza totale $R_{tot}$
 2. la corrente $I_0$
 3. la corrente $I_2$ e la corrente $I_4$   
 
@@ -124,12 +124,12 @@ $I_5 = \frac{R_4}{R_4 + R_{s1}} \cdot I_3 = \frac{20}{80} \cdot 2.25 = 0.56A$
 
 
 ### IPK  
-
-$I_0 = I_2 + I_4 + I_5 = 7.87 + 1.69 + 0.56 = 10.12A\ verificato\ \checkmark$
+$I_3 = I_4 + I_5 = 1.69 + 0.56 = 2.25A\ verificato\ \checkmark$
+$I_0 = I_2 + I_3 = 7.87 + 2.25 = 10.12A\ verificato\ \checkmark$
 
 ## ESERCIZIO N. 5  
 
-![elt_uda1_corrente_continua_fig4](https://user-images.githubusercontent.com/7195133/204986248-f2bad82b-ae55-4b76-b292-88de9daf0d39.jpg)  
+![elt_uda1_corrente_continua_fig4](https://user-images.githubusercontent.com/7195133/205460813-487cfb99-02a2-464c-934e-4b6e8cc5bd40.jpg)  
 
 E’ assegnato il circuito elettrico mostrato in figura.  
 
@@ -163,7 +163,7 @@ $I_2 = \frac{V_{AC}}{R_2} = \frac{V_2}{R_2} = \frac{25.26}{6} = 4.21A$
 In questo caso ci serviamo di un caso particolare del partitore di tensione visto che  $R_3 = R_4 = R$  
 
 $V_3 = V_4 = V_{AC} \cdot \frac{R}{R+R} = V_{AC} \cdot \frac{1}{2} = \frac{25.26}{2} = 12.63V$  
-$I_3 = I_4 = \frac{V_3}{R} = \frac{12.63}{4} = 3.1575A$  
+$I_3 = \frac{V_3}{R} = \frac{12.63}{4} = 3.1575A$  
 $I_1 = I_2 + I_3 = 4.21 + 3.1575 = 7.37A$  
 
 Calcoliamo ora la potenza del generatore e le potenze assorbite da ciascun resistore.  
@@ -171,7 +171,7 @@ Calcoliamo ora la potenza del generatore e le potenze assorbite da ciascun resis
 $P_E = E \cdot I_1 = 40 \cdot 7.37 = 294.8W$  
 $P_1 = V_1 \cdot I_1 = 14.74 \cdot 7.37 = 108.63W$  
 $P_2 = V_2 \cdot I_2 = 25.26 \cdot 4.21 = 106.34W$  
-$P_3 = P_4 = V_3 \cdot I_3 = V_4 \cdot I_4 = 12.63 \cdot 3.1575 = 39.88W$  
+$P_3 = V_3 \cdot I_3 = P_4 = V_4 \cdot I_3 = 12.63 \cdot 3.1575 = 39.88W$  
 
 Verifichiamo il principio di conservazione dell'energia
 
