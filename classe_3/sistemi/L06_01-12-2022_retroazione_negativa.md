@@ -45,7 +45,6 @@ Abbiamo trovato la funzione di trasferimento di un sistema in retroazione negati
 $F_{rn} = \frac{F_1}{1 + F_1 \cdot F_2}$  
 
 
-# 
 ## Esempio  
 
 ```mermaid
