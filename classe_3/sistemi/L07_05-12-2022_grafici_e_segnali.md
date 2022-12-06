@@ -27,6 +27,7 @@ Adesso per trovare il valore medio non ci resta che dividere l'area per il tempo
 
 $V_{medio} = \frac{Area}{T_{oss}} = \frac{A}{\Delta t} = \frac{168}{24} = 7$  
 
+In questo grafico si ha quindi un valore medio di $7$.
 
 # Esempio con valore negativo  
 ...
