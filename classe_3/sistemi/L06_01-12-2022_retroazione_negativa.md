@@ -20,10 +20,25 @@ rediretto in input con azione negativa, quindi sottraendosi all'input stesso.
 In pratica si ottiene un effetto di autoregolazione dove l'input causa una  
 diminuzione dello stesso.  
 
-Nel diagramma sto esplicitamente includendo il blocco $-1$ ovvero la funzione di  
+Nel diagramma sto esplicitamente includendo il blocco $F = -1$ ovvero la funzione di  
 trasferimento che inverte il segno di $z$.  
 L'alternativa e' quella di omettere il blocco e aggiungere invece un segno  
-negativo nei pressi del sommatore. 
+negativo nei pressi del nodo sommatore.  
+
+```mermaid
+flowchart LR
+    START1[ ]--"x"---sommatore(("+"))
+    sommatore--"y"--->STOP[ ]
+    START2[ ]--"z"---sommatore
+
+    style START1 width:0px,height:0px;
+    style START2 width:0px,height:0px;
+    style STOP width:0px,height:0px;
+```
+
+Si ricorda che il nodo sommatore esegue appunto l'operazione di somma algebrica  
+
+$y = x + z$
 
 Per calcolare la funzione di trasferimento di questo sistema dobbiamo prendere  
 in considerazione le funzioni di trasferimento note, e le variabili in gioco:  
