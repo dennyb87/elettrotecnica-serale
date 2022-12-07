@@ -1,0 +1,28 @@
+# Partitore di tensione  
+
+![voltage_divider](https://user-images.githubusercontent.com/7195133/206300542-a598b6ec-64ab-4286-a986-32d201726c78.jpg)
+
+Abbiamo gia' affrontanto l'argomento in sistemi, ricordiamo quindi le formule per calcolare   
+la tensione in uscita, che come e' ormai noto e' proporzionale al rapporto tra $R$ e $R_{tot}$.  
+
+$V_{1} = \frac{R_1}{R_1 + R_2} \cdot V = R_1 \cdot I$  
+$V_{2} = \frac{R_2}{R_1 + R_2} \cdot V = R_2 \cdot I$  
+
+Nel caso speciale in cui $R_1 = R_2$ allora possiamo risolvere con una singola $R$  
+trovando che la tensione e' di conseguenza sempre la meta'.
+
+$V_{2} = \frac{R}{R + R} \cdot V = \frac{R}{2 \cdot R} \cdot V = \frac{1}{2} \cdot V$  
+
+
+# Partitore di corrente  
+
+Il partitore di corrente funziona in modo analogo, con la differenza che per trovare  
+la corrente di un ramo e' proporzionale al rapporto tra la resistenza sul ramo adiacente e la resistenza totale della maglia.
+
+![current_divider](https://user-images.githubusercontent.com/7195133/206303085-030a721a-70d3-4ece-9147-04c5e3dee3c7.jpg)  
+
+$I_1 = \frac{R_2}{R_1 + R_2} \cdot I$  
+$I_2 = \frac{R_1}{R_1 + R_2} \cdot I$  
+
+Il motivo per cui questo e' vero e funziona e' tutt'altro che ovvio, ci serve allora  
+una dimostrazione...
