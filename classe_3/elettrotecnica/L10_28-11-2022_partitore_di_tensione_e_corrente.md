@@ -16,8 +16,8 @@ $V_{2} = \frac{R}{R + R} \cdot V = \frac{R}{2 \cdot R} \cdot V = \frac{1}{2} \cd
 
 # Partitore di corrente  
 
-Il partitore di corrente funziona in modo analogo, con la differenza che per trovare  
-la corrente di un ramo e' proporzionale al rapporto tra la resistenza sul ramo adiacente e la resistenza totale della maglia.
+Il partitore di corrente funziona in modo analogo: la corrente di un ramo e' proporzionale  
+al rapporto tra la resistenza sul ramo adiacente e la somma delle resistenze nella maglia.  
 
 ![current_divider](https://user-images.githubusercontent.com/7195133/206303085-030a721a-70d3-4ece-9147-04c5e3dee3c7.jpg)  
 
