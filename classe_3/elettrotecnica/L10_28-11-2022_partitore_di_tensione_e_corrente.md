@@ -25,4 +25,18 @@ $I_1 = \frac{R_2}{R_1 + R_2} \cdot I$
 $I_2 = \frac{R_1}{R_1 + R_2} \cdot I$  
 
 Il motivo per cui questo e' vero e funziona e' tutt'altro che ovvio, ci serve allora  
-una dimostrazione...
+una dimostrazione...  
+
+
+# Dimostrazione del partitore di corrente  
+
+![dimostrazione_partitore_di_corrente](https://user-images.githubusercontent.com/7195133/206860760-fa2493c6-a119-49d7-aad9-45591e03dafd.jpg)
+
+
+Conoscendo la legge di Ohm $V_{ab} = I \cdot R_{p}$ e la formula per il calcolo delle  
+resistenze in parallelo $R_{p} = \frac{R_1 \cdot R_2}{R_1 + R_2}$ possiamo allora derivare il partitore di  
+corrente, e quindi dimostrare che e' vero!  
+
+$I_1 = \frac{V_{ab}}{R_1}$  
+$V_{ab} = I \cdot R_{p} = I \cdot \frac{R_1 \cdot R_2}{R_1 + R_2}$  
+$I_1 = I \cdot \frac{R_1 \cdot R_2}{R_1 + R_2} \cdot \frac{1}{R_1} = I \cdot \frac{R_2}{R_1 + R_2}$  
