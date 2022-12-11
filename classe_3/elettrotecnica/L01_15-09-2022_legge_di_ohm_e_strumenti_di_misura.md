@@ -2,15 +2,15 @@
 
 # Effetti della corrente
 
- |Effetto|Descrizione|
- |---|---|
- |termico|Gli atomi del conduttore vengono urtati dagli elettroni in movimento riscaldandosi.|
- |luminoso|Quando gli elettroni eccitati passano ad uno stato di minore energia vengono emessi quanti di luce (fotoni).|
- |magnetico|Le cariche in movimento generano un campo magnetico|
- |chimico|Negli elettroliti gli ioni si spostano verso gli elettrodi. Questo processo può separare gli ioni di carica opposta sciogliendone i legami.|
- |piezoelettrico|Alcuni cristalli reagiscono al cambiamento di tensione con una deformazione meccanica.|
- |elettrostatico|Elettrizzazione per strofinio di materiali isolanti, laforza d'attrito agisce in modo tale da "strappare" elettroni da uno dei due materiali|
- |fisiologico|La corrente puo avere effetti sul corpo umano con conseguenze anche mortali|
+ | Effetto        | Descrizione                                                                                                                                  |
+ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+ | termico        | Gli atomi del conduttore vengono urtati dagli elettroni in movimento riscaldandosi.                                                          |
+ | luminoso       | Quando gli elettroni eccitati passano ad uno stato di minore energia vengono emessi quanti di luce (fotoni).                                 |
+ | magnetico      | Le cariche in movimento generano un campo magnetico                                                                                          |
+ | chimico        | Negli elettroliti gli ioni si spostano verso gli elettrodi. Questo processo può separare gli ioni di carica opposta sciogliendone i legami.  |
+ | piezoelettrico | Alcuni cristalli reagiscono al cambiamento di tensione con una deformazione meccanica.                                                       |
+ | elettrostatico | Elettrizzazione per strofinio di materiali isolanti, laforza d'attrito agisce in modo tale da "strappare" elettroni da uno dei due materiali |
+ | fisiologico    | La corrente puo avere effetti sul corpo umano con conseguenze anche mortali                                                                  |
  
  
 # Strumenti di misura
@@ -63,13 +63,13 @@ Una tensione **V** su una resistenza **R** produce una corrente **I**.
 La tensione e' la causa della corrente elettrica.  
 
 
- |R[Ω]|V[V]|I[A]|P[W]|
- |---|---|---|---|
- |10|0|0|0|
- |10|5|0.5|2.5|
- |10|10|1|10|
- |10|15|1.5|22.5|
- |10|20|2|40|
+ | R[Ω] | V[V] | I[A] | P[W] |
+ | ---- | ---- | ---- | ---- |
+ | 10   | 0    | 0    | 0    |
+ | 10   | 5    | 0.5  | 2.5  |
+ | 10   | 10   | 1    | 10   |
+ | 10   | 15   | 1.5  | 22.5 |
+ | 10   | 20   | 2    | 40   |
 
 ### Potenza
 
@@ -88,18 +88,27 @@ In un certo senso e' la velocita con cui il lavoro viene compiuto dato che $P = 
 
 La portata e' il valore massimo che lo strumento puo misurare, e' configurabile entro i limiti della portata massima.  
 Nel dubbio, seleziona la portata maggiore e poi scendi per non danneggiare lo strumento.  
-Ci sono **strumenti analogici**, riconoscibili da una **scala graduata** e.g. una bilancia, e **strumenti digitali** dove la misura viene indicata direttamente con dei **numeri su un display** e.g. orologio digitale.
+Ci sono **strumenti analogici**, riconoscibili da una **scala graduata** e.g. una bilancia, e **strumenti digitali** dove la misura viene indicata direttamente con dei **numeri su un display** e.g. orologio digitale.  
+
+### Test di continuita'  
+
+Il test di continuita' ci da un feedback uditivo dicendoci se due punti sono collegati.  
+E' importante sapere che il feedback viene prodotto solo sotto una certa soglia di  
+resistenza che dipende dal costruttore.  
+Se la resistenza tra due punti e' maggiore di questa soglia, il feedback non viene prodotto  
+ma viene indicata invece la resistenza vista dal multimetro tra quei due punti.  
+
 
 ### Misure e notazione scientifica
 
- |Base 10|Nome|Simbolo|Decimale|
- |--|--|--|--|
- |$10^6$|mega|M|1000000|  
- |$10^3$|kilo|k|1000|  
- |$10^2$|hecto|h|100|  
- |$10^1$|deca|da|10|  
- |$10^0$|_|_|1|  
- |$10^-1$|deci|d|0.1|
- |$10^-2$|centi|c|0.01|
- |$10^-3$|milli|m|0.001|
- |$10^-6$|micro|μ|0.0001|
+ | Base 10 | Nome  | Simbolo | Decimale |
+ | ------- | ----- | ------- | -------- |
+ | $10^6$  | mega  | M       | 1000000  |
+ | $10^3$  | kilo  | k       | 1000     |
+ | $10^2$  | hecto | h       | 100      |
+ | $10^1$  | deca  | da      | 10       |
+ | $10^0$  | _     | _       | 1        |
+ | $10^-1$ | deci  | d       | 0.1      |
+ | $10^-2$ | centi | c       | 0.01     |
+ | $10^-3$ | milli | m       | 0.001    |
+ | $10^-6$ | micro | μ       | 0.0001   |
