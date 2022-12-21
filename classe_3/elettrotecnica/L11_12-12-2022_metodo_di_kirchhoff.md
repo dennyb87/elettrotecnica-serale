@@ -35,42 +35,45 @@ $I_1 + I_2 = I_3$
 
 Poniamo per semplicita'  
 
-$
-V_{AB} = V_1 \\
-V_{CB} = V_2 \\
-V_{BD} = V_3 \\
-$
+$V_{AB} = V_1$
+$V_{CB} = V_2$
+$V_{BD} = V_3$
+
 
 Per le equazioni alle maglie si usa ovviamente il secondo principio di Kirchhoff  
 per ogni maglia, ovvero:  
 
-$
-V_1 + V_2 - E_1 = 0 \\  
-E_2 - V_2 - V_3 = 0 \\
-$
+$V_1 + V_2 - E_1 = 0$  
+$E_2 - V_2 - V_3 = 0$
+
 
 # Sistema di equazioni  
 
 Il sistema ci permette di trovare le correnti incognite, per adesso utilizzeremo  
 il metodo della sostituzione, ma ce ne sono ovviamente altri.  
 
-$
-\left\{ \begin{aligned} 
-  I_1 + I_2 - I_3 &= 0 \\
-  V_1 + V_3 - E_1 &= 0 \\
-  E_2 - V_2 - V_3 &= 0 \\
-\end{aligned} \right.
-$
+$$
+\begin{cases}
+  \begin{aligned}
+    I_1 + I_2 - I_3 &= 0 \\
+    V_1 + V_3 - E_1 &= 0 \\
+    E_2 - V_2 - V_3 &= 0 \\
+  \end{aligned}
+\end{cases}
+$$
 
 Sostituiamo le tensioni con le formule equivalenti servendoci della legge di Ohm
 
-$
-\left\{ \begin{aligned} 
-  I_1 + I_2 - I_3 &= 0 \\
-  R_1 I_1 + R_3 I_3 - E_1 &= 0 \\
-  E_2 - R_2 I_2 - R_3 I_3 &= 0 \\
-\end{aligned} \right.
-$
+$$
+\begin{cases}
+  \begin{aligned}
+    I_1 + I_2 - I_3 &= 0 \\
+    R_1 I_1 + R_3 I_3 - E_1 &= 0 \\
+    E_2 - R_2 I_2 - R_3 I_3 &= 0 \\
+  \end{aligned}
+\end{cases}
+$$
+
 
 Impostato il sistema possiamo sostituire una delle correnti ad esempio $I_3$ alla  
 seconda equazione con l'equivalente $I_3 = I_1+ I_2$
@@ -84,13 +87,17 @@ $
 
 Riscriviamo allora sistema
 
-$
-\left\{ \begin{aligned} 
-  I_3 &= I_1 + I_2 \\
-  40I_1 + 30I_2 - 100 &= 0 \\
-  E_2 - R_2 I_2 - R_3 I_3 &= 0 \\
-\end{aligned} \right.
-$
+
+$$
+\begin{cases}
+  \begin{aligned}
+    I_3 &= I_1 + I_2 \\
+    40I_1 + 30I_2 - 100 &= 0 \\
+    E_2 - R_2 I_2 - R_3 I_3 &= 0 \\
+  \end{aligned}
+\end{cases}
+$$
+
 
 Procediamo ora con la terza equazione  
 
@@ -103,13 +110,15 @@ $
 
 Riscriviamo allora sistema
 
-$
-\left\{ \begin{aligned} 
-  I_3 &= I_1 + I_2 \\
-  40I_1 + 30I_2 - 100 &= 0 \\
-  50 - 50I_2 - 30I_1 &= 0 \\
-\end{aligned} \right.
-$
+$$
+\begin{cases}
+  \begin{aligned}
+    I_3 &= I_1 + I_2 \\
+    40I_1 + 30I_2 - 100 &= 0 \\
+    50 - 50I_2 - 30I_1 &= 0 \\
+  \end{aligned}
+\end{cases}
+$$
 
 Adesso troviamo $I_2$  
 
