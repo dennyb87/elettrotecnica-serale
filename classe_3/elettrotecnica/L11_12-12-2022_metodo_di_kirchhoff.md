@@ -135,4 +135,26 @@ $40I_1 + 30 - 18I_1 - 100 = 0$
 $22I_1 - 70 = 0$  
 $I_1 = \dfrac{70}{22} = 3.18A$  
 
-Da finire ...
+Adesso possiamo di conseguenza trovare $I_2$ ed $I_3$  
+
+$I_2 = \dfrac{50 - 30I_1}{50} = \dfrac{50 - 30 \cdot 3.18}{50} = \dfrac{50 - 95.4}{50} = \dfrac{-45.4}{50} = -0.91A$  
+$I_3 = I_1 + I_2 = 3.18 - 0.91 = 2.27A$  
+
+# Tabelle delle grandezze elettriche  
+
+|       | $[A]$   |       | $[V]$   |          | $[W]$     |
+| ----- | ------- | ----- | ------- | -------- | --------- |
+| $I_1$ | $3.18$  | $E_1$ | $100$   | $P_{E1}$ | $318$     |
+| $I_2$ | $-0.91$ | $E_2$ | $50$    | $P_{E2}$ | $-45.5$   |
+| $I_3$ | $2.27$  | $V_1$ | $31.8$  | $P_1$    | $101.124$ |
+|       |         | $V_2$ | $-18.2$ | $P_2$    | $16.562$  |
+|       |         | $V_3$ | $68.1$  | $P_3$    | $154.587$ |
+
+$P_{E1} + P_{E2} = P_1 + P_2 + P_3$  
+$318 - 45.5 = 101.124 + 16.562 + 154.587$  
+$272.5W \simeq 272.3W$  
+
+E' importante notare che la potenza calcolata del generatore $E_2$ ha segno negativo $-45.5$  
+Questo ci indica che il generatore $E_2$ non eroga, ma al contrario consuma energia!  
+Non produce abbastanza tensione da contrastare l'effetto di $E_1$ allora funziona come  
+una resistenza che assorbe quindi energia.
