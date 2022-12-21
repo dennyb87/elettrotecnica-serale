@@ -34,11 +34,16 @@ oppure considerarlo a tensione zero, e un generatore ideale, quindi a resistenza
 
 ![pse_02](https://user-images.githubusercontent.com/7195133/208918784-0e760414-560e-4e2f-ae9a-50053a2bc92d.jpg)  
 
-Da finire...
+Calcoliamo quindi le resistenze in parallelo e poi la resistenza totale.  
 
+$R_p = \dfrac{R_2 \cdot R_3}{R_2 + R_3} = \dfrac{20 \cdot 30}{20 + 30} = 12 \Omega$  
 
+$R_{tot} = R_1 + R_p = 10 + 12 = 22 \Omega$  
 
+Troviamo adesso le correnti.  
 
+$I_{1A} = \dfrac{E_A}{R_{tot}} = \dfrac{100}{22} = 4.54A$  
 
+$I_{3A} = I_{1A} \cdot \dfrac{R_2}{R_2 + R_3} = \dfrac{20}{50} = 1.816A$  
 
-
+Si ha quindi che l'effetto causato dal solo generatore $E_A$ ovvero $I_{3A}$ e' uguale a $1.816A$  
