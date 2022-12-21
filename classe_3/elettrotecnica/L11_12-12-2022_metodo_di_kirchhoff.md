@@ -35,9 +35,9 @@ $I_1 + I_2 = I_3$
 
 Poniamo per semplicita'  
 
-$V_{AB} = V_1$
-$V_{CB} = V_2$
-$V_{BD} = V_3$
+$V_{AB} = V_1$  
+$V_{CB} = V_2$  
+$V_{BD} = V_3$  
 
 
 Per le equazioni alle maglie si usa ovviamente il secondo principio di Kirchhoff  
