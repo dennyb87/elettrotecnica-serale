@@ -118,7 +118,7 @@ $$
 \end{cases}
 $$
 
-Adesso troviamo $I_2$  
+Isoliamo $I_2$  
 
 $50 - 50I_2 - 30I_1 = 0$  
 $-50I_2  = 30I_1 - 50$  
@@ -126,7 +126,7 @@ $50I_2 = - 30I_1 + 50$
 $I_2 = \dfrac{50 - 30I_1}{50}$  
 
 
-Sostituiamolo allora $I_2$ alla seconda equazione. 
+Sostituiamo ora $I_2$ alla seconda equazione per trovare $I_1$
 
 $40I_1 + 30I_2 - 100 = 0$  
 $40I_1 + 30 \cdot \dfrac{50 - 30I_1}{50} - 100 = 0$  
