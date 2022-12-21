@@ -65,10 +65,13 @@ $I_{2B} = \dfrac{E_B}{R_{tot}} = \dfrac{50}{27.5} = 1.818A$
 
 $I_{3B} = I_{2B} \cdot \dfrac{R_1}{R_1 + R_3} = 1.818 \cdot \dfrac{10}{10 + 30} = 1.818 \cdot \dfrac{1}{4} = 0.454A$  
 
- 
+
 # Somma degli effetti  
 
 Una volta trovati i singoli effetti, nel nostro caso le correnti $I_{3A},\ I_{3B}$  
 non dobbiamo fare altro che sommarli per trovare l'effetto complessivo.  
 
 $I_3 = I_{3A} + I_{3B} = 1.816 + 0.454 = 2.27A$  
+
+Questo significa che la corrente $I_3$ quando entrambe i generatori sono in funzione  
+equivale a $2.27A$ 
