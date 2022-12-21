@@ -30,7 +30,7 @@ $I_3 = I_{3A} + I_{3B}$
 # Calcolo degli effetti di $E_A$  
 
 Per calcolare i soli effetti di $E_A$ dobbiamo allora rimuovere $E_B$ dal circuito  
-oppure considerarlo a tensione zero, e un generatore ideale, quindi a resistenza zero.  
+oppure considerarlo a tensione zero e resistenza zero.  
 
 ![pse_02](https://user-images.githubusercontent.com/7195133/208918784-0e760414-560e-4e2f-ae9a-50053a2bc92d.jpg)  
 
@@ -47,3 +47,28 @@ $I_{1A} = \dfrac{E_A}{R_{tot}} = \dfrac{100}{22} = 4.54A$
 $I_{3A} = I_{1A} \cdot \dfrac{R_2}{R_2 + R_3} = \dfrac{20}{50} = 1.816A$  
 
 Si ha quindi che l'effetto causato dal solo generatore $E_A$ ovvero $I_{3A}$ e' uguale a $1.816A$  
+
+
+# Calcolo degli effetti di $E_B$  
+
+Stesso procedimento ma stavolta viene rimosso $E_A$  
+
+![pse_03](https://user-images.githubusercontent.com/7195133/208972367-2cdf68ea-5196-4aec-8618-f30649323f65.jpg)  
+
+Calcoliamo di nuovo le resistenze in parallelo e poi la resistenza totale.  
+
+$R_p = \dfrac{R_1 \cdot R_3}{R_1 + R_3} = \dfrac{10 \cdot 30}{10 + 30} = \dfrac{300}{40} = 7.5 \Omega$  
+
+$R_{tot} = R_2 + R_p = 20 + 7.5 = 27.5\Omega$  
+
+$I_{2B} = \dfrac{E_B}{R_{tot}} = \dfrac{50}{27.5} = 1.818A$  
+
+$I_{3B} = I_{2B} \cdot \dfrac{R_1}{R_1 + R_3} = 1.818 \cdot \dfrac{10}{10 + 30} = 1.818 \cdot \dfrac{1}{4} = 0.454A$  
+
+ 
+# Somma degli effetti  
+
+Una volta trovati i singoli effetti, nel nostro caso le correnti $I_{3A},\ I_{3B}$  
+non dobbiamo fare altro che sommarli per trovare l'effetto complessivo.  
+
+$I_3 = I_{3A} + I_{3B} = 1.816 + 0.454 = 2.27A$  
