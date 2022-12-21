@@ -1,8 +1,8 @@
 # Il metodo di Kirchhoff per risolvere i circuiti elettrici  
 
 Risolvere un circuito elettrico significa trovare i valori delle grandezze elettriche  
-in ogni parte del circuito, quindi tutte le correnti, tensioni, e resistenze.
-Il metodo di Kirchhoff consiste nell'impostare un sistema di equazioni, in particolare  
+in ogni parte del circuito, quindi tutte le correnti, tensioni, e resistenze.  
+Il metodo di Kirchhoff consiste nell'impostare un sistema di equazioni, in particolare   
 le equazioni ai nodi, e alle maglie.  
 Le equazioni saranno pari al numero di grandezze incognite del cicuito, in questo caso  
 pari al numero di correnti, e quindi al numero di rami.  
