@@ -3,7 +3,7 @@
 In generale il principio ci dice che in un sistema lineare l'effetto complessivo  
 e' uguale alla somma degli effetti individuali.  
 
-In un circuito elettrico per effetto di intende una corrente, in quanto la corrente  
+In un circuito elettrico per effetto si intende una corrente, in quanto la corrente  
 e' un effetto causato dalla tensione.  
 
 $V = causa$  
