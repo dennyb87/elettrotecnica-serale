@@ -53,3 +53,55 @@ $0x > 3$
 
 Non esiste un numero che possa rendere vera questa equazione, di conseguenza e' impossibile.  
 
+# Sistema di disequazioni  
+
+$\sqrt{2x  - 1} + \sqrt{1 - 2x}$  
+
+Data un'espressione di questo tipo possiamo estrapolare due disequazioni sapendo che  
+i numeri sotto radice devono necessariamente essere maggiori di zero in quanto non  
+e' possibile trovare la radice di un numero negativo, almeno nell'insieme dei numeri reali.  
+
+$$
+\begin{cases}
+  \begin{aligned}
+    2x - 1 &\ge 0 \\
+    1 - 2x &\ge 0 \\
+  \end{aligned}
+\end{cases}
+$$
+
+Troviamo ora i valori di $x$ che soddisfano il sistema.  
+
+$$
+\begin{cases}
+  \begin{aligned}
+    2x &\ge 1 \\
+    - 2x &\ge -1 \\
+  \end{aligned}
+\end{cases}
+$$
+
+$$
+\begin{cases}
+  \begin{aligned}
+    x &\ge \dfrac{1}{2} \\
+    x &\le \dfrac{1}{2} \\
+  \end{aligned}
+\end{cases}
+$$
+
+In questo caso particolare abbiamo allora trovato che il sistema ha una sola soluzione  
+che e' $x = \dfrac{1}{2}$ in quanto ogni altro valore renderebbe una delle due disuguaglianze falsa.  
+
+Sostituendo la $x$ possiamo allora risolvere l'espressione.  
+
+$\sqrt{2x  - 1} + \sqrt{1 - 2x}$  
+
+$\sqrt{2 \cdot \dfrac{1}{2}  - 1} + \sqrt{1 - 2 \cdot \dfrac{1}{2}}$  
+
+$\sqrt{\dfrac{2}{2}  - 1} + \sqrt{1 - \dfrac{2}{2}}$  
+
+$\sqrt{1  - 1} + \sqrt{1 - 1}$  
+
+$0 + 0 = 0$  
+
