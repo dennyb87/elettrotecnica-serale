@@ -83,4 +83,26 @@ $P_4 = V_{CD} \cdot I_3 = 112.5 \cdot 1 = 112.5W$
 
 $P = P_1 + P_2 + P_3 + P_4 = 250 + 600 + 37.5 + 112.5 = 1000W\ verificato\ \checkmark$  
 
-Il resistore che assorbe piu' energia sembra essere $R_2$ con $600W$
+Il resistore che assorbe piu' energia sembra essere $R_2$ con $600W$  
+
+## QB - Metodo di Kirchhoff  
+
+Con riferimento al circuito di fig. 1 scrivere il sistema di equazioni che permette  
+di risolvere il circuito.  
+
+$$
+\begin{cases}
+  \begin{aligned}
+    I_1 - I_2 - I_3 &= 0 \\
+    E - R_1 I_1 - R_2 I_2 &= 0 \\
+    R_2 I_2 - R_4 I_3 - R_3 I_3 &= 0 \\
+  \end{aligned}
+\end{cases}
+$$
+
+Sappiamo come visto in passato che con il metodo della sostituizione si puo'  
+risolvere il sistema.  
+
+## QC - Teorema di Thevenin  
+
+...
