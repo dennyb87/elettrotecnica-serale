@@ -105,4 +105,20 @@ risolvere il sistema.
 
 ## QC - Teorema di Thevenin  
 
-...
+Il teorema di Thevenin ci dice che un circuito complesso puo' essere visto come  
+una black box che rappresente un generatore di tensione $E_{th}$ il quale ha una  
+resistenza interna $R_{th}$
+Il circuito di fig. 1 sopra, puo' essere allora riscritto in questo modo  
+ovviamente omettendo $R_2$
+
+![thevenin_esercizi_natale](https://user-images.githubusercontent.com/7195133/210648618-d39a4473-d697-48fa-8415-ba204173ba4b.jpg)  
+
+Se volessimo allora determinare la corrente che scorre su una resistenza $R_2$ immaginaria  
+posta in questo caso tra $B$ e $D$ utilizzando Thevenin dovremmo quindi prima trovare $E_{th}$ e $R_{th}$  
+
+Il generatore di tensione della black box $E_{th}$ non e' altro che la tensione $V_{BD}$  
+La tensione $V_{BD}$ deve essere la stessa ai capi di $R_{s} = R_3 + R_4$ che risulta essere:  
+
+$I = \dfrac{E}{R_{tot}}$  
+
+$V_{BD} = R_{s} \cdot I = \dfrac{R_s \cdot E}{R_{tot}} = \dfrac{160 \cdot 200}{168} = 190.48V$  
