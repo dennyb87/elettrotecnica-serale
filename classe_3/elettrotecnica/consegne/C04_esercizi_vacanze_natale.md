@@ -64,26 +64,26 @@ $I_2 = I_1 \cdot \dfrac{R_s}{R_2 + R_s} = 5 \cdot \dfrac{160}{200} = 5 \cdot 0.8
 
 $I_3 = I_1 - I_2 = 5 - 4 = 1A$  
 
-$V_{AB} = E \cdot \dfrac{R_1}{R_1 + R_p} = 200 \cdot \dfrac{8}{32} = 50V$    
+$V_{AB} = E \cdot \dfrac{R_1}{R_1 + R_p} = 200 \cdot \dfrac{8}{40} = 40V$    
 
-$V_{BD} = E - V_{AB} = 200 - 50 = 150V$  
+$V_{BD} = E - V_{AB} = 200 - 40 = 160V$  
 
-$V_{BC} = V_{BD} \cdot \dfrac{R_3}{R_3 + R_4} = 150 \cdot \dfrac{40}{160} = 37.5V$  
+$V_{BC} = V_{BD} \cdot \dfrac{R_3}{R_3 + R_4} = 160 \cdot \dfrac{40}{160} = 40V$  
 
-$V_{CD} = V_{BD} - V_{BC} = 150 - 37.5 = 112.5V$  
+$V_{CD} = V_{BD} - V_{BC} = 160 - 40 = 120V$  
 
 
 Calcoliamo ora la potenza del generatore e le potenze assorbite.  
 
 $P = E \cdot I_1 = 200 \cdot 5 = 1000W$  
-$P_1 = V_{AB} \cdot I_1 = 50 \cdot 5 = 250W$  
-$P_2 = V_{BD} \cdot I_2 = 150 \cdot 4 = 600W$  
-$P_3 = V_{BC} \cdot I_3 = 37.5 \cdot 1 = 37.5W$  
-$P_4 = V_{CD} \cdot I_3 = 112.5 \cdot 1 = 112.5W$  
+$P_1 = V_{AB} \cdot I_1 = 40 \cdot 5 = 200W$  
+$P_2 = V_{BD} \cdot I_2 = 160 \cdot 4 = 640W$  
+$P_3 = V_{BC} \cdot I_3 = 40 \cdot 1 = 40W$  
+$P_4 = V_{CD} \cdot I_3 = 120 \cdot 1 = 120W$  
 
-$P = P_1 + P_2 + P_3 + P_4 = 250 + 600 + 37.5 + 112.5 = 1000W\ verificato\ \checkmark$  
+$P = P_1 + P_2 + P_3 + P_4 = 200 + 640 + 40 + 120 = 1000W\ verificato\ \checkmark$  
 
-Il resistore che assorbe piu' energia sembra essere $R_2$ con $600W$  
+Il resistore che assorbe piu' energia sembra essere $R_2$ con $640W$  
 
 ## QB - Metodo di Kirchhoff  
 
