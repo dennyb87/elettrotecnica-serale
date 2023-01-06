@@ -122,3 +122,23 @@ La tensione $V_{BD}$ deve essere la stessa ai capi di $R_{s} = R_3 + R_4$ che ri
 $I = \dfrac{E}{R_{tot}}$  
 
 $V_{BD} = R_{s} \cdot I = \dfrac{R_s \cdot E}{R_{tot}} = \dfrac{160 \cdot 200}{168} = 190.48V$  
+
+Una volta trovata la tensione non ci resta che calcolare la resistenza vista dal punto  
+di vista del carico o utilizzatore.
+![thevenin_resistance_esercizi_natale](https://user-images.githubusercontent.com/7195133/211064368-8ba55704-b9c1-4bf0-845d-4f5a7c77619d.jpg)  
+
+Si nota allora che da questa prospettiva $R_1$ e' in parallelo con $R_s$  
+Troviamo allora la resistenza equivalente $R_{th}$  
+
+$R_{th} = \dfrac{R_1 \cdot R_s}{R_1 + R_s} = \dfrac{8 \cdot 160}{168} = 7.62\Omega$  
+
+
+Adesso possiamo allora scrivere il circuito equivalente di Thevenin.  
+
+![thevenin_equivalent_esercici_natale](https://user-images.githubusercontent.com/7195133/211066856-3a6b7ea9-7a3d-4bd2-a1d7-21af0cfb32f4.jpg)
+
+La tensione $V_{BC}$ e la corrente che corrente che scorre in $R_2$ sono in perfetto  
+accordo con il circuito originale.  
+
+$V_{BC} = E_{th} \cdot \dfrac{R_2}{R_{th} + R_2} = 190.48 \cdot \dfrac{40}{47.62} = 160V$  
+$I = \dfrac{V_{BC}}{R_2} = \dfrac{160}{40} = 4A$
