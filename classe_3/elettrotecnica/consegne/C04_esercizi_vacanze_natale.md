@@ -124,7 +124,8 @@ $I = \dfrac{E}{R_{tot}}$
 $V_{BD} = R_{s} \cdot I = \dfrac{R_s \cdot E}{R_{tot}} = \dfrac{160 \cdot 200}{168} = 190.48V$  
 
 Una volta trovata la tensione non ci resta che calcolare la resistenza vista dal punto  
-di vista del carico o utilizzatore.
+di vista del carico o utilizzatore.  
+
 ![thevenin_resistance_esercizi_natale](https://user-images.githubusercontent.com/7195133/211064368-8ba55704-b9c1-4bf0-845d-4f5a7c77619d.jpg)  
 
 Si nota allora che da questa prospettiva $R_1$ e' in parallelo con $R_s$  
