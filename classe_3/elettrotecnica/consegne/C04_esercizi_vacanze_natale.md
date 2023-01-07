@@ -142,4 +142,32 @@ La tensione $V_{BC}$ e la corrente che corrente che scorre in $R_2$ sono in perf
 accordo con il circuito originale.  
 
 $V_{BC} = E_{th} \cdot \dfrac{R_2}{R_{th} + R_2} = 190.48 \cdot \dfrac{40}{47.62} = 160V$  
-$I = \dfrac{V_{BC}}{R_2} = \dfrac{160}{40} = 4A$
+
+$I = \dfrac{V_{BC}}{R_2} = \dfrac{160}{40} = 4A$  
+
+## QD - Principio di sovrapposizione degli effetti  
+
+Si applichi il principio di sovrapposizione degli effetti per determinare la corrente $I_2$  
+
+![qd_pse_fig_2_esercizi_natale](https://user-images.githubusercontent.com/7195133/211146833-ac0cae91-77c0-43bc-863c-4b8d9bdc0d2e.jpg)  
+
+Come gia' sappiamo l'effetto complessivo, in questo caso la corrente $I_2$, in un sistema  
+lineare, e' la somma dei singoli effetti $I_2 = I_{2A} + I_{2B}$  
+Troviamo allora $I_{2A}$ ovvero la corrente su $R_2$ quando $E_B = 0V$ e resistenza zero.  
+
+$R_{totA} = R_1 + \dfrac{R_2 \cdot R_3}{R_2 + R_3} = 40 + \dfrac{120 \cdot 40}{120 + 40} = 70\Omega$  
+
+$I_{1A} = \dfrac{E_A}{R_{totA}} = \dfrac{140}{70} = 2A$  
+
+$I_{2A} = I_{1A} \cdot \dfrac{R_3}{R_2 + R_3} = 2 \cdot \dfrac{40}{160} = 0.5A$    
+
+Adesso troviamo invece $I_{2B}$ ovvero la corrente su $R_2$ quando $E_A = 0V$ e resistenza zero.  
+Notiamo che le resistenze sono speculari percui $R_{tot}$ resta invariata.  
+
+$R_{totA} = R_{totB} = 70\Omega$   
+
+$I_{3B} = \dfrac{E_B}{R_{totB}} = \dfrac{280}{70} = 4A$  
+
+$I_{2B} = I_{3B} \cdot \dfrac{R_1}{R_2 + R_1} = 4 \cdot \dfrac{40}{160} = 1A$  
+
+Si conclude allora che $I_2 = I_{2A} + I_{2B} = 0.5 + 1 = 1.5A$  
