@@ -1,0 +1,2 @@
+# Quadrato di trinomio  
+
