@@ -6,6 +6,10 @@ Il condensatore elettrico (o capacitore) e' un dispositivo in grado di accumular
 
 In questo caso parliamo di un condensatore a facce piane e parallele, chiamate anche piastre, o armature. Si nota nell'immagine che le cariche negative vengono attratte dal polo positivo del generatore e poi spinte verso il polo negativo che a sua volta le espelle allontanandole come previsto.  
 
+Lo spazio tra le piastre prende il nome di **dielettrico**, e' interessato da un campo elettrico causato appunto dalle cariche sulle armature, che lo rende quindi polarizzato, e puo' essere di vari materiali, solidi, liquidi, o gas, come l'aria.  
+
+![inserting_a_dielectric](https://user-images.githubusercontent.com/7195133/212534881-d973e703-8ff6-4d82-8c10-4da16cfbde84.jpg)  
+
 Nel grafico a fianco vediamo invece la quantita' di carica $Q$ aumentare con il passare del tempo, mano a mano che la piastra raggiungne appunto la sua capacita' massima.  
 
 Piu' aumenta la tensione, piu' cariche sara' possibile immagazzinare nelle armature. Dopo un po' di tempo la tensione ai capi delle piastre raggiungera' quella del generatore impedendo cosi' qualunque ulteriore spostamento di cariche.  
