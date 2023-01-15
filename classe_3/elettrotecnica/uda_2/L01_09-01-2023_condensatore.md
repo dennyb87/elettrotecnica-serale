@@ -36,7 +36,7 @@ Data la tensione e il numero di cariche possiamo allora calcolare la capacita' c
 | $...$  | $...$   | $...$   |
 
 
-## Analisi di una carica  
+# Analisi di una carica  
 
 ![capacitor_charge_graph](https://user-images.githubusercontent.com/7195133/212497146-3dfd9ee1-4768-41fb-a51d-ab1b7678839f.jpg)  
 
