@@ -10,7 +10,7 @@ Nel grafico a fianco vediamo invece la quantita' di carica $Q$ aumentare con il 
 
 Piu' aumenta la tensione, piu' cariche sara' possibile immagazzinare nelle armature. Dopo un po' di tempo la tensione ai capi delle piastre raggiungera' quella del generatore impedendo cosi' qualunque ulteriore spostamento di cariche.  
 
-Si intuisce allora che il rapporto tra il numero tra la quantita' di cariche e la tensione e' costante in quanto aumentano di pari passo.  
+Si intuisce allora che il *rapporto tra la quantita' di cariche e la tensione* e' costante in quanto aumentano di pari passo.  
 
 Questa e' proprio la definizione di **capacita'**.  
 
@@ -20,7 +20,7 @@ $[Q] = C\ (coulomb)$
 $[V] = V\ (volt)$  
 $[C] = \frac{Q}{V}\ (farad)$  
 
-La capacita' $C$ si misura in *farad*, ma si utilizzano generalmente unita' inferiori come i *picofarad* ($pF$) dato $1F$ sarebbe una capacita' enorme.  
+La capacita' $C$ si misura in *farad*, ma si utilizzano generalmente unita' inferiori come i *picofarad* $pF$ dato che $1F$ sarebbe una capacita' enorme.  
 
 Data la tensione e il numero di cariche possiamo allora calcolare la capacita' che resta, come previsto, approssimativamente costante.    
 
