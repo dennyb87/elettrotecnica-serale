@@ -18,7 +18,7 @@ Purtroppo i dati rivelano che i progressi, almeno a livello europeo, avvengono a
 
 ## Gender equality e femminismo islamico  
 
-Il concetto di *gender equality* ci fa pensare immediatamente al femminismo. Oggi, in Europa, oltre ai movimenti femministi Occidentali *tradizionali* se ne affianca uno che si definisce *Islamico*, che vista la rappresentazione e il ruolo della donna nella realta' musulmana non puo' che ricordarci vagamente un'ossimoro.  
+Il concetto di *gender equality* ci fa pensare immediatamente al femminismo. Oggi, in Europa, oltre ai movimenti femministi Occidentali *tradizionali* se ne affianca uno che si definisce *Islamico*, che vista la rappresentazione e il ruolo della donna nella realta' musulmana non puo' che ricordarci vagamente un ossimoro.  
 
 L'Islam dovrebbe teoricamente essere una religione egualitaria, ma le interpretazioni tradizionali patriarcali hanno portato la donna ad essere spesso sfruttata e sottomessa, ricoprendo ruoli subordinati nella societa'.  
 
