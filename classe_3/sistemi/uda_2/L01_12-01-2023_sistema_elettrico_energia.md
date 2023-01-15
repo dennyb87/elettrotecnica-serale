@@ -4,5 +4,4 @@ Con sistema elettrico per l'energia si intende quindi l'insieme di elementi ed i
 
 Qui un'animazione di [Terna](https://www.terna.it/it/sistema-elettrico/ruolo-terna/come-funziona-sistema-elettrico) sul funzionamento del sistema elettrico: in verde i flussi elettrici, in giallo i flussi di dati.
 
-![terna_electric_system](https://user-images.githubusercontent.com/7195133/212567603-b8cf5b40-7ee4-478f-9e6e-5243d719a025.gif)
-
+![terna_electric_system](https://user-images.githubusercontent.com/7195133/212567924-c8c3c74d-140b-44d6-b166-aed87f67dd60.gif)
