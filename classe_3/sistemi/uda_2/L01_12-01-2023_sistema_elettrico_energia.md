@@ -10,7 +10,7 @@ Qui un'animazione di [Terna](https://www.terna.it/it/sistema-elettrico/ruolo-ter
 
 ## Produzione  
 
-Con produzione la trasformazione di un certo tipo di energia in energia elettrica:
+Con produzione sin intende la trasformazione di un certo tipo di energia in energia elettrica:
 * idrico
 * gas / carbone
 * geotermico / eolico / biomasse / fotovoltaico
