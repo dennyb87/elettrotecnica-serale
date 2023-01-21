@@ -33,5 +33,57 @@ geotermiche. L'energia elettrica viene prodotta grazie alla reazione chimica di 
 
 # Il sistema elettrico  
 
-...
+Il sistema elettrico e' strutturato in modo da permettere l'alimentazione di un **elevato numero di piccoli apparati utilizzatori** da parte di **pochi generatori di grande taglia**. Assicura l'**autonomia di prelievo**, con **accesso libero** secondo i limiti contrattuali e.g. $3kW$. Permette infine l'**immissione di energia** in rete da parte di tanti **generatori di piccola taglia** e.g. pannelli fotovoltaici domestici.  
 
+![sistema_elettrico](https://user-images.githubusercontent.com/7195133/213861594-bf8a2668-e67e-4583-8942-05e04112eb0d.jpg)  
+
+* centrale
+* trasformatore elevatore (alta tensione AT)
+* linea alta tensione
+* trasformatore media tensione (MT)
+* linea media tensione
+* cabina di trasformazione (bassa tensione BT)
+* linea bassa tensione
+* utenze/utilizzatori
+
+
+```mermaid
+flowchart LR
+    Generatore-->MT/AT
+    MT/AT--"AT 380-220 kV"-->AT/AT
+    AT/AT--"AT 150-132 kV"-->AT/MT
+    AT/MT--"MT 20-10 kV"-->MT/BT
+    MT/BT--"BT 400V(3~)-230V(1~)"-->Utenze
+```
+
+## Stazioni e cabine elettriche  
+
+Svolgono almeno una delle seguenti funzioni:  
+* trasformazione AT/MT MT/BT MT/AT
+* conversione AC/DC DC/AC
+* regolazione di tensione, potenza, frequenza, o numero di giri degli alternatori
+* smistamento e.g. convogliare piu' linee verso una o piu' linee di partenza
+
+# Punti di forza  
+
+## Flessibilita' di produzione  
+
+La produzione e' possibile da piu' fonti, e a distanza, quindi puo' essere concentrata in poche grandi centrali.  
+
+## Elevanto rendimento in trasmissione e distribuzione  
+
+La trasmissione e distribuzione di energia elettrica ha un rendimento intorno al 93%.  
+
+## Praticita' e sicurezza  
+
+La conversione avviene con sicurezza, pulizia, silenziosita', flessibilita'.  
+
+# Punti di debolezza  
+
+## Perdita di energia  
+
+Il rendimento globale di un sistema elettrico e' intorno al 35%-45%, e la perdita maggiore avviene nel processo di produzione all'interno delle centrali.  
+
+## Equilibrio  
+
+L'energia elettrica e' accumulabile solo in quantita' limitate, quindi deve essere prodotta nel momento del bisogno e richiede un equilibrio tra produzione e carico.
