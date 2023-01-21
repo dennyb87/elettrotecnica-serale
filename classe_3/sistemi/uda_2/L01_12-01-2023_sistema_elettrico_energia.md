@@ -44,10 +44,10 @@ Questo e' molto importante perche' **l'energia non puo' essere immagazzinata**, 
 Se invece si produce piu energia di quanta ne serva si otterra' un aumento della frequenza nella rete causando il malfunzionamento e consequente disconnessione degli apparati che non la supportanto. La frequenza viene in effetti utilizzata come indicatore per l'autoregolazione.  
 
 
-# Forecasting  
+# Diagramma di carico e forecasting  
 
-La produzione viene stimata attraverso l'analisi di dati giorno per giorno in quanto non e' possibile fare previsioni accurate a lungo termine (vedi [grafico interattivo](https://www.terna.it/it/sistema-elettrico/transparency-report/total-load)).  
+Si definisce **diagramma di carico** la curva della potenza attiva prelevata dall'utenza in funzione del tempo. La produzione viene stimata attraverso l'analisi di dati giorno per giorno in quanto non e' possibile fare previsioni accurate a lungo termine (vedi [grafico interattivo](https://www.terna.it/it/sistema-elettrico/transparency-report/total-load)).  
 
 ![total_load](https://user-images.githubusercontent.com/7195133/213254533-45f607a7-8a3e-4d10-937a-8a90fb851954.jpg)  
 
-Si ha il tempo in ore sull'asse delle ascisse, e la potenza in gigawatt sull'asse delle ordinate. L'area sotto la curva blu rappresenta quindi l'energia totale effettivamente consumata, $724.5\ GWh$ (gigawatt-ora) in questo caso.
+Si ha il tempo in ore sull'asse delle ascisse, e la potenza in gigawatt sull'asse delle ordinate. L'area sotto la curva blu rappresenta quindi l'energia totale effettivamente consumata, $724.5\ GWh$ (gigawatt-ora) in questo caso. Dato che l'energia viene prodotta nel momento del bisogno si ha uguaglianza tra l'energia prodotta e quella utilizzata.  
