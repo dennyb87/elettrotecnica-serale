@@ -66,24 +66,16 @@ Svolgono almeno una delle seguenti funzioni:
 
 # Punti di forza  
 
-## Flessibilita' di produzione  
-
-La produzione e' possibile da piu' fonti, e a distanza, quindi puo' essere concentrata in poche grandi centrali.  
-
-## Elevanto rendimento in trasmissione e distribuzione  
-
-La trasmissione e distribuzione di energia elettrica ha un rendimento intorno al 93%.  
-
-## Praticita' e sicurezza  
-
-La conversione avviene con sicurezza, pulizia, silenziosita', flessibilita'.  
+* Flessibilita' di produzione
+  * La produzione e' possibile da piu' fonti, e a distanza, quindi puo' essere concentrata in poche grandi centrali.
+* Elevanto rendimento in trasmissione e distribuzione
+  * La trasmissione e distribuzione di energia elettrica ha un rendimento intorno al 93%
+* Praticita' e sicurezza
+  * La conversione avviene con sicurezza, pulizia, silenziosita', flessibilita'.  
 
 # Punti di debolezza  
 
-## Perdita di energia  
-
-Il rendimento globale di un sistema elettrico e' intorno al 35%-45%, e la perdita maggiore avviene nel processo di produzione all'interno delle centrali.  
-
-## Equilibrio  
-
-L'energia elettrica e' accumulabile solo in quantita' limitate, quindi deve essere prodotta nel momento del bisogno e richiede un equilibrio tra produzione e carico.
+* Perdita di energia
+  * Il rendimento globale di un sistema elettrico e' intorno al 35%-45%, e la perdita maggiore avviene nel processo di produzione all'interno delle centrali.
+* Equilibrio
+  * L'energia elettrica e' accumulabile solo in quantita' limitate, quindi deve essere prodotta nel momento del bisogno e richiede un equilibrio tra produzione e carico.
