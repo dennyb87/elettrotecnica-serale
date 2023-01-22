@@ -28,6 +28,15 @@ E' importante precisare che il divisore $B$ deve avere grado minore o uguale al 
 
 $a^2 : a^3 = a^{-1} = \dfrac{1}{a}$  
 
+## Divisibilita' con o senza resto  
+
+Un polinomio e' divisibile per un monomio (non nullo) e senza resto, solo se lo sono tutti i suoi termini e.g. $a^3 + 2a$ e' divisibile per $3a$, mentre $a^3 + 2a + 1$ non e' divisibile per $3a$ almeno non senza resto.  
+
+$a^3 + 2a = \dfrac{a^2 + 2}{3} \cdot 3a$  
+
+$a^3 + 2a + 1 = \dfrac{a^2 + 2}{3} \cdot 3a + 1$  
+
+Risolvendo la seconda si ottiene in effetti un resto di $1$.
 
 ## Numerazione posizionale  
 
