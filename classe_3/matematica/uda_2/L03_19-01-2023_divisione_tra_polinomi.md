@@ -38,15 +38,21 @@ $a^3 + 2a + 1 = \dfrac{a^2 + 2}{3} \cdot 3a + 1$
 
 Risolvendo la seconda si ottiene in effetti un resto di $1$.
 
-## Numerazione posizionale  
+# Esempio con resto  
 
-$(2a + 1 +3a^2) : (4a + 1)$  
+$(-3x^2 + 4 + 2x^4) : (x^2 - 4)$  
 
 La divisione tra polinomi sfrutta lo stesso sistema della classica divisione numerica.  
 Per fare leva sulla numerazione posizionale si devono prima di tutto ordinare i monomi per grado da sinistra verso destra.  
 
-$(3a^2 + 2a + 1) : (4a + 1)$  
+$(2x^4 -3x^2 + 4) : (x^2 - 4)$  
 
+Possiamo ora procedere come una normale divisione numerica dividendo pero' i termini di grado massimo al numeratore con quelli di grado massimo del denominatore e.g. $2x^4 : x^2$  e moltiplicando il quoziente per il divisore $2x^2 \cdot (x^2 - 4)$ come in figura (in rosso).  
 
+![polynomial_division_example_01](https://user-images.githubusercontent.com/7195133/213918993-af2fdf72-701f-43c5-8226-1252679fc0be.jpg)
+
+Si puo' ripete la procedura a patto che il grado del divisore sia maggiore o uguale a grado del resto, nel momento in cui questa condizione smette di verificarsi si deve necessariamente interrompere l'esecuzione in quanto abbiamo trovato il resto.  
+
+In questo caso e' $2x^2 + 5$ e' il quoziente mentre $24$ e' il resto.  
 
 
