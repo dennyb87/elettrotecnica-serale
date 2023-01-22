@@ -24,7 +24,7 @@ La definizione di divisione tra polinomi e' identica a quella dei numeri natural
 > Dati due polinomi $A$ e $B$ esistono due polinomi **unici** $Q$ ed $R$ tali che:  
 > $A = Q \cdot B + R$
 
-E' importante precisare che il divisore $B$ deve avere grado minore o uguale al grado del dividendo $A$. Se cosi' non fosse la frazione sarebbe **propria** dando vita ad un $Q$ frazionario e.g.  
+E' importante precisare che il divisore $B$ deve avere grado minore o uguale al grado del dividendo $A$. Se cosi' non fosse la frazione sarebbe **propria** dando vita ad un $Q$ con esponente negativo, cessando quindi di essere un polinomio, che per definizione e' una somma algebrica di monomi, i quali sempre per definizione devono avere grado maggiore o uguale a zero.  
 
 $a^2 : a^3 = a^{-1} = \dfrac{1}{a}$  
 
