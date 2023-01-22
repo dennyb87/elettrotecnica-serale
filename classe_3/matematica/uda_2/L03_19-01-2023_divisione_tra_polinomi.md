@@ -72,15 +72,13 @@ Geometricamente significa trovare il lato mancante di un'area, quel lato che mol
 
 Per arrivare a questo risultato senza conoscere il valore dell'incognita $a$ si procede come accennato sopra facendo attenzione a ad inserire i termini mancanti con coefficienti nulli.
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 a^2 + a + 0\ &|\ a^2 + 1 \\
 ------&|---\\
 - a^2 -0a - 1\ &|\ 1 \\
 ------&|\\
 a - 1\ &|
-\end{aligned}
-$$
+\end{aligned}$$
 
 Si ha allora che il quoziente e' uguale a $1$ mentre il resto e' $a - 1$.  
 Se poniamo $a = 2$ si ha che:  
