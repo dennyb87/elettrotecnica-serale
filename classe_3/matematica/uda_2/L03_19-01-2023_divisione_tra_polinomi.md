@@ -89,4 +89,10 @@ $(a^2 + a) = (a^2 + 1) \cdot 1 + a - 1$
 
 $2^2 + 2 = (2^2 + 1) \cdot 1 + 2 - 1$  
 
-$6 = (4 + 1) \cdot 1 + 2 - 1$
+$6 = (4 + 1) \cdot 1 + 2 - 1$  
+
+## Moltiplicazione del quoziente  
+
+La moltiplicazione del quoziente (talvolta parziale) per il divisore ad ogni passaggio puo' apparire poco chiaro ma proviamo a spiegare perche' e' necessario. Ad ogni passaggio si divide il termine di grado massimo del dividendo per il termine di grado massimo del divisore. Questo ci permette di trovare un quoziente che se moltiplicato per il divisore dara' un risultato minore o uguale al dividendo.    
+
+Quando il risultato della moltiplicazione e' minore del dividendo, significa che 
