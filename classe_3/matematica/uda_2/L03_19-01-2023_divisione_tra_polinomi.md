@@ -59,13 +59,34 @@ In questo caso e' $2x^2 + 5$ e' il quoziente mentre $24$ e' il resto.
 
 Si prenda in considerazione la seguente divisione:  
 
-$(a^4 + a^3) : (a^2 + 1)$  
+$(a^2 + a) : (a^2 + 1)$  
 
-Per definizione deve esistere un polinomio $Q(a)$ tale che $(a^4 + a^3) = Q(a) \cdot (a^2 + 1) + R$  
+Per definizione deve esistere un polinomio $Q(a)$ tale che $(a^2 + a) = Q(a) \cdot (a^2 + 1) + R$  
 Prendiamo come esempio per semplicita' $a = 2$  
 
-$(a^4 + a^3) : (a^2 + 1) = (2^4 + 2^3) : (2^2 + 1) = (16 + 8) : (4 + 1) = 24 : 5$  
+$(a^2 + a) : (a^2 + 1) = (2^2 + 2) : (2^2 + 1) = (4 + 2) : (4 + 1) = 6 : 5$  
 
-Geometricamente significa trovare il lato mancante di un'area, quel lato che moltiplicato per $4 + 1$ dia come risultato $24$.  
+Geometricamente significa trovare il lato mancante di un'area, quel lato che moltiplicato per $4 + 1$ dia come risultato $6$. In questo caso non esiste un lato in $\mathbb{N}$ percio' si avra' un resto ovviamente di $1$.  
 
-![polynomial_division_geometric_interpretation](https://user-images.githubusercontent.com/7195133/213922281-c610e39e-c446-46a3-ad50-b4e42bbebb3e.jpg)
+![poly_division_geometric_interpretation](https://user-images.githubusercontent.com/7195133/213932049-4899ab98-5350-4813-a8e1-e1bd4a9a3676.jpg)  
+
+Per arrivare a questo risultato senza conoscere il valore dell'incognita $a$ si procede come accennato sopra facendo attenzione a ad inserire i termini mancanti con coefficienti nulli.
+
+$$
+\begin{aligned}
+a^2 + a + 0\ &|\ a^2 + 1 \\
+------&|---\\
+- a^2 -0a - 1\ &|\ 1 \\
+------&|\\
+a - 1\ &|
+\end{aligned}
+$$
+
+Si ha allora che il quoziente e' uguale a $1$ mentre il resto e' $a - 1$.  
+Se poniamo $a = 2$ si ha che:  
+
+$(a^2 + a) = (a^2 + 1) \cdot 1 + a - 1$  
+
+$2^2 + 2 = (2^2 + 1) \cdot 1 + 2 - 1$  
+
+$6 = (4 + 1) \cdot 1 + 2 - 1$
