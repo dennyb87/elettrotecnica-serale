@@ -55,4 +55,17 @@ Si puo' ripete la procedura a patto che il grado del divisore sia maggiore o ugu
 
 In questo caso e' $2x^2 + 5$ e' il quoziente mentre $24$ e' il resto.  
 
+# Interpretazione geometrica  
 
+Si prenda in considerazione la seguente divisione:  
+
+$(a^4 + a^3) : (a^2 + 1)$  
+
+Per definizione deve esistere un polinomio $Q(a)$ tale che $(a^4 + a^3) = Q(a) \cdot (a^2 + 1) + R$  
+Prendiamo come esempio per semplicita' $a = 2$  
+
+$(a^4 + a^3) : (a^2 + 1) = (2^4 + 2^3) : (2^2 + 1) = (16 + 8) : (4 + 1) = 24 : 5$  
+
+Geometricamente significa trovare il lato mancante di un'area, quel lato che moltiplicato per $4 + 1$ dia come risultato $24$.  
+
+![polynomial_division_geometric_interpretation](https://user-images.githubusercontent.com/7195133/213922281-c610e39e-c446-46a3-ad50-b4e42bbebb3e.jpg)
