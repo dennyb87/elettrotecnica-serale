@@ -96,3 +96,18 @@ $6 = (4 + 1) \cdot 1 + 2 - 1$
 La moltiplicazione del quoziente (talvolta parziale) per il divisore ad ogni passaggio puo' apparire poco chiaro ma proviamo a spiegare perche' e' necessario. Ad ogni passaggio si divide il termine di grado massimo del dividendo per il termine di grado massimo del divisore. Questo ci permette di trovare un quoziente che se moltiplicato per il divisore dara' un risultato minore o uguale al dividendo.    
 
 Quando il risultato della moltiplicazione e' minore del dividendo, significa che 
+
+
+# Metodo di Ruffini  
+
+Il metodo di *Ruffini* ci permette di dividere rapidamente un polinomio qualunque, per un binomio di primo grado della forma $x - r$. Questo tipo di divisione e' anche noto come *divisione sintetica* (*synthetic division* in inglese).  
+
+Prendiamo in considerazione la seguente divisione:
+
+$(x^3 - 2x^2 + 5x - 6) : (x - 3)$
+
+Si scrive nella colonna di sinistra quel numero $r$ che rende il polinomio al denominatore uguale a zero, ovvero $3$ dato che $x - 3 = 3 - 3 = 0$. Cominciamo ora a sommare i coefficienti verticalmente da sinistra verso destra, si moltiplica il risultato per $r$ quindi per $3$ in questo caso, e cosi' via. I coefficienti fino a $c_{n-1}$ fanno parte del quoziente, mentre l'ultimo e' il resto, che non puo' avere parte letterale visto che al denominatore si ha un polinomio di primo grado.  
+
+![ruffini_rule](https://user-images.githubusercontent.com/7195133/214431854-80dde106-0bad-4241-8c52-81b8e30a7408.jpg)  
+
+Il procedimento fa leva sul fatto che il divisore sia di primo grado, permettendo una risoluzione piu' rapida grazie alla manipolazione dei soli coefficienti, ma essenzialmente sono gli stessi passaggi della classica divisione tra polinomi.  
