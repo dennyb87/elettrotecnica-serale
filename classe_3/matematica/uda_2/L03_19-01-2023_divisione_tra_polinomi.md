@@ -111,3 +111,15 @@ Si scrive nella colonna di sinistra quel numero $r$ che rende il polinomio al de
 ![ruffini_rule](https://user-images.githubusercontent.com/7195133/214431854-80dde106-0bad-4241-8c52-81b8e30a7408.jpg)  
 
 Il procedimento fa leva sul fatto che il divisore sia di primo grado, permettendo una risoluzione piu' rapida grazie alla manipolazione dei soli coefficienti, ma essenzialmente sono gli stessi passaggi della classica divisione tra polinomi.  
+
+
+# Coefficienti letterali  
+
+Facciamo presente che e' possibile trattare coefficienti in forma letterale esattamente nello stesso modo con cui trattiamo i coefficienti numerici e.g.  
+
+$(ax^4 - 3x^3 -x -a) : (x^2 + 1)$  
+
+Il coefficiente letterale in questo caso e' $a$ e la divisione si svolge esattamente nello stesso modo ottenendo:  
+
+$Q = ax^2 - 3x - a$    
+$R = 2x$  
