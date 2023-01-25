@@ -13,9 +13,9 @@ E' stato sperimentato che la forza tra due cariche elettriche dipende non solo d
 
 $F = k \dfrac{Q_1Q_2}{r^2}$  
 
-La legge di *Coulomb* ci mostra appunto $k$, la *costante di Coulomb*, che puo' essere derivata conoscendo gli altri termini dell'equazione, e si presenta in questa forma:
+La legge di *Coulomb* ci mostra appunto $k$, la *costante di Coulomb*, che puo' essere derivata conoscendo gli altri termini dell'equazione, e si presenta in questa forma:  
 
-$k = \dfrac{1}{4\pi\epsilon_0\epsilon_r}$  
+$k = \dfrac{1}{4\pi\epsilon_0}$  
 
 La **costante dielettrica del vuoto** o anche *permittivita' del vuoto* e' $\epsilon_0$ ed ha un valore di circa:  
 
