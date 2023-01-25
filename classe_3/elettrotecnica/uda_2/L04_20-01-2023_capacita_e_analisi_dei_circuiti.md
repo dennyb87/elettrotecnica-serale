@@ -7,13 +7,13 @@ La capacita' e' una costante del condensatore e **dipende dalla sua geometria**.
 
 ## Permittivita'  
 
-Si puo' sperimentare che due condensatori uguali hanno capacita' diverse in dipendenza del loro dielettrico. Il dielettrico, che e' un qualunque mezzo nel quale possono verificarsi campi elettrostatici, quindi un mezzo **non conduttore**, puo' essere anche il vuoto.  
+Si puo' sperimentare che due condensatori uguali hanno capacita' diverse in dipendenza del loro dielettrico. Il dielettrico e' un qualunque mezzo nel quale possono verificarsi campi elettrostatici, quindi un mezzo **non conduttore** e.g. il vuoto, l'aria etc.  
 
-E' stato sperimentato che la forza tra due cariche elettriche dipende appunto dal mezzo in cui sono immerse e.g. vuoto, aria etc.  
+E' stato sperimentato che la forza tra due cariche elettriche dipende non solo dalle cariche $Q_1, Q_2$ e dalla loro distanza $r^2$ ma anche dal mezzo in cui sono immerse.   
 
 $F = k \dfrac{Q_1Q_2}{r^2}$  
 
-La legge di Coulomb ci mostra appunto $k$ che puo' essere derivata conoscendo gli altri termini dell'equazione, e si presenta in questa forma:
+La legge di *Coulomb* ci mostra appunto $k$, la *costante di Coulomb*, che puo' essere derivata conoscendo gli altri termini dell'equazione, e si presenta in questa forma:
 
 $k = \dfrac{1}{4\pi\epsilon_0\epsilon_r}$  
 
