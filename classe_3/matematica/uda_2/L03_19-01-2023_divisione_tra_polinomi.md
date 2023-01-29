@@ -113,6 +113,16 @@ Si scrive nella colonna di sinistra quel numero $r$ che rende il polinomio al de
 Il procedimento fa leva sul fatto che il divisore sia di primo grado, permettendo una risoluzione piu' rapida grazie alla manipolazione dei soli coefficienti, ma essenzialmente sono gli stessi passaggi della classica divisione tra polinomi.  
 
 
+## Ruffini e la proprieta' invariantiva  
+
+$(2x^3 - 3x -1) : (2x -1)$  
+
+Si puo' utilizzare Ruffini anche quando i coefficienti della parte letterale al denominatore sono maggiori di $1$. Questo e' possibile applicando la proprieta' invariantiva.  
+
+$(2x^3 - 3x -1) : (2x -1) = \dfrac{(2x^3 - 3x -1)}{2} : \dfrac{(2x -1)}{2} = (x^3 - \frac{3}{2}x -1) : (x - \frac{1}{2})$  
+
+Bisogna solo tenere a mente che pur ottenendo lo stesso quoziente, il resto dovra' necessariamente essere riportato alla forma originale con una trasformazione inversa ovvero, moltiplicato per $2$ in questo caso, visto che inizialmente abbiamo diviso entrambe i termini per $2$.  
+
 # Coefficienti letterali  
 
 Facciamo presente che e' possibile trattare coefficienti in forma letterale esattamente nello stesso modo con cui trattiamo i coefficienti numerici e.g.  
