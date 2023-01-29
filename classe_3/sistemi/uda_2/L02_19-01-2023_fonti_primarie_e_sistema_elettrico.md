@@ -56,6 +56,10 @@ flowchart LR
     MT/BT--"BT 400V(3~)-230V(1~)"-->Utenze
 ```
 
+## Distribuzione  
+
+La distribuzione avviene prevalentemente in media e bassa tensione, ma in alcuni casi, per alimentare grandi industrie si distribuisce direttamente in alta tensione. La trasformazione in media o bassa viene fatta direttamente sul luogo di utenza.  
+
 ## Stazioni e cabine elettriche  
 
 Svolgono almeno una delle seguenti funzioni:  
