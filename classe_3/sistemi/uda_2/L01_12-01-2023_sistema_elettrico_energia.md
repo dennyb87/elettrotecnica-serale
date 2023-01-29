@@ -26,6 +26,7 @@ Il mercato della produzione e' completamente liberalizzato.
 ## Trasmissione  
 
 Per trasmissione si intende la trasmissione di grandi quantita' di energia su lunghe distanze, quindi attraverso tralicci su tutto il territorio, ovvero la cosiddetta **rete elettrica nazionale**.  
+Si trasmette in alta tensione per tenere bassa la corrente che altrimenti scalderebbe i cavi dissipando potenza, senza contare che servirebbero cavi di sezione molto grande per permettere correnti di una certa entita', per cui si preferisce alta tensione e bassa corrente.     
 
 ## Distribuzione  
 
