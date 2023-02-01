@@ -57,3 +57,14 @@ $P_c = N \cdot P_a \cdot K_c = 10 \cdot 1.5 \cdot 0.6 = 15 \cdot 0.6 = 9\ kW$
 Talvolta o per brevita' o perche' semanticamente gli altri fattori non sono applicabili, si utilizza un solo fattore detto di **riduzione** $K_p$ che puo' appunto essere il prodotto dei due fattori di utilizzazione e contemporaneita', oppure un semplice coefficiente di riduzione.  
 
 $K_p  = K_u \cdot K_c$  
+
+
+# Corrente di impiego  
+
+Si definisce corrente di impiego $I_b$ la corrente che puo' fluire in un circuito in condizioni ordinarie. Per calcolarla si usa la potenza attiva o convenzionale in condizioni di normale funzionamento.  
+
+Corrente continua $I_b = \dfrac{P}{V}$  
+
+Corrente alternata monofase $I_b = \dfrac{P}{V \cdot \cos \varphi}$  
+
+Corrente alternata trifase $I_b = \dfrac{P}{\sqrt{3} \cdot V \cdot \cos \varphi}$
