@@ -51,3 +51,9 @@ Il fattore $K_c$ e' dunque il rapporto che lega la somma delle potenze dei singo
 
 $P_c = N \cdot P_a \cdot K_c = 10 \cdot 1.5 \cdot 0.6 = 15 \cdot 0.6 = 9\ kW$  
 
+
+# Fattore di riduzione  
+
+Talvolta o per brevita' o perche' semanticamente gli altri fattori non sono applicabili, si utilizza un solo fattore detto di **riduzione** $K_p$ che puo' appunto essere il prodotto dei due fattori di utilizzazione e contemporaneita', oppure un semplice coefficiente di riduzione.  
+
+$K_p  = K_u \cdot K_c$  
