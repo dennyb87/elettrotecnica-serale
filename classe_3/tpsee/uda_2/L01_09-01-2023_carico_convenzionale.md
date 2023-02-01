@@ -39,3 +39,15 @@ $P_a = \dfrac{P_n}{\eta} = \dfrac{11}{0.88} = 12.5\ kW$
 Trovata la potenza assorbita stimata, possiamo stimare la sua **potenza convenzionale** tenendo conto del fattore di utilizzo $K_u = \frac{3}{4} = 0.75$ ovvero:  
 
 $P_c = P_a \cdot K_u = 12.5 \cdot 0.75 = 9.375\ W$  
+
+
+# Fattore di contemporaneita'  
+
+Il fattore di contemporaneita' ci aiuta a tenere conto del fatto che non sempre gli apparecchi vengono utilizzati tutti nello stesso momento. La potenza totale assorbita sara' in ogni caso minore o uguale alla somma delle potenze dei singoli utilizzatori.  
+
+$P_{at} \le P_1 + P_2 + ... + P_n$
+
+Il fattore $K_c$ e' dunque il rapporto che lega la somma delle potenze dei singoli utilizzatori con la potenza convenzionale assorbita. Si prenda per esempio un gruppo di $10$ motori da $1.5\ kW$ che solitamente non vengono utlizzati tutti nello stesso momento, quindi con un fattore $K_c = 0.6$  
+
+$P_c = N \cdot P_a \cdot K_c = 10 \cdot 1.5 \cdot 0.6 = 15 \cdot 0.6 = 9\ kW$  
+
