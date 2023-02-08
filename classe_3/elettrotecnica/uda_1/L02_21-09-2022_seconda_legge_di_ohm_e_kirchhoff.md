@@ -63,10 +63,9 @@ Si noti come $V_s = V_{R_1} + V_{R_2} + V_{R_3}$ oppure $V_s - V_{R_1} - V_{R_2}
 # Coulomb & Ampere
 
 L'unita di misura della carica e' il **Coulomb** (dal fisico *Charles-Augustin de Coulomb*) e si indica con $C$, mentre il simbolo di carica e' $q$ o $Q$.  
-Quando in un conduttore scorre un **Coulomb** di cariche al secondo si ha una corrente di un **Ampere** quindi $1A = \frac{1C}{s}$
+Quando in un conduttore scorre un **Coulomb** di cariche al secondo si ha una corrente di un **Ampere** quindi $1A = \frac{1C}{1s}$
 
-
-![ampere](https://user-images.githubusercontent.com/7195133/195986585-2f7cbe42-431e-4f65-9c13-46234f7c015c.jpg)  
+![coulomb_per_second](https://user-images.githubusercontent.com/7195133/217673362-dd269a26-153d-4af3-9fad-372fec198933.jpg)
 
 
 # Fusibile  
