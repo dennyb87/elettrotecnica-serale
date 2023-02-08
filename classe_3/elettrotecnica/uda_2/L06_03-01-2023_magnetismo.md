@@ -43,3 +43,23 @@ $\vec{H} = \vec{F_1} + \vec{F_2}$
 Dove $F_1$ e' la componente della forza esercitata dal polo nord, ed $F_2$ la componente della forza esercitata dal polo sud, mentre $\hat{r}$ sono i versori nelle rispettive direzioni. Si ha allora che il vettore risultante $\vec{H}$ rapresenta **l'intensita' di campo magnetico** in ampere/metro $A/m$ oppure newton/weber $N/Wb$.  
 
 A questo punto e' importante notare che data una massa magnetica $m$ posta al punto $A$ questa subira' una forza $\vec{F}$ da $m_s$ uguale a $m \cdot \vec{H}$ in newton $N$.  
+
+
+# Teoria semplificata del magnetismo 
+
+E' sperimentabile che una corrente crea un campo magnetico, allora anche gli elettroni orbitando intorno al nucleo degli atomi in un qualunque materiale rendono ogni atomo un piccolo magnete.  
+
+![atomo_magnete](https://user-images.githubusercontent.com/7195133/217607917-1dcb8752-e810-47e1-ac67-1cec61bb8591.jpg)  
+
+Nella maggior parte dei materiali le orbite sono orientate in modo casuale per cui la somma dei campi magnetici e' pressoche' nulla.  
+
+![random_orbitals](https://user-images.githubusercontent.com/7195133/217608451-212dfeb8-44ab-48be-adac-f3002c8f1491.jpg)  
+
+Talvolta pero' un materiale puo' presentare orbite orientate o naturalmente o per via di un influenza magnetica indotta. Nei casi in cui ci sia un allineamento naturale dei *magnetini elementari* si dice che il materiale e' un **magnete naturale**.
+
+![oriented_orbitals](https://user-images.githubusercontent.com/7195133/217609502-56fa5bfd-b2b5-4d27-b32e-0c45a9361fb0.jpg)  
+
+Quando si immerge un materiale in un campo magnetico possono succedere due cose:
+
+1. l'asse magnetico dei magnetini elementari si orienta in verso opposto a quello del campo applicato, in questo caso si parla di materiale **diamagnetico**
+2. l'asse magnetico dei magnetini elementari si orienta nello stesso verso del campo applicato, si parla invece di materiale **paramagnetico**
