@@ -39,8 +39,7 @@ $\vec{F_2} = - k \cdot \dfrac{m_s}{d_2^2} \cdot \hat{r_2}$
 
 $\vec{H} = \vec{F_1} + \vec{F_2}$  
 
-
-Dove $F_1$ e' la componente della forza esercitata dal polo nord, ed $F_2$ la componente della forza esercitata dal polo sud, mentre $\hat{r}$ sono i versori nelle rispettive direzioni. Si ha allora che il vettore risultante $\vec{H}$ rapresenta **l'intensita' di campo magnetico** in ampere/metro $A/m$ oppure newton/weber $N/Wb$.  
+Dove $F_1$ e' la componente della forza esercitata dal polo nord, ed $F_2$ la componente della forza esercitata dal polo sud, mentre $\hat{r}$ sono i versori nelle rispettive direzioni. Si ha allora che il modulo del vettore risultante $|\vec{H}| = H$ rapresenta **l'intensita' di campo magnetico** in ampere/metro $A/m$ oppure newton/weber $N/Wb$.  
 
 A questo punto e' importante notare che data una massa magnetica $m$ posta al punto $A$ questa subira' una forza $\vec{F}$ da $m_s$ uguale a $m \cdot \vec{H}$ in newton $N$.  
 
@@ -70,7 +69,7 @@ Per **induzione magnetica** si intende quel fenomeno per cui se immergiamo un og
 
 ![magnetic_induction](https://user-images.githubusercontent.com/7195133/217617289-fcaf6a9c-0907-47d1-9007-616e58cbe312.jpg)  
 
-Si chiama allora $\vec{B}$ il campo di **induzione magnetica**, che non e' altro che l'intensita' di campo moltiplicata per il coefficiente di permeabilita' magnetica del materiale $\mu$
+Si chiama allora $\vec{B}$ il campo di **induzione magnetica**, che non e' altro che il campo magnetico $\vec{H}$ moltiplicato per il coefficiente di permeabilita' magnetica del materiale $\mu$
 
 $\vec{B} = \mu \cdot \vec{H}$  
 
