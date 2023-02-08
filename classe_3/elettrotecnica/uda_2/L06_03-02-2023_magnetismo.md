@@ -65,7 +65,7 @@ Quando si immerge un materiale in un campo magnetico possono succedere due cose:
 
 # Induzione magnetica  
 
-Per **induzione magnetica** si intende quel fenomeno per cui se immergiamo un oggetto di ferro o ferromagnetico in un campo magnetico questo verra' magnetizzato, si dice allora che l'oggetto e' stato magnetizzato per induzione. Osservando lo spettro magnetico con e senza la presenza dell'oggetto, si puo' notare un cambiamento nelle linee di forza. In partcolare il campo diventa piu' intenso in presenza dell'oggetto. Si noti che l'oggetto puo smagnetizzarsi o meno a seconda del tipo di materiale, l'acciaio per esempio resta magnetizzato.  
+Per **induzione magnetica** si intende quel fenomeno per cui se immergiamo un oggetto di ferro o ferromagnetico in un campo magnetico questo verra' magnetizzato, si dice allora che l'oggetto e' stato magnetizzato per induzione. Osservando lo spettro magnetico con e senza la presenza dell'oggetto, si puo' notare un cambiamento nelle linee di forza. In particolare il campo diventa piu' intenso se si inserisce un materiale paramagnetico, mentre diventa meno intenso se questo e' diamagnetico. Si noti che l'oggetto puo smagnetizzarsi o meno a seconda del tipo di materiale, l'acciaio per esempio resta magnetizzato. Possiamo allora affermare che se il campo $\vec{H}$ e' la causa, allora l'induzione magnetica $\vec{B}$ e' l'effetto.  
 
 ![magnetic_induction](https://user-images.githubusercontent.com/7195133/217617289-fcaf6a9c-0907-47d1-9007-616e58cbe312.jpg)  
 
