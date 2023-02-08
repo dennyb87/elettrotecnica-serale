@@ -63,3 +63,15 @@ Quando si immerge un materiale in un campo magnetico possono succedere due cose:
 
 1. l'asse magnetico dei magnetini elementari si orienta in verso opposto a quello del campo applicato, in questo caso si parla di materiale **diamagnetico**
 2. l'asse magnetico dei magnetini elementari si orienta nello stesso verso del campo applicato, si parla invece di materiale **paramagnetico**
+
+# Induzione magnetica  
+
+Per **induzione magnetica** si intende quel fenomeno per cui se immergiamo un oggetto di ferro o ferromagnetico in un campo magnetico questo verra' magnetizzato, si dice allora che l'oggetto e' stato magnetizzato per induzione. Osservando lo spettro magnetico con e senza la presenza dell'oggetto, si puo' notare un cambiamento nelle linee di forza. In partcolare il campo diventa piu' intenso in presenza dell'oggetto. Si noti che l'oggetto puo smagnetizzarsi o meno a seconda del tipo di materiale, l'acciaio per esempio resta magnetizzato.  
+
+![magnetic_induction](https://user-images.githubusercontent.com/7195133/217617289-fcaf6a9c-0907-47d1-9007-616e58cbe312.jpg)  
+
+Si chiama allora $\vec{B}$ il campo di **induzione magnetica**, che non e' altro che l'intensita' di campo moltiplicata per il coefficiente di permeabilita' magnetica del materiale $\mu$
+
+$\vec{B} = \mu \cdot \vec{H}$  
+
+Si misura in tesla $[T]$ e corrispondono a $[Wb/m^2]$. Queste grandezze magnetiche verranno chiarificate piu' avanti in dettaglio.
