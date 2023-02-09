@@ -2,9 +2,9 @@
 
 ![ampere](https://user-images.githubusercontent.com/7195133/195986585-2f7cbe42-431e-4f65-9c13-46234f7c015c.jpg)  
 
-La densita' di corrente $J$ e' definita come intensita' di corrente per metro quadrato, ovvero la quantita' di carica al secondo presente in una determinata sezione di un conduttore, si misura quindi in ampere al metro quadrato $\dfrac{A}{m^2}$  
+La densita' di corrente $J$ e' definita come intensita' di corrente per metro quadrato, ovvero la quantita' di carica $Q$ al secondo presente in una determinata sezione $A$ di un conduttore, si misura quindi in ampere al metro quadrato $\bigg[\dfrac{A}{m^2}\bigg]$  
 
-$J = \dfrac{I}{A}$  
+$densita' = \dfrac{corrente}{area}=J = \dfrac{I}{A}$  
 
 ![photovoltaic_cell](https://user-images.githubusercontent.com/7195133/217662191-caadfc8d-6766-45f2-ba50-6cd9032a8cae.jpg)  
 
