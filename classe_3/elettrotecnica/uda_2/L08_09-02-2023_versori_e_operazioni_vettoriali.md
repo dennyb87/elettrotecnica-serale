@@ -2,7 +2,8 @@
 
 ![unit_vector](https://user-images.githubusercontent.com/7195133/217952745-789e717b-729f-4b32-b270-cc904edcf342.jpg)
 
-Dato un vettore
+Dato un vettore  
+
 $$
 \vec{a} = \begin{bmatrix}
     1 \\
@@ -16,7 +17,9 @@ $$
 \vec{i_x} =  \begin{bmatrix}
     1 \\
     0 \\
-\end{bmatrix}$$
+\end{bmatrix}
+$$
+
 $$
 \vec{i_y} =  \begin{bmatrix}
     0 \\
