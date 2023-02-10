@@ -11,7 +11,7 @@ $$
 \end{bmatrix}
 $$
 
-Si noti che e' possibile rappresentarlo utilizzanto due vettori unitari (versori) ovvero vettori la cui lunghezza e' uguale all'unita'.  
+Si noti che e' sempre possibile rappresentarlo utilizzanto due vettori unitari (versori) ovvero vettori la cui lunghezza e' uguale all'unita'.  
 
 $$
 \vec{i_x} =  \begin{bmatrix}
@@ -55,10 +55,25 @@ $$
 \end{bmatrix}
 $$  
 
-Vediamo in dettaglio le principali operazioni tra vettori...
-
-# Somma vettoriale  
-...
+Vediamo ora in dettaglio le operazioni vettoriali appena eseguite.
 
 # Operazioni con gli scalari  
-...  
+
+![scaling_vectors](https://user-images.githubusercontent.com/7195133/218221904-0c656b59-946e-4863-acea-d36e0d293f36.gif)
+
+Uno **scalare** e' semplicemente un numero, una grandezza composta dalla sola parte numerica, al contrario di un vettore che ha modulo, direzione, e verso. Si dice *"scalare"* perche' il prodotto di un vettore per uno scalare puo' aumentare o diminuire il modulo del vettore, fungendo appunto da fattore di scala.  
+
+$$
+2 \cdot \vec{a} =
+2 \cdot \begin{bmatrix}
+    1 \\
+    2 \\
+\end{bmatrix} = 
+\begin{bmatrix}
+    2 \\
+    4 \\
+\end{bmatrix}
+$$  
+
+# Operazioni tra vettori  
+...
