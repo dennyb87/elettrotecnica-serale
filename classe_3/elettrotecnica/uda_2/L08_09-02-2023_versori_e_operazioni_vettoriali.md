@@ -95,3 +95,7 @@ $$
     2 \\
 \end{bmatrix}
 $$  
+
+Questo e' vero per qualunque somma di vettori.  
+
+![vector_addition](https://user-images.githubusercontent.com/7195133/218251934-1a6841e6-4fb6-4ba2-b650-ce97bba11aa0.gif)
