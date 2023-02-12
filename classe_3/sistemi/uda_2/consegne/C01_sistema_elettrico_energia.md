@@ -54,16 +54,16 @@ Bassa Tensione $0V \le BT \le 1000V$
 Media Tensione $1kV < MT \le 30kV$
 Alta Tensione $30kV < AT$
 
-**10.  Che cosa si intende per generazione distribuita di energia elettrica ? Quali sono i vantaggi ?**  
+**10. Che cosa si intende per generazione distribuita di energia elettrica ? Quali sono i vantaggi ?**  
 
 In questo nuovo modello i consumatori, che nel sistema tradizionale consumano solo energia, possono anche avere il ruolo di produttore di energia elettrica, si dicono quindi **prosumer**, ovvero produttori e consumatori. Questo permette l'utilizzo di fonti energetiche alternative per la produzione locale, quindi un minore costo di distribuzione. La vicinanza degli impianti di produzione dell'energia ai punti di consumo finale (utenza) consente un minore trasporto dell'energia elettrica e una minore dispersione.  
 
-**11.  Che cosa e' il diagramma di carico nel sistema elettrico per l'energia ?**  
+**11. Che cosa e' il diagramma di carico nel sistema elettrico per l'energia ?**  
 
 Si definisce diagramma di carico la curva della potenza attiva prelevata dall'utenza in funzione del tempo. La produzione viene stimata attraverso l'analisi di dati giorno per giorno in quanto non e' possibile fare previsioni accurate a lungo termine.  
 
 
-**12.  Elencare e descrivere i punti di forza e di debolezza del sistema elettrico per l'energia.**  
+**12. Elencare e descrivere i punti di forza e di debolezza del sistema elettrico per l'energia.**  
 
 ### Punti di forza
 * flessibilita' di produzione
