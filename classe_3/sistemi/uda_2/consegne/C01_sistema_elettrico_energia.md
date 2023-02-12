@@ -1,8 +1,6 @@
 ### FAD - CLASSE 3 - SISTEMI AUTOMATICI - UDA2
 # SISTEMA ELETTRICO ENERGIA
 
-## Quesiti 
-
 **1. Quali sono le fonti primarie di energia ?**  
 
 Le fonti primarie sono: radiante (sole), fluidodinamica (vento, cadute d'acqua, maree), chimica (biomasse, combustibili fossili e.g. gas, carbone, petrolio), endogena (calore endogeno della terra), nucleare (combustibili fissili)
