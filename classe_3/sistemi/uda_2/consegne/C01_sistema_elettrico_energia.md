@@ -48,9 +48,9 @@ Per produzione si intende il processo per cui l'energia viene trasformata in ene
 
 Servono per indicare i valori di tensione, generalmente in alternata in un contesto di trasmissione e distribuzione.  
 
-Bassa Tensione $0V \le BT \le 1000V$  
-Media Tensione $1kV < MT \le 30kV$
-Alta Tensione $30kV < AT$
+Bassa Tensione (da 0V a 1000V)  
+Media Tensione (tensioni maggiori di 1kV fino a 30kV)
+Alta Tensione (tensioni maggiori di 30kV)
 
 **10. Che cosa si intende per generazione distribuita di energia elettrica ? Quali sono i vantaggi ?**  
 
