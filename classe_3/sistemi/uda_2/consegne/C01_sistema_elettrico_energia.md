@@ -23,14 +23,14 @@ L'energia elettrica e' un vettore (trasportatore) energetico in quanto si presta
 
 ```mermaid
 flowchart LR
-    bacino_idrico--->turbina_idraulica--->generatore--->energia_elettrica
+    bacino_idrico-->turbina_idraulica-->generatore-->energia_elettrica
 ```  
 
 **6. Descrivere, utilizzando uno schema a blocchi, le trasformazioni di energia in una centrale termoelettrica**
 
 ```mermaid
 flowchart LR
-    carbone--->caldaia--->turbina_a_vapore--->generatore--->energia_elettrica
+    carbone-->caldaia-->turbina_a_vapore-->generatore-->energia_elettrica
 ```  
 
 **7. Qual e' la struttura del sistema elettrico per l'energia ?**  
@@ -39,7 +39,7 @@ Il sistema elettrico e' composto da pochi generatori di grande taglia, e tanti p
 
 ```mermaid
 flowchart LR
-    centrale--->trasformatore_elevatore--->linea_AT--->trasformatore_MT--->linea_MT--->cabina_trasformazione_BT--->linea_BT--->utenza
+    centrale-->trasformatore_elevatore-->linea_AT-->trasformatore_MT-->linea_MT-->cabina_trasformazione_BT-->linea_BT-->utenza
 ```     
 
 **8. Che cosa si intende per produzione, trasmissione, distribuzione e utilizzazione di energia elettrica ?**  
