@@ -33,10 +33,43 @@ flowchart LR
     carbone--->caldaia--->turbina_a_vapore--->generatore--->energia_elettrica
 ```  
 
-3. Qual e' la struttura del sistema elettrico per l'energia?
-4. Che cosa si intende per produzione, trasmissione, distribuzione e utilizzazione di energia elettrica ?
-5.  Che cosa si intende per BT, MT, AT ?
-6.  Che cosa si intende per generazione distribuita di energia elettrica ? Quali sono i vantaggi ?
-7.  Che cosa e' il diagramma di carico nel sistema elettrico per l'energia ?
-8.  Elencare e descrivere i punti di forza e di debolezza del sistema elettrico per l'energia.
+**7. Qual e' la struttura del sistema elettrico per l'energia ?**  
 
+Il sistema elettrico e' composto da pochi generatori di grande taglia, e tanti piccoli utilizzatori.  
+
+```mermaid
+flowchart LR
+    centrale--->trasformatore_elevatore--->linea_AT--->trasformatore_MT--->linea_MT--->cabina_trasformazione_BT--->linea_BT--->utenza
+```     
+
+**8. Che cosa si intende per produzione, trasmissione, distribuzione e utilizzazione di energia elettrica ?**  
+
+Per produzione si intende il processo per cui l'energia viene trasformata in energia elettrica partendo da una fonte primaria. La trasmissione consiste invece nel trasferimento di grandi quantita' di energia su grandi distanze in alta e media tensione. Con distribuzione si intende il trasferimento di energia alle utenze su brevi distanze ed in bassa (in casi particolari media o alta) tensione.  
+
+**9. Che cosa si intende per BT, MT, AT ?**  
+
+Servono per indicare i valori di tensione, generalmente in alternata in un contesto di trasmissione e distribuzione.  
+
+Bassa Tensione $0V \le BT \le 1000V$  
+Media Tensione $1kV < MT \le 30kV$
+Alta Tensione $30kV < AT$
+
+**10.  Che cosa si intende per generazione distribuita di energia elettrica ? Quali sono i vantaggi ?**  
+
+In questo nuovo modello i consumatori, che nel sistema tradizionale consumano solo energia, possono anche avere il ruolo di produttore di energia elettrica, si dicono quindi **prosumer**, ovvero produttori e consumatori. Questo permette l'utilizzo di fonti energetiche alternative per la produzione locale, quindi un minore costo di distribuzione. La vicinanza degli impianti di produzione dell'energia ai punti di consumo finale (utenza) consente un minore trasporto dell'energia elettrica e una minore dispersione.  
+
+**11.  Che cosa e' il diagramma di carico nel sistema elettrico per l'energia ?**  
+
+Si definisce diagramma di carico la curva della potenza attiva prelevata dall'utenza in funzione del tempo. La produzione viene stimata attraverso l'analisi di dati giorno per giorno in quanto non e' possibile fare previsioni accurate a lungo termine.  
+
+
+**12.  Elencare e descrivere i punti di forza e di debolezza del sistema elettrico per l'energia.**  
+
+### Punti di forza
+* flessibilita' di produzione
+* elevato rendimento di trasimssione e distribuzione
+* praticita' e sicurezza d'uso
+
+### Punti di debolezza
+* perdita netta nel processo di produzione
+* equilibrio tra produzione e carico
