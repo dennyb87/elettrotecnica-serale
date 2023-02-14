@@ -29,17 +29,19 @@ La costante $k$ dipende dal mezzo in cui le masse sono immerse, nel vuoto (prati
 
 # Intensita' di campo magnetico  
 
-La legge di Coulomb ci permette di introdurre il concetto di **campo magnetico**, ovvero lo spazio in cui un magnete eserecita un influenza su altri poli immersi in esso. L'intensita' di campo in un punto $A$ e' definita come la forza esercitata da una **massa magnetica sorgente** $m_s$ sul polo nord di una massa magnetica di prova al punto $A$ che ha per definizione una influenza trascurabile e quindi ignorata.  
+La legge di Coulomb ci permette di introdurre il concetto di **campo magnetico**, ovvero lo spazio in cui un magnete eserecita un influenza su altri poli immersi in esso. L'intensita' di campo in un punto $A$ e' definita come il rapporto tra l'intensita' della forza esercitata da una **massa magnetica sorgente** $m_s$ e la massa magnetica di prova $m$ al punto $A$.  
 
-![intensita_di_campo](https://user-images.githubusercontent.com/7195133/216842816-8cd6fbb2-4aff-4dc8-a7a9-dbcede592cde.jpg)  
+![fix_attempt_magnetic_field_strenght](https://user-images.githubusercontent.com/7195133/218867618-b895a5f5-7d22-4aa3-b509-9b67b1a2fbb6.jpg)
 
-$\vec{F_1} = + k \cdot \dfrac{m_s}{d_1^2} \cdot \hat{r_1}$  
+$\vec{F_1} = + k \cdot \dfrac{m_s\cdot m}{d_1^2} \cdot \hat{r_1}$  
 
-$\vec{F_2} = - k \cdot \dfrac{m_s}{d_2^2} \cdot \hat{r_2}$  
+$\vec{F_2} = - k \cdot \dfrac{m_s \cdot m}{d_2^2} \cdot \hat{r_2}$  
 
-$\vec{H} = \vec{F_1} + \vec{F_2}$  
+$\vec{F_r} = \vec{F_1} + \vec{F_2}$  
 
-Dove $F_1$ e' la componente della forza esercitata dal polo nord, ed $F_2$ la componente della forza esercitata dal polo sud, mentre $\hat{r}$ sono i versori nelle rispettive direzioni. Si ha allora che il modulo del vettore risultante $|\vec{H}| = H$ rapresenta **l'intensita' di campo magnetico** in ampere/metro $A/m$ oppure newton/weber $N/Wb$.  
+$H = \dfrac{|\vec{F_r}|}{m}$   
+
+Dove $F_1$ e' la componente della forza esercitata dal polo nord, ed $F_2$ la componente della forza esercitata dal polo sud, mentre $\hat{r}$ sono i versori nelle rispettive direzioni. Si ha quindi che $H$ ovvero il modulo della forza risultante, e' **l'intensita' di campo magnetico** in ampere/metro $A/m$ oppure newton/weber $N/Wb$.  
 
 A questo punto e' importante notare che data una massa magnetica $m$ posta al punto $A$ questa subira' una forza $\vec{F}$ da $m_s$ uguale a $m \cdot \vec{H}$ in newton $N$.  
 
