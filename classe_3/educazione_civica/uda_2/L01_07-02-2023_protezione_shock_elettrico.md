@@ -30,6 +30,18 @@ Queste protezioni possono essere:
 * **isolamento supplementare**: isolamento aggiuntivo in caso di guasto dell'isolamento principale
 
 
-# Protezione attiva  
+# Protezione attiva nel sistema TT
 
-...
+Nei **sistemi TT** (neutro a terra, masse a terra) si devono utilizzare i differenziali, ovvero quei dispositivi in grado di rilevare una differenza di corrente tra fase e neutro.  
+
+![curva_di_sicurezza](https://user-images.githubusercontent.com/7195133/219171760-68adef17-8b2a-4917-b645-8e0bbad49e98.jpg)  
+
+La curva di sicurezza ci mostra che a $50\ V$ si hanno effetti pericolosi, ma non la fibrillazione ventricolare, percui in condizioni ordinarie si considera una tensione di contatto limite $V_l$ di $50\ V$.  
+
+Per dimensionare l'impianto di terra bisogna allora assicurarsi che la tensione di contatto limite $V_l$ non venga superata, questo dipendera' allora dalla resistenza del dispersore $R_t$ (il terreno), e la corrente di intervento del differenziale $I_{\Delta n}$  
+
+$R_t \cdot I_{\Delta n} \le V_l$  
+
+Diventa evidente che con un differenziale da $30\ mA$ e una resistivita' del suolo di $1000\ \Omega$ potremmo soddisfare la condizione.  
+
+$30 \cdot \cancel{10^{-3}} \cdot \cancel{1000} = 30\ V \le 50\ V$
