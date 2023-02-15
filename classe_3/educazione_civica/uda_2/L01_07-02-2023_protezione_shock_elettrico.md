@@ -34,7 +34,7 @@ Queste protezioni possono essere:
 
 Nei **sistemi TT** (neutro a terra, masse a terra) si devono utilizzare i differenziali, ovvero quei dispositivi in grado di rilevare una differenza di corrente tra fase e neutro.  
 
-![curva_di_sicurezza](https://user-images.githubusercontent.com/7195133/219171760-68adef17-8b2a-4917-b645-8e0bbad49e98.jpg)  
+![sistema_TT](https://user-images.githubusercontent.com/7195133/219198175-9fef80f0-1d13-4d39-88dc-9ce5e2ff6e3b.jpg)![curva_di_sicurezza](https://user-images.githubusercontent.com/7195133/219171760-68adef17-8b2a-4917-b645-8e0bbad49e98.jpg)  
 
 La curva di sicurezza ci mostra che a $50\ V$ si hanno effetti pericolosi, ma non la fibrillazione ventricolare, percui in condizioni ordinarie si considera una tensione di contatto limite $V_l$ di $50\ V$.  
 
@@ -46,4 +46,15 @@ Diventa evidente che con un differenziale da $30\ mA$ e una resistivita' del suo
 
 $30 \cdot \cancel{10^{-3}} \cdot \cancel{1000} = 30\ V \le 50\ V$  
 
-Solitamente nei **sistemi TT** si hanno correnti di guasto intorno ai **milliampere** proprio a causa della grande resistivita' del terreno. Diversa la situazione nei **sistemi TN** dove invece si hanno correnti di guasto intorno ai **kiloampere**, vediamo perche'...
+Solitamente nei **sistemi TT** si hanno correnti di guasto intorno ai **milliampere** proprio a causa della grande resistivita' del terreno. Diversa la situazione nei **sistemi TN** dove invece si hanno correnti di guasto intorno ai **kiloampere**, vediamo perche'...  
+
+# Protezione attiva nel sistema TN  
+
+Nei **sistemi TN** il neutro e' collegato a terra, e le masse sono collegate al neutro direttamente **TN-C**, oppure tramite un conduttore di protezione **TN-S**.  
+
+![sistema_TN](https://user-images.githubusercontent.com/7195133/219199501-ca3b9dcc-a76b-4e80-8ffd-651e9c50c5c4.jpg)  
+
+Con questo tipo di messa a terra e' evidente che in caso di guasto si presentera' una corrente molto grande, nell'ordine dei kiloampere, quindi paragonabile ad un corto circuito. Questo ci permette di utilizzare anche soltanto un interruttore magnetotermico rendendo differenziale superfluo data la natura delle correnti di guasto.  
+
+![curva_magnetotermico](https://user-images.githubusercontent.com/7195133/219207974-d56fa4e1-9ded-42ea-b231-8db3261d8a7b.jpg)  
+
