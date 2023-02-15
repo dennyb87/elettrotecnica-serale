@@ -44,4 +44,6 @@ $R_t \cdot I_{\Delta n} \le V_l$
 
 Diventa evidente che con un differenziale da $30\ mA$ e una resistivita' del suolo di $1000\ \Omega$ potremmo soddisfare la condizione.  
 
-$30 \cdot \cancel{10^{-3}} \cdot \cancel{1000} = 30\ V \le 50\ V$
+$30 \cdot \cancel{10^{-3}} \cdot \cancel{1000} = 30\ V \le 50\ V$  
+
+Solitamente nei **sistemi TT** si hanno correnti di guasto intorno ai **milliampere** proprio a causa della grande resistivita' del terreno. Diversa la situazione nei **sistemi TN** dove invece si hanno correnti di guasto intorno ai **kiloampere**, vediamo perche'...
