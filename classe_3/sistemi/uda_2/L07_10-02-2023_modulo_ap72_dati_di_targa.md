@@ -25,7 +25,7 @@ Questo equivale quindi ad un angolo di gradi $\cos^{-1}\frac{2}{3} \simeq 48.2\d
 
 Conoscendo la potenza radiante fornita dal sole $1000\ W/m^2$ possiamo ora calcolare il rendimento grazie alle misure del modulo $2 \times 1\ m$ che equivale ad un' area di $A = 2\ m^2$  
 
-$P_{sun} = 1000\ \frac{W}{m^2} \cdot 2\ \frac{m^2}{1} = 2000\ W$  
+$P_{sun} = 1000\ \frac{W}{\cancel{m^2}} \cdot 2\ \cancel{m^2} = 2000\ W$  
 
 Sapendo che il modulo ha una potenza massima di $260\ W_p$ possiamo allora calcolare il rendimento.  
 
