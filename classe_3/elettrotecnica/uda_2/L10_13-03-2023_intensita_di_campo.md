@@ -8,3 +8,8 @@ $|\vec{H}| = H = \dfrac{I}{2\pi r}$
 
 Come si nota in figura si puo' dedurre la direzione del campo o quella della corrente convenzionale utilizzando la regola della mano destra, dove il pollice indica la direzione della corrente, mentre le altre dita indicano quello del campo magnetico.  
 
+## Campanello elettrico  
+
+![electric_bell](https://user-images.githubusercontent.com/7195133/219368982-6300720b-a927-44c7-a64c-64087d6b6a66.gif)  
+
+Il principio di funzionamento si basa proprio sul campo di induzione magnetica causato dalla corrente. E' importante notare che gli avvoglimenti sono disposti in modo da creare un *"circuito magnetico"* (linee di forza in azzurro), ottenendo cosi' un **polo nord** ed un **polo sud** ai capi del nucleo ferromagnetico $E$ a forma di *ferro di cavallo*. Questo campo fara' allora muovere la barra a sua volta magnetizzata posta sul tamburo $A$ che muovendosi interropera' il circuito, e quindi interrompendo il campo magnetico, e cosi' via in loop fino a quando l'interruttore $K$ e' premuto.    
