@@ -32,7 +32,7 @@ Queste protezioni possono essere:
 
 # Protezione attiva nel sistema TT
 
-Nei **sistemi TT** (neutro a terra, masse a terra) si devono utilizzare i differenziali, ovvero quei dispositivi in grado di rilevare una differenza di corrente tra fase e neutro.  
+Nei **sistemi TT** (neutro a terra, masse a terra) si devono utilizzare i differenziali, ovvero quei dispositivi in grado di rilevare una differenza di corrente tra fase e neutro. Le correnti di guasto in un **sistema TT** sono molto piccole, nell'ordine dei milliampere, per via della grande resistivita' dell'impianto di terra, per questo motivo un magnetotermico con corrente di intervento nell'ordine degli ampere sarebbe inutile, ci serve allora un differenziale ad esempio da $30\ mA$.
 
 ![sistema_TT](https://user-images.githubusercontent.com/7195133/219198175-9fef80f0-1d13-4d39-88dc-9ce5e2ff6e3b.jpg)![curva_di_sicurezza](https://user-images.githubusercontent.com/7195133/219171760-68adef17-8b2a-4917-b645-8e0bbad49e98.jpg)  
 
@@ -57,4 +57,3 @@ Nei **sistemi TN** il neutro e' collegato a terra, e le masse sono collegate al 
 Con questo tipo di messa a terra e' evidente che in caso di guasto si presentera' una corrente molto grande, nell'ordine dei kiloampere, quindi paragonabile ad un corto circuito. Questo ci permette di utilizzare anche soltanto un interruttore magnetotermico rendendo il differenziale superfluo data la natura delle correnti di guasto.  
 
 ![curva_magnetotermico](https://user-images.githubusercontent.com/7195133/219207974-d56fa4e1-9ded-42ea-b231-8db3261d8a7b.jpg)  
-
