@@ -31,4 +31,4 @@ Sapendo che il modulo ha una potenza massima di $260\ W_p$ possiamo allora calco
 
 $\eta = \dfrac{260}{2000} = 0.13$  
 
-Questo coincide in effetti approssimativamente con i dati di targa $0.13 \simeq 13.3\ \%$  
+Questo coincide in effetti approssimativamente con i dati di targa $0.13 \simeq 13.3$ %  
