@@ -21,7 +21,7 @@ $ax + by + c = 0 \implies y = -\dfrac{a}{b}x -\dfrac{c}{b}$
 
 Nella forma $y = mx + b$ idendtifichiamo $b$ come la quota all'origine ovvero l'intercetta verticale, quel punto della retta che interseca l'asse delle ordinate.  
 
-Identifichiamo invece $m$ come il coefficiente angolare in quanto determina l'angolo e quindi la pendenza della retta, ovvero il rapporto incrementale, sappiamo essere costante in una retta. Per le equazioni nella forma $y = mx + b$ questo e' dimostrabile semplicemente calcolando il rapporto incrementale tra due punti $P_A(x_0, y_1)\ P_B(x_1, y_1)$  
+Identifichiamo invece $m$ come il coefficiente angolare in quanto determina l'angolo e quindi la pendenza della retta, ovvero il rapporto incrementale, che sappiamo essere costante in una retta. Per le equazioni nella forma $y = mx + b$ questo e' dimostrabile semplicemente calcolando il rapporto incrementale tra due punti $P_A(x_0, y_0)\ P_B(x_1, y_1)$  
 
 $y_0 = mx_0 + b$  
 $y_1 = mx_1 + b$  
