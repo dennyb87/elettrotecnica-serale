@@ -55,9 +55,3 @@ Nei **sistemi TN** il neutro e' collegato a terra, e le masse sono collegate al 
 ![sistema_TN](https://user-images.githubusercontent.com/7195133/219199501-ca3b9dcc-a76b-4e80-8ffd-651e9c50c5c4.jpg)  
 
 Con questo tipo di messa a terra e' evidente che in caso di guasto si presentera' una corrente molto grande, nell'ordine dei kiloampere, quindi paragonabile ad un corto circuito. Questo ci permette di utilizzare anche soltanto un interruttore magnetotermico rendendo il differenziale superfluo data la natura delle correnti di guasto.  
-
-## Curva di intervento magnetotermico  
-
-![curva_magnetotermico](https://user-images.githubusercontent.com/7195133/219207974-d56fa4e1-9ded-42ea-b231-8db3261d8a7b.jpg)  
-
-Dal grafico si puo' notare che si hanno due tipi di intervento, il primo di tipo termico, il quale ha un tempo di intervento che si riduce all'aumentare della corrente. Il secondo tipo di intervento e' invece magnetico il quale puo' intervenire in modo quasi istantaneo superato un certo valore di corrente. Questi interruttori vengono prodotti in modo da presentare curve $B, C, D$ con caratterisiche diverse che trovano diverse applicazioni che verranno approfondite in seguito.
