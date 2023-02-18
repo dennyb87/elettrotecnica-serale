@@ -37,8 +37,8 @@ Allora diventa ovvio che non esistendo un punto in cui due rette parallele si in
 $$
 \begin{cases}
   \begin{aligned}
-    y &= 2x - 2 \\
-    y &= 3x - 2 \\
+    y &= 2x + 2 \\
+    y &= 3x + 2 \\
   \end{aligned}
 \end{cases}
 $$  
@@ -46,8 +46,8 @@ $$
 $$
 \begin{cases}
   \begin{aligned}
-    y &= 2x - 2 \\
-    2x - 2 &= 3x - 2 \\
+    y &= 2x + 2 \\
+    2x + 2 &= 3x + 2 \\
   \end{aligned}
 \end{cases}
 $$  
@@ -55,7 +55,7 @@ $$
 $$
 \begin{cases}
   \begin{aligned}
-    y &= 2x - 2 \\
+    y &= 2x + 2 \\
     x &= 0 \\
   \end{aligned}
 \end{cases}
@@ -64,7 +64,7 @@ $$
 $$
 \begin{cases}
   \begin{aligned}
-    y &= -2 \\
+    y &= + 2 \\
     x &= 0 \\
   \end{aligned}
 \end{cases}
