@@ -8,8 +8,21 @@ Nel caso per esempio di un modulo fotovoltaico e' possibile identificare tre pos
 * funzionamento a vuoto
 * funzionamento in cortocircuito
 
-I dati di targa del dispositivo ci forniscono anche il grafico della tensione-corrente, quindi la curva che descrive la risposta in base al carico. Dal grafico possiamo quindi osservare le grandezze elettriche in gioco in ognuno degli stati di funzionamento.  
+## Dati di targa  
+
+Consideriamo i seguenti dati di targa di un **modulo VGS VE172PV**.  
+
+| Descrizione                | Simbolo  | Valore        |
+| -------------------------- | -------- | ------------- |
+| Irraggiamento incidente    | $G$      | $1000\ W/m^2$ |
+| Superficie del dispositivo | $A$      | $2\ m^2$      |
+| Potenza di picco           | $P_p$    | $280\ W$      |
+| Rendimento                 | $\eta$   | $14.14$ %     |
+| Corrente di corto circuito | $I_{sc}$ | $8.2\ A$      |
+| Corrente massima STC       | $I_m$    | $7.64\ A$     |
+| Tensione a circuit aperto  | $V_{oc}$ | $45.35\ V$    |
+| Tensione massima STC       | $V_m$    | $36.85\ V$    |
+
+I dati di targa del dispositivo ci forniscono anche il grafico della tensione-corrente, quindi la curva che descrive la risposta in base al carico. Dal grafico possiamo quindi osservare le grandezze elettriche in gioco in ognuno degli **stati di funzionamento**.  
 
 ![curva-tensione-corrente](https://user-images.githubusercontent.com/7195133/219871474-12b1578d-43a7-4f37-9dff-114aa1745132.jpg)  
-
-
