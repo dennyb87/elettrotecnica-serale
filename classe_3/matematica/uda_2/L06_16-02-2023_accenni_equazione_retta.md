@@ -64,7 +64,7 @@ $$
 $$
 \begin{cases}
   \begin{aligned}
-    y &= + 2 \\
+    y &= 2 \\
     x &= 0 \\
   \end{aligned}
 \end{cases}
