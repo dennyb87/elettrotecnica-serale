@@ -28,4 +28,45 @@ $y_1 = mx_1 + b$
 
 $\dfrac{\Delta y}{\Delta x} = \dfrac{y_1 - y_0}{x_1 - x_0} = \dfrac{(mx_1 + b) - (mx_0 + b)}{x_1 - x_0} = \dfrac{mx_1\ \cancel{+ b} - mx_0\ \cancel{- b}}{x_1 - x_0} = \dfrac{m \cdot \cancel{(x_1 - x_0)}}{\cancel{x_1 - x_0}} = m$  
 
-Diventa evidente che $m$ e' costante e che rappresenta il rapporto con cui $y$ varia al variare di $x$.  
+Diventa evidente che $m$ e' costante e che rappresenta il rapporto con cui $y$ varia al variare di $x$. Possiamo adesso identificare immediatamente due rette parallele in quanto avranno lo stesso coefficiente angolare ma intercetta diversa. Diventa facile anche intuire la loro pendenza grazie al segno del coefficiente angolare.  
+
+![parallel_lines](https://user-images.githubusercontent.com/7195133/219866868-9d603a61-bd5a-4c0c-8fd3-c8f6ddf242b1.jpg)  
+
+Allora diventa ovvio che non esistendo un punto in cui due rette parallele si intersecano, non e' possibile trovare una soluzione al sistema delle loro equazioni. Se invece il coefficiente angolare e' diverso, allora risolvendo il sistema, quindi trovando i valori delle incognite che rendono entrambe le equazioni vere, possiamo trovare le coordinate del punto in cui le due rette si intersecano.  
+
+$$
+\begin{cases}
+  \begin{aligned}
+    y &= 2x - 2 \\
+    y &= 3x - 2 \\
+  \end{aligned}
+\end{cases}
+$$  
+
+$$
+\begin{cases}
+  \begin{aligned}
+    y &= 2x - 2 \\
+    2x - 2 &= 3x - 2 \\
+  \end{aligned}
+\end{cases}
+$$  
+
+$$
+\begin{cases}
+  \begin{aligned}
+    y &= 2x - 2 \\
+    x &= 0 \\
+  \end{aligned}
+\end{cases}
+$$  
+
+$$
+\begin{cases}
+  \begin{aligned}
+    y &= -2 \\
+    x &= 0 \\
+  \end{aligned}
+\end{cases}
+$$  
+
