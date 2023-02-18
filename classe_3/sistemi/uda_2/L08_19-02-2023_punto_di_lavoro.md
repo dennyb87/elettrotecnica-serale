@@ -26,3 +26,11 @@ Consideriamo i seguenti dati di targa di un **modulo VGS VE172PV**.
 I dati di targa del dispositivo ci forniscono anche il grafico della tensione-corrente, quindi la curva che descrive la risposta in base al carico. Dal grafico possiamo quindi osservare le grandezze elettriche in gioco in ognuno degli **stati di funzionamento**.  
 
 ![curva-tensione-corrente](https://user-images.githubusercontent.com/7195133/219871474-12b1578d-43a7-4f37-9dff-114aa1745132.jpg)  
+
+Si noti che in caso di corto circuito si ha una corrente $I_{sc}$ con tensione zero, mentre in caso di funzionamento a vuoto si ha una grande tensione $V_{oc}$ ma nessuna corrente. Il punto di massima potenza, in inglese *maximum power point* (**MPP**), e' il punto di lavoro ottimale, che permette di sfruttare il dispositivo alla sua potenza massima.  
+
+Sappiamo grazie alla legge di Ohm che a parita' di resistenza, la corrente aumentera' all'aumentare della tensione in modo lineare. Tracciando il grafico di tensione-corrente si presentera' allora una **retta di carico**.  
+
+![ohm_law](https://user-images.githubusercontent.com/7195133/219904387-317a6e3f-da84-48d4-b125-3e0700df354b.jpg)  
+
+Si nota immediatamente che $\dfrac{1}{R}$ e' la pendenza della retta. Allora se volessimo trovare il carico che...
