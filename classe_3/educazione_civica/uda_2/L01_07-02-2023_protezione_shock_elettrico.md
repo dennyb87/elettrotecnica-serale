@@ -55,3 +55,9 @@ Nei **sistemi TN** il neutro e' collegato a terra, e le masse sono collegate al 
 ![sistema_TN](https://user-images.githubusercontent.com/7195133/219199501-ca3b9dcc-a76b-4e80-8ffd-651e9c50c5c4.jpg)  
 
 Con questo tipo di messa a terra e' evidente che in caso di guasto si presentera' una corrente molto grande, nell'ordine dei kiloampere, quindi paragonabile ad un corto circuito. Questo ci permette di utilizzare anche soltanto un interruttore magnetotermico rendendo il differenziale superfluo data la natura delle correnti di guasto.  
+
+# Protezione attiva nel sistema IT  
+
+![sistema_IT](https://user-images.githubusercontent.com/7195133/219853768-1b65bbc7-c50b-43ef-b046-a831e3821c03.jpg)  
+
+Nel sistema IT il neutro e' isolato o a terra, mentre le masse sono collegate a terra. Nel caso di un guasto, il circuito in corrente alternata si chiude grazie a delle capacita' fittizie tra il terreno e i cavi aerei, queste presentano una grande impedenza permettendo correnti di entita' molto piccola. Per questo motivo il primo guasto non e' pericoloso. Il secondo guasto invece farebbe chiudere il circuito attraverso terra con correnti di entita' tutt'altro che modeste, in questo caso interviene allora un magnetotermico.  
