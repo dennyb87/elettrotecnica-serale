@@ -70,3 +70,4 @@ $$
 \end{cases}
 $$  
 
+![intersezione_rette](https://user-images.githubusercontent.com/7195133/219903132-e6b3fd86-0d8f-438a-bfd4-9f8b6471d4e5.jpg)
