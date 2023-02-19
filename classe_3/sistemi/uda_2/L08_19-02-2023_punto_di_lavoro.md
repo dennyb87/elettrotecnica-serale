@@ -33,4 +33,4 @@ Sappiamo grazie alla legge di Ohm che a parita' di resistenza, la corrente aumen
 
 ![ohm_law](https://user-images.githubusercontent.com/7195133/219904387-317a6e3f-da84-48d4-b125-3e0700df354b.jpg)  
 
-Si nota immediatamente che $\dfrac{1}{R}$ e' la pendenza della retta. Allora se volessimo trovare il carico che...
+Si nota immediatamente che $\dfrac{1}{R}$ e' la pendenza della retta. Allora va da se che per trovare il carico ideale per questo dispositivo ci serve una carico che presenti una resistenza tale che la retta di carico si intersechi con la curva tensione-corrente al punto **MPP** quindi una reistenza $R_m = \dfrac{V_m}{I_m}$
