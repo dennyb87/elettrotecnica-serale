@@ -25,24 +25,47 @@ Experts at the International Union for Conservation of Nature have a Red List: a
  1 climate, 2 greenhouse, 3 ozone, 4 extreme, 5 indigenous, 6 habitat  
  a destruction, b population, c layer, d gas, e weather, f change  
 
+| number |            | letter |             |
+| ------ | ---------- | ------ | ----------- |
+| 1      | climate    | f      | change      |
+| 2      | greenhouse | d      | gas         |
+| 3      | ozone      | c      | layer       |
+| 4      | extreme    | e      | weather     |
+| 5      | indigenous | b      | population  |
+| 6      | habitat    | a      | destruction |
 
 ## Completa le seguenti frasi utilizzando i termini uniti nell'esercizio precedente:  
 
- 1. Dealing with....is one of the most important goals in the 2030 United Nations Agenda.
- 2. ...emissions are producing higher temperatures.
- 3. There are two holes in the.....
- 4. ...events are becoming more frequent.
- 5. The 70 million .... live in forests.
- 6. One of the causes of animal extinction is.....
+ 1. Dealing with **climate change** is one of the most important goals in the 2030 United Nations Agenda.
+ 2. **Greenhouse gases** emissions are producing higher temperatures.
+ 3. There are two holes in the **ozone layer**.
+ 4. **Extreme weather** events are becoming more frequent.
+ 5. The 70 million **indigenous population** live in forests.
+ 6. One of the causes of animal extinction is **habitat destruction**.
 
 
 ## Rispondi alle seguenti domande  
 
-1. What is the cause of greenhouse gas emissions and the holes in the ozone layer?
-2. What do we know about the emissions of CO2, compared to 1990?
-3. What is changing the world's weather patterns?
-4. What percentage of the Earth do forests cover?
-5. Why are forests essential?
-6. How many hectares of forest does the Earth lose every year?
-7. What is one of the consequences of forest destruction?
-8. How much land do we lose every minute?
+**1. What is the cause of greenhouse gas emissions and the holes in the ozone layer?**  
+Greenhouse gas emissions and the two holes in the ozone layers are caused by human activities.  
+
+**2. What do we know about the emissions of CO2, compared to 1990?**  
+Global emissions of one of these gases, carbon dioxide (CO2), are now 513-per cent higher compared to 1990.  
+
+**3. What is changing the world's weather patterns?**  
+Global warming is changing the world's weather patterns. The results are more frequent extreme weather events: hurricanes, tornadoes, severe flooding and drought.  
+
+**4. What percentage of the Earth do forests cover?**  
+Forests cover 30 per cent of the Earth's surface.  
+
+**5. Why are forests essential?**  
+They are essential to combat climate change, protect biodiversity and the homes of the 70 million indigenous population.  
+
+**6. How many hectares of forest does the Earth lose every year?**  
+Every year the Earth loses thirteen million hectares of forests.  
+
+**7. What is one of the consequences of forest destruction?**  
+One of the consequences of forest destruction is desertification.    
+
+**8. How much land do we lose every minute?**  
+Every minute we lose 23 hectares of land because of drought and desertification caused by human activities and climate change.  
