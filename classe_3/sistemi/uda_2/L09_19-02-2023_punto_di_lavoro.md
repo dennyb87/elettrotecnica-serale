@@ -33,4 +33,10 @@ Sappiamo grazie alla legge di Ohm che a parita' di resistenza, la corrente aumen
 
 ![ohm_law](https://user-images.githubusercontent.com/7195133/219904387-317a6e3f-da84-48d4-b125-3e0700df354b.jpg)  
 
-Si nota immediatamente che $\dfrac{1}{R}$ e' la pendenza della retta. Allora va da se che per trovare il carico ideale per questo dispositivo ci serve una carico che presenti una resistenza tale che la retta di carico si intersechi con la curva tensione-corrente al punto **MPP** quindi una reistenza $R_m = \dfrac{V_m}{I_m}$
+Si nota immediatamente che $\dfrac{1}{R}$ e' la pendenza della retta. Allora va da se che per trovare il carico ideale per questo dispositivo ci serve una carico che presenti una resistenza tale che la retta di carico si intersechi con la curva tensione-corrente al punto **MPP** quindi nel nostro esempio:    
+
+$R_m = \dfrac{V_m}{I_m} = \dfrac{36.85}{7.64} \simeq 4.82\ \Omega$  
+
+$P_m = V_m \cdot I_m = R_m \cdot I_m^2 = 4.82 \cdot 7.64^2 \simeq 281.34\ W$  
+
+Un carico da $4.82\ \Omega$ ci permette allora di raggiungere approssimativamente la potenza di picco descritta nei dati di targa $280\ W$.  
