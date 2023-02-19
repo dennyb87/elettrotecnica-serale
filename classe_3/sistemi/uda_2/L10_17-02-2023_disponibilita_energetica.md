@@ -10,4 +10,4 @@ Tenedo presente la formula per il calcolo dell'area di un trapezio $\dfrac{(a + 
 
 $\dfrac{(a + b) \cdot h}{2} = \dfrac{(10 + 2)\cdot 400}{2} = 6 \cdot 4000 = 2400\ Wh/m^2 = 2.4\ kWh/m^2$  
 
-Questo significa che nel luogo di utenza, in un determinato periodo dell'anno, sono disponibili $2.4\ kWh/m^2$ giornalieri.
+Questo significa che nel luogo di utenza, in un determinato periodo dell'anno, sono disponibili $2.4\ kWh/m^2$ giornalieri. Allora con un pannello da $2\ m^2$ si potrebbero produrre circa $2 \cancel{m^2} \cdot 2400 \frac{Wh}{\cancel{m^2}} = 4800\ Wh$ al giorno.  
