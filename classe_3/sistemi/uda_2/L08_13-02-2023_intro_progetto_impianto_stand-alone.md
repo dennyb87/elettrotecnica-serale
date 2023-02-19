@@ -31,7 +31,7 @@ Si intuisce allora dall'immagine che quando si misurano le proprieta' di un cris
 
 ![poly-monocrystalline-panel-production](https://user-images.githubusercontent.com/7195133/219941655-c2f66f03-19f3-4a72-a614-95e596b9e1df.jpg)  
 
-Questa e' quindi la differenza sostanziale tra pannelli monocristallini e policristallini, ovvero il modo con cui il wafer di silicio e' stato realizzato: o da un singolo cristallo, quindi **monocristallino**, o da un inisieme di tanti piccoli frammenti di cristallo, quindi **policristallino**.  
+Questa e' quindi la differenza sostanziale tra pannelli monocristallini e policristallini, ovvero il modo con cui il wafer di silicio e' stato realizzato: o da un singolo cristallo, quindi **monocristallino**, o da un inisieme di tanti piccoli frammenti di cristallo, quindi **policristallino**. Questa differenza influenza l'efficienza che e' per i **monocristallini** intorno al 18-21% mentre **policristallini** risultano piu' economici ma con un efficienza minore intorno al 15-17%.   
 
 ## Pannelli a film sottile  
 
