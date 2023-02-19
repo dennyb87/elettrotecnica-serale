@@ -27,7 +27,7 @@ I pannelli detti monocristallini hanno celle che sono state create da un singolo
 
 ![anisotropic-isotropic](https://user-images.githubusercontent.com/7195133/219942232-0a74399f-18a3-4d56-8053-fea9edabffa5.jpg)
 
-Si intuisce allora dall'immagine che quando si misurano le proprita' di un cristallo si scopre che la misura puo' cambiare in base alla direzione di misurazione e.g. la densita' di protoni, si dice allora che il materiale e' **anisotropo**. Quando invece abbiamo una struttura non ordinata, magari formata da tanti piccoli cristalli, notiamo invece che il materiale presente le stesse misurazioni indipendentemente dalla direzione di misurazione, in quanto le differenze tendono a zero grazie alla disposizione pseudo casuale della materia, si dice allora che il materiale e' **isotropo**.  
+Si intuisce allora dall'immagine che quando si misurano le proprieta' di un cristallo si scopre che la misura puo' cambiare in base alla direzione di misurazione e.g. la densita' di protoni, si dice allora che il materiale e' **anisotropo**. Quando invece abbiamo una struttura non ordinata, magari formata da tanti piccoli cristalli, notiamo invece che il materiale presenta le stesse misurazioni indipendentemente dalla direzione di misurazione, in quanto le differenze tendono a zero grazie alla disposizione pseudo casuale della materia, si dice allora che il materiale e' **isotropo**.  
 
 ![poly-monocrystalline-panel-production](https://user-images.githubusercontent.com/7195133/219941655-c2f66f03-19f3-4a72-a614-95e596b9e1df.jpg)  
 
