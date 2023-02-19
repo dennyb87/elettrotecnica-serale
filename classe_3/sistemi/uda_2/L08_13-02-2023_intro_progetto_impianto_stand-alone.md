@@ -12,3 +12,9 @@ Un impianto del genere e' composto da:
 * iverter $DC \implies AC$
 
 La funzione principale del **regolatore di carica** e' quella di assicurare una corrente costante ai carichi, prelevandola dai pannelli e/o dalla batteria. Si occupa inoltre di interrompere la carica quando la batteria e' completamente carica e di disconnettere i carichi quando la batteria e' scarica, evitando cosi' stati di sovraccarica o di scarica profonda della batteria, prolungando la vita della batteria. Inoltre impedisce che il pannello venga visto come un carico da parte degli accumulatori, per esempio di notte quando non c'e' produzione di energia.  
+
+## PVGIS - Photovoltaic Geograhical Information System  
+
+Una volta stimato il fabbisogno energetico e' possibile calcolare il tipo ed il numero di pannelli necessari per soddisfarlo nel luogo di utenza grazie a banche dati disponibili online come [PVGIS](https://re.jrc.ec.europa.eu/pvg_tools/en/) che fornisce dati sull'irraggiamento solare a livello globale.  
+
+![pvgis_preview](https://user-images.githubusercontent.com/7195133/219940442-a72bd097-f732-4b09-a423-4913969a3cdd.jpg)
