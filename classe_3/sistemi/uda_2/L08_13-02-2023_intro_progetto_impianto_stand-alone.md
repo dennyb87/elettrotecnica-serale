@@ -35,4 +35,6 @@ Questa e' quindi la differenza sostanziale tra pannelli monocristallini e policr
 
 ## Pannelli a film sottile  
 
-...
+![film_sottile](https://user-images.githubusercontent.com/7195133/219943450-f70e9783-4d3c-49ee-aa3c-4e64505f5cda.jpg)  
+
+I pannelli a film sottile vengono realizzati con una percentuale di materiale semiconduttore inferiore per permettere alta flessibilita', questo consente di abbattere i costi di produzione gravando pero' sull'efficienza.
