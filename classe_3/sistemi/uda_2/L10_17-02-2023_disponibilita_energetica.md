@@ -8,6 +8,6 @@ Osserviamo che cominciamo ad ottenere potenza utile intorno alle 8am, questa pot
 
 Tenedo presente la formula per il calcolo dell'area di un trapezio $\dfrac{(a + b) \cdot h}{2}$ oppure notando che in effetti i due triangoli rettangoli sono uguali, potendo allora considerarli un unico grande rettangolo, possiamo calcolare l'energia totale giornaliera disponibile al metro quadro, in quella determinata posizione geografica e periodo dell'anno.  
 
-Si ha allora che...  
-
 $\dfrac{(a + b) \cdot h}{2} = \dfrac{(10 + 2)\cdot 400}{2} = 6 \cdot 4000 = 2400\ Wh/m^2 = 2.4\ kWh/m^2$  
+
+Questo significa che nel luogo di utenza, in un determinato periodo dell'anno, sono disponibili $2.4\ kWh/m^2$ giornalieri.
