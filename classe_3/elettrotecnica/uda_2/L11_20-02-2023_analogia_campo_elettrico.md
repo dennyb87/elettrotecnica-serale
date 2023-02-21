@@ -27,3 +27,16 @@ $V = \dfrac{U}{q}$
 In questo modo possiamo ragionare in termini del solo contributo di  $Q$ nella differenza di potenziale permettendoci per esempio di calcolare la potenza $P = V \cdot I$ dove $V = \dfrac{U}{q} = k \cdot \dfrac{Q}{r}$ mentre $I = \dfrac{q}{t}$ ovvero una certa quantita' di carica nell'unita' di tempo.  
 
 $P = V \cdot I = k \cdot \dfrac{Q}{r} \cdot \dfrac{q}{t} = k \cdot \dfrac{q\ Q}{r} \cdot \dfrac{1}{t} = \dfrac{U}{t}$  
+
+
+# Analogia con il campo magnetico  
+
+Adesso e' importante notare che conoscendo la tensione tra due punti $V$ e la distanza $r$ tra loro possiamo allora trovare l'intensita' di campo elettrico:  
+
+$E = \dfrac{V}{r} = k \cdot \dfrac{Q}{r} \cdot\dfrac{1}{r} =  k \cdot \dfrac{Q}{r^2}= \dfrac{F}{q}$  
+
+Cosi' come Il campo elettrico rappresenta il rapporto tra la **forza elettromotrice** $V$ ed una lunghezza $r$, il campo magnetizzante $H$ rappresenta il rapporto tra una **forza magnetomotrice** $I$ ed una lunghezza $2\pi r$.  
+
+$E = \dfrac{V}{r}$  
+
+$H = \dfrac{I}{2\pi r}$
