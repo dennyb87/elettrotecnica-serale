@@ -4,11 +4,11 @@ La legge di Coulomb ci dice che la forza esercitata su due cariche $Q$ e $q$ dip
 
 $F = k \cdot \dfrac{q\ Q}{r^2}$  
 
-Definiamo allora il campo elettrico come il solo contributo di $Q_1$ ovvero:  
+Definiamo allora il campo elettrico come il solo contributo di $Q$ ovvero:  
 
 $E = \dfrac{F}{q}$  
 
-Questo ci permette di poter calcolare la forza esercitata per una qualunque carica arbitraria $q_x$ immersa nel campo elettrico causato da $Q_1$.  
+Questo ci permette di poter calcolare la forza esercitata per una qualunque carica arbitraria $q_x$ immersa nel campo elettrico causato da $Q$.  
 
 $F = q_xE$  
 
@@ -39,4 +39,4 @@ Cosi' come Il campo elettrico rappresenta il rapporto tra la **forza elettromotr
 
 $E = \dfrac{V}{r}$  
 
-$H = \dfrac{I}{2\pi r}$
+$H = \dfrac{I}{2\pi r}$  
