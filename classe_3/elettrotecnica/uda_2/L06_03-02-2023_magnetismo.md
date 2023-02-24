@@ -63,7 +63,9 @@ Talvolta pero' un materiale puo' presentare orbite orientate o naturalmente o pe
 Quando si immerge un materiale in un campo magnetico possono succedere due cose:
 
 1. l'asse magnetico dei magnetini elementari si orienta in verso opposto a quello del campo applicato, in questo caso si parla di materiale **diamagnetico**
-2. l'asse magnetico dei magnetini elementari si orienta nello stesso verso del campo applicato, si parla invece di materiale **paramagnetico**
+2. l'asse magnetico di un numero significativo di magnetini elementari si orienta nello stesso verso del campo applicato, si parla invece di materiale **paramagnetico**
+
+Quest'ultimo fenomeno e' particolarmente intenso nei materiali detti **ferromagnetici**.  
 
 # Induzione magnetica  
 
