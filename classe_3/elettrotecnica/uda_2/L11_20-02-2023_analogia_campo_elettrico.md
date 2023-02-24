@@ -14,6 +14,8 @@ $F = q_xE$
 
 ## Energia potenziale elettrica e differenza di potenziale  
 
+![electric_potential_energy](https://user-images.githubusercontent.com/7195133/221303413-765f15a8-c117-4b14-883f-64e400749213.jpg)
+
 E' dimostrabile che il lavoro $W = F \cdot d$ compiuto per muovere una carica $q$ da un punto $A$ ad un punto $B$ ad una distanza $r$ da $Q$ e' uguale a:  
 
 $U = k \cdot \dfrac{q\ Q}{r}$  
