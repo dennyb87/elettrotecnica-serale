@@ -37,7 +37,7 @@ Adesso e' importante notare che conoscendo la tensione tra due punti $V$ e la di
 
 $E = \dfrac{V}{r} = k \cdot \dfrac{Q}{r} \cdot\dfrac{1}{r} =  k \cdot \dfrac{Q}{r^2}= \dfrac{F}{q}$  
 
-Cosi' come Il campo elettrico rappresenta il rapporto tra la **forza elettromotrice** $V$ ed una lunghezza $r$, il campo magnetizzante $H$ rappresenta il rapporto tra una **forza magnetomotrice** $I$ ed una lunghezza $2\pi r$.  
+Cosi' come Il campo elettrico rappresenta il rapporto tra la **forza elettromotrice** $V$ ed una lunghezza $r$, il campo magnetico $H$ rappresenta il rapporto tra una **forza magnetomotrice** $I$ ed una lunghezza $2\pi r$.  
 
 $E = \dfrac{V}{r}$  
 
