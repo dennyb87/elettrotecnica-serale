@@ -30,16 +30,16 @@ $I_b = \dfrac{P_{c}}{V_n \cdot \cos \varphi} = \dfrac{4866.8}{230 \cdot 0.9} \si
 
 ## Sezione cavo  
 
-Adesso vogliamo calcolare la sezione del cavo in **EPR** che va dal contatore al quadro generale supponendo la posa $4A$.  
+Adesso vogliamo calcolare la sezione dei cavi unipolari per un circuito monofase in **EPR**, che vanno dal contatore al quadro generale supponendo la posa $4A$.  
 
 ![tpsee_posa_4-4A](https://user-images.githubusercontent.com/7195133/219974798-db2413d0-bd1f-4803-90ef-4bf16a5b6012.jpg)  
 
-Sappiamo che la portata deve essere maggiore o uguale alla corrente di impiego $I_b \le I_z$ ovvero $23.5 \le I_z$. Troviamo la sezione sapendo che abbiamo a che fare con tre conduttori: fase, neutro, e protezione.  
+Sappiamo che la portata deve essere maggiore o uguale alla corrente di impiego $I_b \le I_z$ ovvero $23.5 \le I_z$. Troviamo la sezione dei cavi tenendo presente che si considerano solo i conduttori attivi, che nel caso di un circuito monofase sono fase e neutro.  
 
 ![sezione_posa_a4](https://user-images.githubusercontent.com/7195133/219975398-f5568604-8d6a-4276-8d9a-329acd7c6068.jpg)![riduzione_posa_4a](https://user-images.githubusercontent.com/7195133/219975479-75a3c157-280a-456c-8606-76bd012e1b4e.jpg)  
 
-Con 3 conduttori in **EPR** si ha allora una sezione di $4\ mm^2$ una portata $I_0 = 35\ A$ ed un coefficiente di riduzione per cavi installati a fascio $k_2 = 0.7$ considerando un $k_1$ unitario.  
+Con 2 conduttori in **EPR** si puo allora scegliere una sezione di $2.5\ mm^2$ per una portata di $I_0 = 30\ A$ ed un coefficiente di riduzione per cavi installati a fascio $k_2 = 0.8$ considerando un $k_1$ unitario.  
 
-$I_z = I_0 \cdot k_1 \cdot k_2 = 35 \cdot 0.7 = 24.5\ A$  
+$I_z = I_0 \cdot k_1 \cdot k_2 = 30 \cdot 0.8 = 24\ A$  
 
-Un cavo di questo tipo soddisfa quindi la condizione $I_b \le I_z$ ovvero $23.5 \le 24.5$
+Un cavo di questo tipo soddisfa quindi la condizione $I_b \le I_z$ ovvero $23.5 \le 24$
