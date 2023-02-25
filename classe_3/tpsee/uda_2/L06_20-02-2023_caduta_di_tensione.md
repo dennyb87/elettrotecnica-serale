@@ -10,8 +10,15 @@ $\Delta V = \dfrac{\Delta V_{pc} \cdot V_n}{100} = \dfrac{4 \cdot 230}{100} = 9.
 
 ## Simulazione  
 
-Cerchiamo ora di determinare la sezione dei cavi isolati in **PVC** di lunghezza $50\ m$ di un circuito monofase posato insieme ad altri 3 circuiti monofase gia' presenti. Supponiamo una posa $4$ a parete con canala in **PVC**. Tenendo presente che bisogna soddisfare le condizioni:  
+Cerchiamo ora di determinare la sezione dei cavi isolati in **PVC** di lunghezza $50\ m$ di un circuito monofase posato insieme ad altri 3 circuiti monofase gia' presenti. Supponiamo una posa $4$ a parete con canala in **PVC** e che il circuito debba alimentare $3$ prese da $16\ A$. Teniamo ora presente che bisogna soddisfare le condizioni:  
 
 $I_b \le I_z$  
 
-$\Delta V \le \Delta V_{max}$
+$\Delta V \le \Delta V_{max}$  
+
+Calcoliamo allora la potenza convenzionale supponendo $\cos \varphi = 0.9$ ed un $K_p = 0.2$  
+
+$P_c = N \cdot V_n \cdot I_{max} \cdot \cos \varphi \cdot K_p = 3 \cdot 230 \cdot 16 \cdot 0.9 \cdot 0.2 = 1987.2\ W$  
+
+$I_b = \dfrac{P_c}{V_n \cdot \cos \varphi} = \dfrac{1987.2}{230 \cdot 0.9} = 9.6\ A$  
+
