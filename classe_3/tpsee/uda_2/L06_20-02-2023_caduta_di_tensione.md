@@ -34,4 +34,18 @@ Si utlizza un $K_1$ unitario, mentre un fattore $K_2 = 0.65$ in quanto stiamo po
 
 $I_z = I_0 \cdot K_1 \cdot K_2 = 17.5 \cdot 0.65 = 11.375\ A$  
 
-Questa portata soddisferebbe in teoria la condizione $I_b \le I_z$  ovvero $9.6 \le 11.375$. Se pero' andiamo a stimare la caduta di tensione per tale cavo di $50\ m$ di lunghezza si nota immediatamente che la sezione non e' appropriata.
+Questa portata soddisferebbe in teoria la condizione $I_b \le I_z$  ovvero $9.6 \le 11.375$. 
+
+## Metodo della caduta di tensione unitaria
+
+Supponiamo ora una caduta massima del 2% ovvero:  
+
+$\Delta V = \dfrac{\Delta V_{pc} \cdot V_n}{100} = \dfrac{2 \cdot 230}{100} = 4.6\ V$  
+
+Utilizziamo quindi il metodo per il calcolo della caduta di tensione unitaria.    
+
+$u = \dfrac{\Delta V \cdot 1000}{I_b \cdot L} = \dfrac{4.6 \cdot 1000}{9.6 \cdot 50} \simeq 9.58\ \frac{mV}{Am}$    
+
+![cadute_tensione_unitarie](https://user-images.githubusercontent.com/7195133/221426936-89e77f33-8603-42f3-86c9-f624d54dafff.jpg)
+
+Vediamo allora che stimando per esempio un $\cos \varphi\ 0.8$, per i nostri cavi unipolari monofase $50\ m$ ci serve quindi una sezione di $4\ mm^2$ in quanto e' quella che piu' si avvicina alla caduta unitaria calcolata $9.58 \simeq 9.08$. I $2\ mm^2$ ricavati dal calcolo della portata, pur supportando la corrente di impiego, non sono sufficienti per ottenere una caduta massima di $4.6\ V$.
