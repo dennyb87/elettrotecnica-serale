@@ -22,3 +22,16 @@ $P_c = N \cdot V_n \cdot I_{max} \cdot \cos \varphi \cdot K_p = 3 \cdot 230 \cdo
 
 $I_b = \dfrac{P_c}{V_n \cdot \cos \varphi} = \dfrac{1987.2}{230 \cdot 0.9} = 9.6\ A$  
 
+Calcoliamo ora la portata supponendo di non dover necessariamente supportare $16\ A$.  
+
+![posa_4](https://user-images.githubusercontent.com/7195133/221414018-636cce15-b258-4b5e-8cc1-6f02baf05f4d.jpg)  
+
+Per un circuito monofase, quindi 2 conduttori caricati, isolati in **PVC** potrebbe essere appropriata una sezione da $1.5\ mm^2$ quindi $I_0 = 17.5\ A$.  
+
+![correzione_k2](https://user-images.githubusercontent.com/7195133/221414203-e2da581b-68e9-4f2b-b08f-630494cd40c3.jpg)  
+
+Si utlizza un $K_1$ unitario, mentre un fattore $K_2 = 0.65$ in quanto stiamo posando un circuito in una canala con 3 circuiti gia' presenti.  
+
+$I_z = I_0 \cdot K_1 \cdot K_2 = 17.5 \cdot 0.65 = 11.375\ A$  
+
+Questa portata soddisferebbe in teoria la condizione $I_b \le I_z$  ovvero $9.6 \le 11.375$. Se pero' andiamo a stimare la caduta di tensione per tale cavo di $50\ m$ di lunghezza si nota immediatamente che la sezione non e' appropriata.
