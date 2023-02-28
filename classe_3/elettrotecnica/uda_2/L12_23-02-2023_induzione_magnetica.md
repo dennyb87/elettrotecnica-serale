@@ -1,6 +1,6 @@
 # Induzione magnetica  
 
-![forces_on_magnetic_needle](https://user-images.githubusercontent.com/7195133/221997566-8a6fc689-7633-4312-8531-c2b9e7f116fa.jpg)  
+![forces_on_magnetic_needle](https://user-images.githubusercontent.com/7195133/222002443-3b85d307-88cc-4897-9d9c-e0779d91c89e.jpg)  
 
 In figura si hanno due masse magnetiche $M_N$ ed $M_S$ ai lati, ed un sensore anch'esso costituito da due masse magnetiche di piccola entita' $m_n$ ed $m_s$. Si notano allora una coppia di forze, uguali ed opposte. La prima formata dalla somma delle forze agenti su $m_n$. L'altra in modo del tutto analogo e' invece la risultante delle forze agenti su $m_s$.  
 
