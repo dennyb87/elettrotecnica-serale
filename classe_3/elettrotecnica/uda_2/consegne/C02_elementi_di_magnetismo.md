@@ -26,11 +26,13 @@ L'induzione magnetica dipende quindi dalla forza magnetizzante $H$ e dalla perme
 
 $B = \mu \cdot H$  
 
-La permeabilita assoluta del materiale e' il prodotto tra la permeabilita' assoluta del vuoto $\mu_0$ e quella relativa $\mu_r$ quest'ultima e' semplicemente il rapporto tra la permeabilita' del materiale e quella del vuoto.  
+La permeabilita assoluta del materiale e' il prodotto tra la permeabilita' del vuoto $\mu_0$ e quella relativa $\mu_r$ quest'ultima e' semplicemente il rapporto tra la permeabilita' del materiale e quella del vuoto.    
 
 $\mu = \mu_r \cdot \mu_0$  
 
 $\mu_r = \dfrac{\mu}{\mu_0}$  
+
+L'unita' di misura della permeabilita' di un materiale o del vuoto, e' l'henry al metro $H/m$, mentre la permeabilita' relativa, essendo un rapporto e' adimensionale.  
 
 ## Q5 - Con riferimento alla seguente figura fornire i valori di permeabilita' magnetica di materiali diamagnetici, paramagnetici e ferromagnetici  
 
