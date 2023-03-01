@@ -54,7 +54,7 @@ Il campo di induzione magnetica terrestre e' nell'ordine dei *microtesla*, mentr
 
 ## Q8 - Valutare la forza magnetizzante H e l'induzione magnetica B di un filo indefinito percorso da corrente I = 100 A nei seguenti punti: P1 distante dal filo 1m; P2 distante dal filo 10 m; P3 distante dal filo 100 m.  
 
-Supponiamo che il mezzo in cui il filo e' immerso sia il vuoto, allora sapendo che $H = \dfrac{I}{2\pi r}$ allora si ha che:  
+Supponiamo che il mezzo in cui il filo e' immerso sia il vuoto, allora sapendo che $H = \dfrac{I}{2\pi r}$ si ha che:  
 
 $H_{P1} = \dfrac{100}{2\pi} = 15.92\ A/m$  
 
