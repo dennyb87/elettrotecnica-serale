@@ -20,6 +20,18 @@ Nel 1820 dal fisico danese Hans Christian Oersted si accorse che e' possibile in
 
 ## Q4 - Quale e' il legame tra forza magnetizzante [H] e induzione magnetica [B] Che cosa si intende per permeabilità magnetica assoluta, del vuoto e relativa.  
 
+La forza magnetizzande e l'induzione magnetica sono legate dalla relazione causa/effetto, dove la forza magnetizzante e' la causa, mentre l'induzione magnetica e' l'effetto. Con la stessa forza magnetizzante si possono per esempio ottenere diversi tipi di induzione magnetica in dipendenza del materiale in esame.  
+
+L'induzione magnetica dipende quindi dalla forza magnetizzante $H$ e dalla permeabilita' magnetica del materiale, o *permeabilita' assoluta* $\mu$. Questa esprime l'attitudine del materiale a magnetizzarsi in presenza di un campo magnetico. Si ha allora che:  
+
+$B = \mu \cdot H$  
+
+La permeabilita assoluta del materiale e' il prodotto tra la permeabilita' assoluta del vuoto $\mu_0$ e quella relativa $\mu_r$ quest'ultima e' semplicemente il rapporto tra la permeabilita' del materiale e quella del vuoto.  
+
+$\mu = \mu_r \cdot \mu_0$  
+
+$\mu_r = \dfrac{\mu}{\mu_0}$  
+
 ## Q5 - Con riferimento alla seguente figura fornire i valori di permeabilita' magnetica di materiali diamagnetici, paramagnetici e ferromagnetici  
 
 ![c02_permeabilita_maegnetica_q5](https://user-images.githubusercontent.com/7195133/222215367-7fd77513-42dc-4ec4-b9a5-a4ce97bd396f.jpg)
