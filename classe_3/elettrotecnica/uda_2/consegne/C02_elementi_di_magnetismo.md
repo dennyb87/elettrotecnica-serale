@@ -50,6 +50,8 @@ Il campo di induzione magnetica terrestre e' nell'ordine dei *microtesla*, mentr
 
 ## Q7 - Disegnare le linee di forza del campo di induzione magnetica B nei seguenti casi: a) barra magnetica; b) filo indefinito percorso da corrente; c) spira percorsa da corrente; d) solenoide  
 
+![c02_linee_di_forza_q7](https://user-images.githubusercontent.com/7195133/222269984-3ab35ac1-21dd-46f1-9cfc-29f7797928a1.jpg)  
+
 ## Q8 - Valutare la forza magnetizzante H e l'induzione magnetica B di un filo indefinito percorso da corrente I = 100 A nei seguenti punti: P1 distante dal filo 1m; P2 distante dal filo 10 m; P3 distante dal filo 100 m.  
 
 ## Q9 - Disegnare la struttura e descrivere il funzionamento di un elettromagnete.  
