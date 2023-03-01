@@ -1,5 +1,11 @@
 ## Q1 - Che cosa si intende per magnetismo? Descrivi le proprietà dei magneti naturali [calamite] e del campo magnetico terrestre.  
 
+Per magnetismo si intende quel fenomeno per cui una corrente, quindi un movimento ordinato di cariche elettriche, produce una forza di attrazione o repulsione tra due o piu' entita'.  
+
+I magneti naturali presentano un naturale orientamento parziale delle orbite elettroniche, risultando quindi in una corrente che causa un campo magnetico, rendendoli appunto delle calamite naturali. Questi come per esempio la magnetite hanno la proprieta' di attirare il ferro, e possono essere usati per creare magneti artificiali attraverso l'induzione.  
+
+Anche la terra si comporta come un gigantesco magnete, il cui campo magnetico, che va dai $0.3$ ai $0.7\ \mu T$, si suppone sia provocato da correnti elettriche interne in prossimita' del nucleo. Va precisato che i poli magnetici non coincidono con quelli geografici, questo diventa chiaro una volta compreso che i poli opposti si attraggono, mentre i poli uguali si respingono, allora se l'ago della bussola punta verso il nord geografico, significa che sta indicando il sud magnetico.  
+
 ## Q2 - Disegnare le linee di forza del campo magnetico prodotto da un magnete naturale e spiegarne il significato facendo riferimento a ciascuno dei seguenti sensori di campo magnetico: a) limatura di ferro; b) ago magnetico  
 
 ## Q3 - Descrivi brevemente l’esperimento di Oersted [1820] che mise in evidenza il legame tra corrente elettrica e magnetismo.  
