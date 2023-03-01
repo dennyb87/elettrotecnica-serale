@@ -8,6 +8,12 @@ Anche la terra si comporta come un gigantesco magnete, il cui campo magnetico, c
 
 ## Q2 - Disegnare le linee di forza del campo magnetico prodotto da un magnete naturale e spiegarne il significato facendo riferimento a ciascuno dei seguenti sensori di campo magnetico: a) limatura di ferro; b) ago magnetico  
 
+![c02_magnete_naturale_q2](https://user-images.githubusercontent.com/7195133/222226219-602aedb9-8a38-4809-ae6b-0a8ac8c9a0ca.jpg)  
+
+Se si immerge un magnete nella limatura di ferro si puo' osservare che la limatura si orienta seguendo le linee di campo disegnate in figura. In particolare si puo' notare che la limatura si addensa alle estremita' della calamita, questi punti estremi sono chiamati poli.  
+
+In modo analogo, un ago magnetico, come ad esempio quello della bussola, se immerso in un campo magnetico, si orientera' secono le linee di campo. Il polo nord dell'ago puntera' quindi verso il polo sud della calamita, mentro il polo sud dell'ago puntera' il nord della calamita.  
+
 ## Q3 - Descrivi brevemente l’esperimento di Oersted [1820] che mise in evidenza il legame tra corrente elettrica e magnetismo.  
 
 ## Q4 - Quale e' il legame tra forza magnetizzante [H] e induzione magnetica [B] Che cosa si intende per permeabilità magnetica assoluta, del vuoto e relativa.  
