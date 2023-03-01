@@ -36,7 +36,13 @@ L'unita' di misura della permeabilita' di un materiale o del vuoto, e' l'henry a
 
 ## Q5 - Con riferimento alla seguente figura fornire i valori di permeabilita' magnetica di materiali diamagnetici, paramagnetici e ferromagnetici  
 
-![c02_permeabilita_maegnetica_q5](https://user-images.githubusercontent.com/7195133/222215367-7fd77513-42dc-4ec4-b9a5-a4ce97bd396f.jpg)
+![c02_permeabilita_maegnetica_q5](https://user-images.githubusercontent.com/7195133/222215367-7fd77513-42dc-4ec4-b9a5-a4ce97bd396f.jpg)  
+
+La permeabilita' relativa del vuoto e' ovviamente uguale ad 1 visto che viene appunto usato come riferimento. In questo caso $B = B_0 = \mu_0 \cdot H$  
+
+I materiali diamagnetici e paramagnetici hanno una permeabilita' relativa pressoche' uguale ad 1. Piu' precisamente quelli diamagnetici come il rame hanno $\mu_r \le 1$ mentre i paramagnetici come l'alluminio $\mu_r \ge 1$. I ferromagnetici, come il ferro, presentano invece un'alta permeabilita' relativa, molto maggiore di 1, anche centinaia di volte $\mu_r \gg 1$. Quando si e' in presenza di un materiale, allora la permeabilita' relativa puo' aumentare o diminuire l'induzione:  
+
+$B = \mu_r \cdot B_0 = \mu_r \cdot \mu_0 \cdot H$  
 
 ## Q6 - Quale e' l’ordine di grandezza del campo di induzione magnetica nel caso di: a) magnetismo terrestre; b) magnete naturale; c) elettromagnete  
 
