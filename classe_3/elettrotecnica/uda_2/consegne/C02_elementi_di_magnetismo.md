@@ -46,7 +46,7 @@ $B = \mu_r \cdot B_0 = \mu_r \cdot \mu_0 \cdot H$
 
 ## Q6 - Quale e' l'ordine di grandezza del campo di induzione magnetica nel caso di: a) magnetismo terrestre; b) magnete naturale; c) elettromagnete  
 
-Il campo di induzione magnetica terrestre e' nell'ordine dei *microtesla*, mentre quello di un magnete naturale puo' arrivare nell'ordine dei *tesla*. Con gli elettromagneti infine si possono generare campi di induzione magnetica nell'ordine dei *kilotesla*.    
+Il campo di induzione magnetica terrestre e' nell'ordine dei *microtesla*, mentre quello di un magnete naturale puo' arrivare nell'ordine dei ??? Con gli elettromagneti infine si possono generare campi di induzione magnetica nell'ordine dei ???  
 
 ## Q7 - Disegnare le linee di forza del campo di induzione magnetica B nei seguenti casi: a) barra magnetica; b) filo indefinito percorso da corrente; c) spira percorsa da corrente; d) solenoide  
 
