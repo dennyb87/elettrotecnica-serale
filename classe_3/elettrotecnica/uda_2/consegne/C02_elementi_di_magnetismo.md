@@ -68,6 +68,10 @@ $B_{P3} = \dfrac{B_{P1}}{100} = 0.2\ \mu T$
 
 ## Q9 - Disegnare la struttura e descrivere il funzionamento di un elettromagnete.  
 
+Un elettromagnete e' un magnete artificiale temporaneo costituito da un conduttore avvolto attorno ad un nucleo ferromagnetico. Temporaneo perche' il campo di induzione magnetica che genera esiste solo nel momento in cui si fa passare una corrente nell'avvolgimento; nel momento in cui questa viene a mancare, anche il campo risulta pressoche' nullo, se non per una piccola magnetizzazione residua.  
+
+Grazie al nucleo ferromagnetico si ottiene un'induzione magnetica significativa in quanto, questo tipo di materiale, ha la proprieta' di orientare naturalmente le orbite elettroniche in direzione del campo magnetizzante generato dalla corrente.  
+
 ## Q10 - Che cosa e' un rele' magnetico? Descriverne il funzionamento e l’utilizzo facendo riferimento alla seguente figura.  
 
 ![c02_rele_magnetico_q10](https://user-images.githubusercontent.com/7195133/222216623-26f8b545-76d3-4d47-b696-57ac1f39449b.jpg)  
