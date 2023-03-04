@@ -2,7 +2,7 @@
 
 Per magnetismo si intende quel fenomeno per cui una corrente, quindi un movimento ordinato di cariche elettriche, produce una forza di attrazione o repulsione tra due o piu' entita'.  
 
-I magneti naturali presentano appunto un naturale orientamento parziale delle orbite elettroniche, risultando in una corrente che causa un campo magnetico, rendendoli quindi delle calamite naturali. Questi, come quelli artificiali, presentano due poli, chiamati per convenzione polo nord e polo sud, le cui linee di forza si trovano in ogni punto dello spazio, ma con intensita' diverse, maggiore ai poli, e minore mano a mano che ci si allontana da questi.  
+I magneti naturali presentano appunto un naturale orientamento parziale delle orbite elettroniche, risultando in una corrente che causa un campo magnetico, rendendoli quindi delle calamite naturali. Questi, come quelli artificiali, presentano due poli, chiamati per convenzione polo nord e polo sud, punti in cui le linee di forza si fanno piu' intense, la loro intensita' si riduce mano a mano che ci si allontana da questi.  
 
 I magneti naturali come per esempio la magnetite hanno la proprieta' di attirare il ferro, e possono essere usati per creare magneti artificiali attraverso l'induzione.  
 
