@@ -76,7 +76,9 @@ $H_{P3} = H_{P1} \cdot \dfrac{1}{100} = 0.1592\ A/m \implies B_{P3} = \dfrac{B_{
 
 Un elettromagnete e' un magnete artificiale temporaneo costituito da un conduttore avvolto attorno ad un nucleo che e' genericamente di materiale ferromagnetico, ma potrebbe anche essere di un altro materiale e.g. aria, vuoto, etc...
 
-Temporaneo perche' il campo di induzione magnetica che genera esiste solo nel momento in cui si fa passare una corrente nell'avvolgimento; nel momento in cui questa viene a mancare, anche il campo risulta nullo, mentra nel caso di nucleo ferromagnetico si puo' osservare una trascurabile magnetizzazione residua.  
+Temporaneo perche' il campo di induzione magnetica che genera esiste solo nel momento in cui si fa passare una corrente nell'avvolgimento; questo si presenta con delle linee di forza del tutto analoghe a quelle di una normale calamita, piu' intense all'interno dell'avvolgimento e ai poli, e meno intense all'esterno, e quanto piu' ci si allontana dai poli.  
+
+Nel momento in cui la corrente viene a mancare, anche il campo risulta nullo, nel caso di nucleo ferromagnetico si puo' osservare una trascurabile magnetizzazione residua.  
 
 Grazie al nucleo ferromagnetico si ottiene un'induzione magnetica significativa in quanto, questo tipo di materiale, ha la proprieta' di orientare naturalmente le orbite elettroniche in direzione del campo magnetizzante generato dalla corrente.  
 
