@@ -64,11 +64,11 @@ $H_{P1} = \dfrac{100}{2\pi} = 15.92\ A/m$
 
 $B_{P1} = \mu_0 \cdot H_{P1} = 4\pi \cdot 10^{-7} \cdot 15.92 \simeq 2 \cdot 10^{-5}\ T = 20\ \mu T$  
 
-L'induzione magnetica nei punti $P2$ e $P3$ sara' allora:  
+La forza magnetizzante e l'induzione magnetica nei punti $P2$ e $P3$ saranno allora:  
 
-$B_{P2} = \dfrac{B_{P1}}{10} = 2\ \mu T$  
+$H_{P2} = H_{P1} \cdot \dfrac{1}{10} = 1.592\ A/m \implies B_{P2} = \dfrac{B_{P1}}{10} = 2\ \mu T$  
 
-$B_{P3} = \dfrac{B_{P1}}{100} = 0.2\ \mu T$  
+$H_{P3} = H_{P1} \cdot \dfrac{1}{100} = 0.1592\ A/m \implies B_{P3} = \dfrac{B_{P1}}{100} = 0.2\ \mu T$  
 
 ## Q9 - Disegnare la struttura e descrivere il funzionamento di un elettromagnete.  
 
