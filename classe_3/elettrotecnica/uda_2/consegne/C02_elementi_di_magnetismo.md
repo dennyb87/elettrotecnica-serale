@@ -91,3 +91,18 @@ Devo dire pero' che questa immagine sembra suggerire piuttosto che sia la barra 
 ## Q12 - Una spira di superficie S = 100 cm2 e' immersa in un campo magnetico uniforme B di valore 10 mT. Valutare il flusso magnetico nei quattro casi indicati in figura.  
 
 ![c02_flusso_magnetico_q12](https://user-images.githubusercontent.com/7195133/222217535-5519ad36-3c56-40f5-8fb0-3cf0979233ad.jpg)  
+
+$S = 100\ cm^2 = 100 \cdot 10^{-4}\ m^2 = 10^{-2}\ m^2 = 0.01\ m^2$  
+$B = 10\ mT = 10 \cdot 10^{-3}\ T = 10^{-2}\ T = 0.01\ T$  
+
+Si nota immediatamente nei casi $b$ e $d$ che l'angolo $\alpha$ tra $\vec{B}$ e $\vec{n}$ e' presumibilmente $90 \degree$. Possiamo allora concludere, anche intuitivamente, che il flusso passante per la superficie della spira e' zero, e questo viene confermato dalla formula per il calcolo del flusso:  
+
+$\phi_{b} = \phi_{d} = |\vec{B}| \cdot S \cdot \cos \alpha = 10^{-2} \cdot 10^{-2} \cdot 0 = 0\ Wb$  
+
+Nel caso $a$ si ha invece un angolo $\alpha$ tra $\vec{B}$ e $\vec{n}$ di $0\degree$ questo significa che $\cos \alpha = 1$ ne consegue allora che:  
+
+$\phi_a = |\vec{B}| \cdot S \cdot \cos \alpha = 10^{-2} \cdot 10^{-2} \cdot 1 = 0.1\ mWb$  
+
+Si ha infine nel caso $c$ un angolo $\alpha$ tra $\vec{B}$ e $\vec{n}$ di $180\degree$ questo significa che $\cos \alpha = -1$ ne consegue allora che:  
+
+$\phi_c = |\vec{B}| \cdot S \cdot \cos \alpha = 10^{-2} \cdot 10^{-2} \cdot -1 = -0.1\ mWb$  
