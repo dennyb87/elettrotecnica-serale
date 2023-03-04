@@ -32,7 +32,7 @@ $\mu = \mu_r \cdot \mu_0$
 
 $\mu_r = \dfrac{\mu}{\mu_0}$  
 
-L'unita' di misura della permeabilita' di un materiale o del vuoto, e' l'henry al metro $H/m$, mentre la permeabilita' relativa, essendo un rapporto e' adimensionale.  
+L'unita' di misura della permeabilita' magnetica, e' l'henry al metro $H/m$, mentre la permeabilita' relativa $\mu_r$ essendo un rapporto tra due grandezze con la stessa unita' di misura, e' adimensionale.  
 
 ## Q5 - Con riferimento alla seguente figura fornire i valori di permeabilita' magnetica di materiali diamagnetici, paramagnetici e ferromagnetici  
 
