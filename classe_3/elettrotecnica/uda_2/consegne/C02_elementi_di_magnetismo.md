@@ -68,7 +68,9 @@ $B_{P3} = \dfrac{B_{P1}}{100} = 0.2\ \mu T$
 
 ## Q9 - Disegnare la struttura e descrivere il funzionamento di un elettromagnete.  
 
-Un elettromagnete e' un magnete artificiale temporaneo costituito da un conduttore avvolto attorno ad un nucleo ferromagnetico. Temporaneo perche' il campo di induzione magnetica che genera esiste solo nel momento in cui si fa passare una corrente nell'avvolgimento; nel momento in cui questa viene a mancare, anche il campo risulta pressoche' nullo, se non per una piccola magnetizzazione residua.  
+Un elettromagnete e' un magnete artificiale temporaneo costituito da un conduttore avvolto attorno ad un nucleo che e' genericamente di materiale ferromagnetico, ma potrebbe anche essere di un altro materiale e.g. aria, vuoto, etc...
+
+Temporaneo perche' il campo di induzione magnetica che genera esiste solo nel momento in cui si fa passare una corrente nell'avvolgimento; nel momento in cui questa viene a mancare, anche il campo risulta nullo, mentra nel caso di nucleo ferromagnetico si puo' osservare una trascurabile magnetizzazione residua.  
 
 Grazie al nucleo ferromagnetico si ottiene un'induzione magnetica significativa in quanto, questo tipo di materiale, ha la proprieta' di orientare naturalmente le orbite elettroniche in direzione del campo magnetizzante generato dalla corrente.  
 
