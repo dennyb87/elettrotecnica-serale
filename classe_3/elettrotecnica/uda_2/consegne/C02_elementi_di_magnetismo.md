@@ -95,7 +95,7 @@ Quando una corrente si presenta nell'avvolgimento, la forza magnetizzante crea u
 
 ## Q11 - Descrivere il funzionamento del circuito per il campanello elettrico schematizzato in figura  
 
-![c02_campanello_elettrico_q11](https://user-images.githubusercontent.com/7195133/222285159-5c338905-0762-4556-bcf6-7dda35bdddca.jpg)   
+![c02_campanello_elettrico_q11](https://user-images.githubusercontent.com/7195133/222930176-42951ba0-c594-4421-a839-cfff2f26b714.jpg)   
 
 L'interruttore $C$ ci permette di chiudere il circuito nel quale comincia a scorrere una corrente causata dal generatore $E$. La corrente che scorre nell'avvolgimento $S$ crea un campo di induzione magnetica che magnetizza ed attrae a se' la barra $A$ su cui e' posto un martelletto $D$ che e' ora in contatto con la campana $G$. A questo punto pero' il circuito si e' aperto in quanto la barra $A$ non e' piu' in contatto con $B$ causando quindi l'interruzione della corrente, e la scomparsa del campo di induzione magnetica in $S$ che lascia libera la barra $A$ tornando nella posizione originale, quindi di nuovo in contatto con $B$ dando vita ad un altro ciclo.  
 
