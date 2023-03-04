@@ -1,3 +1,6 @@
+# ELEMENTI DI MAGNETISMO  
+#### FAD classe 3 - UDA 2 QUESITI  
+
 ## Q1 - Che cosa si intende per magnetismo? Descrivi le proprietà dei magneti naturali [calamite] e del campo magnetico terrestre.  
 
 Per magnetismo si intende quel fenomeno per cui una corrente, quindi un movimento ordinato di cariche elettriche, produce una forza di attrazione o repulsione tra due o piu' entita'.  
@@ -105,14 +108,14 @@ Devo dire pero' che questa immagine sembra suggerire piuttosto che sia il martel
 $S = 100\ cm^2 = 100 \cdot 10^{-4}\ m^2 = 10^{-2}\ m^2 = 0.01\ m^2$  
 $B = 10\ mT = 10 \cdot 10^{-3}\ T = 10^{-2}\ T = 0.01\ T$  
 
-Si nota immediatamente nei casi $b$ e $d$ che l'angolo $\alpha$ tra $\vec{B}$ e $\vec{n}$ e' presumibilmente $90 \degree$. Possiamo allora concludere, anche intuitivamente, che il flusso passante per la superficie della spira e' zero, e questo viene confermato dalla formula per il calcolo del flusso:  
+Si nota immediatamente nei casi $b$ e $d$ che l'angolo $\alpha$ tra $\vec{B}$ e $\vec{n}$ e' presumibilmente $90^{\circ}$. Possiamo allora concludere, anche intuitivamente, che il flusso passante per la superficie della spira e' zero, e questo viene confermato dalla formula per il calcolo del flusso:  
 
 $\phi_{b} = \phi_{d} = |\vec{B}| \cdot S \cdot \cos \alpha = 10^{-2} \cdot 10^{-2} \cdot 0 = 0\ Wb$  
 
-Nel caso $a$ si ha invece un angolo $\alpha$ tra $\vec{B}$ e $\vec{n}$ di $0\degree$ questo significa che $\cos \alpha = 1$ ne consegue allora che:  
+Nel caso $a$ si ha invece un angolo $\alpha$ tra $\vec{B}$ e $\vec{n}$ di $0^{\circ}$ questo significa che $\cos \alpha = 1$ ne consegue allora che:  
 
 $\phi_a = |\vec{B}| \cdot S \cdot \cos \alpha = 10^{-2} \cdot 10^{-2} \cdot 1 = 0.1\ mWb$  
 
-Si ha infine nel caso $c$ un angolo $\alpha$ tra $\vec{B}$ e $\vec{n}$ di $180\degree$ questo significa che $\cos \alpha = -1$ ne consegue allora che:  
+Si ha infine nel caso $c$ un angolo $\alpha$ tra $\vec{B}$ e $\vec{n}$ di $180^{\circ}$ questo significa che $\cos \alpha = -1$ ne consegue allora che:  
 
 $\phi_c = |\vec{B}| \cdot S \cdot \cos \alpha = 10^{-2} \cdot 10^{-2} \cdot -1 = -0.1\ mWb$  
