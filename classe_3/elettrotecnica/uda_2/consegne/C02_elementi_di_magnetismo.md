@@ -2,7 +2,9 @@
 
 Per magnetismo si intende quel fenomeno per cui una corrente, quindi un movimento ordinato di cariche elettriche, produce una forza di attrazione o repulsione tra due o piu' entita'.  
 
-I magneti naturali presentano un naturale orientamento parziale delle orbite elettroniche, risultando quindi in una corrente che causa un campo magnetico, rendendoli appunto delle calamite naturali. Questi come per esempio la magnetite hanno la proprieta' di attirare il ferro, e possono essere usati per creare magneti artificiali attraverso l'induzione.  
+I magneti naturali presentano appunto un naturale orientamento parziale delle orbite elettroniche, risultando in una corrente che causa un campo magnetico, rendendoli appunto delle calamite naturali. I magneti naturali come quelli artificiali, presentano quindi due poli, chiamati per convenzione polo nord e polo sud, le cui linee di forza si trovano in ogni punto dello spazio, ma con intensita' diverse, maggiore ai poli, e minore mano a mano che ci si allontana da questi.  
+
+I magneti naturali come per esempio la magnetite hanno la proprieta' di attirare il ferro, e possono essere usati per creare magneti artificiali attraverso l'induzione.  
 
 Anche la terra si comporta come un gigantesco magnete, il cui campo magnetico, che va dai $0.3$ ai $0.7\ \mu T$, si suppone sia provocato da correnti elettriche interne in prossimita' del nucleo. Va precisato che i poli magnetici non coincidono con quelli geografici, questo diventa chiaro una volta compreso che i poli opposti si attraggono, mentre i poli uguali si respingono, allora se l'ago della bussola punta verso il nord geografico, significa che sta indicando il sud magnetico.  
 
@@ -79,6 +81,10 @@ Grazie al nucleo ferromagnetico si ottiene un'induzione magnetica significativa 
 ## Q10 - Che cosa e' un rele' magnetico? Descriverne il funzionamento e l’utilizzo facendo riferimento alla seguente figura.  
 
 ![c02_rele_magnetico_q10](https://user-images.githubusercontent.com/7195133/222216623-26f8b545-76d3-4d47-b696-57ac1f39449b.jpg)  
+
+Il rele' magnetico e' essenzialemente un interruttore azionato da un campo di induzione magnetica causato da una piccola corrente di controllo che scorre in un avvolgimento di nucleo ferromagnetico.  
+
+
 
 ## Q11 - Descrivere il funzionamento del circuito per il campanello elettrico schematizzato in figura  
 
