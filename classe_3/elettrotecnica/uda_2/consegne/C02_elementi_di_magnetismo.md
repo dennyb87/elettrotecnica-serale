@@ -23,7 +23,7 @@ Le linee di forza rappresentano quindi la direzione ed il verso della forza a cu
 
 ## Q3 - Descrivi brevemente l’esperimento di Oersted [1820] che mise in evidenza il legame tra corrente elettrica e magnetismo.  
 
-Nel 1820 dal fisico danese Hans Christian Oersted si accorse che e' possibile influenzare un ago magnetico nelle vicinanze di un conduttore quando questo e' attraversato da corrente, mettendo appunto in evidenza la relazione tra corrente elettrica e campo magnetico.  
+Nel 1820 il fisico danese Hans Christian Oersted si accorse che e' possibile influenzare un ago magnetico nelle vicinanze di un conduttore quando questo e' attraversato da corrente, mettendo appunto in evidenza la relazione tra corrente elettrica e campo magnetico.  
 
 ## Q4 - Quale e' il legame tra forza magnetizzante [H] e induzione magnetica [B] Che cosa si intende per permeabilità magnetica assoluta, del vuoto e relativa.  
 
