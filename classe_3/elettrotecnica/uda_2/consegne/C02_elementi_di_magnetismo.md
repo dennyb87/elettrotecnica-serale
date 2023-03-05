@@ -99,7 +99,7 @@ Quando una corrente si presenta nell'avvolgimento, la forza magnetizzante crea u
 
 L'interruttore $C$ ci permette di chiudere il circuito nel quale comincia a scorrere una corrente causata dal generatore $E$. La corrente che scorre nell'avvolgimento $S$ crea un campo di induzione magnetica che magnetizza ed attrae a se' la barra $A$ su cui e' posto un martelletto $D$ che e' ora in contatto con la campana $G$. A questo punto pero' il circuito si e' aperto in quanto la barra $A$ non e' piu' in contatto con $B$ causando quindi l'interruzione della corrente, e la scomparsa del campo di induzione magnetica in $S$ che lascia libera la barra $A$ tornando nella posizione originale, quindi di nuovo in contatto con $B$ dando vita ad un altro ciclo.  
 
-Devo dire pero' che questa immagine sembra suggerire piuttosto che sia il martelletto $D$ a piegarsi, ma questo andrebbe in contraddizione con cio' che siappiamo sul campanello elettrico, e quindi suppongo sia semplicemente stato rappresentato in modo controintuitivo.  
+Devo dire pero' che questa immagine sembra suggerire che il movimento della barra $A$ sia impossibile e che sia piuttosto il martelletto $D$ a piegarsi, ma questo andrebbe in contraddizione con cio' che siappiamo sul campanello elettrico, e quindi suppongo sia semplicemente stato rappresentato in modo controintuitivo.  
 
 ## Q12 - Una spira di superficie S = 100 cm2 e' immersa in un campo magnetico uniforme B di valore 10 mT. Valutare il flusso magnetico nei quattro casi indicati in figura.  
 
