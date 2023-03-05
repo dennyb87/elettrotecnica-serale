@@ -19,7 +19,7 @@ Se si immerge un magnete nella limatura di ferro si puo' osservare che la limatu
 
 In modo analogo, un ago magnetico, come ad esempio quello della bussola, se immerso in un campo magnetico, si orientera' secono le linee di campo. Il polo nord dell'ago puntera' quindi verso il polo sud della calamita, mentro il polo sud dell'ago puntera' il nord della calamita.  
 
-Le linee di forza rappresentano quindi la direzione ed il verso della forza a cui una massa magnetica sarebbe soggetta se posta in quel punto dello spazio, per convezione si sceglie il verso della forza prodotta dal polo nord del magnete, su un monopolo nord magnetico immaginario (immaginario in quanto non e' possible in pratica, per quanto ne sappiamo, produrne uno).  
+Le linee di forza rappresentano quindi la direzione ed il verso della forza a cui una massa magnetica sarebbe soggetta se posta in quel punto dello spazio, per convenzione si sceglie il verso della forza prodotta dal polo nord del magnete, su un monopolo nord magnetico immaginario (immaginario in quanto non e' possible in pratica, per quanto ne sappiamo, produrne uno).  
 
 ## Q3 - Descrivi brevemente l’esperimento di Oersted [1820] che mise in evidenza il legame tra corrente elettrica e magnetismo.  
 
