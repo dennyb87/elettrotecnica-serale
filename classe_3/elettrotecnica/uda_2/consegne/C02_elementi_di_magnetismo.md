@@ -91,7 +91,7 @@ Grazie al nucleo ferromagnetico si ottiene un'induzione magnetica significativa 
 
 Il rele' magnetico e' essenzialemente un interruttore azionato da un campo di induzione magnetica causato da una piccola corrente di controllo che scorre in un avvolgimento di nucleo ferromagnetico.  
 
-Quando una corrente si presenta nell'avvolgimento, la forza magnetizzante crea un campo di induzione magnetica nel nucleo rendendolo a tutti gli effetti una calamita, che a sua volta attrae a se il nucleo mobile, questo porta infine con se il contatto mobile chiudendo il circuito $X,\ Y$.  
+Quando una corrente si presenta nell'avvolgimento, la forza magnetizzante crea un campo di induzione magnetica nel *nucleo magnetico* rendendolo a tutti gli effetti una calamita, che a sua volta attrae a se il *nucleo mobile*, questo porta infine con se il contatto mobile chiudendo il circuito $X,\ Y$.  
 
 ## Q11 - Descrivere il funzionamento del circuito per il campanello elettrico schematizzato in figura  
 
