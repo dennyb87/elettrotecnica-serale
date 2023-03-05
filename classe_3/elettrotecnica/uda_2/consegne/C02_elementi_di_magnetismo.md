@@ -45,7 +45,7 @@ L'unita' di misura della permeabilita' magnetica, e' l'henry al metro $H/m$, men
 
 ![c02_permeabilita_maegnetica_q5](https://user-images.githubusercontent.com/7195133/222215367-7fd77513-42dc-4ec4-b9a5-a4ce97bd396f.jpg)  
 
-La permeabilita' relativa del vuoto e' ovviamente uguale ad 1 visto che viene appunto usato come riferimento. In questo caso $B = B_0 = \mu_0 \cdot H$  
+La permeabilita' relativa del vuoto e' ovviamente uguale ad 1 visto che viene appunto usato come riferimento. Nel caso del vuoto allora $B = B_0 = \mu_0 \cdot H$  
 
 I materiali diamagnetici e paramagnetici hanno una permeabilita' relativa pressoche' uguale ad 1. Piu' precisamente quelli diamagnetici come il rame hanno $\mu_r \le 1$ mentre i paramagnetici come l'alluminio $\mu_r \ge 1$. I ferromagnetici, come il ferro, presentano invece un'alta permeabilita' relativa, molto maggiore di 1, anche centinaia di volte $\mu_r \gg 1$. Quando si e' in presenza di un materiale, allora la permeabilita' relativa puo' aumentare o diminuire l'induzione:  
 
