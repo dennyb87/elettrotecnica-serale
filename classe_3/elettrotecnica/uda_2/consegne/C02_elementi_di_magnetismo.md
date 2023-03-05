@@ -93,6 +93,8 @@ Il rele' magnetico e' essenzialemente un interruttore azionato da un campo di in
 
 Quando una corrente si presenta nell'avvolgimento, la forza magnetizzante crea un campo di induzione magnetica nel *nucleo magnetico* rendendolo a tutti gli effetti una calamita, che a sua volta attrae a se il *nucleo mobile*, questo porta infine con se il contatto mobile chiudendo il circuito $X,\ Y$.  
 
+Il rele' permette quindi grazie ad una piccola corrente detta di *controllo* di azionare un interruttore di un circuito di *potenza* anche a distanze significative. In questo modo, data la piccola entita' della corrente di controllo, e' possibile utilizzare cavi di piccole dimensioni con evidente risparmio di spazio a seconda delle installazioni o comunque di denaro.  
+
 ## Q11 - Descrivere il funzionamento del circuito per il campanello elettrico schematizzato in figura  
 
 ![c02_campanello_elettrico_q11](https://user-images.githubusercontent.com/7195133/222930176-42951ba0-c594-4421-a839-cfff2f26b714.jpg)   
