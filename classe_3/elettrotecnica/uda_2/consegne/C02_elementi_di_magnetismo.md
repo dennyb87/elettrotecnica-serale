@@ -27,7 +27,7 @@ Nel 1820 il fisico danese Hans Christian Oersted si accorse che e' possibile inf
 
 ## Q4 - Quale e' il legame tra forza magnetizzante [H] e induzione magnetica [B] Che cosa si intende per permeabilità magnetica assoluta, del vuoto e relativa.  
 
-La forza magnetizzande e l'induzione magnetica sono legate dalla relazione causa/effetto, dove la forza magnetizzante e' la causa, mentre l'induzione magnetica e' l'effetto. Con la stessa forza magnetizzante si possono per esempio ottenere diversi tipi di induzione magnetica in dipendenza del materiale in esame.  
+La forza magnetizzante e l'induzione magnetica sono legate dalla relazione causa/effetto, dove la forza magnetizzante e' la causa, mentre l'induzione magnetica e' l'effetto. Con la stessa forza magnetizzante si possono per esempio ottenere diversi tipi di induzione magnetica in dipendenza del materiale in esame.  
 
 L'induzione magnetica dipende quindi dalla forza magnetizzante $H$ e dalla permeabilita' magnetica del materiale, o *permeabilita' assoluta* $\mu$. Questa esprime l'attitudine del materiale a magnetizzarsi in presenza di un campo magnetico. Si ha allora che:  
 
