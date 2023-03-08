@@ -19,7 +19,7 @@ $H_2 = \dfrac{H_1}{2} = \dfrac{10}{2\pi \cdot 2} \cdot \dfrac{1}{2} = \dfrac{0.8
 $B_2 = \dfrac{B_1}{2} = \dfrac{1.005}{2} \simeq 0.5025\ \mu T$  
 
 
-Per trovare infine la forza magnetizzante totale $H_{tot}$ ed il campo di induzione magnetica totale $B_{tot}$ al punto $P$ basta sommare le grandezze facendo attenzione alla direzione ed il verso dei vettori. In questo caso al punto $P$ i campi prodotti dal conduttore di $I_1$ hanno direzione uguale ma verso opposto ai campi prodotti dal conduttore di $I_2$ percio' la somma vettoriale risulterebbe in una equivalente sottrazione, ovvero:  
+Per trovare infine la forza magnetizzante totale $H_{tot}$ ed il campo di induzione magnetica totale $B_{tot}$ al punto $P$ basta sommare le grandezze facendo attenzione alla direzione ed il verso dei vettori. In questo caso al punto $P$ i campi prodotti dal conduttore di $I_1$ hanno direzione uguale ma verso opposto ai campi prodotti dal conduttore di $I_2$ percio' la somma vettoriale risulterebbe in una equivalente sottrazione, con il segno in dipendenza del sistema di riferimento, ovvero:  
 
 $H_{tot} = H_1 - H_2 = 0.8 - 0.4 = 0.4\ A/m$  
 
