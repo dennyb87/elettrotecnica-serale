@@ -22,7 +22,7 @@ $H = \dfrac{NI}{\ell} = \dfrac{60 \cdot 10}{0.4} = 1500\ A/m$
 
 Possiamo quindi ora trovare il campo di induzione magnetica sapendo che in aria la permeabilita' magnetica e' pressoche' uguale a quella del vuoto $\mu_r \simeq 1$ percio' possiamo ignorare $\mu_r$ e tenere conto soltanto della permeabilita' del vuoto.  
 
-$B = \mu_0 \cdot H = 4\pi \cdot 10^{-7} \cdot 1500 \simeq 1.885\ \mu T$  
+$B = \mu_0 \cdot H = 4\pi \cdot 10^{-7} \cdot 1500 \simeq 1.885\ mT$  
 
 ![magnetic_flux_solenoid](https://user-images.githubusercontent.com/7195133/223852896-02fbd8ee-53c8-411e-a538-47046ac9c746.jpg)  
 
@@ -30,3 +30,10 @@ Adesso sapendo che la sezione e' $S = 400\ cm^2 = 400 \cdot 10^{-4}\ m^2 = 0.04\
 
 $\phi = B \cdot S \cdot \cos \alpha = 1.885 \cdot 10^{-3} \cdot 0.04 \cdot 1 \simeq 75.4\ \mu Wb$  
 
+E' importante notare che assumendo $\mu_r$ unitario per approssimare la permeabilita' dell'aria, abbiamo in effetti trovato $B_0$ e di conseguenza $\phi_0$ ovvero le grandezze che tengono conto della sola permeabilita' del vuoto $\mu_0$  
+
+Allora se l'avvolgimento fosse su un altro materiale, per esempio ferromagnetico con una permeabilita' relativa $\mu_r = 10\ 000$ si avrebbe:  
+
+$B = \mu_r \cdot B_0 = 10^4 \cdot 1.885 \cdot 10^{-3} = 18.85\ T$  
+
+$\phi = \mu_r \cdot \phi_0 = 10^4 \cdot 75.4 \cdot 10^{-6} = 0.754\ Wb$  
