@@ -16,7 +16,7 @@ Si puo' allora osservare che con un angolo di $90^{\circ}$ si ha un $\cos \alpha
 
 ![solenoid_flux_basic](https://user-images.githubusercontent.com/7195133/223855028-f1ad69c7-47fc-4c46-9404-ebf498f12403.jpg)   
 
-Posto in aria un avvolgimento di lunghezza complessiva $\ell = 40\ cm = 0.4\ m$ con $N = 60$ spire di sezione quadra con superficie $S = 400\ cm^2$ in cui scorre una corrente $I = 10\ A$ si puo' sperimentare che la forza magnetizzante al centro del solenoide e' uguale a:  
+Posto in aria un avvolgimento ideale, quindi a resistenza zero, di lunghezza complessiva $\ell = 40\ cm = 0.4\ m$ con $N = 60$ spire di sezione quadra con superficie $S = 400\ cm^2$ in cui scorre una corrente $I = 10\ A$ si puo' sperimentare che la forza magnetizzante al centro del solenoide e' uguale a:  
 
 $H = \dfrac{NI}{\ell} = \dfrac{60 \cdot 10}{0.4} = 1500\ A/m$  
 
@@ -29,3 +29,4 @@ $B = \mu_0 \cdot H = 4\pi \cdot 10^{-7} \cdot 1500 \simeq 1.885\ \mu T$
 Adesso sapendo che la sezione e' $S = 400\ cm^2 = 400 \cdot 10^{-4}\ m^2 = 0.04\ m^2$ e scelto il versore $\vec{n}$ della superficie concorde a $\vec{B}$ possiamo trovare il flusso magnetico attraverso la sezione del solenoide.  
 
 $\phi = B \cdot S \cdot \cos \alpha = 1.885 \cdot 10^{-3} \cdot 0.04 \cdot 1 \simeq 75.4\ \mu Wb$  
+
