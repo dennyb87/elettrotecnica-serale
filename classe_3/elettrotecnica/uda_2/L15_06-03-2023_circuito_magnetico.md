@@ -28,8 +28,14 @@ $\mathcal{F} = \mathcal{R} \cdot \phi = \dfrac{1}{\mu} \cdot\dfrac{\ell a}{S} \c
 
 E' importante notare che dalla definizione di riluttanza si puo' dedurre il comportamento di $\mathcal{R}$ in dipendenza delle sue componeti.  
 
-| Riluttanza             | Componente | Descrizione |
-| ---------------------- | ---------- | ----------- |
-| $\mathcal{R} \uparrow$ | $\ell a$   |             |
-| $\mathcal{R} \uparrow$ | $S$        |             |
-| $\mathcal{R} \uparrow$ | $\mu$      |             |
+| Causa             | Effetto                |
+| ----------------- | ---------------------- |
+| $\ell a \uparrow$ | $\mathcal{R} \uparrow$ |
+| $S \downarrow$    | $\mathcal{R} \uparrow$ |
+| $\mu \downarrow$  | $\mathcal{R} \uparrow$ |
+
+Cio' significa che a parita' di corrente $I$ nell' avvolgimento, si avra' un aumento di riluttanza quando:  
+
+* la lunghezza del circuito aumenta
+* la sezione diminuisce
+* la permeabilita' diminuisce
