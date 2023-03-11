@@ -27,7 +27,7 @@ Sapendo quindi che $p \cdot s = a \cdot c = 2 \cdot 5 = 10$ vogliamo trovare $p 
 | $+5$  | $-2$ | $\times$     |
 | $-5$  | $-2$ | $\checkmark$ |
 
-Abbiamo allora trovato $p = -2$ ed $s = -5$ potento ora riscrivere l'espressione.  
+Abbiamo allora trovato $p = -2$ ed $s = -5$ possiamo ora riscrivere l'espressione.  
 
 $2x^2 - 7x + 5$  
 $2x^2 + (-2-5)x + 5$  
