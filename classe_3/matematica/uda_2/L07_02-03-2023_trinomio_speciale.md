@@ -11,9 +11,9 @@ $p \cdot s = a \cdot c$
 
 Possiamo allora scomporre il trinomio come segue:  
 
-$ax^2 + bx + c = (ax + s) \biggl(x + \dfrac{p}{a}\biggr)$  
+$ax^2 + bx + c = a\biggl(x + \dfrac{s}{a}\biggr) \biggl(x + \dfrac{p}{a}\biggr)$  
 
-Dove $p$ viene scelto tra i numeri trovati come quello che e' divisibile per $a$. Vediamo un esempio...  
+Vediamo un esempio...  
 
 $2x^2 + (-2-5)x + 5$  
 
