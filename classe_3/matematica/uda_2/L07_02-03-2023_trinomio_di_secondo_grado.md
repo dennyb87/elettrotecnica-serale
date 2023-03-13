@@ -63,7 +63,7 @@ $\cancel{a}x^2 + \dfrac{b}{a}x + \dfrac{c}{a} = 0$
 
 $x^2 + \dfrac{b}{a}x = - \dfrac{c}{a}$  
 
-Adesso e' importante notare che geometricamente si ha un quadrato incompleto, e si vuole percio' *completare il quadrato* aggiungendo $\dfrac{b^2}{4a^2}$ (parte arancione in figura) passaggio che ci permette di semplificare il termine di sinitra in un quadrado di binomio.  
+Adesso e' importante notare che geometricamente si ha un quadrato incompleto, e si vuole percio' *completare il quadrato* aggiungendo $\dfrac{b^2}{4a^2}$ (parte arancione in figura) passaggio che ci permette di semplificare il termine di sinistra in un quadrado di binomio.  
 
 ![completing_the_square](https://user-images.githubusercontent.com/7195133/224638542-8126aaf5-6a56-46bc-bb35-848f0c9acbac.jpg)  
 
@@ -75,6 +75,12 @@ $\bigg(x + \dfrac{b}{2a}\bigg)^2 = \dfrac{b^2 - 4ac}{4a^2}$
 
 $\bigg(x + \dfrac{b}{2a}\bigg)^2 = \dfrac{b^2 - 4ac}{4a^2}$  
 
-$x + \dfrac{b}{2a} = \pm \sqrt{\dfrac{b^2 - 4ac}{4a^2}}$  
+$x + \dfrac{b}{2a} = \pm \dfrac{\sqrt{b^2 - 4ac}}{2a}$  
 
-$$
+$x = \dfrac{-b \pm\sqrt{b^2 - 4ac}}{2a}$  
+
+La quantita' sotto radice puo' essere positiva o negativa, cio' significa che si possono avere due soluzioni $x_1, x_2$ che come abbiamo visto si possono utilizzare per la scomposizione:  
+
+$ax^2 + bx + c = a(x - x_1)(x - x_2)$  
+
+Vediamo un esempio concreto...
