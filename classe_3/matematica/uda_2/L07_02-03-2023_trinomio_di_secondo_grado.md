@@ -11,7 +11,7 @@ $p \cdot s = a \cdot c$
 
 Possiamo allora scomporre il trinomio come segue:  
 
-$ax^2 + bx + c = a\biggl(x + \dfrac{s}{a}\biggr) \biggl(x + \dfrac{p}{a}\biggr)$  
+$ax^2 + bx + c = a\bigg(x + \dfrac{s}{a}\bigg) \bigg(x + \dfrac{p}{a}\bigg)$  
 
 Vediamo un esempio...  
 
@@ -51,10 +51,28 @@ Il metodo piu' generico che funziona per ogni trinomio e' appunto quello di util
 
 $ax^2 + bx + c = a(x - x_1)(x - x_2)$  
 
-Si noti che questa formulazione e' del tutto analoga a quella vista precedentemente.    
+Si noti che questa formulazione e' del tutto analoga a quella vista precedentemente:  
 
-$ax^2 + bx + c = a\biggl(x + \dfrac{s}{a}\biggr) \biggl(x + \dfrac{p}{a}\biggr)$  
+$ax^2 + bx + c = a\bigg(x + \dfrac{s}{a}\bigg) \bigg(x + \dfrac{p}{a}\bigg)$  
 
-Formuliamo allora l'equazione:  
+Deriviamo ora la formula di risoluzione generale dell'equazione:  
 
 $ax^2 + bx + c = 0$  
+
+$\cancel{a}x^2 + \dfrac{b}{a}x + \dfrac{c}{a} = 0$  
+
+$x^2 + \dfrac{b}{a}x = - \dfrac{c}{a}$  
+
+Adesso e' importante notare che geometricamente si ha un quadrato incompleto, e si vuole percio' *completare il quadrato* aggiungendo $\dfrac{b^2}{4a^2}$ (parte arancione in figura) passaggio che ci permette di semplificare il termine di sinitra in un quadrado di binomio.  
+
+![completing_the_square](https://user-images.githubusercontent.com/7195133/224638542-8126aaf5-6a56-46bc-bb35-848f0c9acbac.jpg)  
+
+$x^2 + \dfrac{b}{a}x = - \dfrac{c}{a}$  
+
+$x^2 + \dfrac{b}{a}x + \dfrac{b^2}{4a^2} = - \dfrac{c}{a} + \dfrac{b^2}{4a^2}$  
+
+$\bigg(x + \dfrac{b}{2a}\bigg)^2 = \dfrac{b^2 - 4ac}{4a^2}$  
+
+$\bigg(x + \dfrac{b}{2a}\bigg)^2 = \dfrac{b^2 - 4ac}{4a^2}$  
+
+$x + \dfrac{b}{2a} = \pm \sqrt{\dfrac{b^2 - 4ac}{4a^2}}$  
