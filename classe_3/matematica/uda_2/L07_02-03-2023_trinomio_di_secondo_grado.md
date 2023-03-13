@@ -45,9 +45,9 @@ $x(x + s) + p(x + s)$
 $(x + s)(x + p)$  
  
 
-## Soluzione attraverso le radici dell'equazione di secondo grado    
+## Scomposizione attraverso le radici dell'equazione di secondo grado  
 
-Il metodo piu' generico che funziona per ogni trinomio e' appunto quello di utilizzare la formula per la risoluzione delle equazioni di secondo grado per trovare le radici ed utilizzarle per la scomposizione. Una volta ottenute le soluzioni $x_1, x_2$ potranno essere utilizzate per la scomposizione come segue:  
+Un metodo generico che funziona per ogni trinomio e' appunto quello di utilizzare la formula per la risoluzione delle equazioni di secondo grado per trovare le radici ed utilizzarle per la scomposizione. Una volta ottenute le soluzioni $x_1, x_2$ potranno essere utilizzate per la scomposizione come segue:  
 
 $ax^2 + bx + c = a(x - x_1)(x - x_2)$  
 
@@ -76,3 +76,5 @@ $\bigg(x + \dfrac{b}{2a}\bigg)^2 = \dfrac{b^2 - 4ac}{4a^2}$
 $\bigg(x + \dfrac{b}{2a}\bigg)^2 = \dfrac{b^2 - 4ac}{4a^2}$  
 
 $x + \dfrac{b}{2a} = \pm \sqrt{\dfrac{b^2 - 4ac}{4a^2}}$  
+
+$$
