@@ -29,3 +29,16 @@ Il minimo comune multiplo e' quindi il prodotto tra i fattori comuni e non comun
 
 $2(a+1)(a - 1)^2$  
 
+## Campo di esistenza  
+
+Una volta trovato il denominatore comune possiamo allora esaminare quali siano le condizioni di esistenza di questa frazione algebrica.  
+
+$2(a+1)(a - 1)^2$  
+
+In questo caso possiamo concludere che i valori di $a$ che annullano il denominatore sono $a \pm 1$  
+
+$CE
+\begin{cases}
+    a \pm 1
+\end{cases}$  
+
