@@ -23,6 +23,8 @@ $D_1 = a^2 - 2a + 1 = (a - 1)^2$
 $D_2 = 2a - 2 = 2(a - 1)$  
 $D_3 = 2a - 2 = 2(a + 1)$  
 
+## Denominatore comune  
+
 Il minimo comune multiplo e' quindi il prodotto tra i fattori comuni e non comuni con esponente maggiore, ovvero:  
 
 $2(a+1)(a - 1)^2$  
