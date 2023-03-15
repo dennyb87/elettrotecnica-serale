@@ -26,3 +26,17 @@ Si chiede di:
    Si tenga conto del numero dei moduli calcolato al punto 3 e si vedano come riferimento per gli schemi le pag. 179, 185 del vol. 2 libro.
 5. VALUTARE IL RENDIMENTO DELL’IMPIANTO PROGETTATO
    Si utilizzano i dati ricavati al punto 3
+
+
+# Valutazione  
+
+![consumo_annuo_kwh](https://user-images.githubusercontent.com/7195133/225438510-65165fae-581c-466a-9d6d-1bf7d9b4721a.jpg)  
+
+La bolleta ci mostra un consumo annuo che per semplicita' approssimeremo a $2400\ kWh$. Utilizzando PV GIS andiamo ora a stimare la produzione di energia annua nei pressi del centro storico di Pietrasanta di un modulo fotovoltaico **AP-72 Ferrania** da $280\ W$ di picco.  
+
+![c01_pvgis_impianti_fotovoltaici](https://user-images.githubusercontent.com/7195133/225459847-93761b45-7af7-4287-aa91-fb119e4367da.jpg)  
+
+I risultati ci mostrano una produzione annua di circa $385\ kWh$. Per fare in modo che l'energia prodotta soddisfi il fabbisogno dell'utenza ci servono allora almeno $7$ pannelli.  
+
+$\dfrac{2400}{385} \simeq 6.23$  
+
