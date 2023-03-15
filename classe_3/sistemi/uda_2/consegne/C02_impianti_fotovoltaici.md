@@ -36,7 +36,8 @@ La bolleta ci mostra un consumo annuo che per semplicita' approssimeremo a $2400
 
 ![c01_pvgis_impianti_fotovoltaici](https://user-images.githubusercontent.com/7195133/225459847-93761b45-7af7-4287-aa91-fb119e4367da.jpg)  
 
-I risultati ci mostrano una produzione annua di circa $385\ kWh$. Per fare in modo che l'energia prodotta soddisfi il fabbisogno dell'utenza ci servono allora almeno $7$ pannelli.  
+I risultati ci mostrano una produzione annua di circa $385\ kWh$. Per fare in modo che l'energia prodotta soddisfi il fabbisogno dell'utenza in bolletta ci servono allora almeno $7$ pannelli.  
 
 $\dfrac{2400}{385} \simeq 6.23$  
 
+Potrebbe essere saggio sovradimensionare l'impianto per tenere conto delle variazioni di consumo percio' opterei per un totale di $8$ pannelli, che ci garantirebbero circa $3000\ kWh$ annui.  
