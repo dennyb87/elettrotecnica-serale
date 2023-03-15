@@ -42,3 +42,16 @@ $CE
     a \pm 1
 \end{cases}$  
 
+## Frazione algebrica  
+
+Una volta trovato il denominatore comune possiamo procedere in modo analogo ad una somma di frazioni numeriche, trasformando i numeratori e sommandoli.  
+
+$\dfrac{2(a+1) + 7(a + 1)(a - 1) + (a - 1)^2}{2(a+1)(a - 1)^2}$  
+
+$\dfrac{2a + 2 + 7(a^2 - 1) + a^2 - 2a + 1}{2(a+1)(a - 1)^2}$  
+
+$\dfrac{\cancel{2a} + 2 + 7a^2 - 7 + a^2 \cancel{- 2a} + 1}{2(a+1)(a - 1)^2}$  
+
+$\dfrac{8a^2 - 4}{2(a+1)(a - 1)^2}$  
+
+$\dfrac{\cancel{2}\cdot 2(2a^2 - 1)}{\cancel{2}(a+1)(a - 1)^2}$  
