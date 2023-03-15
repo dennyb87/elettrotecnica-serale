@@ -37,10 +37,12 @@ $2(a+1)(a - 1)^2$
 
 In questo caso possiamo concludere che i valori di $a$ che annullano il denominatore sono $a \pm 1$  
 
-$CE
+$$
+CE
 \begin{cases}
     a \pm 1
-\end{cases}$  
+\end{cases}
+$$  
 
 ## Frazione algebrica  
 
