@@ -20,3 +20,13 @@ $\mathcal{R} = \dfrac{1}{\mu_0 \cdot \mu_r} \cdot \dfrac{\ell}{S} = \dfrac{1}{4\
 
 $\mathcal{F} = \mathcal{R} \cdot \phi = 1.68\ \cdot 10^5 \cdot 0.5 \cdot 10^{-3} = 84\ A_s$  
 
+
+## Riluttanza magnetica e resistenza elettrica  
+
+E' interessante notare che la riluttanza magnetica $\mathcal{R}$ e la resistenza elettrica $R$ non solo sono simili concettualmente ma anche dal punto di vista matematico sono espresse in modo del tutto analogo.  
+
+$R = \rho \cdot \dfrac{\ell}{S}$  
+
+$\mathcal{R} = \dfrac{1}{\mu} \cdot \dfrac{\ell}{S}$  
+
+Dove $\ell$ e' la lunghezza del conduttore o del circuito magnetico, $S$ la sezione, $\rho$ la resistivita' del materiale, $\mu$ la permeabilita' magnetica del materiale.  
