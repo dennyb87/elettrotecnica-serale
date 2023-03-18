@@ -90,3 +90,7 @@ $\dfrac{-b \pm\sqrt{b^2 - 4ac}}{2a} = \dfrac{-(-1) \pm\sqrt{(-1)^2 - 4 \cdot 2 \
 $x_1 = \dfrac{1 + 3}{4} = 1$  
 
 $x_2 = -\dfrac{1 - 3}{4} = - \dfrac{1}{2}$  
+
+Trovate le soluzioni possiamo allora usarle per scomporre il polinomio.  
+
+$2x^2 - x - 1 = 2(x - 1)(x + \frac{1}{2})$  
