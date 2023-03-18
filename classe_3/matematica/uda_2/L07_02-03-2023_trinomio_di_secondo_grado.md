@@ -47,7 +47,7 @@ $(x + s)(x + p)$
 
 ## Scomposizione attraverso le radici dell'equazione di secondo grado  
 
-Un metodo generico che funziona per ogni trinomio e' appunto quello di utilizzare la formula per la risoluzione delle equazioni di secondo grado per trovare le radici ed utilizzarle per la scomposizione. Una volta ottenute le soluzioni $x_1, x_2$ potranno essere utilizzate per la scomposizione come segue:  
+Un metodo generico che funziona per ogni trinomio e' appunto quello di utilizzare la formula per la risoluzione delle equazioni di secondo grado per trovare le radici ed utilizzarle per la scomposizione. Una volta ottenute le soluzioni $x_1,\ x_2$ potranno essere utilizzate per la scomposizione come segue:  
 
 $ax^2 + bx + c = a(x - x_1)(x - x_2)$  
 
@@ -79,8 +79,14 @@ $x + \dfrac{b}{2a} = \pm \dfrac{\sqrt{b^2 - 4ac}}{2a}$
 
 $x = \dfrac{-b \pm\sqrt{b^2 - 4ac}}{2a}$  
 
-La quantita' sotto radice puo' essere positiva o negativa, cio' significa che si possono avere due soluzioni $x_1, x_2$ che come abbiamo visto si possono utilizzare per la scomposizione:  
+La quantita' sotto radice puo' essere positiva o negativa, cio' significa che si possono avere due soluzioni $x_1,\ x_2$ che come abbiamo visto si possono utilizzare per la scomposizione:  
 
 $ax^2 + bx + c = a(x - x_1)(x - x_2)$  
 
-Vediamo un esempio concreto...
+Supponiamo allora di voler scomporre il polinomio $2x^2 - x -1$ ricordandoci che per poterlo riscrivere nella forma $a(x - x_1)(x - x_2)$ ci bastera' trovare le soluzioni $x_1,\ x_2$ grazie alla formula che abbiamo appena derivato.  
+
+$\dfrac{-b \pm\sqrt{b^2 - 4ac}}{2a} = \dfrac{-(-1) \pm\sqrt{(-1)^2 - 4 \cdot 2 \cdot (- 1)}}{2 \cdot 2} = \dfrac{1 \pm\sqrt{9}}{4} = \dfrac{1\pm 3}{4}$  
+
+$x_1 = \dfrac{1 + 3}{4} = 1$  
+
+$x_2 = -\dfrac{1 - 3}{4} = - \dfrac{1}{2}$  
