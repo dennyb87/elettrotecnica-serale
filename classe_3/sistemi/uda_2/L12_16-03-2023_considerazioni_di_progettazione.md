@@ -42,3 +42,13 @@ Osservando una bolletta si puo' notare che il conumo varia nel tempo, e che si h
 $E_{gmm} = \dfrac{270}{31} = 8.7\ kWh$  
 
 Questo ci dice che un impianto che produce $6.58\ kWh$ non sarebbe stato sufficiente in luglio.  
+
+# Radiazione solare  
+
+![tipi_radiazione_solare](https://user-images.githubusercontent.com/7195133/226479280-452c0a66-f4d9-43c7-beee-d44edf11b906.jpg)  
+
+Si fa presente che la radiazione $G$ espressa in $kWh/m^2$ che arriva su un pannello e' la risultante di tre componenti dovute a tre fenomeni fisici diversi.  
+
+$G = I + D + R$  
+
+Dove $G$ e' appunto la radiazione totale, anche detta globale, perche tiene conto di tutti e tre i fenomeni fisici, mentre $I$ e' la **radiazione diretta** dovuta al disco solare, $D$ e' la **radiazione diffusa** dall'atmosfera, mentre $R$ e' invece la **radiazione riflessa**.  
