@@ -43,6 +43,23 @@ $E_{gmm} = \dfrac{270}{31} = 8.7\ kWh$
 
 Questo ci dice che un impianto che produce $6.58\ kWh$ non sarebbe stato sufficiente in luglio.  
 
+```mermaid
+flowchart LR
+    in("E<sub>in</sub>")-->motore
+    subgraph motore["&eta;"]
+        A["PV"]
+    end
+    motore-->out("E<sub>out</sub>")
+```  
+
+Ora ricordandoci che un pannello puo' essere visto come un convertitore di energia, ovvero $E_{out} = \eta \cdot E_{in}$ possiamo dire che:  
+
+$E_{in} = G \cdot N_{pannelli} \cdot A$  
+
+Se questa e' l'energia in ingresso allora l'energia in uscita dal pannello sara':  
+
+$E_{out} = \eta \cdot E_{in} = \eta \cdot G \cdot N_{pannelli} \cdot A$  
+
 # Radiazione solare  
 
 ![tipi_radiazione_solare](https://user-images.githubusercontent.com/7195133/226479280-452c0a66-f4d9-43c7-beee-d44edf11b906.jpg)  
