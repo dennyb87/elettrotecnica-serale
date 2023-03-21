@@ -8,7 +8,7 @@ $\Delta = b^2 - 4ac$
 
 Grazie al delta si possono dedurre il numero ed il tipo di soluzioni, in particolare:  
 
-$\Delta \lt 0 \implies x_{1,2}\ \cancel{\exist}\ \mathbb{R}$  
+$\Delta \lt 0 \implies x_{1,2}\ \cancel{\exists}\ \mathbb{R}$  
 
 $\Delta = 0 \implies x_1 = x_2$  
 
