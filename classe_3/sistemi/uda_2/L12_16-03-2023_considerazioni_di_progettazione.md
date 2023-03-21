@@ -63,9 +63,9 @@ Se questa e' l'energia in ingresso allora l'energia in uscita dal pannello sara'
 
 $E_{out} = \eta \cdot E_{in} = \eta \cdot G \cdot N_{pannelli} \cdot A$  
 
-Allora per trovare il numero di pannelli $N$ necessari a soddisfare il fabbisogno massimo di energia giornaliero $E_g = 8.7\ kWh$ ci bastera' conoscere l'irraggiamento medio giornaliero nel caso peggiore, per esempio a dicembre $G_{dic} = 2.18\ kWh/m^2$ utilizzando per esempio strumenti come **ENEA**, o **PVGIS**, ed infine l'area del pannello $A = 2\ m^2$.  
+Allora per trovare il numero di pannelli $N$ necessari a soddisfare il fabbisogno massimo di energia giornaliero $E_g = 8.7\ kWh$ ci bastera' conoscere l'irraggiamento giornaliero medio mensile nel caso peggiore, per esempio a dicembre $G_{dic} = 2.18\ kWh/m^2$ utilizzando per esempio strumenti come **ENEA**, o **PVGIS**, ed infine l'area del pannello $A = 2\ m^2$.  
 
-$N = \dfrac{E_g}{\eta \cdot G_{dic} \cdot A} \simeq 14\ pannelli$  
+$N = \dfrac{E_g}{\eta \cdot G_{dic} \cdot A} = \dfrac{8700}{0.14 \cdot 2180 \cdot 2}\simeq 14\ pannelli$  
 
 # Radiazione solare  
 
