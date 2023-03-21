@@ -12,11 +12,11 @@ Per stimare il fabbisogno energetico possiamo procedere in tre modi principali:
 
 Questo metodo consiste nel trovare le potenze di tutti i dispositivi, ed il loro tempo di utilizzo medio giornaliero, per poi fare una sommatoria della lora energia applicando infine un fattore di sicurezza.  
 
-| Dispositivo | Potenza$[W]$ | Quantita' | Tempo di utilizzo $[ore\ al\ giorno]$ | Energia $[kWh]$ |
-| ----------- | ------------ | --------- | ------------------------------------- | --------------- |
-| televisore  | 180          | 1         | 3                                     | 0.54            |
-| computer    | 45           | 2         | 4                                     | 0.36            |
-| ...         | ...          | ...       | ...                                   | ...             |
+| Dispositivo | Potenza $[W]$ | Quantita' | Tempo di utilizzo $[ore\ al\ giorno]$ | Energia $[kWh]$ |
+| ----------- | ------------- | --------- | ------------------------------------- | --------------- |
+| televisore  | 180           | 1         | 3                                     | 0.54            |
+| computer    | 45            | 2         | 4                                     | 0.36            |
+| ...         | ...           | ...       | ...                                   | ...             |
 
 Si ha allora che l'energia giornaliera consumata e':  
 
