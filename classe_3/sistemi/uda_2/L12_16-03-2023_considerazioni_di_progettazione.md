@@ -43,6 +43,9 @@ $E_{gmm} = \dfrac{270}{31} = 8.7\ kWh$
 
 Questo ci dice che un impianto che produce $6.58\ kWh$ non sarebbe stato sufficiente in luglio.  
 
+
+## Calcolo del numero di pannelli  
+
 ```mermaid
 flowchart LR
     in("E<sub>in</sub>")-->motore
@@ -59,6 +62,10 @@ $E_{in} = G \cdot N_{pannelli} \cdot A$
 Se questa e' l'energia in ingresso allora l'energia in uscita dal pannello sara':  
 
 $E_{out} = \eta \cdot E_{in} = \eta \cdot G \cdot N_{pannelli} \cdot A$  
+
+Allora per trovare il numero di pannelli $N$ necessari a soddisfare il fabbisogno massimo di energia giornaliero $E_g = 8.7\ kWh$ ci bastera' conoscere l'irraggiamento medio giornaliero nel caso peggiore, per esempio a dicembre $G_{dic} = 2.18\ kWh/m^2$ utilizzando per esempio strumenti come **ENEA**, o **PVGIS**, ed infine l'area del pannello $A = 2\ m^2$.  
+
+$N = \dfrac{E_g}{\eta \cdot G_{dic} \cdot A} \simeq 14\ pannelli$  
 
 # Radiazione solare  
 
