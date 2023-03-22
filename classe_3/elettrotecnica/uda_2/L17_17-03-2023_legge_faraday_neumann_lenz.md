@@ -1,4 +1,4 @@
-# Accenni legge di Faraday-Neumann-Lenz  
+# Legge di Faraday-Neumann-Lenz  
 
 ![faraday_law_induction](https://user-images.githubusercontent.com/7195133/226195806-5fe0ca41-591c-4919-9dca-16ee252db56c.gif)
 
