@@ -7,7 +7,7 @@ E' sperimentabile che posto un magnete immobile nei pressi o all'interno di una 
 
 $v = - \dfrac{\Delta \phi}{\Delta t}$  
 
-Il segno ci dice che la tensione indotta genera una corrente in un verso tale da produrre un campo magnetico opposto a quello che lo ha generato. Quindi conoscendo il verso di uno dei campi possiamo sempre derivare l'altro in quanto sara' sempre l'opposto, e di conseguenza dedurre anche il verso della corrente che lo ha generato.  
+Il segno ci dice che la tensione indotta genera una corrente in un verso tale da produrre un campo magnetico che si oppone alla variazione di flusso che lo ha generato. Quindi conoscendo per esempio il campo e la direzione in cui si muove possiamo sempre derivare il campo indotto in quanto sara' quel campo che si oppone al movimento del primo, e di conseguenza possiamo dedurre anche il verso della corrente che lo ha generato.  
 
 ![faraday_law_induction_example](https://user-images.githubusercontent.com/7195133/226990274-a23033b1-b9d7-4fb4-b503-1a92b3f7e414.jpg)  
 
