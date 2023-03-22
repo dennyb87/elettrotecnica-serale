@@ -8,7 +8,7 @@ Queste possono essere governate utilizzando due dispositivi di protezione, il fu
 
 ![thermal_magnetic_curve](https://user-images.githubusercontent.com/7195133/227048673-d9ab364c-ff4b-4a12-9ea8-085c6213b8a0.jpg)  
 
-In un impianto si vogliono soddisfare le seguenti condizioni:  
+In un impianto il magnetotermico deve soddisfare le seguenti condizioni:  
 
 $I_b \le I_n \le I_z$  
 
