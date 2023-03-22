@@ -3,7 +3,7 @@
 ![faraday_law_induction](https://user-images.githubusercontent.com/7195133/226195806-5fe0ca41-591c-4919-9dca-16ee252db56c.gif)
 
 
-E' sperimentabile che posto un magnete immobile nei pressi o all'interno di una spira collegata ad un voltmetro, non si presente nessun fenomeno osservabile. Nel momento in cui questo magnete viene messo in movimento si puo' osservare una tensione indotta nella spira. Questa tensione risulta essere uguale alla variazione di flusso nel tempo. Questo fatto e' stato formalizzato come segue:  
+E' sperimentabile che posto un magnete immobile nei pressi o all'interno di una spira collegata ad un voltmetro, non si presenta nessun fenomeno osservabile. Nel momento in cui questo magnete viene messo in movimento si puo' osservare una tensione indotta nella spira. Questa tensione risulta essere uguale alla variazione di flusso nel tempo. Questo fatto e' stato formalizzato come segue:  
 
 $v = - \dfrac{\Delta \phi}{\Delta t}$  
 
