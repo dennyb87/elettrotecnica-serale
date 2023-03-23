@@ -40,3 +40,13 @@ $R_m = \dfrac{V_m}{I_m} = \dfrac{36.85}{7.64} \simeq 4.82\ \Omega$
 $P_m = V_m \cdot I_m = R_m \cdot I_m^2 = 4.82 \cdot 7.64^2 \simeq 281.34\ W$  
 
 Un carico da $4.82\ \Omega$ ci permette allora di raggiungere approssimativamente la potenza di picco descritta nei dati di targa $280\ W$.  
+
+## Variazione di irradiazione  
+
+E' importante notare che la curva menzionata sopra si riferisce alle condizioni standard, ma bisogna rendersi conto che ad esempio, anche durante una singola giornata, le condizioni variano in modo significativo, dalla temperatura, all'angolo di incidenza, ovvero l'irraggiamanto, etc...  
+
+![pv_characteristic_curve_change_with_irradiance](https://user-images.githubusercontent.com/7195133/227371241-ebecf6b4-0337-482a-81a0-c5a78149aca5.jpg)  
+
+Allora con un carico constante, al variare dell'irraggiamento, e quindi della curva caratteristica  del pannello, la retta di carico intersechera' la nuova curva in un punto che non sara' piu' quello ottimale.  
+
+Esistono comunque regolatori elettronici che permettono, al variare dell'irraggiamento, o comunque al variare della curva caratteristica, di variare opportunamente la resistenza di carico in modo da ottenere sempre il punto di lavoro ottimale, e quindi sfruttare la massima potenza del pannello.  
