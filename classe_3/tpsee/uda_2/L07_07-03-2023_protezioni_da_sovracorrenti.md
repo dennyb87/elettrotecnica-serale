@@ -35,3 +35,22 @@ $I_b \le I_n \le I_z$
 
 ![fuse_curve](https://user-images.githubusercontent.com/7195133/227048731-d1a83f42-3b22-457b-9498-126f64c35fa7.jpg)
 
+I fusibili devono soddisfare le stesse condizioni:  
+
+$I_b \le I_n \le I_z$  
+
+$I_f \le 1.45 \cdot I_z$  
+
+Ma la normativa in questo caso prevede che la produzione  dei fusibili assicuri una corrente di intervento tale che:  
+
+$I_f \le 1.6 \cdot I_n$  
+
+Allora possiamo considerare nel peggiore dei casi $I_f = 1.6 \cdot I_n$ e possiamo quindi riscrivere la condizione di intervento come:  
+
+$I_f \le 1.45 \cdot I_z \implies 1.6 \cdot I_n \le 1.45 \cdot I_z \implies \cancel{\dfrac{1.6}{1.6}} \cdot I_n \le \dfrac{1.45}{1.6} \cdot I_z \implies I_n \le 0.9 \cdot I_z$  
+
+Questo significa che e' possibile semplificare le condizioni da soddisfare riscrivendole come:  
+
+$I_b \le I_n \le I_z$  
+
+$I_n \le 0.9 \cdot I_z$  
