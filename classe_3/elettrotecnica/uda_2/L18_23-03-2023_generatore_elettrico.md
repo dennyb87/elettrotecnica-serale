@@ -14,4 +14,16 @@ Si avra' invece un flusso massimo nelle posizioni 2 e 4 in quanto il campo di in
 
 $\phi_2 = B \cdot S \cdot \cos \alpha = 40 \cdot 10^{-3} \cdot 4 \cdot 10^{-2} \cdot 1 = 160 \cdot 10^{-5} = 1.6\ mWb$  
 
+$\phi_4 = B \cdot S \cdot \cos \alpha = 40 \cdot 10^{-3} \cdot 4 \cdot 10^{-2} \cdot -1 = 160 \cdot 10^{-5} = -1.6\ mWb$  
+
 Osserviamo cosa succede se tracciamo il flusso nel tempo.  
+
+| $index$ | $t\ [ms]$ | $\phi\ [mWb]$ |
+| ------- | --------- | ------------- |
+| $1$     | $0$       | $0$           |
+| $2$     | $5$       | $1.6$         |
+| $3$     | $10$      | $0$           |
+| $4$     | $15$      | $-1.6$        |
+| $5$     | $20$      | $0$           |
+
+![spinning_magnet_sine_wave](https://user-images.githubusercontent.com/7195133/227712115-66b871df-4092-451c-a358-df4ea73227b1.jpg)  
