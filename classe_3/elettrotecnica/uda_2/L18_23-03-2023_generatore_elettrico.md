@@ -2,7 +2,7 @@
 
 ![rotating_magnet_in_coil](https://user-images.githubusercontent.com/7195133/227459819-41008926-33df-43cf-ae15-b2b0fe861c46.gif)  
 
-Andiamo ora ad esaminare il principio di funzionamento di un **generatore elettrico a magneti permanenti**. Sappiamo che la variazione di flusso magnetico nel tempo causa una tensione indotta in un conduttore nelle vicinanze. Vediamo allora cosa succede durante la rotazione di un magnete che produce un campo di induzione $B = 40\ mT$ (un quale punto dello spazio ?) all'interno di una spira di superficie $S = 400\ cm^2 = 400 \cdot 10^{-4}\ m^2 = 4 \cdot 10^{-2}\ m^2$.  
+Andiamo ora ad esaminare il principio di funzionamento di un **generatore elettrico a magneti permanenti**. Sappiamo che la variazione di flusso magnetico nel tempo causa una tensione indotta in un conduttore nelle vicinanze. Vediamo allora cosa succede durante la rotazione di un magnete che produce un campo di induzione $B = 40\ mT$ (in quale punto dello spazio ?) all'interno di una spira di superficie $S = 400\ cm^2 = 400 \cdot 10^{-4}\ m^2 = 4 \cdot 10^{-2}\ m^2$.  
 
 ![rotating_magnet_in_coil](https://user-images.githubusercontent.com/7195133/227708033-bdb64975-6332-4099-8eb0-69aaeed93c4e.jpg)  
 
