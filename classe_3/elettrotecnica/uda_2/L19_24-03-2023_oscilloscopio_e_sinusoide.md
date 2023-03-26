@@ -14,7 +14,15 @@ La sinusoide non e' altro che la coordinata verticale nel tempo di un vettore ro
 
 ![valore_efficace](https://user-images.githubusercontent.com/7195133/227790988-18a37f89-d3ee-4f4e-bd30-72d3ea5c75eb.jpg)  
 
-Si ha quindi un'ampiezza massima, o picco massimo $A_{max} = V_{p^+} = V_{max}$ che coincide con il picco minimo $A_{min} = V_{p^-} = V_{min}$ ed un valore picco-picco $V_{pp}$  
+Si ha quindi un'ampiezza massima, o picco massimo $A_{max} = V_{p^+} = V_{max}$ che coincide con il picco minimo $A_{min} = V_{p^-} = V_{min}$ ed un valore picco-picco $V_{pp}$.  
+
+Il valore efficace $V_{eff}$ e' invece quel valore che a parita' di carico produrrebbe gli stessi effetti termici, meccanici, o luminosi di un valore continuo.  
+
+$V_{eff} = \dfrac{V_{max}}{\sqrt{2}}$  
+
+$V_{max} = V_{eff} \cdot \sqrt{2} = 230 \cdot 1.42 \simeq 325.27\ V$  
+
+Quando parliamo di $230\ V$ stiamo parlando del valore efficace, il valore di picco e' in effetti circa $325.27\ V$.  
 
 ![period_and_frequency](https://user-images.githubusercontent.com/7195133/227790781-334ec1f4-5ea9-44a2-88f3-a034ed0a7940.jpg)
 
