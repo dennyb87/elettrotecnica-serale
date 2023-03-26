@@ -1,5 +1,20 @@
 # Generatore elettrico 
 
+Il generatore elettrico elementare e' un **alternatore**, ovvero una macchina che trasforma l'energia meccanica in energia elettrica a corrente alternata. L'energia meccanica e' fornita da turbine idrauliche, a vapore, pale eoliche etc.. detti **motori primi** questi mettono in movimento il **rotore** nel nostro caso un **magnete permanente**, che ruotando, induce una corrente negli avvoglimenti dello **statore**.  
+
+La tensione indotta si presenta quindi come un onda sinusoidale il cui valore e' direttamente proporzionale al campo magnetico e alla velocita' di rotazione del rotore.  
+
+```mermaid
+flowchart LR
+    mp(("MP"))--"cm/m/cr"-->
+    generatore(("G ~"))-->carico
+```
+
+![generatore_elettrico](https://user-images.githubusercontent.com/7195133/227766675-8de2772f-d418-45b6-90d1-3485dcccc744.jpg)  
+
+
+## Principio di funzionamento  
+
 ![rotating_magnet_in_coil](https://user-images.githubusercontent.com/7195133/227459819-41008926-33df-43cf-ae15-b2b0fe861c46.gif)  
 
 Andiamo ora ad esaminare il principio di funzionamento di un **generatore elettrico a magneti permanenti**. Sappiamo che la variazione di flusso magnetico nel tempo causa una tensione indotta in un conduttore nelle vicinanze. Vediamo allora cosa succede durante la rotazione di un magnete che produce un campo di induzione $B = 40\ mT$ (in quale punto dello spazio ?) all'interno di una spira di superficie $S = 400\ cm^2 = 400 \cdot 10^{-4}\ m^2 = 4 \cdot 10^{-2}\ m^2$.  
