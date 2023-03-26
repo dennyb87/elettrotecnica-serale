@@ -26,4 +26,23 @@ Osserviamo cosa succede se tracciamo il flusso nel tempo.
 | $4$     | $15$      | $-1.6$        |
 | $5$     | $20$      | $0$           |
 
-![spinning_magnet_sine_wave](https://user-images.githubusercontent.com/7195133/227712115-66b871df-4092-451c-a358-df4ea73227b1.jpg)  
+![spinning_magnet_wave_plot](https://user-images.githubusercontent.com/7195133/227762226-2d7d6aca-262e-4e06-b00c-01dda2ec4ad7.jpg)  
+
+In prima approssimazione, con i dati che abbiamo raccolto in tabella, si ha un onda triangolare. E' importante notare pero' che realisticamente, tracciando il flusso ad ogni istante nel tempo si avrebbe una sinusoide, come si vede in figura trattegiatta in arancione. In ogni caso il **valore medio** di questo tipo di onde e' **zero**, in quanto l'area sotto la curva nel quadrante positivo e' uguale all'area sotta la curva nel quadrante negativo.  
+
+Conoscendo il comportamento del flusso nel tempo, possiamo allora derivare la tensione indotta nella spira grazie alla legge di Faraday-Neumann-Lenz e.g.    
+
+$v_2 = \dfrac{\Delta \phi}{\Delta t} = \dfrac{\phi_2 - \phi_1}{t_2 - t_1} =\dfrac{1.6 - 0}{5 - 0} = \dfrac{1.6}{5} = 0.32\ V$  
+
+#
+
+| $index$ | $t\ [ms]$ | $\phi\ [mWb]$ | $v [V]$ |
+| ------- | --------- | ------------- | ------- |
+| $1$     | $0$       | $0$           | $0$     |
+| $2$     | $5$       | $1.6$         | $0.32$  |
+| $3$     | $10$      | $0$           | $-0.32$ |
+| $4$     | $15$      | $-1.6$        | $-0.32$ |
+| $5$     | $20$      | $0$           | $0.32$  |
+
+![spinning_magnet_voltage_wave](https://user-images.githubusercontent.com/7195133/227763392-794c1c9e-d76e-4f47-9c46-4b63eb12d27e.jpg)  
+
