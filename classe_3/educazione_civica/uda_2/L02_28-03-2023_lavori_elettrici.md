@@ -9,4 +9,6 @@ I lavori a rischio possono essere di due tipologie:
 
 ![da9_definizione](https://user-images.githubusercontent.com/7195133/229274793-62bbcd05-829f-4b93-97b5-f2b9b381cefd.jpg)  
 
+La **distanza limite** $D_L$ e' la distanza alla quale si considera un lavoro sotto tensione, ma in tabella vediamo che $\le 1kV$ quindi in **bassa tensione** $D_L = 0$ allora si ha un lavoro sotto tensione solo quando si e' a contatto con la parte attiva, mentre si considera lavoro in prossimita' fino a $30\ cm$.  
 
+![da9_bassa_tensione](https://user-images.githubusercontent.com/7195133/229275363-02f13231-ae3b-435e-a65e-fe74f846d7c2.jpg)
