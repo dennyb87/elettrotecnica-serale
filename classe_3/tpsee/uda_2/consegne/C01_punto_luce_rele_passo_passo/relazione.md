@@ -30,4 +30,4 @@ Sempre al rele' vediamo uscire la fase che va verso il portafrutti per alimentar
 
 ## Schema planimetrico  
 
-Come si rappresenta il rele' nello schema planimetrico ? boh ?
+![schema_planimetrico_uda2](https://user-images.githubusercontent.com/7195133/229365089-458b5251-823c-40e9-8533-d9dd001a9aec.jpg)  
