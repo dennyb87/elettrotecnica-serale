@@ -23,7 +23,11 @@ La fase esce dal magnetotermico ed arriva fino alla cassetta di derivazione da c
 1. verso i pulsanti nella cassetta portafrutti
 2. verso il rele'
 
-I pulsanti sono collegati in parallelo 
+I pulsanti sono collegati in parallelo, in uscita proseguono con la fase che torna verso il centralino, passando per il portafrutti, per collegarsi infine al rele'. Il neutro dei pulsanti esce allora dal rele' per riunirsi al neutro del magnetotermico nel portafrutti.  
+
+Sempre al rele' vediamo uscire la fase che va verso il portafrutti per alimentare le lampade da cui uscira' il neutro che si riunisce al neutro del magnetotermico nel portafrutti.  
 
 
 ## Schema planimetrico  
+
+Come si rappresenta il rele' nello schema planimetrico ? boh ?
