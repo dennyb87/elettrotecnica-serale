@@ -30,3 +30,9 @@ I lavori in prossimita' sono quei lavori in cui non e' richiesto operare su part
 * PAV - **Persona avvertita** simile al PES ma di livello minore e necessita quindi la supervisione di un PES per impostare il lavoro e gestire gli imprevisti
 * PEC - **Persona comune** quindi non esperta e non avvertita che puo' eseguire lavori solo in assenza di rischio elettrico, oppure sotto la supervisione di un PES/PAV
 
+## Ruoli  
+
+* URI - **Unita' responsabile impianto** in piccole attivita' puo' essere svolto da una sola persona, ad esempio il titolare, che e' quindi responsabile del normale esercizio dell'impianto, e pianifica e programma il necessario per mantenere efficiente e sicuro l'impianto. 
+* RI - **Responsabile impianto** deve essere un PES ed e' appunto responsabile dell'impianto durante il lavoro elettrico, redige il piano di lavoro, provvede alla messa in sicurezza, delimita la zona di lavoro, e consegna l'impianto alla persona preposta ai lavori (PL)
+* URL - **Unita' responsabile della realizzazione del lavoro** questa' e' l'unita' incaricata di eseguire il lavoro, se e' una persona fisica deve essere un PES e coincide allora con la persona preposta ai lavori
+* PL - **Persona presposta alla conduzione dell'attivita' lavorativa** ovvero la persona che esegue il lavoro, il quale deve essere PES o PAV se il lavoro e' molto semplice, ed e' responsabile del recepimento, condivisione, conduzione dell'eventuale piano di intervento, delle procedure di sicurezza, assegnazione dei compiti ai diversi operatori, etc...
