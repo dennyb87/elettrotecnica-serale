@@ -25,5 +25,16 @@ $I_D = 0$
 
 $R_{tot} = R_1 + R_2 = 4000 + 6000 = 10\ k\Omega$  
 
-$I_1 = \dfrac{E}{R_{tot}} = \dfrac{20}{10000} = 2\ mA$  
+$I = I_1 = I_2 = \dfrac{E}{R_{tot}} = \dfrac{20}{10000} = 2\ mA$  
 
+![diode_on](https://user-images.githubusercontent.com/7195133/233210963-c4fa146f-869c-4cff-86ce-9ce9acce8a91.jpg)  
+
+In questo caso invece $D$ causa un corto circuito, di fatto rendendo $R_2$ trascurabile in quanto non causa nessuna caduta di potenziale dato che la resistenza sul diodo e' $R_D = 0\ \Omega$ questo e' dimostrabile applicando il partitore di corrente.  
+
+$I_2 = \dfrac{R_D}{R_2 + R_D} \cdot I = \dfrac{0}{R_2} \cdot I= 0$  
+
+$V_2 = V_{BC} = R_2 \cdot I_2 = 6000 \cdot 0 = 0\ V$  
+
+Si ha allora zero caduta di potenziale su $R_2$ mentre la resistenza totale e' $R_{tot} = R_1$ quindi...
+
+$I = I_1 = \dfrac{E}{R_1} = \dfrac{20}{4000} = 5\ mA$  
