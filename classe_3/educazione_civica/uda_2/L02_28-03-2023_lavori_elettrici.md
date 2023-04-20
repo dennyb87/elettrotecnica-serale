@@ -36,3 +36,30 @@ I lavori in prossimita' sono quei lavori in cui non e' richiesto operare su part
 * RI - **Responsabile impianto** deve essere un PES ed e' appunto responsabile dell'impianto durante il lavoro elettrico, redige il piano di lavoro, provvede alla messa in sicurezza, delimita la zona di lavoro, e consegna l'impianto alla persona preposta ai lavori (PL)
 * URL - **Unita' responsabile della realizzazione del lavoro** questa' e' l'unita' incaricata di eseguire il lavoro, se e' una persona fisica deve essere un PES e coincide allora con la persona preposta ai lavori
 * PL - **Persona presposta alla conduzione dell'attivita' lavorativa** ovvero la persona che esegue il lavoro, il quale deve essere PES o PAV se il lavoro e' molto semplice, ed e' responsabile del recepimento, condivisione, conduzione dell'eventuale piano di intervento, delle procedure di sicurezza, assegnazione dei compiti ai diversi operatori, etc...
+
+
+## Comunicazioni  
+
+Le comunicazioni nei lavori elettrici devono poter permettere la trasmissione di informazioni certe tra gli operatori, e/o documentare le informazioni trasmesse e ricevute da coloro che andranno ad operare. Queste possono essere dei seguenti tipi:  
+
+* **comunicazione ad una via** - bassa affidabilita' in quanto non c'e' garanzia della corretta comprensione da parte di chi riceve
+* **comunicazione a due vie** - quando esiste conferma da parte di chi riceve della corretta comprensione del messaggio
+* **comunicazioni documentate** - questo e' la piu' affidabile, anche se solitamente viene eseguita solo nei lavori complessi
+
+La complessita' di un lavoro e' definita dal responsabile dell'impianto RI il quale redige anche il piano di lavoro. Un lavoro e' generalmente definito complesso quando l'impianto e' complesso o comunque si ha una particolare situatione di pericolo. In caso di lavoro complesso si richiedono tre documenti:  
+
+* piano di lavoro
+* piano di intervento
+* consegna e restituzione dell'impianto
+
+## Piano di lavoro (RI)
+
+Documento contentente le modifiche da apportare all'impianto e mantenere durante l'intervento, necessarie per garantire la sicurezza.
+
+## Piano di intervento (PL)
+
+Documentazione sulle misure di sicurezza e le modalita' di intervento, come ad esempio il numero e la posizione delle terre di lavoro, o l'installazione di protettori nei lavori in prossimita'.  
+
+## Consegna e restituzione  
+
+Documentazione riguardo la consegna e la restituzione dell'impianto tra il RI e il PL.
