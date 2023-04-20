@@ -62,4 +62,15 @@ Documentazione sulle misure di sicurezza e le modalita' di intervento, come ad e
 
 ## Consegna e restituzione  
 
-Documentazione riguardo la consegna e la restituzione dell'impianto tra il RI e il PL.
+Documentazione riguardo la consegna e la restituzione dell'impianto tra il RI e il PL.  
+
+
+# Lavori fuori tensione (bassa tensione)
+
+Nei lavori si deve prima di tutto **individuare la zona di lavoro**,  ovvero la parte dell'impianto oggetto dei lavori, e la zona in cui l'operatore deve muoversi. Una volta individuata la zona di lavoro, si deve mettere fuori tensione e in sicurezza le parti attive rispettando le cingue regole d'oro.  
+
+1. sezionamento delle parti attive
+2. provvedimenti per evitare richiusure intempestive
+3. verifica dell'assenza di tensione
+4. messa a terra e in corto circuito
+5. protezione delle parti attive prossime
