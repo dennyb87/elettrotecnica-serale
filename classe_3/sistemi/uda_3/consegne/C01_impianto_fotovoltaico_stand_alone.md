@@ -1,0 +1,1 @@
+# Progetto impianto fotovoltaico stand-alone
