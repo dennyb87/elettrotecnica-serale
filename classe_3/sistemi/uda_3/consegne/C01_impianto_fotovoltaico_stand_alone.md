@@ -23,7 +23,8 @@ Si vogliono utilizzare moduli **VE172PV-280V** di cui vediamo in tabella le cara
 
 
 ## Calcolo moduli per il fabbisogno energetico   
-...
+
+Utilizziamo gli strumenti di calcolo del sito ENEA per stimare l'irraggiamento giornaliero medio mensile nel luogo di installazione. Assumiamo un coefficiente di riflessione pessimistico uguale a zero, anche se tecnicamente con un inclinazione di $30^\circ$ potremmo beneficiare di una piccola riflessione.  
 
 ## Regolatore di carica  
 ...
