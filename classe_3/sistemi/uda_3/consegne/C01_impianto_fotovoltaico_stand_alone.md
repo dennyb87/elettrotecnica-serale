@@ -26,6 +26,16 @@ Si vogliono utilizzare moduli **VE172PV-280V** di cui vediamo in tabella le cara
 
 Utilizziamo gli strumenti di calcolo del sito ENEA per stimare l'irraggiamento giornaliero medio mensile nel luogo di installazione. Assumiamo un coefficiente di riflessione pessimistico uguale a zero, anche se tecnicamente con un inclinazione di $30^\circ$ potremmo beneficiare di una piccola riflessione.  
 
+### Dati di input
+* Latitudine $43.963129$ longitudine $10.201176$
+* Azimut $-45^\circ$
+* Inclinazione rispetto al piano orizzontale $30^\circ$
+* Modello **ENEA-SOLTERM**
+* Coefficiente di riflessione del suolo $0$
+
+![enea_output](https://user-images.githubusercontent.com/7195133/233844157-f9aecc8c-0561-4ad2-a6f7-3b476e180887.jpg)  
+
+
 ## Regolatore di carica  
 ...
 
