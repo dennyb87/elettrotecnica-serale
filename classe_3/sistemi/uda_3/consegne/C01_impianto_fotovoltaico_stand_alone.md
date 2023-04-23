@@ -37,7 +37,9 @@ Utilizziamo gli strumenti di calcolo del sito ENEA per stimare l'irraggiamento g
 
 Vediamo allora che nel caso peggiore, quindi a Dicembre, l'irraggiamento richiederebbe l'installazione di un numero di pannelli che il tetto potrebbe non riuscire a sopportare, o comunque risultare in una superficie esagerata. Sappiamo pero' che questa e' una seconda casa di villeggiatura che verra' occupata e/o affittata esclusivamente nei mesi estivi, percio' possiamo permetterci di prendere in considerazione come caso peggiore il mese di Ottobre, che ci offre un irraggiamento di $3.15\ kWh/m^2$ comunque pessimistico rispetto ai mesi estivi, ma che ci permette l'installazione di soli $9$ moduli.  
 
-Calcoliamo la superficie fotovoltaica minima consocendo il fabbisogno energetico $E_{gior}$ il rendimento totale $\eta_{tot}$ ... 
+Calcoliamo la superficie fotovoltaica minima conoscendo il fabbisogno energetico $E_{gior} = 4\ kWh/m^2$ il rendimento totale $\eta_{tot}$ e l'irraggiamento giornaliero medio mensile di $G = 3.15\ kWh/m^2$.  
+
+$E_{gior} = A \cdot G \cdot \eta_{tot} \implies A = \dfrac{E_{gior}}{G \cdot \eta_{tot}} = \dfrac{4}{3.15 \cdot 0.0707} \simeq 18\ m^2$  
 
 
 ## Regolatore di carica  
