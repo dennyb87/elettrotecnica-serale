@@ -41,6 +41,9 @@ Calcoliamo la superficie fotovoltaica minima conoscendo il fabbisogno energetico
 
 $E_{gior} = A \cdot G \cdot \eta_{tot} \implies A = \dfrac{E_{gior}}{G \cdot \eta_{tot}} = \dfrac{4}{3.15 \cdot 0.0707} \simeq 18\ m^2$  
 
+$n = \dfrac{A}{1.98\ m^2} \simeq 9\ m^2$  
+
+Si ha allora che $9$ e' il numero minimo di moduli per soddisfare il fabbisogno energetico in primavera ed estate.  
 
 ## Regolatore di carica  
 ...
