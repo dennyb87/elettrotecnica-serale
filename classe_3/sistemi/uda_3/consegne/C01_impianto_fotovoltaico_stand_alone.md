@@ -7,7 +7,18 @@ Si vuol progettare un impianto fotovoltaico stand-alone da installare sul tetto 
 ![azimuth_approximation](https://user-images.githubusercontent.com/7195133/233838356-4fa0cbcb-190e-4f76-b372-3a99bb5704fa.jpg)  
 
 ## Modulo fotovoltaico  
-Specifiche e curva caratteristica  
+
+Si vogliono utilizzare moduli **VE172PV-280V** di cui vediamo in tabella le caratteristiche in condizioni standard **STC** ovvero con un irraggiamento di $1000\ W/m^2$, temperatura del modulo di $25^\circ C$, ed un coefficiente di massa d'aria $AM = 1.5$  
+
+|                            |           |            |
+| -------------------------- | --------- | ---------- |
+| Classe di potenza          | $P_{max}$ | $280\ W$   |
+| Efficienza                 | $\eta$    | $14.14$ %  |
+| Tensione a circuito aperto | $V_{oc}$  | $45.35\ V$ |
+| Corrente di cortocircuito  | $I_{sc}$  | $8.2\ A$   |
+| Tensione alla max. potenza | $V_{mp}$  | $36.85\ V$ |
+| Corrente alla max. potenza | $I_{mp}$  | $7.64 A$   |
+
 
 ## Calcolo moduli per il fabbisogno energetico   
 ...
