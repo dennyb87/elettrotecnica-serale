@@ -4,4 +4,23 @@ Si vuol progettare un impianto fotovoltaico stand-alone da installare sul tetto 
 
 ![casa_di_campagna_56m2](https://user-images.githubusercontent.com/7195133/233837334-b19b4d24-239c-408c-8ff1-044e770e394d.jpg)  
 
-![azimuth_approximation](https://user-images.githubusercontent.com/7195133/233838356-4fa0cbcb-190e-4f76-b372-3a99bb5704fa.jpg)
+![azimuth_approximation](https://user-images.githubusercontent.com/7195133/233838356-4fa0cbcb-190e-4f76-b372-3a99bb5704fa.jpg)  
+
+## Modulo fotovoltaico  
+Specifiche e curva caratteristica  
+
+## Calcolo moduli per il fabbisogno energetico   
+...
+
+## Regolatore di carica  
+...
+
+## Sistema di accumulo  
+...
+
+## Inverter  
+... 
+
+## Schema a blocchi  
+...
+
