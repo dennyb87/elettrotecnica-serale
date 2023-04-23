@@ -1,6 +1,6 @@
 # Progetto impianto fotovoltaico stand-alone  
 
-Si vuol progettare un impianto fotovoltaico stand-alone da installare sul tetto di una seconda casa off-grid di circa $56\ m^2$ ad uso villeggiatura, ubicata in una zona rurale del comune di Pietrasanta alle coordinate LAT $43.963129$ LONG $10.201176$. Si ipotizza un fabbisogno di energia elettrica giornaliero di $4\ kWh$ che tiene conto di un fattore di sicurezza del 20%. Dato il tipo e l'orientamento del tetto si ipotizza un'inclinazione approssimativa di $30^\circ$ ed un angolo di azimuth di $-45^\circ$ quindi orientato a Sud-Est (Enea utilizza il punto cardinale Sud come riferimento).  
+Si vuol progettare un impianto fotovoltaico stand-alone da installare sul tetto di una seconda casa off-grid di circa $56\ m^2$ ad uso villeggiatura, ubicata in una zona rurale del comune di Pietrasanta alle coordinate LAT $43.963129$ LONG $10.201176$. Si ipotizza un fabbisogno di energia elettrica giornaliero di $4\ kWh$ che tiene conto di un fattore di sicurezza del 20%. Dato il tipo e l'orientamento del tetto si ipotizza un'inclinazione approssimativa di $30^\circ$ ed un angolo di azimuth di $-45^\circ$ quindi orientato a Sud-Est tenendo in considerazione che Enea utilizza il punto cardinale Sud come riferimento.  
 
 ![casa_di_campagna_56m2](https://user-images.githubusercontent.com/7195133/233837334-b19b4d24-239c-408c-8ff1-044e770e394d.jpg)  
 
@@ -35,15 +35,15 @@ Utilizziamo gli strumenti di calcolo del sito ENEA per stimare l'irraggiamento g
 
 ![enea_output](https://user-images.githubusercontent.com/7195133/233844157-f9aecc8c-0561-4ad2-a6f7-3b476e180887.jpg)  
 
-Vediamo allora che nel caso peggiore, quindi a Dicembre, l'irraggiamento richiederebbe l'installazione di un numero di pannelli che il tetto potrebbe non riuscire a sopportare, o comunque risultare in una superficie esagerata. Sappiamo pero' che questa e' una seconda casa di villeggiatura che verra' occupata e/o affittata esclusivamente nei mesi estivi, percio' possiamo permetterci di prendere in considerazione come caso peggiore il mese di Ottobre, che ci offre un irraggiamento di $3.15\ kWh/m^2$ comunque pessimistico rispetto ai mesi estivi, ma che ci permette l'installazione di soli $9$ moduli.  
+Vediamo allora che nel caso peggiore, quindi a Dicembre, l'irraggiamento richiederebbe l'installazione di un numero di pannelli che il tetto potrebbe non riuscire a sopportare, o comunque risultare in una superficie esagerata. Sappiamo pero' che questa e' una seconda casa di villeggiatura che verra' occupata e/o affittata esclusivamente nei mesi estivi, percio' possiamo permetterci di prendere in considerazione come caso peggiore il mese di Marzo, che ci offre un irraggiamento di $3.78\ kWh/m^2$ comunque pessimistico rispetto ai mesi estivi, ma che ci permette l'installazione di soli $9$ moduli.  
 
-Calcoliamo la superficie fotovoltaica minima conoscendo il fabbisogno energetico $E_{gior} = 4\ kWh/m^2$ il rendimento totale $\eta_{tot}$ e l'irraggiamento giornaliero medio mensile di $G = 3.15\ kWh/m^2$.  
+Calcoliamo la superficie fotovoltaica minima $A_{tot}$ conoscendo il fabbisogno energetico $E_{gior} = 4\ kWh/m^2$ il rendimento totale $\eta_{tot}$ e l'irraggiamento giornaliero medio mensile di $G = 3.78\ kWh/m^2$ sapendo che il singolo pannello ha un'area $A_{p} = 1.98\ m^2$.  
 
-$E_{gior} = A \cdot G \cdot \eta_{tot} \implies A = \dfrac{E_{gior}}{G \cdot \eta_{tot}} = \dfrac{4}{3.15 \cdot 0.0707} \simeq 18\ m^2$  
+$E_{gior} = A_{tot} \cdot G \cdot \eta_{tot} \implies A_{tot} = \dfrac{E_{gior}}{G \cdot \eta_{tot}} = \dfrac{4}{3.78 \cdot 0.0707} \simeq 15\ m^2$  
 
-$n = \dfrac{A}{1.98\ m^2} \simeq 9\ m^2$  
+$n = \dfrac{A_{tot}}{A_{p}} = \dfrac{15}{1.98} \simeq 8$  
 
-Si ha allora che $9$ e' il numero minimo di moduli per soddisfare il fabbisogno energetico in primavera ed estate.  
+Si ha allora che $8$ e' il numero minimo di moduli per soddisfare il fabbisogno energetico in primavera ed estate.  
 
 ## Regolatore di carica  
 ...
