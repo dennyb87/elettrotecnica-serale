@@ -57,14 +57,32 @@ $N_p = \dfrac{A_{f}}{A_{p}} = \dfrac{15}{1.98} \simeq 8$
 
 Si ha allora che $8$ e' il numero minimo di pannelli per soddisfare il fabbisogno energetico durante la stagione turistica.  
 
+## Sistema di accumulo  
+
+Calcoliamo ora la capacita' $C_{acc}$ del sistema di accumulo, questa terra' conto:
+
+* della energia necessaria per soddifare il fabbisogno energetico $E_{gior}$
+* del numero $n$ di giorni di autonomia senza ricarica solare
+* della percentuale di capacita' effettiva, questo per fare in modo da non scaricare mai completamente le batterie $DOD = 0.8$ *Depth Of Discharge*
+* dell'efficienza delle batterie $\eta_{acc}$
+
+Troviamo allora l'energia da immagazzinare nel sistema di accumulo $E_{acc}$  
+
+$E_{acc} = \dfrac{E_{gior} \cdot n}{\eta_{acc} \cdot DOD} = \dfrac{4 \cdot 2}{0.84 \cdot 0.8} \simeq 12\ kWh$  
+
+La capacita' di accumulo e' allora:  
+
+$C_{acc} = \dfrac{E_{acc}}{U_n} = \dfrac{12000}{24} = 500\ Ah$  
+
+Dove $U_n$ e' la tensione nominale degli accumulatori.  
+
+Ci serviranno allora almeno $6$ accumulatori da $12\ V - 200\ Ah$ collegatin in serie-parallelo per ottenere $24\ V\ - 600\ Ah$
+
 ## Regolatore di carica  
 
 Sceglieremo un regolatore **MPPT** in quanto la tensione $36\ V$ dei pannelli si discosta molto da quella delle batterie, che e' di $24\ V$. Il regolatore dovra' inoltre avere caratteristiche tali da:
 * supportare una corrente superiore a quella uscente dai pannelli (con un fattore di sicurezza del 18%) ovvero $7.64 \cdot 8 \cdot 1.18 \simeq 72\ A$
 * accettare in ingresso la tensione in uscita dai pannelli, quindi intorno ai $36\ V$
-
-## Sistema di accumulo  
-...
 
 ## Inverter  
 
