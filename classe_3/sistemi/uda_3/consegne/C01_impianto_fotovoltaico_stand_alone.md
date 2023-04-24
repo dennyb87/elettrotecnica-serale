@@ -76,7 +76,9 @@ $C_{acc} = \dfrac{E_{acc}}{U_n} = \dfrac{12000}{24} = 500\ Ah$
 
 Dove $U_n$ e' la tensione nominale degli accumulatori.  
 
-Ci serviranno allora almeno $6$ accumulatori da $12\ V - 200\ Ah$ collegatin in serie-parallelo per ottenere $24\ V\ - 600\ Ah$
+Ci serviranno allora almeno $6$ accumulatori da $12\ V - 200\ Ah$ collegatin in serie-parallelo per ottenere $24\ V\ - 600\ Ah$  
+
+![batteries](https://user-images.githubusercontent.com/7195133/234122851-cc68984c-7316-44c3-a524-23c569d9fd13.jpg)  
 
 ## Regolatore di carica  
 
