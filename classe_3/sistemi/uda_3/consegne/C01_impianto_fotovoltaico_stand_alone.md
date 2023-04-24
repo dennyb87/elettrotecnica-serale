@@ -67,7 +67,8 @@ Sceglieremo un regolatore **MPPT** in quanto la tensione $36\ V$ dei pannelli si
 ...
 
 ## Inverter  
-... 
+
+Scegliamo un inverter leggermente sottodimensionato rispetto alla potenza di picco dell'impianto. In questo caso, essendo la potenza massima di picco $280 \cdot 8 = 2.24\ kW$ si puo' utilizzare un inverter di $2\ kW$ di potenza continuativa e uscita $230\ V\ -\ 50\ Hz$.
 
 ## Schema a blocchi  
 ...
