@@ -17,7 +17,7 @@ Si vogliono utilizzare moduli **VE172PV-280V** di cui vediamo in tabella le cara
 | Tensione a circuito aperto | $V_{oc}$ | $45.35\ V$ |
 | Corrente di cortocircuito  | $I_{sc}$ | $8.2\ A$   |
 | Tensione alla max. potenza | $V_{m}$  | $36.85\ V$ |
-| Corrente alla max. potenza | $I_{m}$  | $7.64 A$   |
+| Corrente alla max. potenza | $I_{m}$  | $7.64\ A$  |
 
 | Measures |             |
 | -------- | ----------- |
@@ -58,7 +58,10 @@ $N_p = \dfrac{A_{f}}{A_{p}} = \dfrac{15}{1.98} \simeq 8$
 Si ha allora che $8$ e' il numero minimo di pannelli per soddisfare il fabbisogno energetico durante la stagione turistica.  
 
 ## Regolatore di carica  
-...
+
+Sceglieremo un regolatore **MPPT** in quanto la tensione $36\ V$ dei pannelli si discosta molto da quella delle batterie, che e' di $24\ V$.
+* supporti una corrente superiore a quella uscente dai pannelli (con un fattore di sicurezza del 18%) $7.64 \cdot 8 \cdot 1.18 \simeq 72\ A$
+* accetti in ingresso la tensione in uscita dai pannelli, quindi intorno ai $36\ V$
 
 ## Sistema di accumulo  
 ...
