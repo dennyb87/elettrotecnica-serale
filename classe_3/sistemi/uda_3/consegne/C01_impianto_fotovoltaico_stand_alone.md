@@ -44,11 +44,12 @@ Utilizziamo gli strumenti di calcolo del sito ENEA per stimare l'irraggiamento g
 
 Vediamo allora che nel caso peggiore, quindi a Dicembre, l'irraggiamento richiederebbe l'installazione di un numero di pannelli che il tetto potrebbe non riuscire a sopportare, o comunque risultare in una superficie esagerata. Sappiamo pero' che questa abitazione verra' occupata e/o affittata esclusivamente intorno ai mesi estivi, percio' possiamo permetterci di prendere in considerazione come caso peggiore il mese di Marzo, che ci offre un irraggiamento di $3.78\ kWh/m^2$ comunque pessimistico rispetto ai mesi estivi, ma che ci permette l'installazione di soli $8$ moduli.  
 
-Calcoliamo la superficie fotovoltaica minima $A_{f}$ conoscendo il fabbisogno energetico giornaliero $E_{gior} = 4\ kWh/m^2$ il rendimento totale del sistema $\eta_{s}$ e l'irraggiamento giornaliero medio mensile di $G = 3.78\ kWh/m^2$ sapendo che il singolo pannello ha un'area $A_p = 1.98\ m^2$.  
+Calcoliamo ora il numero di moduli/pannelli necessari sapendo che:
 
-$A_{f} = A_p \cdot N_p$  
-
-$\eta_{s} = \eta_p \cdot \eta_{crai} = 0.1414 \cdot 0.5 = 0.0707$  
+* la superficie fotovoltaica minima $A_{f}$ e' il prodotto tra l'area di un pannello $A_p = 1.98\ m^2$ ed il numero $N_p$ di pannelli necessari $A_{f} = A_p \cdot N_p$ 
+* il fabbisogno energetico giornaliero $E_{gior} = 4\ kWh/m^2$
+* il rendimento totale del sistema $\eta_{s}$ e' il prodotto tra il rendimento del pannello $\eta = 0.1414$ ed il rendimento $\eta_{crai} = 0.5$ di cavi, regolatore di carica, accumulatori, inverter, ovvero $\eta_{s} = \eta_p \cdot \eta_{crai} = 0.1414 \cdot 0.5 = 0.0707$
+* l'irraggiamento giornaliero medio in Marzo $G = 3.78\ kWh/m^2$  
 
 $E_{gior} = A_{f} \cdot G \cdot \eta_{s} \implies A_{f} = \dfrac{E_{gior}}{G \cdot \eta_{s}} = \dfrac{4}{3.78 \cdot 0.0707} \simeq 15\ m^2$  
 
