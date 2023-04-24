@@ -61,7 +61,7 @@ Si ha allora che $8$ e' il numero minimo di pannelli per soddisfare il fabbisogn
 
 Calcoliamo ora la capacita' $C_{acc}$ del sistema di accumulo, questa terra' conto:
 
-* della energia necessaria per soddifare il fabbisogno energetico $E_{gior}$
+* della energia necessaria per soddifare il fabbisogno energetico $E_{gior}$ che tiene gia' conto di un fattore di sicurezza del 20% per garantire la ricarica degli accumulatori
 * del numero $n$ di giorni di autonomia senza ricarica solare
 * della percentuale di capacita' effettiva, questo per fare in modo da non scaricare mai completamente le batterie $DOD = 0.8$ *Depth Of Discharge*
 * dell'efficienza delle batterie $\eta_{acc}$
