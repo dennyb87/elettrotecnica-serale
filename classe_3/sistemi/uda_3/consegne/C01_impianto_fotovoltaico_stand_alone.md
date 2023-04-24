@@ -59,9 +59,9 @@ Si ha allora che $8$ e' il numero minimo di pannelli per soddisfare il fabbisogn
 
 ## Regolatore di carica  
 
-Sceglieremo un regolatore **MPPT** in quanto la tensione $36\ V$ dei pannelli si discosta molto da quella delle batterie, che e' di $24\ V$.
-* supporti una corrente superiore a quella uscente dai pannelli (con un fattore di sicurezza del 18%) $7.64 \cdot 8 \cdot 1.18 \simeq 72\ A$
-* accetti in ingresso la tensione in uscita dai pannelli, quindi intorno ai $36\ V$
+Sceglieremo un regolatore **MPPT** in quanto la tensione $36\ V$ dei pannelli si discosta molto da quella delle batterie, che e' di $24\ V$. Il regolatore dovra' inoltre avere caratteristiche tali da:
+* supportare una corrente superiore a quella uscente dai pannelli (con un fattore di sicurezza del 18%) ovvero $7.64 \cdot 8 \cdot 1.18 \simeq 72\ A$
+* accettare in ingresso la tensione in uscita dai pannelli, quindi intorno ai $36\ V$
 
 ## Sistema di accumulo  
 ...
