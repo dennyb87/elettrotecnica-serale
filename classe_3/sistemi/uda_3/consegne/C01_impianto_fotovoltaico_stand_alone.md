@@ -1,6 +1,6 @@
 # Progetto impianto fotovoltaico stand-alone  
 
-Si vuol progettare un impianto fotovoltaico stand-alone da installare sul tetto di una seconda casa off-grid di circa $56\ m^2$. La casa e' destinata esclusivamente ad affitti turistici in tarda primavera ed estate, ed e' ubicata in una zona rurale del comune di Pietrasanta alle coordinate LAT $43.963129$ LONG $10.201176$. Si ipotizza un fabbisogno di energia elettrica giornaliero di $4\ kWh$ che tiene conto di un fattore di sicurezza del 20%. Dato il tipo e l'orientamento del tetto si ipotizza un'inclinazione approssimativa di $30^\circ$ ed un angolo di azimuth di $-45^\circ$ quindi orientato a Sud-Est tenendo in considerazione che Enea utilizza il punto cardinale Sud come riferimento.  
+Si vuol progettare un impianto fotovoltaico stand-alone da installare sul tetto di una seconda casa off-grid di circa $56\ m^2$. L'abitazione e' destinata esclusivamente ad affitti turistici in tarda primavera ed estate, ed e' ubicata in una zona rurale del comune di Pietrasanta alle coordinate LAT $43.963129$ LONG $10.201176$. Si ipotizza un fabbisogno di energia elettrica giornaliero di $4\ kWh$ che tiene conto di un fattore di sicurezza del 20%. Dato il tipo e l'orientamento del tetto si ipotizza un'inclinazione approssimativa di $30^\circ$ ed un angolo di azimuth di $-45^\circ$ quindi orientato a Sud-Est tenendo in considerazione che Enea utilizza il punto cardinale Sud come riferimento.  
 
 ![casa_di_campagna_56m2](https://user-images.githubusercontent.com/7195133/233837334-b19b4d24-239c-408c-8ff1-044e770e394d.jpg)  
 
@@ -10,7 +10,7 @@ Si vuol progettare un impianto fotovoltaico stand-alone da installare sul tetto 
 
 Si vogliono utilizzare moduli **VE172PV-280V** di cui vediamo in tabella le caratteristiche in condizioni standard **STC** ovvero con un irraggiamento di $1000\ W/m^2$, temperatura del modulo di $25^\circ C$, ed un coefficiente di massa d'aria $AM = 1.5$  
 
-|                            |          |            |
+| Standard conditions (STC)  |          |            |
 | -------------------------- | -------- | ---------- |
 | Classe di potenza          | $P_{m}$  | $280\ W$   |
 | Efficienza                 | $\eta$   | $14.14$ %  |
@@ -18,6 +18,13 @@ Si vogliono utilizzare moduli **VE172PV-280V** di cui vediamo in tabella le cara
 | Corrente di cortocircuito  | $I_{sc}$ | $8.2\ A$   |
 | Tensione alla max. potenza | $V_{m}$  | $36.85\ V$ |
 | Corrente alla max. potenza | $I_{m}$  | $7.64 A$   |
+
+| Measures |             |
+| -------- | ----------- |
+| Length   | $1.98\ m$   |
+| Width    | $1\ m$      |
+| Area     | $1.98\ m^2$ |
+| Weight   | $21.5\ kg$  |
 
 ![pv_curve](https://user-images.githubusercontent.com/7195133/233843035-a12080b1-874f-498c-a8bc-0943049679e6.jpg)
 
@@ -37,13 +44,17 @@ Utilizziamo gli strumenti di calcolo del sito ENEA per stimare l'irraggiamento g
 
 Vediamo allora che nel caso peggiore, quindi a Dicembre, l'irraggiamento richiederebbe l'installazione di un numero di pannelli che il tetto potrebbe non riuscire a sopportare, o comunque risultare in una superficie esagerata. Sappiamo pero' che questa abitazione verra' occupata e/o affittata esclusivamente intorno ai mesi estivi, percio' possiamo permetterci di prendere in considerazione come caso peggiore il mese di Marzo, che ci offre un irraggiamento di $3.78\ kWh/m^2$ comunque pessimistico rispetto ai mesi estivi, ma che ci permette l'installazione di soli $8$ moduli.  
 
-Calcoliamo la superficie fotovoltaica minima $A_{tot}$ conoscendo il fabbisogno energetico $E_{gior} = 4\ kWh/m^2$ il rendimento totale $\eta_{tot}$ e l'irraggiamento giornaliero medio mensile di $G = 3.78\ kWh/m^2$ sapendo che il singolo pannello ha un'area $A_{p} = 1.98\ m^2$.  
+Calcoliamo la superficie fotovoltaica minima $A_{f}$ conoscendo il fabbisogno energetico giornaliero $E_{gior} = 4\ kWh/m^2$ il rendimento totale del sistema $\eta_{s}$ e l'irraggiamento giornaliero medio mensile di $G = 3.78\ kWh/m^2$ sapendo che il singolo pannello ha un'area $A_p = 1.98\ m^2$.  
 
-$E_{gior} = A_{tot} \cdot G \cdot \eta_{tot} \implies A_{tot} = \dfrac{E_{gior}}{G \cdot \eta_{tot}} = \dfrac{4}{3.78 \cdot 0.0707} \simeq 15\ m^2$  
+$A_{f} = A_p \cdot N_p$  
 
-$n = \dfrac{A_{tot}}{A_{p}} = \dfrac{15}{1.98} \simeq 8$  
+$\eta_{s} = \eta_p \cdot \eta_{crai} = 0.1414 \cdot 0.5 = 0.0707$  
 
-Si ha allora che $8$ e' il numero minimo di moduli per soddisfare il fabbisogno energetico durante la stagione turistica.  
+$E_{gior} = A_{f} \cdot G \cdot \eta_{s} \implies A_{f} = \dfrac{E_{gior}}{G \cdot \eta_{s}} = \dfrac{4}{3.78 \cdot 0.0707} \simeq 15\ m^2$  
+
+$N_p = \dfrac{A_{f}}{A_{p}} = \dfrac{15}{1.98} \simeq 8$  
+
+Si ha allora che $8$ e' il numero minimo di pannelli per soddisfare il fabbisogno energetico durante la stagione turistica.  
 
 ## Regolatore di carica  
 ...
