@@ -76,7 +76,7 @@ $C_{acc} = \dfrac{E_{acc}}{U_n} = \dfrac{12000}{24} = 500\ Ah$
 
 Dove $U_n$ e' la tensione nominale degli accumulatori.  
 
-Ci serviranno allora almeno $6$ accumulatori da $12\ V - 200\ Ah$ collegatin in serie-parallelo per ottenere $24\ V\ - 600\ Ah$  
+Ci serviranno allora almeno $3$ accumulatori da $24\ V - 200\ Ah$ collegati in parallelo per ottenere $600\ Ah$ ovvero un'autonomia di circa 2.5 giorni.  
 
 ![batteries_parallel](https://user-images.githubusercontent.com/7195133/234634440-c4535491-0d78-48e0-9c07-e5e3b6f6f9de.jpg)  
 
