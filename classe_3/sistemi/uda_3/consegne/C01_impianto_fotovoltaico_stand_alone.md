@@ -1,6 +1,6 @@
 # Progetto impianto fotovoltaico stand-alone  
 
-Si vuol progettare un impianto fotovoltaico stand-alone da installare sul tetto di una seconda casa off-grid di circa $56\ m^2$. L'abitazione e' destinata esclusivamente ad affitti turistici in tarda primavera ed estate, ed e' ubicata in una zona rurale del comune di Pietrasanta alle coordinate LAT $43.963129$ LONG $10.201176$. Si ipotizza un fabbisogno di energia elettrica giornaliero di $4\ kWh$ che tiene conto di un fattore di sicurezza del 20%. Dato il tipo e l'orientamento del tetto si ipotizza un'inclinazione approssimativa di $30^\circ$ ed un angolo di azimuth di $-45^\circ$ quindi orientato a Sud-Est tenendo in considerazione che Enea utilizza il punto cardinale Sud come riferimento.  
+Si vuol progettare un impianto fotovoltaico stand-alone da installare sul tetto di una seconda casa off-grid di circa $56\ m^2$. L'abitazione e' destinata esclusivamente ad affitti turistici in tarda primavera ed estate, ed e' ubicata in una zona rurale del comune di Pietrasanta alle coordinate LAT $43.963129$ LONG $10.201176$. Si ipotizza un fabbisogno di energia elettrica giornaliero di $4\ kWh$ che tiene conto di un fattore di sicurezza del 20%. Dato il tipo e l'orientamento del tetto si ipotizza un'inclinazione approssimativa di $30^\circ$ ed un angolo di azimuth di $45^\circ$ quindi orientato a Sud-Est tenendo in considerazione che Enea utilizza il punto cardinale Sud come riferimento ruotando in senso antiorario.  
 
 ![casa_di_campagna_56m2](https://user-images.githubusercontent.com/7195133/233837334-b19b4d24-239c-408c-8ff1-044e770e394d.jpg)  
 
@@ -35,7 +35,7 @@ Utilizziamo gli strumenti di calcolo del sito ENEA per stimare l'irraggiamento g
 
 ### Dati di input
 * Latitudine $43.963129$ longitudine $10.201176$
-* Azimut $-45^\circ$
+* Azimut $45^\circ$
 * Inclinazione rispetto al piano orizzontale $30^\circ$
 * Modello **ENEA-SOLTERM**
 * Coefficiente di riflessione del suolo $0$
@@ -78,7 +78,7 @@ Dove $U_n$ e' la tensione nominale degli accumulatori.
 
 Ci serviranno allora almeno $6$ accumulatori da $12\ V - 200\ Ah$ collegatin in serie-parallelo per ottenere $24\ V\ - 600\ Ah$  
 
-![batteries](https://user-images.githubusercontent.com/7195133/234123103-228acd56-89f6-4f84-9eaf-db0080eeb32c.jpg)  
+![batteries_parallel](https://user-images.githubusercontent.com/7195133/234634440-c4535491-0d78-48e0-9c07-e5e3b6f6f9de.jpg)  
 
 
 ## Regolatore di carica  
