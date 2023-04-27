@@ -41,3 +41,29 @@ Qui l'energia viene convertita in corrente elettrica alternata ed immessa in ret
 Il prelievo dell'energia preferisce i pannelli o il sistema di accumulo. Solo nel caso in qui queste fonti non siano disponibili allora si ripiega sulla rete.  
 
 ![grid-connected](https://user-images.githubusercontent.com/7195133/234866224-ae361d98-0441-49f1-b756-6e814137426a.jpg)
+
+
+## Sistemi stand-alone  
+
+Anche detti *a isola* sono sistemi scollegati dalla rete, dove l'energia che alimenta il carico proviene esclusivamente dai pannelli solari o dal sistema di accumulo. Il dimensionamento deve quindi permettere l'alimentazione del carico e la ricarica delle batterie durante le ore di insolazione. Le applicazioni piu' diffuse sono:  
+
+* pompaggio dell'acqua
+* ripetitori radio, stazioni metereologiche o sismiche
+* sistemi di illuminazione
+* segnaletica
+* alimentazione dei servizi nei camper o imbarcazioni
+* rifugi in alta quota
+
+## Dalla cella al campo fotovoltaico  
+
+![dalla_cella_al_campo_pv](https://user-images.githubusercontent.com/7195133/234900501-4fed6937-cd1a-450d-967a-dffd039d6ddf.jpg)  
+
+## Tipologie di pannelli solari  
+
+I pannelli piu' diffusi sono:  
+
+* monocristallini - alto rendimento > prezzo maggiore
+* policristallini - medio rendimento > prezzo contenuto
+* a film sottile
+
+Generalmente dimensionati per fuzionare a 12V o 24V, in casi particolari anche a 48V.  
