@@ -6,7 +6,7 @@ Si vuol progettare un impianto fotovoltaico grid-connected, quindi collegato all
 
 ![azimuth_approximation_house_60m2](https://user-images.githubusercontent.com/7195133/235432343-78a637f2-f73b-418f-b763-ced900fcb760.jpg)  
 
-## Dati di targa  
+## Dati di targa AP-72 Ferrania 280W  
 
 | Standard conditions (STC)  |          |            |
 | -------------------------- | -------- | ---------- |
