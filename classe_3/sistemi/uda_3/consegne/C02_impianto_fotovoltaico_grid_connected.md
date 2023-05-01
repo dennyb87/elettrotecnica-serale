@@ -34,4 +34,15 @@ Dati di input:
 * inclinazione tetto $30^\circ$
 * azimuth $-10^\circ$
 
-![pvgis_input](https://user-images.githubusercontent.com/7195133/235484272-e75851bf-485a-4ba6-b829-31968ab8d638.jpg)
+![pvgis_input](https://user-images.githubusercontent.com/7195133/235484272-e75851bf-485a-4ba6-b829-31968ab8d638.jpg)  
+
+![pvgis_production](https://user-images.githubusercontent.com/7195133/235485245-7b11be1d-2039-46c9-b0de-9abe240b7c74.jpg)  
+
+![pvgis_radiation](https://user-images.githubusercontent.com/7195133/235485317-924099fe-7e9d-4ba4-b645-ac82f674bf1c.jpg)
+
+Si ha allora che con un modulo/pannello si otterrebbe una produzione annua di circa $389.34\ kWh$ che sappiamo non essere sufficienti per coprire il fabbisogno annuale dell'utenza di circa $1217\ kWh$.  
+
+## Calcolo numero di moduli  
+
+Tenendo conto del fatto che e' preferibile l'installazione del numero minimo di pannelli possibile, e come abbiamo gia' accennato, e' sempre possibile attingere alla rete, prendiamo in considerazione $3.33\ kWh$ come fabbisogno giornaliero, e l'irraggiamento nel mese di Dicembre $G = 78.61 / 31 \simeq 2.54\ kWh/m^2$, per trovare il numero di moduli necessari a soddisfare il bisogno energetico.  
+
