@@ -6,6 +6,25 @@ Si vuol progettare un impianto fotovoltaico grid-connected, quindi collegato all
 
 ![azimuth_approximation_house_60m2](https://user-images.githubusercontent.com/7195133/235432343-78a637f2-f73b-418f-b763-ced900fcb760.jpg)  
 
+## Dati di targa  
+
+| Standard conditions (STC)  |          |            |
+| -------------------------- | -------- | ---------- |
+| Classe di potenza          | $P_{m}$  | $280\ W$   |
+| Efficienza                 | $\eta$   | $14.18$ %  |
+| Tensione a circuito aperto | $V_{oc}$ | $45.35\ V$ |
+| Corrente di cortocircuito  | $I_{sc}$ | $8.4\ A$   |
+| Tensione alla max. potenza | $V_{m}$  | $35.40\ V$ |
+| Corrente alla max. potenza | $I_{m}$  | $7.9\ A$   |
+
+| Measures |             |
+| -------- | ----------- |
+| Length   | $1.977\ m$  |
+| Width    | $0.996\ m$  |
+| Area     | $1.97\ m^2$ |
+| Weight   | $21.5\ kg$  |
+
+
 ## Stima del fabbisogno giornaliero  
 
 ![casa_60m2_bolletta](https://user-images.githubusercontent.com/7195133/235434333-82b56cf4-8304-437b-aff4-166e5d15dab5.jpg)  
@@ -46,14 +65,14 @@ Si ha allora che con un modulo/pannello si otterrebbe una produzione annua di ci
 
 Tenendo conto del fatto che e' preferibile l'installazione del numero minimo di pannelli possibile, e come abbiamo gia' accennato, e' sempre possibile attingere alla rete, prendiamo in considerazione $E_{gior} = 4\ kWh$ come fabbisogno giornaliero, e l'irraggiamento nel mese di Dicembre $G = 78.61 / 31 \simeq 2.54\ kWh/m^2$, per trovare il numero di moduli necessari a soddisfare il bisogno energetico.  
 
-$E_{gior} = A_{f} \cdot G \cdot \eta_{tot} \implies A_{f} = \dfrac{E_{gior}}{G \cdot \eta_{tot}} = \dfrac{4}{2.54 \cdot 0.1} \simeq 16\ m^2$  
+$E_{gior} = A_{f} \cdot G \cdot \eta_{tot} \implies A_{f} = \dfrac{E_{gior}}{G \cdot \eta_{tot}} = \dfrac{4}{2.54 \cdot 0.1} \simeq 15.75\ m^2$  
 
-$N_p = \dfrac{A_{f}}{A_{p}} = \dfrac{16}{1.98} \simeq 8$  
+$N_p = \dfrac{A_{f}}{A_{p}} = \dfrac{15.75}{1.97} \simeq 8$  
 
 Si ha allora che $8$ e' il numero minimo di pannelli per soddisfare il fabbisogno energetico.  
 
 Dove:  
 
-* la superficie fotovoltaica minima $A_{f}$ e' il prodotto tra l'area di un pannello $A_p = 1.98\ m^2$ ed il numero $N_p$ di pannelli necessari $A_{f} = A_p \cdot N_p$ 
+* la superficie fotovoltaica minima $A_{f}$ e' il prodotto tra l'area di un pannello $A_p = 1.97\ m^2$ ed il numero $N_p$ di pannelli necessari $A_{f} = A_p \cdot N_p$ 
 * $\eta_{tot}$ e' l'efficienza dell'intero sistema
 
