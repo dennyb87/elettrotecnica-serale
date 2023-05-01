@@ -91,4 +91,4 @@ Da sinistra verso destra si hanno:
 
 ## Valutazione del rendimento  
 
-L'impianto cosi' progettato permette di soddisfare il fabbisogno energetico sulla carta, ma sappiamo che senza sistema di accumulo, nelle ore notturne si dovra' sfruttare l'energia della rete, e questo comportera' dei costi che difficilmente saranno compensati dall'energia scambiata durante le ore diurne.
+L'impianto cosi' progettato permetterebbe di soddisfare il fabbisogno energetico solo nel caso in cui l'energia venisse consumata durante le ore diurne. Ma sappiamo che realisticamente una normale utenza domestica e' caratterizzata da un fabisogno energietico che si estende alle ore notture, e al mattino presto. Allora senza sistema di accumulo, si dovra' sfruttare l'energia della rete, portando di conseguenza ad avere dei costi che difficilmente saranno compensati dal surplus di energia scambiata durante le ore diurne.  
