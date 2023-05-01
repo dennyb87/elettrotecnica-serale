@@ -76,3 +76,14 @@ Dove:
 * la superficie fotovoltaica minima $A_{f}$ e' il prodotto tra l'area di un pannello $A_p = 1.97\ m^2$ ed il numero $N_p$ di pannelli necessari $A_{f} = A_p \cdot N_p$ 
 * $\eta_{tot}$ e' l'efficienza dell'intero sistema
 
+
+## Schema a blocchi  
+
+Da sinistra verso destra si hanno:  
+
+* pannelli fotovoltaici
+* inverter
+* contatore di produzione
+* contatore di scambio
+
+![grid_connected_block_diagram](https://user-images.githubusercontent.com/7195133/235495596-f947f8a2-f589-4247-948e-174a2fae8fc8.jpg)  
