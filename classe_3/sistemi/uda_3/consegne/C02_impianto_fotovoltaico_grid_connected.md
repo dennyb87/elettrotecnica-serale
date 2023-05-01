@@ -14,5 +14,5 @@ Si vuol progettare un impianto fotovoltaico grid-connected, quindi collegato all
 
 $\dfrac{1217}{365} \simeq 3.33\ kWh$  
 
-Analizzando la bolletta notiamo che in media si consumano circa $3.33\ kWh$ al giorno. Questo coincide approssimativamente con la mediana mensile dei consumi di circa $100\ kWh$ confermando l'assenza di valori anomali e permettendoci quindi di poter utilizzare $3.33\ kWh$ come fabbisogno giornaliero di riferimento, tenendo in considerazione che essendo grid-connected, potremmo comunque attingere dalla rate in caso di bisgno, o donare il surplus di energia generato nei mesi di massima irradiazione.  
+Analizzando la bolletta notiamo che in media si consumano circa $3.33\ kWh$ al giorno. Questo coincide approssimativamente con la mediana mensile dei consumi di circa $100\ kWh$ confermando l'assenza di valori anomali e permettendoci quindi di poter utilizzare $3.33\ kWh$ come fabbisogno giornaliero di riferimento, tenendo in considerazione che essendo grid-connected, potremmo comunque attingere dalla rete in caso di bisogno, o donare il surplus di energia generato nei mesi di massima irradiazione.  
 
