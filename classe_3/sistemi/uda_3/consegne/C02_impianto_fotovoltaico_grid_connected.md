@@ -87,3 +87,8 @@ Da sinistra verso destra si hanno:
 * contatore di scambio
 
 ![grid_connected_block_diagram](https://user-images.githubusercontent.com/7195133/235495596-f947f8a2-f589-4247-948e-174a2fae8fc8.jpg)  
+
+
+## Valutazione del rendimento  
+
+L'impianto cosi' progettato permette di soddisfare il fabbisogno energetico sulla carta, ma sappiamo che senza sistema di accumulo, nelle ore notturne si dovra' sfruttare l'energia della rete, e questo comportera' dei costi che difficilmente saranno compensati dall'energia scambiata durante le ore diurne.
