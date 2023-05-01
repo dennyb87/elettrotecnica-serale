@@ -33,7 +33,7 @@ Si vuol progettare un impianto fotovoltaico grid-connected, quindi collegato all
 
 $\dfrac{1217}{365} \simeq 3.33\ kWh$  
 
-Analizzando la bolletta notiamo che in media si consumano circa $3.33\ kWh$ al giorno, ma notiamo che nel mese di Dicembre si ha il consumo massimo di circa $125\ kWh$. Allora troviamo il fabbisogno giornaliero di riferimento $E_{gior} = \dfrac{125}{31} \simeq 4\ kWh$, tenendo in considerazione che essendo grid-connected, potremmo comunque attingere dalla rete in caso di bisogno, o donare il surplus di energia generato nei mesi di massima irradiazione.  
+Analizzando la bolletta notiamo che in media si consumano circa $3.33\ kWh$ al giorno, ma nel mese di Dicembre si ha il consumo massimo di circa $125\ kWh$. Allora troviamo il fabbisogno giornaliero di riferimento $E_{gior} = \dfrac{125}{31} \simeq 4\ kWh$, tenendo in considerazione che essendo grid-connected, potremmo comunque attingere dalla rete in caso di bisogno, o donare il surplus di energia generato nei mesi di massima irradiazione.  
 
 ## Stima irraggiamento e produzione annua con PVGIS  
 
