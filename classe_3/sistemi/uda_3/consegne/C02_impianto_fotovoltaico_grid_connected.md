@@ -2,9 +2,9 @@
 
 Si vuol progettare un impianto fotovoltaico grid-connected, quindi collegato alla rete di distribuzione, da utilizzare per coprire i fabbisogni di energia elettrica di una utenza domestica ubicata nel comune di Pietrasanta alle coordinate LAT $43.936270$ LONG $10.235543$. Verranno utilizzati moduli fotovoltaici AP-72 Ferrania da 280 W di potenza di picco, installati sul tetto dell'abitazione che si stima avere un'inclinazione di circa $30^\circ$ ed essere orientato approssimativamente a Sud $-10^\circ$ tenendo conto che PGVIS usa come punto cardinale di riferimento il Sud ruotando in senso orario.  
 
-![casa_campagna_60m2](https://user-images.githubusercontent.com/7195133/235432387-5c0158d8-262a-465b-934f-3270359e69bf.jpg)
+![casa_campagna_60m2](https://user-images.githubusercontent.com/7195133/235432387-5c0158d8-262a-465b-934f-3270359e69bf.jpg)  
 
-![azimuth_approximation_house_60m2](https://user-images.githubusercontent.com/7195133/235432343-78a637f2-f73b-418f-b763-ced900fcb760.jpg)
+![azimuth_approximation_house_60m2](https://user-images.githubusercontent.com/7195133/235432343-78a637f2-f73b-418f-b763-ced900fcb760.jpg)  
 
 ## Stima del fabbisogno giornaliero  
 
@@ -16,3 +16,22 @@ $\dfrac{1217}{365} \simeq 3.33\ kWh$
 
 Analizzando la bolletta notiamo che in media si consumano circa $3.33\ kWh$ al giorno. Questo coincide approssimativamente con la mediana mensile dei consumi di circa $100\ kWh$ confermando l'assenza di valori anomali e permettendoci quindi di poter utilizzare $3.33\ kWh$ come fabbisogno giornaliero di riferimento, tenendo in considerazione che essendo grid-connected, potremmo comunque attingere dalla rete in caso di bisogno, o donare il surplus di energia generato nei mesi di massima irradiazione.  
 
+## Stima irraggiamento e produzione annua con PVGIS  
+
+Attraverso PVGIS vogliamo stimare l'irraggiamento e la produzione con un modulo **AP-72 Ferrania** da $280\ W$ di picco in **STC**. Si ipotizzano:  
+
+* $\eta_m = 0.1418$ l'efficienza del modulo  
+* $\eta_i = 0.92$ l'efficienza dell'inverter  
+* $\eta_c = 0.99$ l'efficienza dei cavi  
+* $\eta_{ps} = 0.8$ l'efficienza dei contatori di produzione/scambio  
+
+$\eta_{tot} = \eta_m \cdot \eta_i \cdot \eta_c \cdot \eta_{ps} = 0.1418 \cdot 0.92 \cdot 0.99 \cdot 0.8 \simeq 0.1$  
+
+Dati di input:  
+
+* potenza di picco $280\ W$ in **STC**
+* efficienza $\eta_{tot}$ del 10%
+* inclinazione tetto $30^\circ$
+* azimuth $-10^\circ$
+
+![pvgis_input](https://user-images.githubusercontent.com/7195133/235484272-e75851bf-485a-4ba6-b829-31968ab8d638.jpg)
