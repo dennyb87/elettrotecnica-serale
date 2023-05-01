@@ -14,7 +14,7 @@ Si vuol progettare un impianto fotovoltaico grid-connected, quindi collegato all
 
 $\dfrac{1217}{365} \simeq 3.33\ kWh$  
 
-Analizzando la bolletta notiamo che in media si consumano circa $3.33\ kWh$ al giorno. Questo coincide approssimativamente con la mediana mensile dei consumi di circa $100\ kWh$ confermando l'assenza di valori anomali e permettendoci quindi di poter utilizzare $3.33\ kWh$ come fabbisogno giornaliero di riferimento, tenendo in considerazione che essendo grid-connected, potremmo comunque attingere dalla rete in caso di bisogno, o donare il surplus di energia generato nei mesi di massima irradiazione.  
+Analizzando la bolletta notiamo che in media si consumano circa $3.33\ kWh$ al giorno, ma notiamo che nel mese di Dicembre si ha il consumo massimo di circa $125\ kWh$. Allora troviamo il fabbisogno giornaliero di riferimento $E_{gior} = \dfrac{125}{31} \simeq 4\ kWh$, tenendo in considerazione che essendo grid-connected, potremmo comunque attingere dalla rete in caso di bisogno, o donare il surplus di energia generato nei mesi di massima irradiazione.  
 
 ## Stima irraggiamento e produzione annua con PVGIS  
 
@@ -44,5 +44,16 @@ Si ha allora che con un modulo/pannello si otterrebbe una produzione annua di ci
 
 ## Calcolo numero di moduli  
 
-Tenendo conto del fatto che e' preferibile l'installazione del numero minimo di pannelli possibile, e come abbiamo gia' accennato, e' sempre possibile attingere alla rete, prendiamo in considerazione $3.33\ kWh$ come fabbisogno giornaliero, e l'irraggiamento nel mese di Dicembre $G = 78.61 / 31 \simeq 2.54\ kWh/m^2$, per trovare il numero di moduli necessari a soddisfare il bisogno energetico.  
+Tenendo conto del fatto che e' preferibile l'installazione del numero minimo di pannelli possibile, e come abbiamo gia' accennato, e' sempre possibile attingere alla rete, prendiamo in considerazione $E_{gior} = 4\ kWh$ come fabbisogno giornaliero, e l'irraggiamento nel mese di Dicembre $G = 78.61 / 31 \simeq 2.54\ kWh/m^2$, per trovare il numero di moduli necessari a soddisfare il bisogno energetico.  
+
+$E_{gior} = A_{f} \cdot G \cdot \eta_{tot} \implies A_{f} = \dfrac{E_{gior}}{G \cdot \eta_{tot}} = \dfrac{4}{2.54 \cdot 0.1} \simeq 16\ m^2$  
+
+$N_p = \dfrac{A_{f}}{A_{p}} = \dfrac{16}{1.98} \simeq 8$  
+
+Si ha allora che $8$ e' il numero minimo di pannelli per soddisfare il fabbisogno energetico.  
+
+Dove:  
+
+* la superficie fotovoltaica minima $A_{f}$ e' il prodotto tra l'area di un pannello $A_p = 1.98\ m^2$ ed il numero $N_p$ di pannelli necessari $A_{f} = A_p \cdot N_p$ 
+* $\eta_{tot}$ e' l'efficienza dell'intero sistema
 
