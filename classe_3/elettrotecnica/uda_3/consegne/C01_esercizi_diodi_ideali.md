@@ -1,5 +1,4 @@
-# Diodi ideali  
-##### ELEMENTI DI ELETTRONICA GENERALE  
+# Esercizi sui diodi ideali  
 
 ## ES. 1 Determinare il punto lavoro dei diodi D1 e D2 nel circuito di Fig. 1  
 
@@ -8,11 +7,13 @@
 
 ## ES. 2 Determinare il punto lavoro dei diodi D1 e D2 nel circuito di Fig. 2  
 
-...
+![fad_diodi_ideali_fig2](https://user-images.githubusercontent.com/7195133/236328008-aed87f49-46f4-45b2-b0de-ca62c7003fbb.jpg)  
+
 
 ## ES. 3 Calcolare il valore medio del segnale di Fig. 3  
 
-...
+![fad_diodi_ideali_fig3](https://user-images.githubusercontent.com/7195133/236328108-4e7c31a2-0993-4fe9-b425-51d1ece662c6.jpg)  
+
 
 ## ES. 4 Disegnare il grafico di una tensione sinusoidale avente le seguenti caratteristiche:  
 
