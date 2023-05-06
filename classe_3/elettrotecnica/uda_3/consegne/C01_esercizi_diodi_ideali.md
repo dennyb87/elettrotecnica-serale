@@ -64,4 +64,6 @@ $V_{medio} = \dfrac{150 - 140}{10} = 1\ Vs$
 - periodo di ripetizione 20 ms
 - valore 10 V all'istante 0
 
-Intervallo di tempo di osservazione compreso tra 0 e 40 ms
+Intervallo di tempo di osservazione compreso tra 0 e 40 ms  
+
+![fad_voltage_as_cosine](https://user-images.githubusercontent.com/7195133/236632116-bb36d26d-626c-48df-9ff1-63936daf4511.jpg)
