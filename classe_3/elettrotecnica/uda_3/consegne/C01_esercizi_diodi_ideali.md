@@ -52,7 +52,7 @@ $A^+ = 50 \cdot 3 = 150\ Vs$
 
 $A^- = -20 \cdot 7 = -140\ Vs$  
 
-$V_{medio} = \dfrac{150 - 140}{10} = 1\ Vs$  
+$V_{medio} = \dfrac{150 - 140}{10} = 1\ V$  
 
 ## ES. 4 Disegnare il grafico di una tensione sinusoidale avente le seguenti caratteristiche:  
 
