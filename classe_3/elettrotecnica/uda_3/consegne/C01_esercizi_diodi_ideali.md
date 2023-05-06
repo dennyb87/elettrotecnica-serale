@@ -46,6 +46,17 @@ $D2 = (0\ V;\ 3\ mA)$
 
 ![fad_diodi_ideali_fig3](https://user-images.githubusercontent.com/7195133/236328108-4e7c31a2-0993-4fe9-b425-51d1ece662c6.jpg)  
 
+Sappiamo che il valore medio non e' altro che la somma algebrica delle aree descritte dalle curve nel tempo di osservazione, ovvero:  
+
+$V_{medio} = \dfrac{A^+_1+A^-_2+A^+_n}{t_{oss}}$  
+
+Notiamo che esiste un pattern, percio' calcoliamo il valore medio soltanto per il periodo di ripetizione.  
+
+$A^+ = 50 \cdot 3 = 150\ Vs$  
+
+$A^- = -20 \cdot 7 = -140\ Vs$  
+
+$V_{medio} = \dfrac{150 - 140}{10} = 1\ Vs$  
 
 ## ES. 4 Disegnare il grafico di una tensione sinusoidale avente le seguenti caratteristiche:  
 
