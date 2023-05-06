@@ -44,7 +44,7 @@ $D2 = (0\ V;\ 2\ mA)$
 
 Sappiamo che il valore medio non e' altro che la somma algebrica delle aree descritte dalle curve nel tempo di osservazione, ovvero:  
 
-$V_{medio} = \dfrac{A_1^+A_2^-+...+A_n^+}{t_{oss}}$  
+$V_{medio} = \dfrac{A_1^{\pm}A_2^{\pm}+...+A_n^{\pm}}{t_{oss}}$  
 
 Notiamo che esiste un pattern, percio' calcoliamo il valore medio soltanto per il periodo di ripetizione.  
 
