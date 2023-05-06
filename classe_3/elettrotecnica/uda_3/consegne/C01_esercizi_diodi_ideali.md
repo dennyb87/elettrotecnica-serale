@@ -23,24 +23,20 @@ $D2 = (0\ V;\ 0\ A)$
 
 Invertendo il generatore si ha invece che entrambe i diodi sono in conduzione, quindi equivalenti ad un corto circuito.  
 
-![fad_diodi_ideali_eq_fig2](https://user-images.githubusercontent.com/7195133/236611683-3600f61e-55f3-471c-9676-f10f4e7f2f45.jpg)  
+![fad_diodi_ideali_fig2](https://user-images.githubusercontent.com/7195133/236633569-6204d8d1-d82c-469d-8874-95280a87a558.jpg)
 
 In questo caso essendo le resistenze in parallelo sappiamo che ai capi hanno la stessa tensione, quella del generatore, allora la corrente che attraversa $D2$ sara':  
 
-$I_2 = \dfrac{E}{R_2} = \dfrac{30}{10000} = 3\ mA$  
-
-Mentre la corrente $I_1$ che attraversa $R_1$ sara':  
-
-$I_1 = \dfrac{E}{R_1} = \dfrac{30}{5000} = 6\ mA$  
+$I_1 = I_2 = \dfrac{E}{R_2} = \dfrac{40}{20000} = 2\ mA$  
 
 Allora la corrente $I$ che attraversa $D1$ sara':  
 
-$I = I_1 + I_2 = 3 \cdot 10^{-3} + 6 \cdot 10^{-3} = 9\ mA$  
+$I = I_1 + I_2 = 2I_2 = 2 \cdot 2 \cdot 10^{-3} = 4\ mA$  
 
 I punti di lavoro dei diodi sono allora rispettivamente:  
 
-$D1 = (0\ V;\ 9\ mA)$  
-$D2 = (0\ V;\ 3\ mA)$  
+$D1 = (0\ V;\ 4\ mA)$  
+$D2 = (0\ V;\ 2\ mA)$  
 
 ## ES. 3 Calcolare il valore medio del segnale di Fig. 3  
 
