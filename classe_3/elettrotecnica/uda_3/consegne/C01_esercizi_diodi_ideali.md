@@ -5,8 +5,17 @@
 ![fad_diodi_ideali_fig1](https://user-images.githubusercontent.com/7195133/236326678-6f5e4a0c-a812-4e90-9e7f-616077812b81.jpg)  
 ![fad_diodi_ideali_eq_fig1](https://user-images.githubusercontent.com/7195133/236333191-a9175a9f-6e27-418e-a1f3-db664294254b.jpg)  
 
-Troviamo il circuito equivalente consci del fatto che i diodi non sono in conduzione, percio' equivalgono a dei circuiti aperti (per comodita' rappresentati da interruttori utilizzando multisim).  
+Troviamo il circuito equivalente consci del fatto che i diodi non sono in conduzione, percio' equivalgono a dei circuiti aperti (per comodita' rappresentati da interruttori utilizzando Multisim).  
 
+Si ha allora che:  
+
+$V_{D1} = R_1 \cdot I_1 - E = 5000 \cdot 0 -30 = -30\ V$  
+$V_{D2} = - R_1 \cdot I_1 + R_2 \cdot I_2 = - 5000 \cdot 0 + 10000 \cdot 0 = 0\ V$  
+
+Percio' i punti di lavoro dei diodi sono rispettivamente:  
+
+$D1 = (-30\ V;\ 0\ A)$  
+$D2 = (0\ V;\ 0\ A)$  
 
 ## ES. 2 Determinare il punto lavoro dei diodi D1 e D2 nel circuito di Fig. 2  
 
