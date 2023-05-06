@@ -7,7 +7,7 @@
 
 Troviamo il circuito equivalente consci del fatto che i diodi non sono in conduzione, percio' equivalgono a dei circuiti aperti (per comodita' rappresentati da interruttori utilizzando Multisim).  
 
-Si ha allora che:  
+Si ha allora grazie al secondo principio di Kirkhoff che:  
 
 $V_{D1} = R_1 \cdot I_1 - E = 5000 \cdot 0 -30 = -30\ V$  
 $V_{D2} = - R_1 \cdot I_1 + R_2 \cdot I_2 = - 5000 \cdot 0 + 10000 \cdot 0 = 0\ V$  
