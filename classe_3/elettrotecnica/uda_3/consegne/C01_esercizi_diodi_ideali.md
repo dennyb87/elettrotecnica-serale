@@ -66,6 +66,10 @@ Intervallo di tempo di osservazione compreso tra 0 e 40 ms
 
 
 # Esercizi facoltativi  
+## Svolgi l'esercizio 1 con un modello pratico  
+
+Questo modello considera il diodo come una resistenza $R_{Dx} = 30\ \Omega$ in serie ad un generatore di tensione $E_{Dx} = 0.6\ V$. I diodi pero' continuano ad essere in 
+
 ## Svolgi l'esercizio 2 con un modello pratico  
 
 ![fad_diodo_reale_fig2](https://user-images.githubusercontent.com/7195133/236646337-7b51894a-7316-4289-973b-dc254324b823.jpg)
@@ -112,3 +116,16 @@ $E - E_{D1} - R_{D1}I - R_1I + \dfrac{20000}{40030}(-0.6 + 20000I) = 0$
 $40 - 0.6 - 30I - 20000I -0.3 + 10000I = 0$  
 
 $I = \dfrac{-40 +0.6 +0.3}{-10030} \simeq 3.89\ mA$  
+
+Troviamo allora $I_2$ ed $I_1$.  
+
+$I_2 = \dfrac{-0.6 + 20000I}{40030} = \dfrac{-0.6 + 20000 \cdot 0.00389}{40030} \simeq 1.9\ mA$  
+
+$I_1 = I - I_2 = 3.89 - 1.9 = 1.99\ mA$  
+
+Si ha allora che con il modello pratico i punti di lavoro dei diodi sono:  
+
+$D1 = (0.6\ V;\ 3.89\ mA)$  
+$D2 = (0.6\ V;\ 1.9\ mA)$  
+
+I risultati non si discostano molto da quelli ottenuti con il modello ideale, ma si intuisce la maggiore accuratezza nel descrivere il sistema. Notiamo per esempio che $I_2 \ne I_1$ consenguenza del fatto che il diodo in conduzione non e' piu' considerato un cortocircuito.  
