@@ -44,7 +44,7 @@ $D2 = (0\ V;\ 2\ mA)$
 
 Sappiamo che il valore medio non e' altro che la somma algebrica delle aree descritte dalle curve nel tempo di osservazione, ovvero:  
 
-$V_{medio} = \dfrac{A_1^{\pm}A_2^{\pm}+...+A_n^{\pm}}{t_{oss}}$  
+$V_{medio} = \dfrac{A_1^{\pm}+A_2^{\pm}+...+A_n^{\pm}}{t_{oss}}$  
 
 Notiamo che esiste un pattern, percio' calcoliamo il valore medio soltanto per il periodo di ripetizione.  
 
@@ -63,3 +63,21 @@ $V_{medio} = \dfrac{A^+ + A^-}{t_{oss}}= \dfrac{150 - 140}{10} = 1\ V$
 Intervallo di tempo di osservazione compreso tra 0 e 40 ms  
 
 ![fad_voltage_as_cosine](https://user-images.githubusercontent.com/7195133/236632116-bb36d26d-626c-48df-9ff1-63936daf4511.jpg)
+
+
+# Esercizi facoltativi  
+## Svolgi l'esercizio 2 con un modello pratico  
+
+![fad_diodo_reale_fig2](https://user-images.githubusercontent.com/7195133/236646337-7b51894a-7316-4289-973b-dc254324b823.jpg)
+
+Questo modello considera il diodo come una resistenza $R_{Dx} = 30\ \Omega$ in serie ad un generatore di tensione $E_{Dx} = 0.6\ V$. In questo scenario i diodi sono entrambi in conduzione, percio' per determinare i loro punti di lavoro possiamo utlizzare il metodo di Kirchhoff.  
+
+$$
+\begin{cases}
+  \begin{aligned}
+    I - I_1 - I_2 &= 0 \\
+    E - E_{D1} - R_{D1}I - R_1I_1 &= 0 \\
+    R_{D2}I_2 + E_{D2} + R_2I_2 - R_1I_1 &= 0 \\
+  \end{aligned}
+\end{cases}
+$$
