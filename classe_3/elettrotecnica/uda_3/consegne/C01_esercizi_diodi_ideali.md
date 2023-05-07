@@ -81,3 +81,34 @@ $$
   \end{aligned}
 \end{cases}
 $$
+
+Sostituiamo $I_1$ alla seconda equazione.  
+
+$I_1 = I - I_2$  
+$E - E_{D1} - R_{D1}I - R_1(I - I_2) = 0$  
+$E - E_{D1} - R_{D1}I - R_1I + R_1I_2 = 0$  
+
+Sostituiamo $I_1$ alla terza equazione.  
+
+$R_{D2}I_2 + E_{D2} + R_2I_2 - R_1(I - I_2) = 0$  
+$R_{D2}I_2 + E_{D2} + R_2I_2 - R_1I + R_1I_2 = 0$  
+
+Riscriviamo l'equazione sapendo che $R_1 = R_2 = 20\ k\Omega$ ed isoliamo $I_2$.  
+
+$R_{D2}I_2 + E_{D2} - R_1I + 2R_1I_2 = 0$  
+
+$I_2 = \dfrac{- E_{D2} +R_1I}{R_{D2} + 2R_1}$  
+
+$I_2 = \dfrac{-0.6 + 20000I}{40030}$  
+
+Sostiuiamo infine $I_2$ alla seconda equazione per isolare $I$.  
+
+$E - E_{D1} - R_{D1}I - R_1I + R_1I_2 = 0$  
+
+$E - E_{D1} - R_{D1}I - R_1I + R_1(\dfrac{-0.6 + 20000I}{40030}) = 0$  
+
+$E - E_{D1} - R_{D1}I - R_1I + \dfrac{20000}{40030}(-0.6 + 20000I) = 0$  
+
+$40 - 0.6 - 30I - 20000I -0.3 + 10000I = 0$  
+
+$I = \dfrac{-40 +0.6 +0.3}{-10030} \simeq 3.89\ mA$  
