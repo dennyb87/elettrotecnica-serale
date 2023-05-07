@@ -68,7 +68,12 @@ Intervallo di tempo di osservazione compreso tra 0 e 40 ms
 # Esercizi facoltativi  
 ## Svolgi l'esercizio 1 con un modello pratico  
 
-Questo modello considera il diodo come una resistenza $R_{Dx} = 30\ \Omega$ in serie ad un generatore di tensione $E_{Dx} = 0.6\ V$. I diodi pero' continuano ad essere in 
+Questo modello considera il diodo come una resistenza $R_{Dx} = 30\ \Omega$ in serie ad un generatore di tensione $E_{Dx} = 0.6\ V$. I diodi pero' continuano ad essere interdetti, percio' nel circuito non c'e' corrente, e le tensioni sui diodi restano allora invariate.  
+
+$D1 = (-30\ V;\ 0\ A)$  
+$D2 = (0\ V;\ 0\ A)$  
+
+In questo caso il modello pratico non porta nessuna nuova informazione, non ci da' quindi nessun vantaggio rispetto al modello ideale.  
 
 ## Svolgi l'esercizio 2 con un modello pratico  
 
