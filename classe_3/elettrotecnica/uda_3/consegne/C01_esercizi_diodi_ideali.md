@@ -123,9 +123,15 @@ $I_2 = \dfrac{-0.6 + 20000I}{40030} = \dfrac{-0.6 + 20000 \cdot 0.00389}{40030} 
 
 $I_1 = I - I_2 = 3.89 - 1.9 = 1.99\ mA$  
 
+Troviamo ora la tensione ai capi dei diodi:  
+
+$V_{D1} = R_{D1}I + E_{D1} = 30 \cdot 0.00389 + 0.6 = 0.716\ V$  
+
+$V_{D2} = R_{D2}I_2 + E_{D2} = 30 \cdot 0.0019 + 0.6 = 0.657\ V$  
+
 Si ha allora che con il modello pratico i punti di lavoro dei diodi sono:  
 
-$D1 = (0.6\ V;\ 3.89\ mA)$  
+$D1 = (0.716\ V;\ 3.89\ mA)$  
 $D2 = (0.6\ V;\ 1.9\ mA)$  
 
 I risultati non si discostano molto da quelli ottenuti con il modello ideale, ma si intuisce la maggiore accuratezza nel descrivere il sistema. Notiamo per esempio che $I_2 \ne I_1$ consenguenza del fatto che il diodo in conduzione non e' piu' considerato un cortocircuito.  
