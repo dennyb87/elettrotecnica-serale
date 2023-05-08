@@ -4,14 +4,14 @@ An American company has started testing a new programme aimed at increasing secu
 
 ##  Look at the article’s headline and guess whether these sentences are true (T) or false (F):  
 
-1. Workers are in court for implanting microchips into their colleagues. T / F
-2. Staff from a security company are testing a microchip tracking device. T / F
-3. Workers have had microchips implanted into their arms. T / F
-4. The same chips were used after Hurricane Katrina. T / F
-5. The chips are the same size as regular identity cards. T / F
-6. The chips work in an identical way to GPS technology. T / F
-7. The security company CEO agreed to be implanted with a chip. T / F
-8. Many people are worried the chips may be abused. T / F
+1. Workers are in court for implanting microchips into their colleagues. **FALSE** > no one is in court, they volunteered
+2. Staff from a security company are testing a microchip tracking device. **FALSE** > is not a tracking device
+3. Workers have had microchips implanted into their arms. **TRUE**
+4. The same chips were used after Hurricane Katrina. **TRUE**
+5. The chips are the same size as regular identity cards. **FALSE** > the size of a grain of rice
+6. The chips work in an identical way to GPS technology. **FALSE** > they work like an identity card 
+7. The security company CEO agreed to be implanted with a chip. **TRUE**
+8. Many people are worried the chips may be abused. **TRUE**
 
 ## Synonyms matching:  
 
