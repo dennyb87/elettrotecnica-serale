@@ -15,7 +15,20 @@ An American company has started testing a new programme aimed at increasing secu
 
 ## Synonyms matching:  
 
-...
+
+|           |             |
+| --------- | ----------- |
+| aimed at  | designed to |
+| monitored | observed    |
+| send out  | emit        |
+| access    | entry       |
+| purposes  | reasons     |
+| identity  | ID          |
+| inserted  | implanted   |
+| location  | whereabouts |
+| worried   | concerned   |
+| choose    | opt         |
+
 
 ## Answer the questions:  
 
