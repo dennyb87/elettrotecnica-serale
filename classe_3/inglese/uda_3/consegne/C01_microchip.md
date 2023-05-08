@@ -41,7 +41,7 @@ An American company has started testing a new programme aimed at increasing secu
 4. What laws do you think should be made to protect people from abuses of microchip implants?
    1. The question seems to imply that laws are a solution while often are just another way to create different problems. It's really difficult to predict what's going to happen in the future, and that's why the law is always behind. You can't make up a law for a problem that doesn't exists yet, and even if you foresee the problem, is really difficult to predict the problems the law will bring in the attempt to fix the original problem.
 5. Can you see a future in which everyone must have a microchip implanted into his/her body?
-   1. Yeah I mean we're already implanting microchips to dogs, and as far as I know there a countries like Sweden, where citizens are using this technology as well, so I guess the future is here already. Whether it should be mandatory I don't know, there are things you implicitly accept to do to live in a society e.g. paying taxes, I don't see why one of them couldn't be having a chip implanted.
+   1. Yeah I mean we're already implanting microchips to dogs, and as far as I know there are countries like Sweden, where citizens are using this technology as well, so I guess the future is here already. Whether it should be mandatory I don't know, there are things you implicitly accept to do to live in a society e.g. paying taxes, I don't see why one of them couldn't be having a chip implanted.
 6. Would you volunteer to take part in such a scheme?
    1. Probably not volunteering as I don't paritcularly like the idea of being a "guinea pig".
 7. Would you prefer to have a microchip implant instead of carrying a wallet?
