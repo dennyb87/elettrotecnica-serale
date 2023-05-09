@@ -48,11 +48,11 @@ $V_{medio} = \dfrac{A_1^{\pm}+A_2^{\pm}+...+A_n^{\pm}}{t_{oss}}$
 
 Notiamo che esiste un pattern, percio' calcoliamo il valore medio soltanto per il periodo di ripetizione.  
 
-$A^+ = 50 \cdot 3 = 150\ Vs$  
+$A^+ = \dfrac{50 \cdot 3}{2} = 75\ Vs$  
 
 $A^- = -20 \cdot 7 = -140\ Vs$  
 
-$V_{medio} = \dfrac{A^+ + A^-}{t_{oss}}= \dfrac{150 - 140}{10} = 1\ V$  
+$V_{medio} = \dfrac{A^+ + A^-}{t_{oss}}= \dfrac{75 - 140}{10} = -6.5\ V$  
 
 ## ES. 4 Disegnare il grafico di una tensione sinusoidale avente le seguenti caratteristiche:  
 
