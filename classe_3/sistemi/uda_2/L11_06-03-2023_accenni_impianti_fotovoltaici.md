@@ -66,4 +66,16 @@ I pannelli piu' diffusi sono:
 * policristallini - medio rendimento > prezzo contenuto
 * a film sottile
 
-Generalmente dimensionati per fuzionare a 12V o 24V, in casi particolari anche a 48V.  
+Generalmente dimensionati per funzionare a 12V o 24V, in casi particolari anche a 48V.  
+
+## Diodi di bypass  
+
+![bypass_diode](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/6efe6ac2-d848-43f9-8852-f89f25a23d92)  
+
+Il diodo di bypass fa in modo che il pannello (o un gruppo di celle) venga appunto bypassato nei casi in cui questo smette di produrre diventanto un carico con conseguente surriscaldamento e malfunzionamento.  
+
+## Diodi di blocco  
+
+![blocking_diodes](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/d69688f6-ffe6-43fc-98ef-66d65b37751a)  
+
+I diodi di blocco (o anti-inversione) hanno una funzione analoga, ovvero agiscono da "valvola di non ritorno" impedendo l'eventuale ingresso di energia proveniente da altri pannelli per esempio quando i pannelli hanno tensioni diverse.  
