@@ -79,3 +79,5 @@ Il diodo di bypass fa in modo che il pannello (o un gruppo di celle) venga appun
 ![blocking_diodes](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/d69688f6-ffe6-43fc-98ef-66d65b37751a)  
 
 I diodi di blocco (o anti-inversione) hanno una funzione analoga, ovvero agiscono da "valvola di non ritorno" impedendo l'eventuale ingresso di energia proveniente da altri pannelli per esempio quando i pannelli hanno tensioni diverse.  
+
+Il diodo di blocco e' presente anche nei regolatori di carica per evitare che l'energia accumulata si scarichi sul pannello quando non c'e' produzione, per esempio di notte, in cui funzionerebbe come un carico.  
