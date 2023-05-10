@@ -17,6 +17,23 @@ $$
 
 ![2eq_system](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/5d1e7084-6e0b-4d44-aba2-786e31755b92)  
 
-Nel momento in cui il numero di incognite passa da due a tre, allora l'equazione individua un piano in uno spazio tridimensionale.  
+Nel momento in cui il numero di incognite passa da due a tre, allora l'equazione individua un piano in uno spazio tridimensionale $(x, y, z)$.  
+
+$4x + 5y + 6z = 20$  
 
 ![3d_plane](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/ce82f6d6-cebb-4bcb-99b3-4eeeadcc318f)  
+
+La soluzione di un sistema di tre equazioni a tre incognite sara' allora quel punto, se esiste, che individua l'intersezione dei tre piani nello spazio tridimensionale.  
+
+$$
+\begin{cases}
+  \begin{aligned}
+    4x + 5y + 6z &= 20 \\
+    20x + y + 4z &= 5 \\
+    2x + 30y + 2z &= 8
+  \end{aligned}
+\end{cases}
+$$
+
+![3d_planes_intersection](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/39633ff2-07aa-4bae-9ddc-2ccfd597de21)  
+
