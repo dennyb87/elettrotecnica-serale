@@ -17,6 +17,6 @@ $$
 
 ![2eq_system](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/5d1e7084-6e0b-4d44-aba2-786e31755b92)  
 
-Nel momento in cui il numero di incognite aumenta, l'equazione individua allora un piano in uno spazio tridimensionale.  
+Nel momento in cui il numero di incognite passa da due a tre, allora l'equazione individua un piano in uno spazio tridimensionale.  
 
 ![3d_plane](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/ce82f6d6-cebb-4bcb-99b3-4eeeadcc318f)  
