@@ -85,7 +85,7 @@ $\cancel{2}\ell^2 = \cancel{\ell^2} + 5\ell$
 
 $\ell^2 - 5\ell = 0$  
 
-Risolviamo l'equazione di secondo grado trovando che le soluzioni possibili sono $\ell \in \{0; 5\}$ ma possiamo escludere zero in quanto avrebbe poco senso come misura del lato di un quadrato, percio' possiamo affermare che $\ell = 5\ cm$.  
+Risolviamo l'equazione di secondo grado trovando che le soluzioni possibili sono $\ell \in \lbrace 0; 5 \rbrace$ ma possiamo escludere zero in quanto avrebbe poco senso come misura del lato di un quadrato, percio' possiamo affermare che $\ell = 5\ cm$.  
 
 Scopriamo allora che...  
 
