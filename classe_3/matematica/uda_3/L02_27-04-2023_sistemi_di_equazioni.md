@@ -37,3 +37,62 @@ $$
 
 ![3d_planes_intersection](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/39633ff2-07aa-4bae-9ddc-2ccfd597de21)  
 
+## Esempio in due dimensioni  
+
+Consideriamo il seguente problema:  
+
+> L'area di un quadrato e di un rettangolo sono uguali.
+> La base del rettangolo supera di 5cm quella del quadrato.
+> L'altezza del rettangolo e' la meta' di quella del quadrato.
+
+Riscriviamo il problema nel linguaggio matematico.
+
+>L'area di un quadrato e di un rettangolo sono uguali.  
+
+$\ell^2 = b \cdot h$  
+
+> La base del rettangolo supera di 5cm quella del quadrato.  
+
+$b = 5 + \ell$  
+
+> L'altezza del rettangolo e' la meta' di quella del quadrato.  
+
+$h = \dfrac{1}{2}\ell$  
+
+Abbiamo allora tre equazioni e tre incognite che possiamo mettere a sistema per trovare la soluzione, ovvero i valori delle incognite che soddisfano tutte le equazioni del sistema.  
+
+$$
+\begin{cases}
+  \begin{aligned}
+    \ell^2 &= b \cdot h \\
+    b &= 5 + \ell \\
+    h &= \dfrac{1}{2}\ell
+  \end{aligned}
+\end{cases}
+$$
+
+Procediamo con il metodo di sostituzione per trovare $\ell$.  
+
+$\ell^2 = b \cdot h$  
+
+$\ell^2 = (5 + \ell) \cdot \dfrac{1}{2}\ell$  
+
+$\ell^2 = \dfrac{\ell(5 + \ell)}{2}$  
+
+$\ell^2 = \dfrac{\ell^2 + 5\ell)}{2}$  
+
+$\cancel{2}\ell^2 = \cancel{\ell^2} + 5\ell$  
+
+$\ell^2 - 5\ell = 0$  
+
+Risolviamo l'equazione di secondo grado trovando che le soluzioni possibili sono $\ell \in \{0; 5\}$ ma possiamo escludere zero in quanto avrebbe poco senso come misura del lato di un quadrato, percio' possiamo affermare che $\ell = 5\ cm$.  
+
+Scopriamo allora che...  
+
+$b = 5 + \ell = 5 + 5 = 10\ cm$  
+
+$h = \dfrac{1}{2}\ell = \dfrac{1}{2}5 = 2.5\ cm$  
+
+Se volessimo visualizzare il sistema otterremmo allora un grafico di questo tipo, in cui la prima equazione descrive una parabola con asse di simmetria orizzontale.  
+
+![3var_system](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/5a2d7fbe-740a-42aa-b1cc-c5c15f657936)
