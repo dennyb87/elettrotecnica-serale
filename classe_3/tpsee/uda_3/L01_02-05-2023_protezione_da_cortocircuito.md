@@ -15,3 +15,8 @@ Per fare in modo che terminato il cortocircuito il conduttore non superi la temp
 
 $\int_{t_0}^{t_n}i^2dt \le K^2S^2$  
 
+Dove il primo membro e' detto **integrale di Joule** e rappresenta l'energia specifica passante in un cavo di resistenza unitaria, il cui valore viene fornito dal costruttore del dispositivo.  
+
+Il secondo membro rappresenta invece l'energia passante massima sopportabile dal conduttore, dove $S$  e' la sezione e $K$ e' una costante che dipende dal tipo di cavo e.g. $K = 115$ per conduttori in rame isolati in PVC.  
+
+
