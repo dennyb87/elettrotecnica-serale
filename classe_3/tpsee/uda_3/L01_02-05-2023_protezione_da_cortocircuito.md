@@ -11,3 +11,7 @@ Lo stesso interruttore puo' avere poteri di interruzione diversi a seconda del c
 
 Durante un cortocircuito la corrente causa l'aumento della temperatura del conduttore, il dispositivo di protezione allora non solo deve essere in grado di interrompere il circuito, ma deve farlo in un tempo sufficientemente breve da proteggere il cavo da sollecitazioni termiche che potrebbero danneggiarlo.  
 
+Per fare in modo che terminato il cortocircuito il conduttore non superi la temperatura massima stabilita dalle norme per la buona conservazione del cavo stesso, deve essere soddisfatta la seguente condizione:  
+
+$\int_{t_0}^{t_n}i^2dt \le K^2S^2$  
+
