@@ -32,4 +32,14 @@ Una proposizione e' un'affermazione, una frase a cui si puo' attribuire un valor
 
 Esistono preposizioni elementari (semplici o atomiche) che presentano un solo predicato verbale e.g. *"Roma **e'** la capitale d'Italia"* oppure preposizioni composte (o molecolari) che utilizzano piu' predicati verbali e.g. "se **torno** a casa ti **accompagno** alla stazione". In queste ultime vengono utilizzati anche cinque connettivi logici *"non, e, o, se ... allora, se e solo se"* appunto per legare tra loro proposizioni elementari e.g. *"**se** un numero e multiplo di 4, **allora** e' pari"*.  
 
-Le proposizioni si indicano con il simbolo $p$ ed 'e possibile costruire le loro negazioni con $\bar{p}$.
+
+## Connettivi come operazioni  
+
+Si vedano gli esempi di negazione (*not*), congiunzione (*and*), e disgiunzione (*or*).  
+
+|              |           |             |
+| ------------ | --------- | ----------- |
+| negazione    | non $p$   | $\bar{p}$   |
+| congiunzione | $p$ e $q$ | $p \land q$ |
+| disgiunzione | $p$ o $q$ | $p \lor q$  |
+
