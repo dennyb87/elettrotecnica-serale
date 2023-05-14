@@ -33,7 +33,7 @@ $x - 1 > 0 \implies x > 1$
 
 $2x + 3 > 0 \implies x > -\dfrac{3}{2}$  
 
-Si ha allora che il prodotto dei due fattori e' $\ge 0$ quando $x \in \bigg(-\infin, -\frac{3}{2}\bigg]\ \cup \bigg[1, +\infin\bigg)$  
+Si ha allora che il prodotto dei due fattori e' $\ge 0$ quando $x \in \bigg(-\infty, -\frac{3}{2}\bigg]\ \cup \bigg[1, +\infty\bigg)$  
 
 ![inequality_01](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/4803f4d8-f69c-4da4-a0bd-85a96452e466)  
 
