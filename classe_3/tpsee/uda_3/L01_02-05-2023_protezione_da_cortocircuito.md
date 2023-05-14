@@ -19,4 +19,6 @@ Dove il primo membro e' detto **integrale di Joule** e rappresenta l'energia spe
 
 Il secondo membro rappresenta invece l'energia passante massima sopportabile dal conduttore, dove $S$  e' la sezione e $K$ e' una costante che dipende dal tipo di cavo e.g. $K = 115$ per conduttori in rame isolati in PVC.  
 
+## Collocazione dei dispositivi di protezione  
 
+E' importante notare che a seconda della funzione del dispositivo questo potrebbe dover essere collocato in un punto specifico del circuito. Se per esempio volessimo installare un dispositivo per la protezione da sovracorrenti, va da se' che potrebbe essere installato in un punto qualunque del circuito. Se invece si desidera la sola protezione da cortocircuito, il dispositivo deve necessariamente essere installato all'inizio del circuito, questo per minimizzare la probabilita' che il cortocircuito abbia luogo prima del dispositivo di protezione.  
