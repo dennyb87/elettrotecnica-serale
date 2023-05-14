@@ -28,6 +28,8 @@ Conclusione:
 
 ## Proposizioni  
 
-Una proposizione e' un'affermazione, una frase a cui si puo' attribuire un valore di verita' e.g. *"4 e' un numero pari"* e' indubbiamente una proposizione ed e' anche vera, mentre *"Giulia e' simpatica"* dato che non e' possibile stabilirlo con criterio oggettivo allora non puo' essere considerata una proposizione.  
+Una proposizione e' un'affermazione, una frase a cui si puo' attribuire un valore di verita' e.g. *"4 e' un numero pari"* e' indubbiamente una proposizione ed e' anche vera, mentre *"Giulia e' simpatica"* dato che non e' possibile stabilirlo con criterio oggettivo allora non puo' essere considerata una proposizione. 
+
+Esistono preposizioni elementari (semplici o atomiche) che presentano un solo predicato verbale e.g. *"Roma **e'** la capitale d'Italia"* oppure preposizioni composte (o molecolari) che utilizzano piu' predicati verbali e.g. "se **torno** a casa ti **accompagno** alla stazione". In queste ultime vengono utilizzati anche cinque connettivi logici *"non, e, o, se ... allora, se e solo se"* appunto per legare tra loro proposizioni elementari e.g. *"**se** un numero e multiplo di 4, **allora** e' pari"*.  
 
 Le proposizioni si indicano con il simbolo $p$ ed 'e possibile costruire le loro negazioni con $\bar{p}$.
