@@ -37,9 +37,32 @@ Esistono preposizioni elementari (semplici o atomiche) che presentano un solo pr
 
 Si vedano gli esempi di negazione (*not*), congiunzione (*and*), e disgiunzione (*or*).  
 
-|              |           |             |
-| ------------ | --------- | ----------- |
-| negazione    | non $p$   | $\bar{p}$   |
-| congiunzione | $p$ e $q$ | $p \land q$ |
-| disgiunzione | $p$ o $q$ | $p \lor q$  |
+|              |             |             |
+| ------------ | ----------- | ----------- |
+| negazione    | not $p$     | $\bar{p}$   |
+| congiunzione | $p$ and $q$ | $p \land q$ |
+| disgiunzione | $p$ or $q$  | $p \lor q$  |
 
+
+## L'implicazione  
+
+$p \implies q$  
+
+Questa notazione rappresenta due preposizioni legate da il connettivo *"se ... allora"* e viene chiamata implicazione, dove $p$ e $q$ sono anche chiamate rispettivamente **premessa** e **conseguenza**.  
+
+*"Essere milanesi implica essere italiani"*  
+
+$p = essere\ milanesi$  
+$q = essere\ italiani$  
+
+$p \implies q$  
+
+Si puo' esprimere anche come:
+
+* se sei milanese allora sei italiano
+* essere milanese e' condizione sufficiente per essere italiano
+* essere italiano e condizione necessaria per essere milanese
+
+Ne consegue che non essere italiani comporta non essere milanesi, ovvero:  
+
+$\bar{q} \implies \bar{p}$
