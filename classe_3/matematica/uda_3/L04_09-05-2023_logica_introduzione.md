@@ -24,3 +24,10 @@ Nella **logica deduttiva** invece, che utilizza principi generali o fatti che no
 Conclusione:
 
 1. Socrate e' mortale
+
+
+## Proposizioni  
+
+Una proposizione e' un'affermazione, una frase a cui si puo' attribuire un valore di verita' e.g. *"4 e' un numero pari"* e' indubbiamente una proposizione ed e' anche vera, mentre *"Giulia e' simpatica"* dato che non e' possibile stabilirlo con criterio oggettivo allora non puo' essere considerata una proposizione.  
+
+Le proposizioni si indicano con il simbolo $p$ ed 'e possibile costruire le loro negazioni con $\bar{p}$.
