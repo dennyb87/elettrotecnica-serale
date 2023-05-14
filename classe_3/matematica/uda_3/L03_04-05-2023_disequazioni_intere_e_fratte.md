@@ -16,3 +16,20 @@ $0x \gt 0 \implies sempre\ falsa$
 
 $0x \le 0 \implies sempre\ vera$  
 $0x \lt 0 \implies sempre\ falsa$  
+
+## Scomposizione  
+
+Talvolta e' necessario scomporre il polinomio per determinare l'insieme delle soluzioni che rendono vera la disequazione.  
+
+$2x^2 + x -3 \ge 0$  
+
+In questa forma per esempio e' difficile individuare per quali valori di $x$ la disequazione e' verificata. Allora si procede alla scomposizione e allo studio del segno di ogni fattore.  
+
+$2x^2 + x -3 = (x - 1 )(2x + 3)$  
+
+Decidiamo arbitrariamente di porre entrambe i fattori maggori di zero.   
+
+$x - 1 > 0 \implies x > 1$  
+
+$2x + 3 > 0 \implies x > -\dfrac{3}{2}$  
+
