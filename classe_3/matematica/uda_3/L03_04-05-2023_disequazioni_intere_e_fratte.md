@@ -52,7 +52,7 @@ Studiamo allora i segni del numeratore e denominatore.
 $4x + 8 > 0 \implies x > -2$  
 $x + 3 > 0 \implies x > -3$  
 
-Si ha allora che per ottenere un quoziente $\le 0$ serve che $x \in \bigg(-\infin, -3\bigg) \cup \bigg[-2, +\infin\bigg)$  
+Si ha allora che per ottenere un quoziente $\le 0$ serve che $-3 \lt x \le -2$  
 
 ![inequality_02](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/788f3cdf-08bb-4289-a24d-99f5baf76060)  
 
