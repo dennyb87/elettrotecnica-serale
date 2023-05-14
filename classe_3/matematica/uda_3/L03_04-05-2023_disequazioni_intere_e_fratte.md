@@ -27,9 +27,16 @@ In questa forma per esempio e' difficile individuare per quali valori di $x$ la 
 
 $2x^2 + x -3 = (x - 1 )(2x + 3)$  
 
-Decidiamo arbitrariamente di porre entrambe i fattori maggori di zero.   
+Decidiamo arbitrariamente di porre entrambe i fattori maggori di zero.  
 
 $x - 1 > 0 \implies x > 1$  
 
 $2x + 3 > 0 \implies x > -\dfrac{3}{2}$  
 
+Si ha allora che il prodotto dei due fattori e' positivo quando $-\dfrac{3}{2} > x > 1$  
+
+![inequality_01](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/5c416a24-f7d0-4f2c-a8de-0f55346d6cea)  
+
+Questo viene confermato anche dal grafico della funzione in cui si nota immediatamente che $f(x)$ e' zero nei punti $\lbrace-1.5; 1\rbrace$ e negativa in ogni punto compreso tra questi.  
+
+![inequality_graph_01](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/a44f401b-0b71-4442-a2d8-1e699a6bc617)  
