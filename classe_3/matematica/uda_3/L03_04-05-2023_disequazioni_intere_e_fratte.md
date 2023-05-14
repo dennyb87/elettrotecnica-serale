@@ -35,7 +35,7 @@ $2x + 3 > 0 \implies x > -\dfrac{3}{2}$
 
 Si ha allora che il prodotto dei due fattori e' positivo quando $-\dfrac{3}{2} > x > 1$  
 
-![inequality_01](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/5c416a24-f7d0-4f2c-a8de-0f55346d6cea)  
+![inequality_01](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/4803f4d8-f69c-4da4-a0bd-85a96452e466)  
 
 Questo viene confermato anche dal grafico della funzione in cui si nota immediatamente che $f(x)$ e' zero nei punti $\lbrace-1.5; 1\rbrace$ e negativa in ogni punto compreso tra questi.  
 
