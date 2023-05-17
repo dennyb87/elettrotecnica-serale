@@ -4,9 +4,9 @@
 
 Consideriamo il caso ideale di un dispersore emisferico di raggio $r_0$ che disperde una corrente $I$ in un terreno con resistivita' costante $\rho_E$.  
 
-Per calcolare la resistenza totale dalla superficie del dispersore $r_0$ a distanza infinita $\infin$ dobbiamo allora sommare tutti i contributi di $dr$ da $r_0$ a $\infin$ dove $dr$ e' la distanza infinitesima percorsa dalla corrente.  
+Per calcolare la resistenza totale dalla superficie del dispersore $r_0$ a distanza infinita $ dobbiamo allora sommare tutti i contributi di $dr$ da $r_0$ a $\infty$ dove $dr$ e' la distanza infinitesima percorsa dalla corrente.  
 
-$R_E = \int_{r_0}^\infin \rho_E \cdot \dfrac{dr}{2\pi r^2} = \dfrac{\rho_E}{2\pi r_0}$  
+$R_E = \int_{r_0}^\infty \rho_E \cdot \dfrac{dr}{2\pi r^2} = \dfrac{\rho_E}{2\pi r_0}$  
 
 Abbiamo essenzialmente utilizzato la seconda legge di Ohm per giungere alla conclusione che la resistenza di terra $R_E$ e' direttamente proporzionale alla resistivita' del terreno $\rho_E$ ed inversamente proporzionale alla distanza dal dispersore $r$.  
 
