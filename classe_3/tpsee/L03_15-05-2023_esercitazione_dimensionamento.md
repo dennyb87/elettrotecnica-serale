@@ -15,3 +15,7 @@ Tenendo conto che siamo all'interno di un ufficio vogliamo determinare:
 3. il magnetotermico differenziale generale (si consideri la resistivita' del suolo $\rho_E = 300\ \Omega m$ e che nel quadro sono presenti differenziali da $30\ mA$)
 
 
+## Potenza convenzionale  
+
+$P_{prese} = N \cdot V_{n} \cdot I_{max} \cdot \cos \varphi \cdot K_p = 10 \cdot 230 \cdot 16 \cdot 0.9 \cdot 0.1 = 3312\ W$  
+
