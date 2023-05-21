@@ -55,4 +55,6 @@ $u = \dfrac{\Delta V \cdot 1000}{I_b \cdot L} = \dfrac{4.6 \cdot 1000}{23.8 \cdo
 
 ![caduta_tensione_tpsee_uda3](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/cf0e154a-7a0f-45a8-b01b-fd94912faaef)  
 
-Si considera allora la caduta di tensione minore di quella calcolata ovvero $7.19\ \frac{mV}{Am}$ trovando che la sezione di $4\ mm^2$ calcolata in funzione della portata non va bene, ma ci serve invece una sezione di $6\ mm^2$.  
+Si considera allora la caduta di tensione minore di quella calcolata ovvero $7.19\ \frac{mV}{Am}$ trovando che la sezione di $4\ mm^2$ calcolata in funzione della portata non va bene, ma ci serve invece una sezione di $6\ mm^2$ con una $I_0 = 38\ A$ (vedi tabella) percio' la portata del nostro cavo sara':  
+
+$I_z = I_0 \cdot K_1 \cdot K_2 = 38 \cdot 1 \cdot 0.8 = 30.4\ A$  
