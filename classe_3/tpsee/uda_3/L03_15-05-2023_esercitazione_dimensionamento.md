@@ -44,7 +44,7 @@ $I_0 = \dfrac{I_b}{K_1 \cdot K_2} = \dfrac{23.8}{0.8} = 29.75\ A$
 
 ![posa_esercizio_tpsee_uda3](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/69b62a33-6b2c-4d25-9ed3-2084c735f4b8)  
 
-Per soddisfare $I_0 \ge 29.75\ A$ si sceglie allora una cavo di sezione $4\ mm^2$ con $I_0 = 30\ A$.    
+Per soddisfare $I_0 \ge 29.75\ A$ si sceglie allora una cavo di sezione $4\ mm^2$ con $I_0 = 30\ A$.  
 
 
 ## Dimensionamento linea (caduta di tensione)  
@@ -59,7 +59,7 @@ Si considera allora la caduta di tensione minore di quella calcolata ovvero $7.1
 
 $I_z = I_0 \cdot K_1 \cdot K_2 = 38 \cdot 1 \cdot 0.8 = 30.4\ A$  
 
-## Dimesionamento magnetotermico differenziale  
+## Dimesionamento magnetotermico  
 
 Per utilizzare un solo dispositivo per la protezione da sovraccarico e cortocircuito si devono soddisfare le seguenti condizioni:  
 
@@ -74,3 +74,17 @@ $I_b \le I_n \le I_z \implies 23.8 \le I_n \le 30.4$
 Sceglieremo allora un magnetotermico con $I_n = 25\ A$ con un potere di interruzione di $6\ kA$ in modo da rispettare la normativa. L'interruttore inoltre dovra' lasciare passare un'energia termica inferiore all'energia termica specifica sopportabile dal cavo.  
 
 $\int_{t_0}^{t_n} i^2dt \le K^2S^2 = 115^2\cdot 6^2 = 4.761 \cdot 10^5\ A^2s$  
+
+## Dimensionamento differenziale  
+
+Per il differenziale si vuole soddisfare la condizione per la protezione contro i contatti indiretti considerando l'ambiente ordinario $U_L = 50\ V$.  
+
+$R_E \cdot I_{dn} \le U_L$  
+
+![selettivita_diff_tpsee_uda3](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/9a39e73d-1ef8-4266-98db-600c8ed1a6b9)  
+
+Dobbiamo pero' considerare che a valle abbiamo dei differenziali da $30\ mA$ percio' ci serve un differenziale di almeno $300\ mA = 0.3\ A$. Dovremo allora realizzare l'impianto di terra con un picchetto di lunghezza $3\ m$ e diametro $2\ cm$ per ottenere una resistenza di terra $R_E = 97\ \Omega$.  
+
+![impianto_terra_uda3_tpsee](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/846cb449-53a8-401d-93f1-1f59c45645dc)  
+
+$I_{dn} \le \dfrac{U_L}{R_E} = \dfrac{50}{97} = 0.515\ A = 515\ mA$  
