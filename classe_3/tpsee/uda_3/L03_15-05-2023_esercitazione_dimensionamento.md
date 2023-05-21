@@ -58,3 +58,19 @@ $u = \dfrac{\Delta V \cdot 1000}{I_b \cdot L} = \dfrac{4.6 \cdot 1000}{23.8 \cdo
 Si considera allora la caduta di tensione minore di quella calcolata ovvero $7.19\ \frac{mV}{Am}$ trovando che la sezione di $4\ mm^2$ calcolata in funzione della portata non va bene, ma ci serve invece una sezione di $6\ mm^2$ con una $I_0 = 38\ A$ (vedi tabella) percio' la portata del nostro cavo sara':  
 
 $I_z = I_0 \cdot K_1 \cdot K_2 = 38 \cdot 1 \cdot 0.8 = 30.4\ A$  
+
+## Dimesionamento magnetotermico differenziale  
+
+Per utilizzare un solo dispositivo per la protezione da sovraccarico e cortocircuito si devono soddisfare le seguenti condizioni:  
+
+1. che il dispositivo sia posto all'inizio della linea
+2. che il potere di interruzione sia maggiore della corrente di cortocircuito
+3. che l'energia termica passante sia inferiore a quella sopportabile dal cavo
+
+Sappiamo che la condizione da soddisfare per la protezione da sovraccarico e':  
+
+$I_b \le I_n \le I_z \implies 23.8 \le I_n \le 30.4$  
+
+Sceglieremo allora un magnetotermico con $I_n = 25\ A$ con un potere di interruzione di $6\ kA$ in modo da rispettare la normativa. L'interruttore inoltre dovra' lasciare passare un'energia termica inferiore all'energia termica specifica sopportabile dal cavo.  
+
+$\int_{t_0}^{t_n} i^2dt \le K^2S^2 = 115^2\cdot 6^2 = 4.761 \cdot 10^5\ A^2s$  
