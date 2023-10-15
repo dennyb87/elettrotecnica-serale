@@ -45,7 +45,7 @@ $900^\circ = 2 \cdot 360^\circ + 180^\circ$
 
 ![radiante](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/6a5f55ae-7cda-4981-bda6-75dcbf33fc58)  
 
-Per definizione il radiante e' il rapporto tra un arco di circonferenza ed il suo raggio. Ne segue a parita' di angolo il rapporto sia indipendente dal raggio...  
+Per definizione il radiante e' il rapporto tra un arco di circonferenza ed il suo raggio. Ne segue che a parita' di angolo il rapporto sia indipendente dal raggio...  
 
 $\alpha = \dfrac{l}{r} = \dfrac{l_1}{r_1}$  
 
