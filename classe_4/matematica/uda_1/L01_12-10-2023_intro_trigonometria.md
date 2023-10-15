@@ -74,3 +74,41 @@ $0.0408 \cdot 60 = 2.448^\prime$
 $0.448 \cdot 60 = 26.88^{\prime\prime} \simeq 27^{\prime\prime}$  
 
 Arrotondando si ottiene infine di nuovo $30^\circ\ 2^\prime\ 27^{\prime\prime}$  
+
+# Angoli opposti e adiacenti  
+
+![opposite_adjacent](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/7207008a-c563-431e-a3a1-27fd337d34b7)  
+
+Un lato si dice opposto rispetto ad un angolo se questo non vi appartiene, altrimenti si dice che e' adiacente. Nel triangolo di sinistra si ha che $b$ e' adiacente a $\theta$ mentre a destra $b$ e' opposto a $\theta$.  
+
+# Disuguaglianza triangolare  
+
+E' possibile dimostrare che in un triangolo un lato e' sempre minore della somma degli altri due.  
+
+$a < b + c$  
+
+Se cosi' non fosse gli angoli dei rispettivi lati sarebbero nulli facendo collassare la figura in un segmento.  
+
+# Triangolo inscritto in un semicerchio  
+
+![triangle_inscribed_semicircle](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/4bbd915e-895d-47ef-b88b-5b32c393dfc0)  
+
+E' dimostrabile che un qualunque triangolo inscritto in un semicerchio e' un triangolo rettangolo. Sapendo che il raggio $r$ e' costante, sappiamo anche che i due triangoli sono necessariamente isosceli, e che quindi i loro angoli adiacenti sono uguali. Percio' sapendo che la somma degli angoli di un triangolo e' $180^\circ$...  
+
+$2a + 2b = 180^\circ \implies 2(a + b) = 180^\circ \implies a + b = 90^\circ$  
+
+# Seno e coseno  
+
+![sine_cosine](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/ef9fd2ec-5bea-4fdd-a60e-8917fc27df88)   
+
+Tracciando un segmento $\overline{OP}$ nel **primo quadrante** otteniamo un angolo $\theta$ che avra' un lato adiacente $a$, un lato opposto $o$, e l'ipotenusa $h$. Per definizione il **seno** ed il **coseno** di $\theta$ sono:  
+
+$\sin\theta = \dfrac{opposto}{ipotenusa} = \dfrac{o}{h}$  
+
+$\cos\theta = \dfrac{adiacente}{ipotenusa} = \dfrac{a}{h}$  
+
+Trovandoci in un cerchio di raggio unitario si ha che $h = 1$ per cui seno e coseno di $\theta$ saranno le rispettive coordinate $x, y$ del punto $P$.  
+
+$\sin\theta = \dfrac{o}{1} = o = x_P$  
+
+$\cos\theta = \dfrac{a}{1} = a = y_P$  
