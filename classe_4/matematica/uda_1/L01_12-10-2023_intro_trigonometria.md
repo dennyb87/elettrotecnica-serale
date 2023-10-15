@@ -107,8 +107,8 @@ $\sin\theta = \dfrac{opposto}{ipotenusa} = \dfrac{o}{h}$
 
 $\cos\theta = \dfrac{adiacente}{ipotenusa} = \dfrac{a}{h}$  
 
-Trovandoci in un cerchio di raggio unitario si ha che $h = 1$ per cui seno e coseno di $\theta$ saranno le rispettive coordinate $x, y$ del punto $P$.  
+Trovandoci in un cerchio di raggio unitario si ha che $h = 1$ per cui seno e coseno di $\theta$ saranno le rispettive coordinate $y, x$ del punto $P$.  
 
-$\sin\theta = \dfrac{o}{1} = o = x_P$  
+$\sin\theta = \dfrac{o}{1} = o = y_P$  
 
-$\cos\theta = \dfrac{a}{1} = a = y_P$  
+$\cos\theta = \dfrac{a}{1} = a = x_P$  
