@@ -97,18 +97,3 @@ E' dimostrabile che un qualunque triangolo inscritto in un semicerchio e' un tri
 
 $2a + 2b = 180^\circ \implies 2(a + b) = 180^\circ \implies a + b = 90^\circ$  
 
-# Seno e coseno  
-
-![sine_cosine](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/ef9fd2ec-5bea-4fdd-a60e-8917fc27df88)   
-
-Tracciando un segmento $\overline{OP}$ nel **primo quadrante** otteniamo un angolo $\theta$ che avra' un lato adiacente $a$, un lato opposto $o$, e l'ipotenusa $h$. Per definizione il **seno** ed il **coseno** di $\theta$ sono:  
-
-$\sin\theta = \dfrac{opposto}{ipotenusa} = \dfrac{o}{h}$  
-
-$\cos\theta = \dfrac{adiacente}{ipotenusa} = \dfrac{a}{h}$  
-
-Trovandoci in un cerchio di raggio unitario si ha che $h = 1$ per cui seno e coseno di $\theta$ saranno le rispettive coordinate $y, x$ del punto $P$.  
-
-$\sin\theta = \dfrac{o}{1} = o = y_P$  
-
-$\cos\theta = \dfrac{a}{1} = a = x_P$  
