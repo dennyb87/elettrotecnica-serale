@@ -10,19 +10,21 @@
 | ----------------- | ------- | ------------------------------------- | --------------------------------- |
 | pulsante          | PM      | pulsante marcia NO                    | 0/1 - premuto/altrimenti          |
 | sensore posizione | SP      | segnala presenza oggetto a fine corsa | 1/0 - oggetto presente/altrimenti |
+| nastro            | BELT    | ruota grazie alla puleggia            | 1/0 - acceso/spento               |
 
 ```mermaid
 flowchart TB
     start(["start"])-->readsp["read SP"]
     readsp-->spon{"SP on ?"}
-    spon-->|Yes| belton{"Belt on ?"}
-    belton-->|Yes| switchbeltoff["Belt OFF"]
+    spon-->|Yes| readbelt["read BELT"]
+    readbelt-->belton{"BELT on ?"}
+    belton-->|Yes| switchbeltoff["BELT OFF"]
     switchbeltoff-->start
     belton-->|No| start
 
     spon-->|No| readpm["read PM"]
     readpm-->pmon{"PM on ?"}
     pmon-->|No| start
-    pmon-->|Yes| switchbelton["Belt ON"]
+    pmon-->|Yes| switchbelton["BELT ON"]
     switchbelton-->start
 ```
