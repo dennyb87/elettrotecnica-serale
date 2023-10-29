@@ -6,11 +6,11 @@
 
 ## Lista componenti  
 
-| componente        | simbolo | note                                  | stati                             |
-| ----------------- | ------- | ------------------------------------- | --------------------------------- |
-| pulsante          | PM      | pulsante marcia NO                    | 0/1 - premuto/altrimenti          |
-| sensore posizione | SP      | segnala presenza oggetto a fine corsa | 1/0 - oggetto presente/altrimenti |
-| nastro            | BELT    | ruota grazie alla puleggia            | 1/0 - acceso/spento               |
+| componente        | simbolo | note                                          | stati                             |
+| ----------------- | ------- | --------------------------------------------- | --------------------------------- |
+| pulsante          | PM      | pulsante marcia NO                            | 0/1 - premuto/altrimenti          |
+| sensore posizione | SP      | segnala presenza oggetto a fine corsa         | 1/0 - oggetto presente/altrimenti |
+| nastro            | BELT    | muove l'oggetto ruotando grazie alla puleggia | 1/0 - acceso/spento               |
 
 ```mermaid
 flowchart TB
