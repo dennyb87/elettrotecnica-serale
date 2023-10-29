@@ -4,11 +4,11 @@
 
 ## Identificazione variabili di input  
 
-| nome         | simbolo | tipo    | stati                                                  |
-| ------------ | ------- | ------- | ------------------------------------------------------ |
-| interruttore | INT     | binario | $$0 \implies aperto \\ 1 \implies chiuso$$             |
-| sensore      | SL      | binario | $$0 \implies buio \\ 1 \implies luce$$                 |
-| timer        | T       | binario | $$0 \implies\ fuori\ fascia \\ 1 \implies in\ fascia$$ |
+| nome         | simbolo | tipo    | stati                        |
+| ------------ | ------- | ------- | ---------------------------- |
+| interruttore | INT     | binario | 0/1 - aperto/chiuso          |
+| sensore      | SL      | binario | 0/1 - buio/luce              |
+| timer        | T       | binario | 0/1 - fuori fascia/in fascia |
 
 ```mermaid
 flowchart TB

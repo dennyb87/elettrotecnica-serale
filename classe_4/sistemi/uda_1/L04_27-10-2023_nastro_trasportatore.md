@@ -6,10 +6,10 @@
 
 ## Lista componenti  
 
-| componente        | simbolo | note                                  | stati                                                     |
-| ----------------- | ------- | ------------------------------------- | --------------------------------------------------------- |
-| pulsante          | PM      | pulsante marcia NO                    | $$1 \implies premuto\\0\implies altrimenti$$              |
-| sensore posizione | SP      | segnala presenza oggetto a fine corsa | $$1 \implies oggetto\ presente \\ 0 \implies altrimenti$$ |
+| componente        | simbolo | note                                  | stati                             |
+| ----------------- | ------- | ------------------------------------- | --------------------------------- |
+| pulsante          | PM      | pulsante marcia NO                    | 0/1 - premuto/altrimenti          |
+| sensore posizione | SP      | segnala presenza oggetto a fine corsa | 1/0 - oggetto presente/altrimenti |
 
 ```mermaid
 flowchart TB
