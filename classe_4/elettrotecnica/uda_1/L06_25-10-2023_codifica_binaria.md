@@ -32,8 +32,26 @@ Nel contesto di una codifica binaria dove ogni bit $k$ puo' assumere $n = 2$ val
 
 $D_{n, k} = \underbrace{n \cdot n \cdot ... \cdot n}_{k\ volte} = n^k$  
 
-Con 3 bit ad esempio, si avrebbe $b_1b_2b_3$ ma ognuno di questi bit puo' assumere 2 valori, 0 o 1, per cui si ha che il numero di stati possili equivale a $2^3 = 8$  
+Con 3 bit ad esempio, si avrebbe $b_1b_2b_3$ ma ognuno di questi bit puo' assumere 2 valori, 0 o 1, per cui si ha che il numero di stati possibili equivale a $2^3 = 8$  
+
+```mermaid
+graph TD
+    1["0"] --> 2["0"]
+    1 --> 3["1"]
+    2 --> 4["0"]
+    2 --> 5["1"]
+    3 --> 6["0"]
+    3 --> 7["1"]
+
+    10["1"] --> 20["0"]
+    10 --> 30["1"]
+    20 --> 40["0"]
+    20 --> 50["1"]
+    30 --> 60["0"]
+    30 --> 70["1"]
+```
 
 # ASCII  
 
 La codifica ASCII (American Standard Code for Information Interchange) pubblicata nel 1963 fu uno dei primi standard a definire la codifica dei caratteri. Prevedeva originariamente l'uso di 7 bit, permettendo cosi' la codifica di $2^7 = 128$ caratteri. Fu' poi esteso per supportare diverse lingue e simboli.  
+
