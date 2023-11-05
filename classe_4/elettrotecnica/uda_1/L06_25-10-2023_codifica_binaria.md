@@ -32,23 +32,45 @@ Nel contesto di una codifica binaria dove ogni bit $k$ puo' assumere $n = 2$ val
 
 $D_{n, k} = \underbrace{n \cdot n \cdot ... \cdot n}_{k\ volte} = n^k$  
 
-Con 3 bit ad esempio, si avrebbe $b_1b_2b_3$ ma ognuno di questi bit puo' assumere 2 valori, 0 o 1, per cui si ha che il numero di stati possibili equivale a $2^3 = 8$  
+Con 3 bit ad esempio, si avrebbe $b_3b_2b_1$ ma ognuno di questi bit puo' assumere 2 valori, 0 o 1, per cui si ha che il numero di stati possibili equivale a $2^3 = 8$  
 
 ```mermaid
 graph TD
-    1["0"] --> 2["0"]
-    1 --> 3["1"]
-    2 --> 4["0"]
-    2 --> 5["1"]
-    3 --> 6["0"]
-    3 --> 7["1"]
-
-    10["1"] --> 20["0"]
-    10 --> 30["1"]
-    20 --> 40["0"]
-    20 --> 50["1"]
-    30 --> 60["0"]
-    30 --> 70["1"]
+    1{"?"}
+    1-->2
+    1-->3
+    subgraph 1st bit
+        2(("0"))
+        3(("1"))
+    end
+    2-->4
+    2-->5
+    3-->6
+    3-->7
+    subgraph 2nd bit
+        4(("0"))
+        5(("1"))
+        6(("0"))
+        7(("1"))
+    end
+    4-->8
+    4-->9
+    5-->10
+    5-->11
+    6-->12
+    6-->13
+    7-->14
+    7-->15
+    subgraph 3rd bit
+        8(("0"))
+        9(("1"))
+        10(("0"))
+        11(("1"))
+        12(("0"))
+        13(("1"))
+        14(("0"))
+        15(("1"))
+    end
 ```
 
 # ASCII  
