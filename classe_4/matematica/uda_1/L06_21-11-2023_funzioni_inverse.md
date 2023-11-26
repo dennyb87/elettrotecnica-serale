@@ -21,3 +21,10 @@ $\cos \theta = \sin \theta \implies \theta = 45^\circ = \dfrac{\pi}{4}$
 Troviamo quindi che...  
 
 $\sin^{-1} \dfrac{\sqrt{2}}{2} = \arcsin \dfrac{\sqrt{2}}{2} = \dfrac{\pi}{4}$  
+
+
+Per evitare ambiguita', e fare in modo che ogni funzione inversa si riferisca ad uno ed un solo angolo, si e' stabilita una convenzione per cui ad esempio:  
+
+$-\dfrac{\pi}{2}\ge \arcsin \theta \le \dfrac{\pi}{2}$  
+
+![inverse_trig_ranges](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/9df9262c-8929-45ce-af62-486f241a747a)  

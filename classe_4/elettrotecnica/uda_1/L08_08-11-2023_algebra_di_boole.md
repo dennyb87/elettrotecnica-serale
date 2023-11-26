@@ -55,7 +55,15 @@ $A \cdot (A + B) = A \cdot (1 + B) = A$
 
 $A + \overline{A}B = (A + \overline{A}) \cdot (A + B) = 1 \cdot (A + B) = A + B$  
 
+E' importante notare anche che come $\overline{A} + AB = \overline{A} + B$ vediamo perche'...  
+
+$\overline{A} + AB = (\overline{A} + A) \cdot (\overline{A} + B) = 1 \cdot (\overline{A} + B) = \overline{A} + B$  
+
+Infine l'assorbimento rispetto al prodotto...  
+
 $A \cdot (\overline{A} + B) = A\overline{A} + AB = 0 + AB = A \cdot B$  
+
+$\overline{A} \cdot (A + B) = \overline{A}A + \overline{A}B = 0 + \overline{A}B = \overline{A} \cdot B$  
 
 ### Teorema della doppia negazione  
 
