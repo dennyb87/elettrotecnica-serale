@@ -23,6 +23,8 @@ $A + (B + C) = (A + B) + C = A + B + C$
 $A \cdot (B + C) = AB + AC$  
 $A + (B \cdot C) = (A + B) \cdot (A + C)$  
 
+E' bene rendersi conto che la seconda equazione non e' valida nell'aritmetica convenzionale.  
+
 ### Teorema di identita'  
 
 $A + 0 = A$  
@@ -45,9 +47,9 @@ $A + \overline{A} = 1$
 
 ### Teorema dell'assorbimento 1  
 
-$A + AB = AA + AB = A\cdot 1 + AB = A \cdot (1 + B) = A$  
+$A + AB = A \cdot (1 + B) = A$  
 
-$A \cdot (A + B) = AA + AB = A\cdot 1 + AB = A \cdot (1 + B) = A$  
+$A \cdot (A + B) = A \cdot (1 + B) = A$  
 
 ### Teorema dell'assorbimento 2  
 
