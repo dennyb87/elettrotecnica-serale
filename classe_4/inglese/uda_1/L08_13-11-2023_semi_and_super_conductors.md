@@ -1,6 +1,6 @@
 # Superconductors  
 
-A **superconductors** is a conductor with **zero resistance**. While many materials can exhibit superconductivity, it's currently only possible to make them to do so at **very low temperatures**. These conductors are used to magnetic levitation trains, motors of ships, and MRI machines.  
+A **superconductors** is a conductor with **zero resistance**. While many materials can exhibit superconductivity, it's currently only possible to make them to do so at **very low temperatures**. These conductors are used on magnetic levitation trains, motors of ships, and MRI machines.  
 
 # Semiconductors  
 
