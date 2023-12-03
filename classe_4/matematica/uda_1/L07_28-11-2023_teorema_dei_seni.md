@@ -26,7 +26,7 @@ Applicando il medesimo ragionamento scopriamo che $h_1 = \dfrac{a}{\sin \hat{A}}
 
 $\dfrac{a}{\sin \hat{A}} = \dfrac{b}{\sin \hat{B}} = \dfrac{c}{\sin \hat{C}}$  
 
-![extended_law_of_sines](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/9c1d03e1-2915-44b1-a716-8ef350d47e69)  
+![extended_law_of_sines](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/1f1be114-3498-41a0-9a76-b12be21d42ba)  
 
 Dato un triangolo $ABC$ inscritto in una circonferenza, si vuole tracciare un secondo triangolo $MBC$ la cui ipotenusa $MB$ coincide con il diametro $2R$, per cui un triangolo rettangolo. A questo punto, sapendo che gli angoli giacienti sullo stesso segmento sono uguali, si ha che:  
 
