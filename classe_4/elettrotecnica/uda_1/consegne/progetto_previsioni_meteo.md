@@ -89,4 +89,6 @@ Anche in questo caso la forma minima coincide con l'equazione preliminare che ev
 
 ## Implementazione in Tinkercad  
 
+Vedi nel [simulatore](https://www.tinkercad.com/things/7KqlqGTxMNT-fad-uda1-2023-previsioni-meteo)  
+
 ![tinkercad_weather_circuit](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/011e4459-13f1-4da1-9e52-11f3f6d33f66)  
