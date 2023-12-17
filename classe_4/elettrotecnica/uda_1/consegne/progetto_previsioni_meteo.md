@@ -86,3 +86,7 @@ Anche in questo caso la forma minima coincide con l'equazione preliminare che ev
 ## Schema circuito  
 
 ![schema_circuito_logico](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/a543536c-caec-4873-94f5-073b9bbbce58)  
+
+## Implementazione in Tinkercad  
+
+![tinkercad_weather_circuit](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/011e4459-13f1-4da1-9e52-11f3f6d33f66)  
