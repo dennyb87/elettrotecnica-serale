@@ -55,7 +55,7 @@ Possiamo semplificare le uscite ignorando $Y_S$ in quanto il tempo si puo' consi
 
 $Y_B = m_8 + m_9 + m_{12} + m_{13} = P\overline{UVT} + P\overline{UV}T + PU\overline{VT} + PU\overline{V}T$  
 
-$Y_C = m_4 + m_5 + m_6 = \overline{P}U\overline{VT} + \overline{P}U\overline{V}T + \overline{P}UV\overline{T}$  
+$Y_C = m_2 + m_4 + m_5 + m_6 + m_7 = \overline{PU}V\overline{T} + \overline{P}U\overline{VT} + \overline{P}U\overline{V}T + \overline{P}UV\overline{T} + \overline{P}UVT$  
 
 ## Mappa di Karnaugh $Y_B$  
 
