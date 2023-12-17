@@ -59,7 +59,7 @@ $Y_C = m_2 + m_4 + m_5 + m_6 + m_7 = \overline{PU}V\overline{T} + \overline{P}U\
 
 ## Mappa di Karnaugh $Y_B$  
 
-| VT\PU  | 00  | 01  | 11  | 10  |
+| VT-PU  | 00  | 01  | 11  | 10  |
 | ------ | --- | --- | --- | --- |
 | **00** |     |     | 1   | 1   |
 | **01** |     |     | 1   | 1   |
@@ -72,7 +72,7 @@ Si noti che il risultato coincide con l'equazione preliminare.
 
 ## Mappa di Karnaugh $Y_C$  
 
-| VT\PU  | 00  | 01  | 11  | 10  |
+| VT-PU  | 00  | 01  | 11  | 10  |
 | ------ | --- | --- | --- | --- |
 | **00** |     | 1   |     |     |
 | **01** |     | 1   |     |     |
