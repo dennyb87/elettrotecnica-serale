@@ -4,7 +4,7 @@ I numeri complessi, o immaginari, nascono dall'esigenza di estendere l'insieme d
 
 $x^2 + 1 = 0 \implies x^2 = -1$  
 
-In $\Reals$ non esiste un numero che moltiplicato per se stesso dia come risultato $-1$. E' necessario allora estendere $\Reals$ definendo l'insieme dei numeri complessi $\Complex$, si introduce cosi' l'unita' immaginaria $i$ ovvero:  
+In $\mathbb{R}$ non esiste un numero che moltiplicato per se stesso dia come risultato $-1$. E' necessario allora estendere $\mathbb{R}$ definendo l'insieme dei numeri complessi $\mathbb{C}$, si introduce cosi' l'unita' immaginaria $i$ ovvero:  
 
 $i \coloneqq \sqrt{-1}$  
 
