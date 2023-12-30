@@ -10,6 +10,8 @@ In $\mathbb{R}$ non esiste un numero che moltiplicato per se stesso dia come ris
 
 $i \coloneqq \sqrt{-1}$  
 
+## Interpretazione geometrica  
+
 Un numero complesso $z$ e' allora un numero composto da una parte reale $a$ ed una parte immaginaria $ib$:  
 
 $z = a + ib$  
@@ -18,7 +20,6 @@ Geometricamente e' possibile rappresentare questi numeri in un piano simile a qu
 
 ![complex_plane](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/2939aa7d-a40f-415e-b2a3-84d1b77d24f5)  
 
-## Interpretazione geometrica  
 
 Il numero complesso $z$ puo' essere allora visto come una somma vettoriale $\vec{a} + \vec{i} \cdot \vec{b}$ dove $\vec{i} = (0, 1)$ e' il vettore immaginario unitario:  
 
