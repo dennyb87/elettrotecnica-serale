@@ -6,7 +6,7 @@ Si osservi lo schema di montaggio di un motore primo che aziona un generatore mo
 
 ![simplified_single_phase_generator](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/c5e78faf-3419-48cd-a47d-79fe3dedba31)  
 
-In questa semplificazione di un generatore, possiamo osservare il **rotore**, in questo caso un magnete rotante, e lo **statore** su cui e' fissato un avvolgimento. La variazione di flusso nel tempo, dalla legge di *Faraday-Neumann-Lenz*, produce una tensione sinusoidale sull'avvolgimento come descritto in figura.  
+In questa semplificazione di un generatore, possiamo osservare il **rotore**, in questo caso un magnete rotante, e lo **statore** su cui e' fissato un avvolgimento. La variazione di flusso nel tempo, dalla legge di *Faraday-Neumann-Lenz*, produce una tensione sinusoidale sull'avvolgimento come in figura.  
 
 E' dimostrabile che la tensione, cosi' come la frequenza, dipende dal numero di giri al minuto $n$ del rotore.  
 
