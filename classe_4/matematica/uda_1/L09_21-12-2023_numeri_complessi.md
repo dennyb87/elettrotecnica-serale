@@ -60,6 +60,13 @@ In particolare, moltiplicare per $i$ causa rotazioni $90^\circ$ in senso antiora
 
 ![i_rotations](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/3cd89d72-87e1-4a82-ba16-cf644d30ac0b)  
 
+Va da se che per semplificare espressioni di questo tipo $i^{13}$ e' sufficiente dividere l'esponente per $4$ utilizzando il resto come nuovo esponente.  
+
+$i^{12} = i^0 = 1$  
+$i^{13} = i^{1} = i$  
+$i^{14} = i^2 = -1$  
+$i^{15} = i^3 = -i$  
+
 ## Somma  
 
 La somma di due numeri complessi equivale allora ad una somma vettoriale:  
