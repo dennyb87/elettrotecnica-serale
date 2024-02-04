@@ -19,7 +19,7 @@ Conoscendo allora i parametri fondamentali e' possibile derivare altre caratteri
 
 ![simple_ac_resistive_circuit](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/55266992-3013-4dc9-8347-119d8c4094d8)  
 
-Considerato il circuito resistivo in figura con $R = 4$ ed un generatore di tensione alternata, si vuole determinare il comportamento delle grandezze in gioco conoscendo i parametri fondamentali:
+Considerato il circuito resistivo in figura con $R = 4\  \Omega$ ed un generatore di tensione alternata, si vuole determinare il comportamento delle grandezze in gioco conoscendo i parametri fondamentali:
 
 * $E_{max} = 20\ V$
 * $T = 2\ s$
