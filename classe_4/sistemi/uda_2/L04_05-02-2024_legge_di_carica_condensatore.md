@@ -23,3 +23,7 @@ $\underset{t\to\infty}{v(t)} = \bigg[V_f + \cancel{(V_i - V_f) \cdot 0} \bigg] \
 ## Transitori nei sistemi del primo ordine  
 
 La funzione e' valida per ogni sistema di primo ordine, ovvero quei sistemi in cui e' presente solo un componente in grado di immagazzinare energia. Questa descrive il comportamento del sistema durante un transitorio, ovvero il tempo che intercorre tra due stati di regime stazionario. Per **regime stazionario** si intende non solo quando il sistema non varia il suo funzionamento nel tempo, ma anche nei casi in cui e' presente una variazione periodica e.g. regime sinusoidale.  
+
+![tangent_tau](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/1bb3ffb2-e691-40c3-afe2-c09ee35c570c)  
+
+Si fa presente che tracciando la tangente di $v(t)$ all'istante $t = 0\ s$ questa individua proprio $\tau$ all'intersezione con l'asse delle ascisse.  
