@@ -15,4 +15,15 @@ Il sensore fotocellula e' allora rappresentato da un contatto NO per cui si avra
 | CV   | out  | current value, ovvero il valore corrente del contatore                                                                |
 
 
-![ladder_counter](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/305d14b0-08c1-40a9-8784-4e0ed2987bc3)
+![ladder_counter](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/305d14b0-08c1-40a9-8784-4e0ed2987bc3)  
+
+
+Di seguito un esempio in cui il contatore e' stato configurato con $PV = 3$  
+
+![counter_timeline_example](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/e1469a3d-1ac7-4439-be91-03feb51bd04b)  
+
+Si puo' notare che:  
+
+* ad ogni impulso in ingresso $CU$ il registro interno $CV$ viene incrementato
+* quando $CU = PV = 3$ l'uscita $Q$ commuta sullo stato logico alto
+* al sengale di reset $R$ il registro viene azzerato e l'uscita $Q$ torna allo stato logico basso
