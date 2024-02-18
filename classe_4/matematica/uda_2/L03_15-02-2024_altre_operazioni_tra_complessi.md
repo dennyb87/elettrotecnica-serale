@@ -10,7 +10,7 @@ $z_1 \cdot z_2 = |z_1||z_2|(\cos(\alpha+\beta)+i\sin(\alpha+\beta))$
 
 Si ha che il loro **quoziente** e' invece:  
 
-$\dfrac{z_1}{z_2} = \dfrac{z_1}{z_2}(\cos(\alpha-\beta)+i\sin(\alpha-\beta))$  
+$\dfrac{z_1}{z_2} = \dfrac{|z_1|}{|z_2|}(\cos(\alpha-\beta)+i\sin(\alpha-\beta))$  
 
 Infine si puo' dimostrare che un numero complesso $z$ elevato alla **potenza** $n$ equivale a:  
 
