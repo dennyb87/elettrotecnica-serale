@@ -75,3 +75,12 @@ Dalle identita' trigonometriche si dimostra infine che in effetti il primo membr
 $\cos \bigg[\theta + k\theta\bigg] + i\sin\bigg[\theta + k\theta\bigg]$  
 
 $\cos \bigg[(k+1)\theta \bigg]+ i\sin \bigg[(k+1)\theta\bigg]$  
+
+
+## Identita' trigonometriche di addizzione e sottrazione  
+
+![angle_addition_identities](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/0ae8dd97-b281-4ee5-b645-a2049983da40)  
+
+$\sin \big(\alpha \pm \beta\big) = \cos \alpha \sin \beta \pm \sin \alpha \cos \beta$  
+
+$\cos \big(\alpha \pm \beta\big) = \cos \alpha \cos \beta \pm \sin \alpha \sin \beta$  
