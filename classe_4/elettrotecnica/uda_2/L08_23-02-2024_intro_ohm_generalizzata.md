@@ -32,7 +32,7 @@ $\theta = \tan^{-1}\frac{X_c}{R} = \tan^{-1}\frac{3.185}{4} \simeq 38.529^\circ$
 
 $Z = \dfrac{R}{\cos\theta} = \dfrac{4}{0.782} = 5.115\ \Omega$  
 
-Troviamo infine la corrente...  
+Troviamo infine il modulo della corrente $I = |\vec{I}|$ che coincide con $I_{max}$  
 
 $I = \dfrac{V}{Z} = \dfrac{10}{5.155} = 1.955\ A$  
 
