@@ -77,7 +77,7 @@ $\cos \bigg[\theta + k\theta\bigg] + i\sin\bigg[\theta + k\theta\bigg]$
 $\cos \bigg[(k+1)\theta \bigg]+ i\sin \bigg[(k+1)\theta\bigg]$  
 
 
-## Identita' trigonometriche di addizzione e sottrazione  
+## Identita' trigonometriche di addizione e sottrazione  
 
 ![angle_addition_identities](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/0ae8dd97-b281-4ee5-b645-a2049983da40)  
 
