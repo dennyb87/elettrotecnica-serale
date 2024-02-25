@@ -36,4 +36,4 @@ Questa forma e' pero' incompleta in quanto non ci permette di trovare tutte le s
 
 $\sqrt[^n]{z} = \sqrt[^n]{r} \cdot (\cos \frac{2\pi k +\theta}{n} +i\sin \frac{2\pi k +\theta}{n})$  
 
-Con $k$ che va da $0 \to n-1$  
+Per ogni $k$ da $0 \to n-1$  
