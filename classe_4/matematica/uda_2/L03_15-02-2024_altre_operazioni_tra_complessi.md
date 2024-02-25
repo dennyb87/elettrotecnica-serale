@@ -30,7 +30,7 @@ $z_1 \cdot z_2 = |z_1||z_2| \cdot (\cos\alpha\cos\beta + i\cos\alpha\sin\beta + 
 
 $z_1 \cdot z_2 = |z_1||z_2| \cdot (\cos\alpha\cos\beta + i\cos\alpha\sin\beta + i\cos\beta\sin\alpha -\sin\alpha\sin\beta)$  
 
-$z_1 \cdot z_2 = |z_1||z_2| \cdot (\underbrace{\cos\alpha\cos\beta -\sin\alpha\sin\beta}_{identita\ trigonometrica} + i(\underbrace{\cos\alpha\sin\beta + \cos\beta\sin\alpha}_{identita\ trigonometrica}))$  
+$z_1 \cdot z_2 = |z_1||z_2| \cdot (\underbrace{\cos\alpha\cos\beta -\sin\alpha\sin\beta}_{identita\ trigononometriche} + i(\underbrace{\cos\alpha\sin\beta + \cos\beta\sin\alpha}))$  
 
 Allora semplifichiamo utilizzando le *identita' trigonometriche* trovando infine...  
 
