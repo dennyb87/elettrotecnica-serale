@@ -32,14 +32,17 @@
 
 # Esercizio 3  
 
-| $V_{max}$ | $V$  | $T[s]$ | $f[Hz]$ | $\omega[rad/s]$ | $\varphi[^\circ]$ | $\vec{z}$            |
-| --------- | ---- | ------ | ------- | --------------- | ----------------- | -------------------- |
-| 10        | 7.07 | 4      | 0.25    | 1.57            | 90                | $10\angle90^\circ$   |
-| 21.21     | 15   | 4      | 0.25    | 1.57            | 0                 | $21.21\angle0^\circ$ |
-| 15        | 10.6 | 4      | 0.25    | 1.57            | -90               | $15\angle-90^\circ$  |
-| 10        | 7.07 | 4      | 0.25    | 1.57            | 45                | $10\angle45^\circ$   |
-| 28.28     | 20   | 4      | 0.25    | 1.57            | -45               | $10\angle-45^\circ$  |
+| $V_{max}$ | $V$  | $T[s]$ | $f[Hz]$ | $\omega[rad/s]$ | $\varphi[^\circ]$ | $\vec{z}$              |
+| --------- | ---- | ------ | ------- | --------------- | ----------------- | ---------------------- |
+| 10        | 7.07 | 4      | 0.25    | 1.57            | 90                | $10\angle90^\circ$     |
+| 21.21     | 15   | 4      | 0.25    | 1.57            | 0                 | $21.21\angle0^\circ$   |
+| 15        | 10.6 | 4      | 0.25    | 1.57            | -90               | $15\angle-90^\circ$    |
+| 10        | 7.07 | 4      | 0.25    | 1.57            | 45                | $10\angle45^\circ$     |
+| 28.28     | 20   | 4      | 0.25    | 1.57            | -45               | $28.28\angle-45^\circ$ |
 
+![esercizio_3_sines](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/862c3f22-aa9c-45cf-92c4-f701fad62aea)  
+
+![esercizio_3_vectors](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/9d7801da-082c-446a-b0d0-8ba15c43390a)  
 
 # Esercizio 4  
 
