@@ -1,8 +1,8 @@
-# Legge di Ohm generalizzata  
+# Reattanza capacitiva  
 
 ![capacitive_test_01](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/57d364ec-14c1-44e3-9d06-2a37aafb8028)  
 
-Si vuole esaminare l'opposizione al passaggio di corrente in un circuito puramente capaticivo come in figura. Registrando i valori delle grandezze e' possibile calcolare il rapporto tra tensione e corrente. Mentre in un circuito puramente resistivo questo coincide con la **resistenza**, in generale prende il nome di **impedenza**, ovvero la capacita' di un circuito opporsi al passaggio di cariche.  
+Si vuole esaminare l'opposizione al passaggio di corrente di un circuito puramente capaticivo come in figura. Registrando i valori delle grandezze e' possibile calcolare il rapporto tra i moduli dei vettori tensione $\vec{V}$ e corrente $\vec{I}$. Mentre in un circuito puramente resistivo questo coincide con la **resistenza**, in generale prende il nome di **impedenza**, ovvero la capacita' di un circuito opporsi al passaggio di cariche.  
 
 | $f[Hz]$ | $C[F]$ | $V[V]$ | $I[A]$ | $Z[\Omega]$ |
 | ------- | ------ | ------ | ------ | ----------- |
@@ -32,3 +32,5 @@ L'impedenza $Z$ pero' e' una grandezza che deve tenere conto dei diversi tipi op
 Variando la capacita' e la frequenza si puo' osservare una variazione di corrente, cosi' come di impedenza. In particolare e' dimostrabile che la **reattanza capacitiva** puo' essere descritta come segue:  
 
 $X_c = \dfrac{1}{\omega \cdot C}$  
+
+Dove $C$ e' la capacita' del condensatore in *farad*, mentre $\omega = 2\pi f$ in *rad/s* ovvero la velocita' angolare del vettore associato al segnale sinusoidale.  
