@@ -13,3 +13,4 @@ Collezione di strumenti utili, software, applicazioni web, etc...
 | http://amasci.com/ele-edu.html                                                                             | science hobbyist - William J. Beaty  |
 | https://www.microst.it/tutorial.htm#elettrotecnica                                                         | elettronica per tutti                |
 | https://www.tinkercad.com                                                                                  | progettazione di circuiti            |
+| https://quickmath.com                                                                                      | math solver                          |
