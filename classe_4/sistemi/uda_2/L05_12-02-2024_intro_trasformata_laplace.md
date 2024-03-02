@@ -34,8 +34,8 @@ flowchart LR
 Si noti che vale la proporzione di linearita', per cui la somma delle funzioni e' uguale alla somma delle trasformate.  
 
 
-$f(t) = 3u(t) = 3 \cdot\dfrac{1}{s} = \dfrac{3}{s}$  
+$f(t) = 3u(t) \implies F(s) = 3 \cdot\dfrac{1}{s} = \dfrac{3}{s}$  
 
-$f(t) = e^{-4t}u(t) = \dfrac{1}{s + 4}$  
+$f(t) = e^{-4t}u(t) \implies F(s) = \dfrac{1}{s + 4}$  
 
-$f(t) = 3u(t) + e^{-4t}u(t) = \dfrac{3}{s} + \dfrac{1}{s + 4}$  
+$f(t) = 3u(t) + e^{-4t}u(t) \implies F(s) = \dfrac{3}{s} + \dfrac{1}{s + 4}$  
