@@ -1,4 +1,4 @@
-# Transformata e antitraformata di Laplace  
+# Trasformata e antitrasformata di Laplace  
 
 ### ES 1 - Determinare la trasformata di Laplace delle seguenti funzioni f(t) scrivendo F(s) come rapporto di polinomi in s  
 
