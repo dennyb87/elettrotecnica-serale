@@ -14,6 +14,23 @@ $F_c(t) = \dfrac{10}{s-20}-\dfrac{4}{s+5} = \dfrac{10(s+5) -4(s-20)}{(s-20)(s+5)
 
 ### ES 2 - Antitrasformare le seguenti funzioni  
 
-$F_a(s) = \dfrac{5s+20}{s(s+2)} = \dfrac{A}{s} + \dfrac{B}{s+2}$  
+$F_a(s) = \dfrac{5s+20}{s(s+2)} = \dfrac{A(s+2)+Bs}{s(s+2)} = \dfrac{As+A2+Bs}{s(s+2)} = \dfrac{(A+B)s+A2}{s(s+2)}$  
 
-$f_a(t) =$  
+$$
+(A+B)s + A2 \implies
+\begin{cases}
+  \begin{aligned}
+    A2 &= 20\\
+    A+B &= 5
+  \end{aligned}
+\end{cases}
+\implies
+\begin{cases}
+  \begin{aligned}
+    A &= 10\\
+    B &= -5
+  \end{aligned}
+\end{cases}
+$$
+
+$F_a(s) = \dfrac{-5}{s}+\dfrac{10}{s+2} \implies f_a(t) = -5u(t) +10e^{-2}u(t)$  
