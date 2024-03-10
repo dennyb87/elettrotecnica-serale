@@ -30,7 +30,7 @@ $V_L(s) = \dfrac{E(s)Ls}{R+Ls} = \dfrac{20}{\cancel{s}} \cdot \dfrac{0.5\cancel{
 
 $V_L = 20 \cdot \dfrac{0.5}{0.5\bigg(s+\frac{2}{0.5}\bigg)} = \dfrac{10}{0.5} \cdot \dfrac{1}{s+4} \implies v_L(t) = 20 \cdot e^{-4t}\cdot u(t)$  
 
-![vi_graph_02](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/ebe6ea46-4d58-428f-9b51-250966ec4541)  
+![vi_graph_02](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/ddc93d48-74b3-4440-8682-d124b23f43ae)  
 
 Al contrario del circuito capaticitivo, si ha tensione massima all'istante $t = 0s$ mentre la corrente e' $0\ A$. Questo e' dovuto alla tensione indotta sull'avvolgimento. La variazione di corrente causa una variazione di flusso che a sua volta produce una tensione opposta a quella che l'ha generata. Dopo un tempo $t$ abbastanza lungo la corrente arriva al suo massimo, e non essendoci piu' variazione di corrente anche la variazione di flusso magnetico cessa, ponendo fine alla tensione indotta. A questo punto l'induttore risulta cortocircuitato per cui la corrente deve essere:  
 
