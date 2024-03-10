@@ -32,9 +32,7 @@ Vogliamo ora esaminare il comportamento di tensione e corrente nel tempo per cui
 
 $I(s) = E(s) \cdot \dfrac{Cs}{RCs+1} = \dfrac{40}{\cancel{s}} \cdot \dfrac{0.08\cancel{s}}{5\cdot0.08 \cdot s+1} = \dfrac{3.2}{0.4s+1}$  
 
-$I(s) = 3.2 \cdot \dfrac{1}{0.4\bigg(s+\frac{1}{0.4}\bigg)} = \dfrac{3.2}{0.4} \cdot \dfrac{1}{s+\frac{1}{0.4}}$  
-
-$i(t) = 8 \cdot e^{-0.4t} \cdot u(t)$  
+$I(s) = 3.2 \cdot \dfrac{1}{0.4\bigg(s+\frac{1}{0.4}\bigg)} = \dfrac{3.2}{0.4} \cdot \dfrac{1}{s+\frac{1}{0.4}} \implies i(t) = 8 \cdot e^{-0.4t} \cdot u(t)$  
 
 ![vi_graph_01](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/8541baeb-50c8-4408-960d-531026f64e54)  
 
