@@ -6,7 +6,8 @@
 
 Un resistore di resistenza $20\ \Omega$ è alimentato da un generatore sinusoidale di valore massimo $200\ V$, frequenza $10\ Hz$, fase $90^\circ$.  
 
-![bipolo-resistivo-graph](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/b5acbdc8-cbd8-48a8-86a1-952fec8a1f89)  
+![resistive_vip_graph](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/5b12566e-a24e-490a-90a6-7a5e884d0071)
+
 
 ![bipolo-resistivo-vectors](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/954a975c-4bd3-46c4-953e-19ec56fbc183)  
 
