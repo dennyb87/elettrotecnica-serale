@@ -14,12 +14,12 @@ e cosi' via...
 
 Per trovare infine la tensione indotta sul solenoide si ricorre invece alla legge di *Faraday-Neumann-Lenz* $v = \dfrac{\Delta \phi}{\Delta t}$  
 
-| $intervallo\ [s]$ | $\Delta \phi\ [mWb]$ | $\Delta t\ [s]$ | $v\ [mV]$ |
+| $intervallo\ [s]$ | $\Delta \phi\ [dWb]$ | $\Delta t\ [s]$ | $v\ [dV]$ |
 | ----------------- | -------------------- | --------------- | --------- |
-| $0 \div 1$        | $64$                 | $1$             | $64$      |
-| $1 \div 2$        | $-64$                | $1$             | $-64$     |
-| $2 \div 3$        | $-64$                | $1$             | $-64$     |
-| $3 \div 4$        | $64$                 | $1$             | $64$      |
+| $0 \div 1$        | $0.64$               | $1$             | $0.64$    |
+| $1 \div 2$        | $-0.64$              | $1$             | $-0.64$   |
+| $2 \div 3$        | $-0.64$              | $1$             | $-0.64$   |
+| $3 \div 4$        | $0.64$               | $1$             | $0.64$    |
 
 ![sine_current_solenoid_3](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/8f310c54-e7db-474e-add0-2cadaf88d21b)  
 
