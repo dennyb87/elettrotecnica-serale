@@ -6,9 +6,7 @@ Si consideri un solenoide con avvolgimento su ferro tale che la sua induttanza r
 
 Possiamo allora tracciare la corrente e il flusso concatenato $\phi_c$ sapendo che $\phi_c = L \cdot I$  
 
-$\phi_c (1) = L \cdot I = 32 \cdot 10^{-3} \cdot 2 = 64\ mWb = 0.64\ dWb$  
-
-e cosi' via...  
+${\phi_c}_{max} = L \cdot I_{max} = 32 \cdot 10^{-3} \cdot 2 = 64\ mWb = 0.64\ dWb$  
 
 ![sine_current_solenoid_2](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/20447b1a-a197-4112-826d-be4436bdb547)  
 
@@ -26,3 +24,11 @@ Per trovare infine la tensione indotta sul solenoide si ricorre invece alla legg
 Approssimando la tensione a una sinusoide diventa evidente come, al contrario di un circuito capacitivo, la corrente sia in ritardo di $90^\circ$ rispetto alla tensione.  
 
 ![sine_current_solenoid_4](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/47d74daa-a8c6-4599-8da8-a52065d798ca)  
+
+Calcolando infine la potenza si puo' notare non solo che ha valore medio nullo, ma anche che ha il doppio della frequenza delle altre grandezze.  
+
+$Q_{max} = V_{max} \cdot I_{max} = 0.64 \cdot 10^{-1} \cdot 2 = 1.28\ dVAR$  
+
+Nel caso ideale l'induttore si prende in presito energia nella meta' del primo periodo, per poi restiurla al circuito nella seconda meta'. Per cui si parla di potenza reattiva in quanto non viene trasformata ma solo scambiata.  
+
+![sine_current_solenoid_5](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/6df8488c-1546-4e58-a36c-4d649d9f03bf)  
