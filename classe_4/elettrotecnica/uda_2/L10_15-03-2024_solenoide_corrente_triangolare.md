@@ -25,10 +25,10 @@ Approssimando la tensione a una sinusoide diventa evidente come, al contrario di
 
 ![sine_current_solenoid_4](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/47d74daa-a8c6-4599-8da8-a52065d798ca)  
 
-Calcolando infine la potenza si puo' notare non solo che ha valore medio nullo, ma anche che ha il doppio della frequenza delle altre grandezze.  
+Tracciando infine la potenza si puo' notare non solo che ha valore medio nullo, ma anche che ha il doppio della frequenza delle altre grandezze.  
 
-$Q_{max} = V_{max} \cdot I_{max} = 0.64 \cdot 10^{-1} \cdot 2 = 1.28\ dVAR$  
+$P_{max} = V_{max} \cdot V_{max} = 0.64 \cdot 10^{-1} \cdot 2 = 1.28\ dW$  
 
-Nel caso ideale l'induttore si prende in presito energia nella meta' del primo periodo, per poi restiurla al circuito nella seconda meta'. Per cui si parla di potenza reattiva in quanto non viene trasformata ma solo scambiata.  
+Nel caso ideale l'induttore prende in presito energia nella prima meta' del periodo, per poi restiurla al circuito nella seconda meta', si parla quindi di potenza reattiva in quanto non viene trasformata ma solo scambiata.  
 
-![sine_current_solenoid_5](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/6df8488c-1546-4e58-a36c-4d649d9f03bf)  
+![sine_current_solenoid_5](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/23ea4664-e384-4f74-8192-7f50bf0692a5)  
