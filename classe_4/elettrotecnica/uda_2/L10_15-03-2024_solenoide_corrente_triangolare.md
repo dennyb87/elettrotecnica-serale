@@ -6,7 +6,7 @@ Si consideri un solenoide con avvolgimento su ferro tale che la sua induttanza r
 
 Possiamo allora tracciare la corrente e il flusso concatenato $\phi_c$ sapendo che $\phi_c = L \cdot I$  
 
-${\phi_c}_{max} = L \cdot I_{max} = 32 \cdot 10^{-3} \cdot 2 = 64\ mWb = 0.64\ dWb$  
+$\phi_{c_{max}} = L \cdot I_{max} = 32 \cdot 10^{-3} \cdot 2 = 64\ mWb = 0.64\ dWb$  
 
 ![sine_current_solenoid_2](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/20447b1a-a197-4112-826d-be4436bdb547)  
 
