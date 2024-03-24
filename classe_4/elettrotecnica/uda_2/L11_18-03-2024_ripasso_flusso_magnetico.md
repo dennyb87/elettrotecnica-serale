@@ -34,4 +34,4 @@ Dove $N$ e' il numero di spire mentre $\mathcal{R} = \dfrac{\ell}{S\mu}$ in cui 
 
 $\phi_c = N \cdot \phi = N \cdot \dfrac{N \cdot I}{\mathcal{R}} = \dfrac{N^2}{\mathcal{R}} \cdot I = L \cdot I$  
 
-Si ha allora che $L$ prende il nome di induttanza, la quale rappresenta sia la bonta' con cui il solenoide riesce a produrre flusso, e per via della conseguente autoinduzione, anche anche l'attitudine del componente ad opporsi alla variazione di corrente.  
+Si ha allora che $L = \dfrac{N^2}{\mathcal{R}}$ prende il nome di induttanza e dipende dalla geometria e dal materiale del componente. Questa rappresenta sia la bonta' con cui il componente riesce a produrre flusso, e per via della conseguente autoinduzione, anche anche l'attitudine del componente ad opporsi alla variazione di corrente.  
