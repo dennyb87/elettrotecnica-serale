@@ -18,7 +18,7 @@ flowchart LR
     end
 ```
 
-Osservando invece $y = x^2+2$ si nota che esistono piu' elementi di $P$ che portano allo stesso elemento di $Q$, allora per definizione questa non e' una funzione.  
+Osservando invece $y = x^2+2$ si nota che esistono piu' elementi di $P$ che portano allo stesso elemento di $Q$, ma questo e' accettabile in quanto continua ad essere vero che per ogni elemento di $P$ e' associato uno ed un solo elemento di $Q$, per cui anche questa e' per definizione una funzione.  
 
 ```mermaid
 flowchart LR
@@ -33,6 +33,25 @@ flowchart LR
         pb-->qa
         pc-->qc[6]
         pd-->qd[...]
+    end
+```
+
+Osservando infine l'equazione di una circonferenza $y^2+x^2 = 9$ notiamo che per esempio con $x = 0$ si avrebbe:  
+
+$y^2+0^2 = 9 \implies y = \sqrt{9}  \implies y = \pm 3$  
+
+In questo caso la condizione di funzione viene violata in quanto per una $x$ si hanno due possibili $y$, allora per definzione questa non e' una funzione!  
+
+```mermaid
+flowchart LR
+    subgraph P
+        pa[0]
+        pb[...]
+    end
+    subgraph Q
+        pa-->qa[+3]
+        pa-->qb[-3]
+        pb-->qc[...]
     end
 ```
 
@@ -75,7 +94,7 @@ Percio' anche questo caso viene escluso. E' importante infine notare come ogni e
 
 Dalla definizione di esponenziale si intuisce che $y$ e' sempre crescente o decrescente e non puo' assumere valori negativi, in particolare si ha sempre un asintoto orizzontale, ovvero $y$ raggiunge lo zero solo nel limite.  
 
-> **asintoto** (dal greco *"che non si incontra"*) - La tangente alla curva in un punto all'infinito
+> **asintoto** (dal greco *"che non si incontra"*) - La retta che si avvicina indefinitamente alla funzione senza mai toccarla
 
 $$
 a \gt 1 \implies
