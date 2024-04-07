@@ -39,4 +39,4 @@ $\vec{V_L} = jX_L \cdot I = j40 \cdot 4 = j160\ V$
 
 L'utilizzo della componente immaginaria in $jX_L$ rappresenta proprio lo sfasamento tra tensione e corrente nel componente, ovvero la tensione massima sui componenti non viene raggiunta nello stesso momento, per cui si ha infine che...  
 
-$V = \sqrt{V_R^2+V_L^2} = \sqrt{120^2+160^2} = 200\ V$  
+$E = \sqrt{V_R^2+V_L^2} = \sqrt{120^2+160^2} = 200\ V$  
