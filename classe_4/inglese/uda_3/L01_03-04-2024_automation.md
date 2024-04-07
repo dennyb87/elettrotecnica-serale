@@ -7,3 +7,28 @@ Automation is defined as task processing through technology with little to no hu
 * **measurement** - physical quantities are measured via sensors
 * **evaluation** - measured information is evaluated to decide if any adjustment is necessary
 * **control** - if necessary the controller will make the actuators to change the system state to be in line with the preconfigured values
+
+
+#### Feedback loop  
+
+A loop in which the output of a system is fed back as input in order to allow for self-regulation.  
+
+#### Mechanisation  
+
+The replacement of human workers with machines.  
+
+#### Process control  
+
+It usually refer to the application of automation to control manufactoring operations, but could apply to any process in general.  
+
+#### Sensor  
+
+Sensors are used to measure a physical quantity and convert it to an electrical signal which can be then interpreted by the controller.  
+
+#### Actuator  
+
+Any device capable to modify the energetic state of the sytem e.g. lamp, heater...  
+
+#### Controller  
+
+It generally refer to a programmable device which reacting on inputs is able to produce specific outputs, in form of electrical signals, utilised to control actuators in automated systems.  
