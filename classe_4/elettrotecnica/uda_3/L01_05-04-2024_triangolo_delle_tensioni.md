@@ -34,6 +34,8 @@ $Q = S \cdot \cos \varphi = 800 \cdot 0.8 = 640\ VAR$
 
 Si vuole ora risolvere il triangolo delle tensioni sapendo che la seconda legge di Kirchhoff e' sempre valida.  
 
+![voltage_triangle](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/b4ecd725-c8a8-47d7-94a1-510e173a233d)  
+
 $\vec{E} = \vec{V_R} + \vec{V_L}$  
 
 $\vec{V_R} = R \cdot I = 30 \cdot 4 = 120\ V$  
