@@ -37,6 +37,10 @@ $\vec{E} = \vec{V_R} + \vec{V_L}$
 $\vec{V_R} = R \cdot I = 30 \cdot 4 = 120\ V$  
 $\vec{V_L} = jX_L \cdot I = j40 \cdot 4 = j160\ V$  
 
-L'utilizzo della componente immaginaria in $jX_L$ rappresenta proprio lo sfasamento tra tensione e corrente nel componente, ovvero la tensione massima sui componenti non viene raggiunta nello stesso momento, per cui si ha infine che...  
+L'utilizzo della componente immaginaria in $jX_L$ rappresenta proprio lo sfasamento tra tensione e corrente nel componente, in quanto la tensione massima sui componenti non viene raggiunta nello stesso momento, per cui si ha infine che...  
 
 $E = \sqrt{V_R^2+V_L^2} = \sqrt{120^2+160^2} = 200\ V$  
+
+![vectorial_kirchhoff](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/dde54f61-1786-4c46-94e8-0b9928bbbb39)  
+
+Si noti come il vettore della corrente $\vec{I} = 40\ dA = 4\ A$ si in fase con la tensione su $R$ e in quadratura con la tensione su $L$.  
