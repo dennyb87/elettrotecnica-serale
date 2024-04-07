@@ -45,4 +45,4 @@ $E = \sqrt{V_R^2+V_L^2} = \sqrt{120^2+160^2} = 200\ V$
 
 ![vectorial_kirchhoff](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/68d75e78-080c-49f6-82e6-3a5ab4e41d1f)  
 
-Si noti come il vettore della corrente $\vec{I} = 4\ A \angle -53.13^\circ$ si in fase con la tensione su $R$ e in quadratura con la tensione su $L$.  
+Si noti come il vettore della corrente $\vec{I} = 4\ A\  \angle -53.13^\circ$ sia in fase con la tensione su $R$ e in quadratura con la tensione su $L$.  
