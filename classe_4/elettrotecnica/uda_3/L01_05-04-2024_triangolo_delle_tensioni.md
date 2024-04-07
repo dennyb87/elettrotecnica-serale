@@ -4,6 +4,8 @@
 
 Si vuole risolvere il circuito sapendo che:  
 
+$\vec{E} = 282.84\ V \angle 0^\circ$  
+
 $E = \dfrac{E_{max}}{\sqrt{2}} \simeq 200\ V$  
 $f = 10\ Hz$  
 $R = 30\ \Omega$  
@@ -41,6 +43,6 @@ L'utilizzo della componente immaginaria in $jX_L$ rappresenta proprio lo sfasame
 
 $E = \sqrt{V_R^2+V_L^2} = \sqrt{120^2+160^2} = 200\ V$  
 
-![vectorial_kirchhoff](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/dde54f61-1786-4c46-94e8-0b9928bbbb39)  
+![vectorial_kirchhoff](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/68d75e78-080c-49f6-82e6-3a5ab4e41d1f)  
 
-Si noti come il vettore della corrente $\vec{I} = 40\ dA = 4\ A$ si in fase con la tensione su $R$ e in quadratura con la tensione su $L$.  
+Si noti come il vettore della corrente $\vec{I} = 4\ A \angle -53.13^\circ$ si in fase con la tensione su $R$ e in quadratura con la tensione su $L$.  
