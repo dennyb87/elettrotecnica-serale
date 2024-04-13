@@ -12,4 +12,4 @@ Il generatore trifase, sfruttando la legge di *Faraday-Neumann-Lenz* $v = \dfrac
 
 I vettori associati a queste onde sinusoidali sono i vertici di un triangolo equilatero. E' importante notare che la loro somma equivale a zero.  
 
-$E_1 + E_2 + E_3 = 0$  
+$\vec{E_1} + \vec{E_2} + \vec{E_3} = 0$  
