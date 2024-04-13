@@ -53,4 +53,4 @@ $v_{L}(t) = \dfrac{\Delta e^{-5t}\cdot u(t)}{\Delta t}$
 
 ![impulse_response](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/58425d8b-2e2c-45fb-9a74-5407cf0d6e7f)  
 
-Si nota allora come la risposta all'impulso del sistema, al contrario del gradino unitario, dipenda unicamente dalla composizione del sistema stesso, ovvero da $G(s)$. Inoltre, e' importante notare come la risposta cambi singnificativamente in dipendenza del tipo di segnale in ingresso.  
+Si nota allora come la risposta del sistema all'impulso, al contrario del gradino unitario, dipenda unicamente dalla composizione del sistema stesso, ovvero da $G(s)$. Inoltre, e' importante notare come la risposta cambi singnificativamente in dipendenza del tipo di segnale in ingresso.  
