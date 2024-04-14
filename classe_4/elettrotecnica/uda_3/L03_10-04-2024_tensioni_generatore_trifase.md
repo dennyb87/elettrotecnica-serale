@@ -16,7 +16,7 @@ Ma $\vec{E}_1 - \vec{E}_2 = \vec{E}_1 + (-\vec{E}_2)$ percio' e' sufficiente far
 
 ![line_voltage_derivation](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/3389fbc5-3835-4749-9b11-5bb2caf5e399)  
 
-Per la regola del parallelogramma sappiamo che $V_{12}$ e' la base di un triangolo isoscele che ha per lato $E_1$ e allora...  
+Sapendo che $E_1 = E_2$ per la regola del parallelogramma sappiamo anche che $V_{12}$ e' necessariamente la base di un triangolo isoscele che ha per lati $E_1, E_2$ e allora...  
 
 $V_{12} = 2 \cdot E_1\cos \alpha = 2 \cdot E_1 \cos 30^\circ = \cancel{2} \cdot E_1 \dfrac{\sqrt{3}}{\cancel{2}} = E_1\sqrt{3}$  
 
