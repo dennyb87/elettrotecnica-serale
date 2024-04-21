@@ -1,13 +1,8 @@
 # Scomposizioni per antitrasformate  
 
-Dato un circuito RL serie con:  
+![antitransform_exercise_RL_serie](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/b7252da1-ceb1-41f9-ab02-e001f57d7cdd)  
 
-$R_1 = 1\ \Omega$  
-$R_2 = 3\ \Omega$  
-$L = 2\ H$  
-$E(s) = \dfrac{10}{s}$  
-
-Per il partitore di tensione si ha in uscita:  
+Dato il circuito RL serie con $V_i(s) = E(s) = \dfrac{10}{s}$ per il partitore di tensione si ha in uscita:  
 
 $V_u(s) = V_i(s) \cdot \dfrac{R_2 + Ls}{R_1+R_2+Ls}$  
 
