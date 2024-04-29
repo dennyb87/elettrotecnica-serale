@@ -19,9 +19,7 @@ Il sistema di controllo sara' composto da tre pulsanti:
 * $P_I$ (inversione)
 * $P_A$ (arresto)
 
-![finestra_zootecnica](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/74b5c6b7-6f74-4a67-901c-a238335d9009)  
-
-
+![finestra_zootecnica](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/1139fdd8-ca20-403a-85d7-14643dc427b4)  
 
 Per determinare lo stato delle finestre si avranno due finecorsa posti alle estremita' delle guide (vedi figura) dove:  
 
