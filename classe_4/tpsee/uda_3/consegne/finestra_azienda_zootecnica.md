@@ -19,15 +19,18 @@ Il sistema di controllo sara' composto da tre pulsanti:
 * $P_I$ (inversione)
 * $P_A$ (arresto)
 
-![finestra_zootecnica](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/1139fdd8-ca20-403a-85d7-14643dc427b4)  
+![finestra_zootecnica](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/a1024dce-49e5-44a5-b1ca-c49d8ed72ffd)  
 
-Per determinare lo stato delle finestre si avranno due finecorsa posti alle estremita' delle guide (vedi figura) dove:  
+Per determinare lo stato delle finestre si avranno due finecorsa posti alle estremita' delle guide $F_1,\ F_2$ (vedi figura)  
 
-* $F_1$ (normalmente chiuso **NC**)
-* $F_2$ (normalmente aperto **NO**)
-
-| I/O   | nome  | ID    | stato iniziale |
-| ----- | ----- | ----- | -------------- |
-| input | $P_M$ | $I_1$ |                |
-| input | $P_I$ | $I_2$ |                |
-| input | $P_A$ | $I_3$ |                |
+| I/O   | componente           | simbolo | ID    | stato iniziale |
+| ----- | -------------------- | ------- | ----- | -------------- |
+| input | pulsante marcia      | $P_M$   | $I_1$ | 0              |
+| input | pulstante inversione | $P_I$   | $I_2$ | 0              |
+| input | pulsante arresto     | $P_A$   | $I_3$ | 1              |
+| input | finecorsa            | $F_1$   | $I_4$ | 1              |
+| input | finecorsa            | $F_2$   | $I_5$ | 0              |
+| out   | contattore           | $K_1$   | $Q_1$ | 0              |
+| out   | contattore           | $K_2$   | $Q_2$ | 0              |
+| out   | lampada marcia       | $L_M$   | $Q_3$ | 0              |
+| out   | lampada inversione   | $L_I$   | $Q_4$ | 0              |
