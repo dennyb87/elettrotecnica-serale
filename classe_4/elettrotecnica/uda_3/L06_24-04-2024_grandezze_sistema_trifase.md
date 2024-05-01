@@ -18,7 +18,7 @@ Dato che $I_1 = I_2 = I_3$ mentre $V_{12} = V_{23} = V_{31}$ per comodita' si ut
 
 E' importante notare che nel carico a stella mentre per le correnti possiamo dire che $I = I_F$ non e' possibile fare lo stesso con le tensioni in quanto per la seconda legge di Kirchhoff...  
 
-$\vec{V} = \vec{V}_{F1} - \vec{V}_{F2} \implies V = \sqrt{3} \cdot E$  
+$\vec{V} = \vec{V_{F1}} - \vec{V_{F2}} \implies V = \sqrt{3} \cdot E$  
 
 
 ## Carico a triangolo  
@@ -29,7 +29,7 @@ In questo caso invece, sempre per le leggi di Kirchhoff...
 
 $V = V_F$  
 
-$\vec{I} = \vec{I}_{F1} - \vec{I}_{F2} \implies \sqrt{3} \cdot I_F$  
+$\vec{I} = \vec{I_{F1}} - \vec{I_{F2}} \implies \sqrt{3} \cdot I_F$  
 
 ## Carico equilibrato  
 
