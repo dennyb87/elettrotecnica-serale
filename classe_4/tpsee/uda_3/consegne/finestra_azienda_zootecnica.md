@@ -12,16 +12,14 @@ Si vuole progettare il sistema di controllo e azionamento della finestra di un'a
 
 ## Modello  
 
-![control_panel](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/9a1bde05-4ee8-4c0b-bc2e-a8611d91bd0d)  
+![finestra_zootecnica_schema](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/c5d05634-f811-4adf-ac28-c98c5d3edccd)  
 
-Il sistema di controllo sara' composto da tre pulsanti:
+Il sistema di controllo e' composto da tre pulsanti:
 * $P_M$ (marcia)
 * $P_I$ (inversione)
 * $P_A$ (arresto)
 
-![finestra_zootecnica](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/a1024dce-49e5-44a5-b1ca-c49d8ed72ffd)  
-
-Per determinare lo stato delle finestre si avranno due finecorsa posti alle estremita' delle guide $F_1,\ F_2$ (vedi figura)  
+Mentre per determinare lo stato delle finestre si hanno due finecorsa posti alle estremita' delle guide $F_1,\ F_2$ (vedi figura) che permettono l'abilitazione del motore.  
 
 | I/O   | componente             | simbolo | ID    | stato iniziale | descrizione                                       |
 | ----- | ---------------------- | ------- | ----- | -------------- | ------------------------------------------------- |
