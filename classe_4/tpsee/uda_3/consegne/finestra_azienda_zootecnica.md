@@ -32,3 +32,8 @@ Mentre per determinare lo stato delle finestre si hanno due finecorsa posti alle
 | out   | contattore  inversione | $K_2$   | $Q_2$ | 0              | 1 se la bobina e' eccitata, 0 altrimenti          |
 | out   | lampada marcia         | $L_M$   | $Q_3$ | 0              | 1 se la lampada e' accesa, 0 altrimenti           |
 | out   | lampada inversione     | $L_I$   | $Q_4$ | 0              | 1 se la lampada e' accesa, 0 altrimenti           |
+
+
+## Schemi di potenza e controllo  
+
+![cadesimu_finestra_zootecnica](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/f177af67-00d0-4f7f-b555-25fbace686cc)  
