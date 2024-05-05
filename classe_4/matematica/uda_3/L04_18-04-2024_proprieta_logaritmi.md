@@ -6,6 +6,10 @@ Si ricorda che...
 
 $a^c = b \implies \log_a b = c \implies a^{\log_a b} = b$  
 
+Ne deriva anche che...  
+
+$\log_a x = \log_a y \implies x = y$  
+
 ## Logaritmo del prodotto  
 
 Dati due logaritmi con la stessa base possiamo derivare la regola del prodotto.  
@@ -54,3 +58,32 @@ $mn = \log_a x^n$
 Infine sostituendo $mn$...  
 
 $n \cdot \log_a x = \log_a x^n$  
+
+## Formula del cambio di base  
+
+$\log_a x = y$  
+
+Dato questo logaritmo possiamo riscriverlo come rapporto tra due logaritmi in base $b$ vediamo come...  
+
+$\log_a x = y \implies a^y = x$  
+
+Prendendiamo il logaritmo in base $b$ per entrambe i membri...  
+
+$\log_b a^y = \log_b x$
+
+$y \cdot \log_b a = \log_b x$  
+
+$y \cdot \cancel{\dfrac{\log_b a}{\log_b a}} = \dfrac{\log_b x}{\log_b a}$  
+
+Sostiuiamo infine $y$...  
+
+$\log_a x = \dfrac{\log_b x}{\log_b a}$  
+
+## Logaritmo all'esponente  
+
+$\log_a x = y \implies a^y = x$  
+
+Sostituendo $y$ si ha allora che...  
+
+$a^{\log_a x} = x$  
+
