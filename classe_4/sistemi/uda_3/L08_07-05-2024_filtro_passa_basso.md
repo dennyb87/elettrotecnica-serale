@@ -20,7 +20,7 @@ Di seguito i grafici in continua $\omega = 0$ e alternata $\omega > 0$ in cui la
 
 ![filtro_passa_basso](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/ec2b9437-f7ed-471f-87d3-45cc3de6a198)  
 
-In un circuito di questo tipo si ha che l'impedenza dell'induttore varia al variare della frequenza, per cui in effetti una risposta in frequenza, ovvero la funzione di trasferimento varia al variare dalla frequenza.  
+In un circuito di questo tipo si ha che l'impedenza dell'induttore varia al variare della frequenza, per cui si ha in effetti una risposta in frequenza, ovvero la funzione di trasferimento varia al variare dalla frequenza.  
 
 $L = 5\ H$  
 $R = 2\ \Omega$  
