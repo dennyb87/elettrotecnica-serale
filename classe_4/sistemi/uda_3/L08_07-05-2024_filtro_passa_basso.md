@@ -31,7 +31,7 @@ $G(s) = \dfrac{\cancel{V_i}R}{R+Ls} \cdot \dfrac{1}{\cancel{V_i}} = \dfrac{R}{R+
 
 La risposta in frequenza sara' allora di questo tipo, dove per $\omega = 0$ ovvero in continua, l'induttore non presenta impedenza, per cui $V_{o} = V_{i} \implies G = 1$  
 
-Quando $\omega = a_G = 0.4\ \frac{rad}{s}$ si ha la frequenza di taglio, *cut-off frequency* $f_c$ in questo caso $f_c = \dfrac{a_G}{2\pi} = \dfrac{0.4}{2\pi} = 0.064\ Hz$ dove $G = \dfrac{1}{\sqrt{2}}$ e comincia a descrescere in modo significativo.  
+Quando $\omega = a_G = 0.4\ \frac{rad}{s}$ si ha la frequenza di taglio, *cut-off frequency* $f_c$ in questo caso $f_c = \dfrac{a_G}{2\pi} = \dfrac{0.4}{2\pi} \simeq 0.064\ Hz$ dove $G = \dfrac{1}{\sqrt{2}}$ e comincia a descrescere in modo significativo.  
 
 Questo tipo di circuito prende il nome di **filtro passa-basso** in quanto lascia passare il segnale a frequenze basse, mentre quelle alte vengono soppresse.  
 
