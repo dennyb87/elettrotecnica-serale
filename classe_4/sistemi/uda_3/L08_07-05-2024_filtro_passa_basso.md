@@ -27,6 +27,20 @@ $R = 2\ \Omega$
 
 $G(s) = \dfrac{\cancel{V_i}R}{R+Ls} \cdot \dfrac{1}{\cancel{V_i}} = \dfrac{R}{R+Ls} = \dfrac{2}{2 + 5s} = 0.4 \cdot \dfrac{1}{s + 0.4}$  
 
+Per trovare $G$ e' necessario valutare $G(s)|_{s = j\omega}$ ovvero...  
+
+$G(j\omega) = \dfrac{R}{R+j\omega L}$  
+
+Ma $R+j\omega L$ e' un numero complesso, allora per *De Moivre* si cha che il quoziente tra due numeri complessi e' il quoziente tra i loro moduli e la differenza tra i rispettivi angoli. Il numeratore non ha parte complessa quindi il modulo coincide con $R$ mentre al denominatore si applica il teorema di Pitagora...  
+
+$|G| = \dfrac{R}{\sqrt{R^2+X^2_L}} = \dfrac{R}{\sqrt{R^2+(\omega L)^2)}} = \dfrac{R}{\sqrt{R^2+(2\pi f L)^2}}$  
+
+Allora tracciando $|G|$ al variare della frequenza $f$ otteniamo una curva di questo tipo...  
+
+$|G| = \dfrac{2}{\sqrt{2^2+(2\pi f5)}}$  
+
+![freq_response](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/bf20208a-dcbb-446e-a8d9-079192ec9dc7)  
+
 ![low_pass_filter_characteristics](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/b81e8c2c-a133-475a-a39d-7be97c349afd)  
 
 La risposta in frequenza sara' allora di questo tipo, dove per $\omega = 0$ ovvero in continua, l'induttore non presenta impedenza, per cui $V_{o} = V_{i} \implies G = 1$  
