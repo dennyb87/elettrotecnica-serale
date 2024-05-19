@@ -16,7 +16,7 @@ $\varphi = \tan^{-1}(\frac{4}{3}) \simeq 53.13^\circ$
 
 Considerando che la corrente e' in ritardo di $53.13^\circ$ si vuole trovare il vettore $\vec{I_C}$ tale che la somma vettoriale con $\vec{I_L}$ dia come risultato il vettore $\vec{I}$ in fase con $\vec{V}$. Per la trigonometria si ha allora che...  
 
-![phase_shift_vectors](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/c11c659b-f9bb-4ab0-a025-6bbf84b35b35)  
+![phase_shift_vectors](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/d7b14c95-a9ec-4033-8f9d-0d0a1edd4456)   
 
 $I_C = I_L \cdot \sin \varphi = 20 \cdot \sin 53.13^\circ \simeq 16\ A$  
 
