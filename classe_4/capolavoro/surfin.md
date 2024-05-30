@@ -21,8 +21,6 @@ Tutte le sorgenti soddisfano i requisiti minimi necessari, ovvero espongono i da
 
 Dopo qualche ricerca ho deciso di utilizzare [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/) in quanto mi permette di lanciare l'istanza di un server remoto in modo completamente gratuito grazie al loro [free tier](https://www.oracle.com/cloud/free/). Questo e' particolarmente vantaggioso in quanto si ha il pieno controllo via `ssh` del server remoto, caratteristica che apre la strada a svariate possibilita lato backend.  
 
-\pagebreak  
-
 ## Demo page  
 
 Al momento esiste una pagina dimostrativa all'indirizzo [https://surfin.duckdns.org](https://surfin.duckdns.org/) dove logo e design sono stati realizzati con [InkScape](https://en.wikipedia.org/wiki/Inkscape). La parte piu' problematica e' stato il deployment non essendo particolarmente familiare con l'infrastruttura Oracle, ma sono comunque riuscito a scrivere una [guida passo-passo](https://github.com/dennyb87/my-oci-utils/blob/main/deploy/django.md) che ho reso pubblica.  
