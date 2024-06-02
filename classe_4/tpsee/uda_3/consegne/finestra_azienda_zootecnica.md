@@ -38,4 +38,4 @@ Per la segnalazione si hanno due lampade rispettivamente di marcia $L_M$ e inver
 
 ## Schemi di potenza e controllo  
 
-![finestra_zootecnica](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/26178df4-672a-4d2e-896d-c12876b792b9)  
+![finestra_zootecnica_schemi](https://github.com/dennyb87/elettrotecnica-serale/assets/7195133/9c13e54a-62bc-42c0-b89d-b1da170898dd)  
