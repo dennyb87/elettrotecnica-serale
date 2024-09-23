@@ -22,10 +22,37 @@ Scomponendo otteniamo...
 
 $y = x(ax + b)$  
 
-Si nota immediatamente che questa nuova parabola interseca l'asse delle ascisse quando $x = 0$ oppure $x = -\dfrac{b}{a}$ e questo implica che la coordinata x del vertice deve essere a meta' tra questi due valori, ovvero:  
+Si nota immediatamente che questa nuova parabola interseca l'asse delle ascisse quando $x = 0$ oppure $x = -\dfrac{b}{a}$ e questo implica che la coordinata $V_x$ del vertice deve essere a meta' tra questi due valori, ovvero:  
 
 $V_x = -\dfrac{b}{2a}$  
 
 Sostiuendo i valori dell'equazione originale otteniamo infine...  
 
 $V_x = -\dfrac{b}{2a} = -\bigg(\dfrac{-4}{2}\bigg) = 2$
+
+
+## La coordinata y del vertice  
+
+Dato il classico trinomio di secondo grado:  
+
+$y = ax^2+bx+c$  
+
+Si vuole completarne il quadrato...  
+
+$y = a\bigg(x^2+\dfrac{b}{a}x\bigg)+c$  
+
+$y = a\bigg[\bigg(x+\dfrac{b}{2a}\bigg)^2 -\dfrac{b^2}{4a^2}\bigg]+c$  
+
+$y = a\bigg(x+\dfrac{b}{2a}\bigg)^2-\dfrac{b^2}{4a}+c$  
+
+$y = a\bigg(x+\dfrac{b}{2a}\bigg)^2 + \dfrac{4ac -b2}{4a}$  
+
+A questo punto e' importante notare che quando $x = V_x = -\dfrac{b}{2a}$ si ha che il primo termine diventa zero, e il termine restante rappresenta quindi il valore minimo possible di $y$ ovvero la coordinata $V_y$ del vertice. Riarrangiando scopriamo infine che...  
+
+$V_y = \dfrac{4ac -b2}{4a} = \dfrac{-(b2-4ac)}{4a} =-\dfrac{\Delta}{4a}$  
+
+
+In generale...  
+
+
+$V = (V_x,V_y) = \bigg(-\dfrac{b}{2a},\ -\dfrac{\Delta}{4a}\bigg)$
