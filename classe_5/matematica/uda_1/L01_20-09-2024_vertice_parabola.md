@@ -45,11 +45,11 @@ $y = a\bigg[\bigg(x+\dfrac{b}{2a}\bigg)^2 -\dfrac{b^2}{4a^2}\bigg]+c$
 
 $y = a\bigg(x+\dfrac{b}{2a}\bigg)^2-\dfrac{b^2}{4a}+c$  
 
-$y = a\bigg(x+\dfrac{b}{2a}\bigg)^2 + \dfrac{4ac -b2}{4a}$  
+$y = a\bigg(x+\dfrac{b}{2a}\bigg)^2 + \dfrac{4ac -b^2}{4a}$  
 
 A questo punto e' importante notare che quando $x = V_x = -\dfrac{b}{2a}$ si ha che il primo termine diventa zero, e il termine restante rappresenta quindi il valore minimo possible di $y$ ovvero la coordinata $V_y$ del vertice. Riarrangiando scopriamo infine che...  
 
-$V_y = \dfrac{4ac -b2}{4a} = \dfrac{-(b2-4ac)}{4a} =-\dfrac{\Delta}{4a}$  
+$V_y = \dfrac{4ac -b^2}{4a} = \dfrac{-(b^2-4ac)}{4a} =-\dfrac{\Delta}{4a}$  
 
 
 In generale...  
