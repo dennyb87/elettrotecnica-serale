@@ -39,14 +39,28 @@ La perdita per effetto Joule e' dovuta al tipo di materiale dei conduttori con c
 
 ## Perdite del ferro  
 
-$P_f = Pi + P_{cp}$  
+$P_f = P_i + P_{cp}$  
 
 Le perdite del ferro $P_f$ hanno a che fare con il nucleo magnetico, e hanno due componenti:
 * perdite per *isteresi* $P_i$
 * perdite per *correnti parassite* $P_{cp}$
 
-Le perdite per isteresi si hanno in quanto parte dell'ernergia deve essere spesa per orientare i domini magnetici in direzione del flusso.  
+Le **perdite per isteresi** si hanno in quanto parte dell'ernergia deve essere spesa per orientare i domini magnetici in direzione del flusso.  
 
 $P_i = K_i \cdot f \cdot B_M^n$  
 
 Dove $K_i$ tiene conto del materiale del nucleo, $f$ e' la frequenza, mentre $B_M$ e' l'induzione massima.  
+
+Le **perdite per correnti parassite** sono dovute al flusso magnetico, che attraversando il nucleo ferromagnetico, quindi conduttore, vi causa delle correnti indesiderate dette *parassite* determinando una dissipazione di energia per effetto Joule.  
+
+$P_{cp} = K_{cp} \cdot f^2 \cdot B_M^2$  
+
+Dove $K_{cp}$ tiene conto del materiale del nucleo, $f$ e' la frequenza, mentre $B_M$ e' l'induzione massima.  
+
+![eddy_currents](https://github.com/user-attachments/assets/c8c3041a-66bf-4a80-9cea-aff1dfb784a3)  
+
+Uno dei modi per minimizzare queste correnti indesiderate e' quello di ridurre la sezione del conduttore. Per la seconda legge di Ohm si ha che una sezione minore da luogo ad una resistenza maggiore e di conseguenza ad una corrente minore.  
+
+Per fare cio' si i nuclei ferromagnetici, anziche' essere composti da un singolo blocco, vengono assemblati da $n$ lamierini a bassa conducibilita' isolati tra loro.  
+
+In pratica pero' vedremo che i produttori forniscono un unico valore detto **cifra di perdita** $P_{fs} [W/kg]$ che tiene conto delle perdite da isteresi e correnti parassite.  
