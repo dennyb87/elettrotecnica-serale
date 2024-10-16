@@ -30,7 +30,7 @@ $\dfrac{x}{x-1} - 4 = 0$
 
 $\dfrac{x -4(x-1)}{x-1} = 0$  
 
-$CE\ \bigg\{ x \ne 1$  
+$CE\ \bigg\lbrace x \ne 1$  
 
 $x -4x + 4 = 0$  
 
