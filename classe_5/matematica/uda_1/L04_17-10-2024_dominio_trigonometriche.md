@@ -18,7 +18,9 @@ $$
     e^x-1 &\le 1 \\
   \end{aligned}
 \end{cases}
+$$
 
+$$
 \begin{cases}
   \begin{aligned}
     e^x &\ge 0 \\
