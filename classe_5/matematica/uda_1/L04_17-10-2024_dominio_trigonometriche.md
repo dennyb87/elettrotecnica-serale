@@ -1,10 +1,12 @@
 # Dominio di funzioni trigonometriche  
 
-![arcsin_vs_sin](https://github.com/user-attachments/assets/1e0baf9a-72d0-44ee-9c18-3748d203bad9)
+## Seno e arcoseno  
 
-La funzione $\sin(x)$ accetta un qualsiasi angono in ingresso percio' il dominio e' tutto $\mathbb{R}$. Il codominio invece sappiamo essere $[-1,\ 1]$ e vediamo infatti la funzione oscillare sull'asse delle ascisse.  
+![sinarcsin](https://github.com/user-attachments/assets/a8d75cdc-6f11-4232-868a-55839f1736bd)  
 
-La sua funzione inversa e' l'arcoseno o $\arcsin(x)$ dove invertendo dominio con codominio, accettera' in ingresso $[-1,\ 1]$. Il codominio invece, non essendo una fuzione biettiva non sara' piu' $\mathbb{R}$ in quanto esistono un infinito numero di angoli che hanno lo stesso $sin(x)$. Percio' il codominio di $\arcsin(x)$ resta necessariamente confinato in $\bigg[-\dfrac{\pi}{2},\ \dfrac{\pi}{2} \bigg]$  
+La funzione $\sin(\alpha)$ accetta un qualsiasi angono in ingresso percio' il dominio e' tutto $\mathbb{R}$. Il codominio invece sappiamo essere $[-1,\ 1]$ e vediamo infatti la funzione oscillare sull'asse delle ascisse.  
+
+La sua funzione inversa e' l'arcoseno o $\arcsin(x)$ dove invertendo dominio con codominio, accettera' in ingresso $[-1,\ 1]$. Il codominio invece, non essendo una fuzione biettiva non sara' piu' $\mathbb{R}$ in quanto esistono un infinito numero di angoli che hanno lo stesso $sin(\alpha)$. Percio' il codominio di $\arcsin(x)$ resta necessariamente confinato in $\bigg[-\dfrac{\pi}{2},\ \dfrac{\pi}{2} \bigg]$  
 
 
 $y = \arcsin(e^x-1)$  
@@ -36,3 +38,15 @@ $\ln e^x \le \ln 2 \implies x \le \ln 2$
 Si ha allora che il dominio e':  
 
 $D: x \in (-\infty,\ \ln 2]$  
+
+## Tangente e arcotangente  
+
+![tanarctan](https://github.com/user-attachments/assets/4969c0f4-0f1c-4840-b43e-5fc00078269e)  
+
+Essendo $\tan(\alpha)$ definito come $\dfrac{\sin(\alpha)}{\cos(\alpha)}$ si hanno asintoti verticali ogni volta che $\cos(\alpha) = 0$ ovvero per ogni $\alpha = \dfrac{\pi}{2}+k\pi$ con $k \in \mathbb{N}$. Il dominio sara' allora...  
+
+$D: \mathbb{R}\ \backslash \ \bigg\lbrace \dfrac{(2k+1)\pi}{2} \ \forall \ k \in \mathbb{Z} \bigg\rbrace$  
+
+Il codominio di $\tan(\alpha)$ e' invece tutto $\mathbb{R}$. E' possibile far approcciare $\alpha$ ad uno degli asintoti verticali senza mai toccarlo per cui non esiste un valore di $y$ per il quale non sia possibile trovare un angolo $\alpha$ tale che $\tan(\alpha) = y$  
+
+Analogamente all'arcoseno, il codominio dell'arcotangente resta confinato in in $\bigg[-\dfrac{\pi}{2},\ \dfrac{\pi}{2} \bigg]$  
