@@ -16,12 +16,12 @@ Aggiunto un carico si avra' una nuova tensione $V_2 < V_{20}$ che vettorialmente
 
 ![transformer_real_vectors](https://github.com/user-attachments/assets/ae1003d0-380c-4df4-b77e-7d15f247b9e9)  
 
-Assumendo un carico induttivo, la corrente $I_2$ sara' in ritardo rispetto alla nuova tensione $V_2$ di un angolo $\varphi$. La tensione $R_{2cc}I_2$ sara' invece in fase con la corrente, mentre la tensione $X_{2cc}I_2$ con reattanza assunta induttiva sara' di nuovo in anticipo rispetto a $I_2$.  
+Assumendo un carico induttivo, la corrente $I_2$ sara' in ritardo rispetto alla nuova tensione $V_2$ di un angolo $\varphi$. La tensione $V_{R_{cc}} = R_{2cc}I_2$ sara' invece in fase con la corrente, mentre la tensione $V_{X_{cc}} = X_{2cc}I_2$ con reattanza assunta induttiva sara' di nuovo in anticipo rispetto a $I_2$.  
 
 La reattanza longitudinale causa quindi un ulteriore sfasamento di un certo angolo $\epsilon$ non nullo ma che realisticamente e' molto piccolo per cui trascurabile.  
 
 ![transformer_vector_approximation](https://github.com/user-attachments/assets/f1be4f76-bc42-4876-b0ad-68b25c4c0d0d)  
 
-In definitiva e' possibile calcolare la caduta di tensione causata dai parametri longitudinali con:  
+In definitiva e' possibile calcolare la caduta di tensione causata dai parametri longitudinali ignorando l'angolo $\epsilon$ con:  
 
 $\Delta V = V_{20} - V_2 = I_2(R_{2cc}\cos\varphi+X_{2cc}\sin\varphi)$  
