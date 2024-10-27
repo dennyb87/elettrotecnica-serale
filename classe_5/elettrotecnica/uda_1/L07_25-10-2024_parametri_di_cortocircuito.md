@@ -64,4 +64,4 @@ Dove $B_0 = \dfrac{1}{X_0}$ ovvero la suscettanza (sempre in *siemens* $S$) del 
 
 $\varphi = \arccos(\cos \varphi) = \arccos(0.2) \simeq 78.463^\circ$  
 $\tan \varphi = \tan (78.463) \simeq 4.9$
-$Q_0 = P_0 \cdot \tan\varphi = 2000 \cdot 4.89 = 9800\ VAR$  
+$Q_0 = P_0 \cdot \tan\varphi = 2000 \cdot 4.9 = 9800\ VAR$  
