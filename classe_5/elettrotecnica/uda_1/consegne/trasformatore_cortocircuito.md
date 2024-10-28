@@ -21,5 +21,6 @@ $I_{1n} = \dfrac{S_n}{V_{in}} = \dfrac{2500}{220} \simeq 11.364\ A$
 | 6.5         | 7.2      | 54     |
 | 7.9         | 11.3     | 81     |
 
+![desmos_temp](https://github.com/user-attachments/assets/885d2e63-73d0-46f8-b672-25d92e6965d1)  
 
-<iframe src="https://www.desmos.com/calculator/d4qwbzgeoy?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe>
+See [desmos](https://www.desmos.com/calculator/d4qwbzgeoy)
