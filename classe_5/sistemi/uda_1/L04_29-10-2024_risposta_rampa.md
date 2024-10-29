@@ -45,7 +45,9 @@ $$
 
 $V_{out}(s) = -\dfrac{0.8}{s} + \dfrac{4}{s^2}+\dfrac{0.8}{s+5}$  
 
-$V_{out}(t) = \underbrace{-0.8u(t)+4t \cdot u(t)}_{termine\ a\ regime} \underbrace{+0.8e^{-5t}u(t)}_{termine\ transitorio}$  
+$V_{out}(t) = -0.8u(t)+4t \cdot u(t)\underbrace{+0.8e^{-5t}u(t)}_{termine\ transitorio}$  
+
+Si identificano quindi un *termine transitorio* che con $t\to \infty$ scompare, ed un *termine a regime*.  
 
 ![ramp_fun_10_response](https://github.com/user-attachments/assets/7e742799-b05a-4bd7-8a84-9457f752976d)  
 
