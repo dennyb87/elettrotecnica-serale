@@ -12,7 +12,7 @@ $V_{out}(s) = G(s)\cdot V_{in}(s) = \dfrac{2}{s+5} \cdot \dfrac{10}{s^2} = \dfra
 
 ### Scomposizione in frazioni parziali  
 
-Quando il prodotto di polinomi al denominatore e' di grado maggiore di 1, oppure se espandendolo in un polinomio $s^2(s+5) = s^3+5s$ e' di grado maggiore di 2, allora la scomposizione in frazioni parziali dovra' tenere conto di una frazione in piu'. In generale il numero di frazioni necessarie per la corretta scomposizione in frazioni parziali e' uguale al grado del polinomio al denominatore, in questo caso...  
+Quando il prodotto di polinomi al denominatore e' di grado maggiore di 1, oppure se espandendolo in un polinomio $s^2(s+5) = s^3+5s^2$ e' di grado maggiore di 2, allora la scomposizione in frazioni parziali dovra' tenere conto di una frazione in piu'. In generale il numero di frazioni necessarie per la corretta scomposizione in frazioni parziali e' uguale al grado del polinomio al denominatore, in questo caso...  
 
 $V_{out}(s) = \dfrac{20}{s^2(s+5)} = \dfrac{A}{s}+\dfrac{B}{s^2}+\dfrac{C}{s+5}$  
 
