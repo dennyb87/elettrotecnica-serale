@@ -49,7 +49,7 @@ Una volta collegati gli strumenti come in figura si procede ad aumentare la tens
 | $6.5$        | $7.2$        | $54$     |
 | $7.9$        | $11.3$       | $81$     |
 
-Gli strumenti a disposizione ci permettono di ottenere la misura $I_{1cc} = 11.3\ A \simeq I_{1n}$  
+Gli strumenti a disposizione ci permettono di misurare $I_{1cc} = 11.3\ A \simeq I_{1n}$  
 
 ![v_curve](https://github.com/user-attachments/assets/b68a784e-de80-4cae-ad18-f8acaab08df5)  
 ![p_curve](https://github.com/user-attachments/assets/fa0c052b-7555-4526-b5cc-b237a116256a)   
