@@ -70,13 +70,9 @@ $P_{cc} \simeq P_{cu} \simeq 80.33\ W$
 
 Eventualmente si ricavano i valori percentuali della potenza e della tensione in cortocircuito.  
 
-```math
-P_{ccn\%} = \dfrac{P_{cc}\cdot 100}{S_n} =\dfrac{80.33 \cdot 100}{2500} \simeq 3.21\ \%
-```
+$P_{ccn} = \dfrac{P_{cc}\cdot 100}{S_n} =\dfrac{80.33 \cdot 100}{2500} \simeq 3.21$ %  
 
-```math
-V_{1ccn\%} = \dfrac{V_{1cc}\cdot 100}{V_{1n}} = \dfrac{7.9\cdot 100}{220} \simeq 3.59\ \%
-```  
+$V_{1ccn} = \dfrac{V_{1cc}\cdot 100}{V_{1n}} = \dfrac{7.9\cdot 100}{220} \simeq 3.59$ %  
 
 ## Parametri longitudinali  
 
