@@ -38,7 +38,7 @@ $K_0 = \dfrac{V_{1n}}{V_{2n}} = \dfrac{3000}{250} = 12$
 
 $V_{20} = V_1 \cdot \dfrac{1}{K_0} = \dfrac{2900}{12} \simeq 241.67\ V$  
 
-#### Corrente  
+### Corrente  
 
 Per trovare $I_2$ sfruttiamo la funzione di carico...  
 
@@ -46,7 +46,7 @@ $I_{2n} = \dfrac{S_n}{V_{2n}} = \dfrac{10\ 000}{250} = 40\ A$
 
 $I_2 = I_{2n}\cdot \dfrac{4}{5} = 32\ A$  
 
-#### Resistenza  
+### Resistenza  
 
 Adesso non resta che trovare $R_{2cc}$ sapendo che le perdite in cortocircuito $P_{cc}$ sono uguali alle perdite nel rame $P_{cu}$ in condizioni nominali, ovvero...  
 
