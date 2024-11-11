@@ -22,7 +22,7 @@ $\alpha = \dfrac{I_2}{I_{2n}} = \dfrac{4}{5}$
 
 Si vuole quindi trovare il valore di **tensione** sul carico, **perdite nel rame**, **perdite nel ferro**, **corrente** di esercizio, e **corrente di cortocircuito** in caso di guasto.  
 
-## Tensione sul carico  
+### Tensione sul carico  
 
 Per trovare $V_2$ vogliamo lavorare sul secondario portandovi tutti i parametri longitudinali come in figura, si ha allora che...  
 
