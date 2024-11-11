@@ -30,7 +30,7 @@ $V_2 = V_{20} - \Delta V$
 
 $\Delta V = I_2\bigg(R_{2cc}\cos\varphi_2 + X_{2cc}\sin\varphi_2\bigg)$  
 
-#### Tensione sull'avvolgimento  
+### Tensione sull'avvolgimento  
 
 Ricaviamo $V_{20}$ grazie al rapporto di trasformazione...  
 
