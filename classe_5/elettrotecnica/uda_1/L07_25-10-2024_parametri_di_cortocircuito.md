@@ -20,7 +20,7 @@ $R_{1cc} = R_1 + R_{2^\prime}$
 
 Dove $R_1$ e' la resistenza originariamente presente sul primario, mentre $R_{2^\prime}$ e' la resistenza del secondario spostata sul primario. Per ottenere la resistenza equivalente e' necessario moltiplicare o dividere la resistenza originale per $K_0^2 \simeq K_N^2$ in dipendenza della variazione del numero di spire.  
 
-In questo caso spostando $R_2$ dal secondario al primario, il numero di spire e' aumentato in quanto $V_{in} > V_{20n}$ per cui si moltiplica per $K_0$  
+In questo caso spostando $R_2$ dal secondario al primario, il numero di spire e' aumentato in quanto $V_{in} > V_{20n}$ per cui si moltiplica per $K_0^2$  
 
 $R_{2^\prime} = R_2 \cdot K_0^2 = 5 \cdot 10^{-3} \cdot 20^2 = 2\ \Omega$  
 
