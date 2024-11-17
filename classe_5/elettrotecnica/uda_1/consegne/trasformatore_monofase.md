@@ -72,8 +72,9 @@ Determinare i parametri del circuito equivalente riferiti sia al primario, sia a
 ```math
 P_{cc} = \dfrac{P_{cc\%}\cdot S_n}{100} = \dfrac{3.2\cdot 8000}{100}= 256\ W
 ```
+
 ```math
-\cos \varphi = \dfrac{P_{cc\%}}{V_{cc\%}} = \dfrac{3.2}{6} \simeq 0.533\\
+\cos \varphi = \dfrac{P_{cc\%}}{V_{cc\%}} = \dfrac{3.2}{6} \simeq 0.533
 ```
 
 $I_{1n} = \dfrac{S_n}{V_{1n}} = \dfrac{8000}{500} = 16\ A$  
