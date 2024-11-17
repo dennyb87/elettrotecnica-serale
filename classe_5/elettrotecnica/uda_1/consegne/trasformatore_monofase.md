@@ -69,13 +69,16 @@ Determinare i parametri del circuito equivalente riferiti sia al primario, sia a
 
 #### Parametri longitudinali al primario  
 
-$P_{cc} = \dfrac{P_{cc\%}\cdot S_n}{100} = \dfrac{3.2\cdot 8000}{100}= 256\ W$  
+```math
+P_{cc} = \dfrac{P_{cc\%}\cdot S_n}{100} = \dfrac{3.2\cdot 8000}{100}= 256\ W
+```
+```math
+\cos \varphi = \dfrac{P_{cc\%}}{V_{cc\%}} = \dfrac{3.2}{6} \simeq 0.533\\
+```
 
 $I_{1n} = \dfrac{S_n}{V_{1n}} = \dfrac{8000}{500} = 16\ A$  
 
 $R_{1cc} = \dfrac{P_{cc}}{I_{1n}^2} = \dfrac{256}{16^2} = 1\ \Omega$  
-
-$\cos \varphi = \dfrac{P_{cc\%}}{V_{cc\%}} = \dfrac{3.2}{6} \simeq 0.533$  
 
 $\varphi = \arccos 0.533 \simeq 57.79^\circ$  
 
@@ -91,7 +94,9 @@ $X_{2cc} = R_{2cc}\cdot\tan\varphi = 9.216\cdot 10^{-3} \cdot \tan 57.79 \simeq\
 
 #### Parametri trasversali al primario  
 
-$P_0 = \dfrac{P_{0n\%}\cdot S_n}{100} = \dfrac{1.5\cdot 8000}{100} = 120\ W$  
+```math
+P_0 = \dfrac{P_{0n\%}\cdot S_n}{100} = \dfrac{1.5\cdot 8000}{100} = 120\ W
+```
 
 $G_0 = \dfrac{P_0}{V_{1n}^2} = \dfrac{120}{500^2} = 625\mu S = 0.48\ mS$  
 
