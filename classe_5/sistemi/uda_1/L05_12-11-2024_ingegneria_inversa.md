@@ -63,7 +63,11 @@ La funzione di trasferimento ottenuta e' in effetti nella stessa forma di quella
 
 $F(s) = \dfrac{102s}{s^2+31s+168} \propto \dfrac{\frac{R}{L}s}{s^2+\frac{R}{L}+\frac{1}{LC}}$  
 
-Assumendo veri i valori al numeratore allora sara' sufficiente aggiungere un amplificatore in serie, dove $A(s) \simeq 3.29$, per ottenere la funzione di partenza.  
+Assumendo veri i valori al denomeratore allora sara' sufficiente aggiungere un amplificatore in serie, dove $A(s) \simeq 3.29$, per ottenere la funzione di partenza.  
+
+$\dfrac{R}{L} = 31$  
+
+$\dfrac{1}{LC} = 168$  
 
 $F(s) = G(s) \cdot A(s) = \dfrac{31s}{s^2+31s+168} \cdot 3.29 \simeq \dfrac{102s}{s^2+31s+168}$  
 
