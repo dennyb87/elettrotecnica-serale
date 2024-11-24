@@ -44,7 +44,7 @@ $X_{ERR} = X_{REF} - X_M$
 Nei sistemi ad anello chiuso il regolatore riceve in ingresso il segnale di errore $X_{ERR}$, ovvero la differenza tra il segnale di riferimento $X_{REF}$ e il segnale misurato $X_{M}$. Questo permette al sistema di controllo di modificare l'uscita del sistema quanto basta per portarla al segnale desiderato $X_{REF}$ grazie ad un feedback loop in cui il sistema si autoregola.  
 
 
-## Retroazione posisitiva  
+## Retroazione positiva  
 
 Quando il segnale misurato viene sommato al segnale di riferimento allora si parla di **retroazione positiva**.  
 
