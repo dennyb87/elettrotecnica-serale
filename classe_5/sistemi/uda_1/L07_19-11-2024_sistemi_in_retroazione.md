@@ -22,7 +22,7 @@ flowchart LR
 
 In questo tipo di sistemi in dipendenza di un certo input $x$ il regolatore **REG** aziona l'attuatore **ACT** che a sua volta modifica una certa caratteristica $y$ del sistema da controllare **SYS**.  
 
-## Sistemi di controllo ad anello aperto  
+## Sistemi di controllo ad anello chiuso  
 
 ```mermaid
 flowchart LR
