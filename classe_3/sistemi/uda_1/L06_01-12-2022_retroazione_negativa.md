@@ -2,7 +2,7 @@
 
 ```mermaid
 flowchart LR
-    START[ ]--"x"----sommatore(("+"))
+    START[ ]--"x"----sommatore(("#43;"))
     sommatore--"v"--->F1["F<sub>1</sub>"]
     F1----NODE1[ ]
     NODE1--"y"--->STOP[ ]
@@ -27,7 +27,7 @@ negativo nei pressi del nodo sommatore.
 
 ```mermaid
 flowchart LR
-    START1[ ]--"x"---sommatore(("+"))
+    START1[ ]--"x"---sommatore(("#43;"))
     sommatore--"y"--->STOP[ ]
     START2[ ]--"z"---sommatore
 
@@ -64,7 +64,7 @@ $F_{rn} = \frac{F_1}{1 + F_1 \cdot F_2}$
 
 ```mermaid
 flowchart LR
-    START[ ]--"x"----sommatore(("+"))
+    START[ ]--"x"----sommatore(("#43;"))
     sommatore--"v"--->F1[90]
     F1----NODE1[ ]
     NODE1--"y"--->STOP[ ]

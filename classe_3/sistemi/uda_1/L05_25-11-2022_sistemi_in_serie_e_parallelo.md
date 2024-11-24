@@ -65,7 +65,7 @@ flowchart LR
     START[ ]--"x"----NODE1[ ]
     NODE1--->F1["F<sub>1</sub>"]
     NODE1--->F2["F<sub>2</sub>"]
-    F1--"z<sub>1</sub>"--->sommatore(("+"))
+    F1--"z<sub>1</sub>"--->sommatore(("#43;"))
     F2--"z<sub>2</sub>"--->sommatore
     sommatore--"y"--->STOP[ ]
 
@@ -92,7 +92,7 @@ flowchart LR
     START[ ]--"x"----NODE1[ ]
     NODE1--->F1["4"]
     NODE1--->F2["3"]
-    F1--"z<sub>1</sub>"--->sommatore(("+"))
+    F1--"z<sub>1</sub>"--->sommatore(("#43;"))
     F2--"z<sub>2</sub>"--->sommatore
     sommatore--"y"--->STOP[ ]
 
