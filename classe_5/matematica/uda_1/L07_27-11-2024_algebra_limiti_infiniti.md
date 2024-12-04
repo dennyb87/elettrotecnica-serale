@@ -17,6 +17,10 @@ $\ell-\infty=-\infty+\ell=-\infty$
 $+\infty+\infty=+\infty$  
 $-\infty-\infty=-\infty$  
 
+Nella somma si ha una forma indeterminata...  
+ 
+$+\infty-\infty$
+
 ## Regole prodotto  
 
 Sia $\ell \ne 0$ reale...  
@@ -24,13 +28,28 @@ Sia $\ell \ne 0$ reale...
 $\ell\cdot\pm\infty = \pm\infty$  
 $\pm\infty\cdot\pm\infty = \pm\infty$  
 
+Ne segue che...  
+
+$(\pm\infty)^2=(\pm\infty)\cdot(\pm\infty)=+\infty$  
+$(-\infty)^3=(-\infty)\cdot(-\infty)\cdot(-\infty)=-\infty$  
+$(+\infty)^3=(+\infty)\cdot(+\infty)\cdot(+\infty)=+\infty$  
+
+Nel prodotto si ha una forma indeterminata...  
+
+$0\cdot(\pm\infty)$  
+
 ## Regole quoziente  
 
 Per ogni $\ell$ reale...  
 
 $\dfrac{\ell}{\pm\infty} = 0$  
 
-Con $\ell\ne 0$    
+Con $\ell\ne 0$  
 
 $\dfrac{\pm\infty}{\ell} = \pm\infty$  
 
+Nel quoziente si hanno due forme indeterminate...  
+
+$\dfrac{\pm\infty}{\pm\infty}$  
+
+$\dfrac{0}{0}$  
