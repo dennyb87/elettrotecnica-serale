@@ -35,7 +35,7 @@ $+\infty-\infty+1 = 0+1$
 
 Ma allora $+\infty-\infty = 1$ e questo non e' possible! Per cui $+\infty-\infty$ e' considerata una forma indeterminata. L'agebra degli infiniti pero' a mio parere nasconde cosa stia realmente accadendo...  
 
-$\displaystyle{\lim_{x\to -\infty}} (4x^2-2x+3)$  
+$\displaystyle{\lim_{x\to +\infty}} (4x^2-2x+3)$  
 
 Se ignoriamo la costante $3$ che non aggiunge informazione, notiamo che siamo di fronte a due funzioni:  
 
