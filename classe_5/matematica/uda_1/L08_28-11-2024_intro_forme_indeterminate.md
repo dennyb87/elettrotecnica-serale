@@ -26,7 +26,7 @@ $\displaystyle{\lim_{x\to +\infty}}\ \dfrac{x^3}{\log x} = \dfrac{+\infty}{1} = 
 
 Consideriamo il limite...  
 
-$\displaystyle{\lim_{x\to -\infty}} (4x^2-2x+3) = (4(-\infty)^2-2\infty+\cancel{3}) = +\infty-\infty$  
+$\displaystyle{\lim_{x\to +\infty}} (4x^2-2x+3) = (4(+\infty)^2-2(+\infty)+\cancel{3}) = +\infty-\infty$  
 
 Intuitivamente, almeno dal punto di vista dell'algebra degli infiniti, verrebbe da pensare che $+\infty-\infty = 0$ ma cio' porterebbe a una contraddizione....  
 
