@@ -30,6 +30,7 @@ Una volta fissato il valore della tensione di riferimento $V_i$ che rappresenta 
 
 Se la temperatura misurata e' minore di quella desiderata allora si ha un errore positivo che porta all'aumento della quantita di combustibile che a sua volta porta all'aumento della temperatura del forno.  
 
+![sonda_pt_1000_curva_caratteristica](https://user-images.githubusercontent.com/7195133/196776916-a970bb43-232b-44f1-a02b-8b3ab2f3d15d.jpg)  
 ![pt1000_transducer](https://github.com/user-attachments/assets/24d53f32-f206-49b4-9fa2-b3533ffd0119)
 
 Per semplicita' impotizziamo l'uso di una sonda **PT1000** che ha resistenza $R_T = 1758.6\ \Omega$ ad una temperatura di $200^\circ C$. La tensione in ingresso $V_i$ che rappresenta la temperatura desiderata sara' allora:  
