@@ -26,14 +26,14 @@ In questo tipo di sistemi in dipendenza di un certo input $x$ il regolatore **RE
 
 ```mermaid
 flowchart LR
-    START[ ]--"X<sub>REF</sub>"-->sum
-    sum(("#43;"))--"X<sub>ERR</sub>"-->REG
+    START[ ]--"X<sub>REF</sub>"-->node
+    node(("#45;"))--"X<sub>ERR</sub>"-->REG
     REG-->ACT
     ACT-->SYS
     SYS-->out((" "))
     out--"y"-->STOP[ ]
     out-->TRANS
-    TRANS--"-X<sub>M</sub>"-->sum
+    TRANS--"X<sub>M</sub>"-->node
 
     style START width:0px,height:0px;
     style STOP  width:0px,height:0px;
@@ -50,12 +50,12 @@ Quando il segnale misurato viene sommato al segnale di riferimento allora si par
 
 ```mermaid
 flowchart LR
-    START[ ]--"X<sub>REF</sub>"-->sum
-    sum(("#43;"))--"X<sub>ERR</sub>"-->F1["F<sub>1</sub>"]
+    START[ ]--"X<sub>REF</sub>"-->node
+    node(("#43;"))--"X<sub>ERR</sub>"-->F1["F<sub>1</sub>"]
     F1-->out((" "))
     out--"y"-->STOP[ ]
     out-->F2["F<sub>2</sub>"]
-    F2--"#43;X<sub>M</sub>"-->sum
+    F2--"X<sub>M</sub>"-->node
 
     style START width:0px,height:0px;
     style STOP  width:0px,height:0px;
@@ -71,12 +71,12 @@ Quando il segnale misurato viene sottratto al segnale di riferimento allora si p
 
 ```mermaid
 flowchart LR
-    START[ ]--"X<sub>REF</sub>"-->sum
-    sum(("#43;"))--"X<sub>ERR</sub>"-->F1
+    START[ ]--"X<sub>REF</sub>"-->node
+    node(("#45;"))--"X<sub>ERR</sub>"-->F1
     F1["F<sub>1</sub>"]-->out((" "))
     out--"y"-->STOP[ ]
     out-->F2["F<sub>2</sub>"]
-    F2--"-X<sub>M</sub>"-->sum
+    F2--"X<sub>M</sub>"-->node
 
     style START width:0px,height:0px;
     style STOP  width:0px,height:0px;

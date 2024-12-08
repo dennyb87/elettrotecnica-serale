@@ -24,7 +24,7 @@ flowchart LR
     subgraph trasduttore
         pt1000---cond["circuito di condizionamento"]
     end
-    trasduttore--"0 ÷ 10V"--->out(" ")
+    trasduttore--"0 ÷ 10V"---->out(" ")
 ```
 
 Abbiamo quindi un dispositivo in grado di fornire un segnale analogico standard, in particolare infiniti valori $0 \div 10\ V$ al variare della temperatura. Adesso non ci resta che convertire il segnale analogico in un segnale digitale.  
