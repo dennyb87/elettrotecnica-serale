@@ -46,6 +46,6 @@ $g(x) = -2x$
 
 Esaminando il grafico delle funzioni separatamente notiamo proprio che $4x^2 \to +\infty$ mentre $-2x \to -\infty$ rendendo poco chiara la tendenza della loro somma. Dal grafico possiamo intuire che $f(x)$ tende a $+\infty$ piu' velocemente rispetto a $g(x)\to-\infty$ ma il modo formale di risolvere questo tipo di forme indeterminate e' quello del **raccoglimento del termine di grado maggiore**.  
 
-$\displaystyle{\lim_{x\to -\infty}} (4x^2-2x+3) = 4x^2\bigg(1 -\cancel{\dfrac{1}{2x}}+\cancel{\dfrac{3}{4x^2}}\bigg) = +\infty$  
+$\displaystyle{\lim_{x\to +\infty}} (4x^2-2x+3) = 4x^2\bigg(1 -\cancel{\dfrac{1}{2x}}+\cancel{\dfrac{3}{4x^2}}\bigg) = +\infty$  
 
 I termini con l'incognita al denominatore tendono a zero restando il termine con il grado maggiore $4x^2$ che tende invece a $+\infty$  
