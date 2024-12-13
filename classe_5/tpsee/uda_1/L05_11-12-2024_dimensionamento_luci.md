@@ -50,3 +50,5 @@ Trovato il numero di lampade si vogliono calcolare le misure d'installazione. Si
 $x = \dfrac{a}{5} = \dfrac{10}{5} = 2\ m$  
 
 $y = \dfrac{b}{5} = \dfrac{30}{5} = 6\ m$  
+
+Una condizione da rispettare e' che la distanza dalle pareti deve essere la meta' della distanza tra le lampade.  
