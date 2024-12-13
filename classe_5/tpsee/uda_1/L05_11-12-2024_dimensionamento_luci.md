@@ -22,7 +22,7 @@ Questo metodo permette di calcolare il numero di corpi illuminanti $N$ necessari
 
 $N = \dfrac{E_m\cdot a\cdot b}{\Phi\cdot\mu\cdot M_f}$  
 
-Dove $a\cdot b$ e' la superficie del locale in metri, $\mu$ e' il coefficiente di utilizzazione, $M_f$ e' il fattore di manutenzione generalment uguale a $0.8$.  
+Dove $a\cdot b$ e' la superficie del locale in metri, $\mu$ e' il coefficiente di utilizzazione, $M_f$ e' il fattore di manutenzione generalmente uguale a $0.8$.  
 
 ### Coefficiente di utilizzazione  
 
