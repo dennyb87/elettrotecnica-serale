@@ -46,9 +46,9 @@ $B_0 = G_0 \cdot \tan \varphi = 625\cdot10^{-6}\cdot\tan 75.522 \simeq 2.42\ mS$
 
 #### Parametri trasversali al secondario  
 
-$G_0^{''} = G_0 \cdot K_0 = 625\cdot 10^{-6}\cdot 16.67^2 \simeq 174\ mS$  
+$G_0^{''} = G_0 \cdot K_0^2 = 625\cdot 10^{-6}\cdot 16.67^2 \simeq 174\ mS$  
 
-$B_0^{''} = B_0 \cdot K_0 = 2.42\cdot 10^{-3} \cdot 16.67^2 \simeq 672\ mS$  
+$B_0^{''} = B_0 \cdot K_0^2 = 2.42\cdot 10^{-3} \cdot 16.67^2 \simeq 672\ mS$  
 
 ## Esercizio 2  
 
