@@ -24,7 +24,9 @@ Calcolare:
 
 ## 1 - Parametri longitudinali  
 
-$P_{cc} = \dfrac{P_{cc\%}\cdot S_n}{100} = \dfrac{2\cdot 25\ 000}{100} = 500\ W$  
+```math
+P_{cc} = \dfrac{P_{cc\%}\cdot S_n}{100} = \dfrac{2\cdot 25\ 000}{100} = 500\ W  
+```
 
 $I_{1n} = \dfrac{S_n}{\sqrt{3}\cdot V_{1n}} = \dfrac{25\ 000}{\sqrt{3}\cdot 6\ 000} \simeq 2.41\ A$  
 
@@ -40,7 +42,9 @@ $X_{2cc} = R_{2cc}\cdot \tan\varphi_{cc} = 0.128\cdot 2.16 \simeq 0.276\ \Omega$
 
 ## 1 - Parametri trasversali  
 
-$P_0 = \dfrac{P_{0\%}\cdot S_n}{100} = \dfrac{1.5\cdot 25\ 000}{100} = 375\ W$  
+```math
+P_0 = \dfrac{P_{0\%}\cdot S_n}{100} = \dfrac{1.5\cdot 25\ 000}{100} = 375\ W
+```
 
 $Q_0 = P_0\cdot\tan\varphi_0 = 375\cdot 3.87 = 1451.25\ VAR$  
 
