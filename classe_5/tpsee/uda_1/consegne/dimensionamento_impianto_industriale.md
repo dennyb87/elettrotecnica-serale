@@ -90,7 +90,7 @@ $I_z = I_0 = 133\ A$
 
 $115 \le I_n \le 133\ A$  
 
-Scegliamo quindi un **magnetotermico modulare** con $I_n = 125\ A$ ed essendo una fornitura trifase per una $P_c \gt 33\ kW$ e una $I_b = 115\ A$ lo scegliamo con un potere di interruzione di $15\ kA$ consultando pagina **XXIV-14**.  
+Scegliamo quindi un **magnetotermico modulare** con $I_n = 125\ A$ ed essendo una fornitura trifase per una $P_c > 33\ kW$ e una $I_b = 115\ A$ lo scegliamo con un potere di interruzione di $15\ kA$ consultando pagina **XXIV-14**.  
 
 ### Dimensionamento linea QE5  
 
