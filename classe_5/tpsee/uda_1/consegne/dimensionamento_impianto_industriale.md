@@ -81,7 +81,7 @@ $I_b = \dfrac{P_c}{\sqrt{3}\cdot 400} = \dfrac{80\ 000}{\sqrt{3}\cdot 400}\simeq
 Si ipotizza una caduta di potenziale massima di 1% ovvero $\Delta V = 4\ V$ su una linea di $30\ m$  
 
 ```math  
-u = \dfrac{\Delta V\% \cdot 1000}{I_b\cdot\ell} = \dfrac{4\cdot 1000}{115\cdot 30}\simeq 1.16\ \tiny{\frac{mV}{Am}}
+u = \dfrac{\Delta V \cdot 1000}{I_b\cdot\ell} = \dfrac{4\cdot 1000}{115\cdot 30}\simeq 1.16\ \tiny{\frac{mV}{Am}}
 ```
 
 Dalla tabella a pagina **X-77** del manuale con trifase $\cos\varphi = 0.9$ ricaviamo una sezione di $35\ mm^2$. Ipotizzando *cavi unipolari* in **EPR** posati in tubi interrati tra loro a contatto, troviamo a pagina **X-68** proprio una $I_0 = 133\ A$ che soddisfa la condizione $I_b \le I_n \le I_z$ considerando condizioni di posa e temperatura ambiente tali da poter utilizzare coefficienti unitari. Si ha llora che...  
@@ -104,8 +104,8 @@ $I_b = \dfrac{P_c}{\sqrt{3}\cdot 400} = \dfrac{13\ 770}{\sqrt{3}\cdot 400} \sime
 
 Si ipotizza una caduta di potenziale massima di 2.5% ovvero $\Delta V = 10\ V$ su una linea di circa $30\ m$  
 
-```math  
-u = \dfrac{\Delta V\% \cdot 1000}{I_b\cdot\ell} = \dfrac{10\cdot 1000}{19.88\cdot 30}\simeq 16.76\ \tiny{\frac{mV}{Am}}
+```math
+u = \dfrac{\Delta V \cdot 1000}{I_b\cdot\ell} = \dfrac{10\cdot 1000}{19.88\cdot 30}\simeq 16.76\ \frac{mV}{Am}
 ```
 
 Dalla tabella a pagina **X-77** del manuale con trifase $\cos\varphi = 0.9$ ricaviamo una sezione di $2.5\ mm^2$.  
@@ -129,8 +129,8 @@ $I_b = \dfrac{P_c}{\sqrt{3}\cdot 400} = \dfrac{6\ 720}{\sqrt{3}\cdot 400} \simeq
 
 Ipotizzando la stessa caduta di potenziale massima di 2.5% ovvero $\Delta V = 10\ V$ su una linea di circa $50\ m$ si avrebbe...    
 
-```math  
-u = \dfrac{\Delta V\% \cdot 1000}{I_b\cdot\ell} = \dfrac{10\cdot 1000}{9.7\cdot 50}\simeq 20.62\ \tiny{\frac{mV}{Am}}
+```math 
+u = \dfrac{\Delta V \cdot 1000}{I_b\cdot\ell} = \dfrac{10\cdot 1000}{9.7\cdot 50}\simeq 20.62\ \tiny{\frac{mV}{Am}}
 ```
 
 Dalla tabella a pagina **X-77** del manuale con trifase (ma soddisfatta anche nel monofase) $\cos\varphi = 0.9$ ricaviamo una sezione di $2.5\ mm^2$ che sappiamo essere in accordo con le considerazioni di posa e quindi con la portata.  
