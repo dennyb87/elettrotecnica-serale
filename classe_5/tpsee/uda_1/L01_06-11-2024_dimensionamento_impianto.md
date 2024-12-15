@@ -53,7 +53,7 @@ $R_E \cdot I_{dn} \le U_L$
 
 Ipotizzando una resistivita' del terreno di $\rho = 300\ \Omega m$ utilizzando le apposite tabelle si scelgono due picchetti in parallelo di diametro $\varnothing = 18\ mm$ e lunghezza $\ell = 3\ m$ in acciaio zincato a caldo di resistenza $R_{Ep} = 95.6\ \Omega$  
 
-Assicursandosi di distanziare i picchetti di $3$ volte la loro lunghezza e' possibile utilizzare la seguente formula per stimare la resistenza di dispersione totale, dove $N$ e' il numero di dispersori.  
+Assicursandosi di distanziare i picchetti di $6$ volte la loro lunghezza e' possibile utilizzare la seguente formula per stimare la resistenza di dispersione totale, dove $N$ e' il numero di dispersori.  
 
 $R_E = \dfrac{R_{Ep}}{N} = \dfrac{95.6}{2} = 47.8\ \Omega$  
 

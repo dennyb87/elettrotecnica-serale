@@ -35,7 +35,7 @@ Si ipotizza che le utenze del cortile verranno comandate dall'ufficio.
 | prese  | 39.9             | 1     | 0.15  | 6                |
 |        |                  |       |       | 6.72             |
 
-### QE3 - Spogliatoio  
+### QE4 - Spogliatoio  
 
 | Utenze      | $P_n[\text{kW}]$ | $K_u$ | $K_c$ | $P_c[\text{kW}]$ |
 | ----------- | ---------------- | ----- | ----- | ---------------- |
@@ -55,3 +55,103 @@ Si ipotizza che le utenze del cortile verranno comandate dall'ufficio.
 
 ### QE1 - Generale  
 
+| Utenze          | $P_n[\text{kW}]$ | $K_u$ | $K_c$ | $P_c[\text{kW}]$ |
+| --------------- | ---------------- | ----- | ----- | ---------------- |
+| QE2,QE3,QE4,QE5 | 27.87            | 1     | 0.7   | 19.5             |
+| stazione 1      | 35               | 0.8   | 0.7   | 19.6             |
+| stazione 2      | 35               | 0.8   | 0.7   | 19.6             |
+| stazione 3      | 35               | 0.8   | 0.7   | 19.6             |
+| compressore     | 12               | 0.8   | 0.8   | 7.68             |
+| illuminazione   | 4.8              | 1     | 1     | 4.8              |
+| prese           | 139.67           | 1     | 0.15  | 20.95            |
+| GAC             | 0.8              | 1     | 1     | 0.8              |
+|                 |                  |       |       | 112.53           |
+
+
+Applicando un ulteriore fattore di contemporaneita' ed utilizzo otteneniamo una potenza convenzionale complessiva di...  
+
+$P_c = 112.53 \cdot 0.7 = 78.77 \simeq 80\ kW$  
+
+## Dimensionamento linea QE1  
+
+Andiamo a calcolare la corrente d'impiego $I_b$ della linea tra il punto di consegna **PDC** e il quadro generale.  
+
+$I_b = \dfrac{P_c}{\sqrt{3}\cdot 400} = \dfrac{80\ 000}{\sqrt{3}\cdot 400}\simeq 115\ A$  
+
+Si ipotizza una caduta di potenziale massima di 1% ovvero $\Delta V = 4\ V$ su una linea di $30\ m$  
+
+```math  
+u = \dfrac{\Delta V\% \cdot 1000}{I_b\cdot\ell} = \dfrac{4\cdot 1000}{115\cdot 30}\simeq 1.16\ \tiny{\frac{mV}{Am}}
+```
+
+Dalla tabella a pagina **X-77** del manuale con trifase $\cos\varphi = 0.9$ ricaviamo una sezione di $35\ mm^2$. Ipotizzando *cavi unipolari* in **EPR** posati in tubi interrati tra loro a contatto, troviamo a pagina **X-68** proprio una $I_0 = 133\ A$ che soddisfa la condizione $I_b \le I_n \le I_z$ considerando condizioni di posa e temperatura ambiente tali da poter utilizzare coefficienti unitari. Si ha llora che...  
+
+$I_z = I_0 = 133\ A$  
+
+$115 \le I_n \le 133\ A$  
+
+Scegliamo quindi un **magnetotermico modulare** con $I_n = 125\ A$ ed essendo una fornitura trifase per una $P_c \gt 33\ kW$ e una $I_b = 115\ A$ lo scegliamo con un potere di interruzione di $15\ kA$ consultando pagina **XXIV-14**.  
+
+### Dimensionamento linea QE5  
+
+Applichiamo un ulteriore fattore di contemporaneita' ed utilizzo per una potenza convenzionale di...  
+
+$P_c = 15.3 \cdot 0.9 = 13.77\ kW$  
+
+Si ha allora che la corrente di impiego sulla linea per il quadro QE5 e' di:  
+
+$I_b = \dfrac{P_c}{\sqrt{3}\cdot 400} = \dfrac{13\ 770}{\sqrt{3}\cdot 400} \simeq 19.88\ A$  
+
+Si ipotizza una caduta di potenziale massima di 2.5% ovvero $\Delta V = 10\ V$ su una linea di circa $30\ m$  
+
+```math  
+u = \dfrac{\Delta V\% \cdot 1000}{I_b\cdot\ell} = \dfrac{10\cdot 1000}{19.88\cdot 30}\simeq 16.76\ \tiny{\frac{mV}{Am}}
+```
+
+Dalla tabella a pagina **X-77** del manuale con trifase $\cos\varphi = 0.9$ ricaviamo una sezione di $2.5\ mm^2$.  
+
+Ipotizzando *cavi unipolari* in **EPR** posati in aria su passerelle perforate (posa 13), troviamo a pagina **X-60** una $I_0 = 33\ A$. Nella stessa passerella sara' presente il circuito dello spogliatoio (QE4) per cui dalla tabella a pagina X-64 scegliamo un $K_1 = 0.88$ mentre la temperatura ambiente ci permette di utilizzare un coefficitente unitario.  
+
+$I_z = I_0\cdot K_1\cdot K_2= 33\cdot 0.88\cdot 1 = 29.4\ A$  
+
+$19.88 \le I_n \le 29.04\ A$  
+
+Per soddisfare la condizione di protezione da sovracorrenti segliamo a pagina **X-113** un **magnetotermico modulare** con $I_n = 25\ A$  
+
+$19.88 \le 25 \le 29.04\ A$  
+
+
+## QE4, QE3, QE2  
+
+I quadri restanti hanno potenze minori e a maggior ragione e' possibile installare cavi della stessa sezione garantendo cadute di tensioni minori, o coprire maggiori distanze a parita' di caduta di tensione. Ad esempio per il magazzino QE3 con $P_c = 6.72\ kW$ si avra' una corrente di impiego...  
+
+$I_b = \dfrac{P_c}{\sqrt{3}\cdot 400} = \dfrac{6\ 720}{\sqrt{3}\cdot 400} \simeq 9.7\ A$  
+
+Ipotizzando la stessa caduta di potenziale massima di 2.5% ovvero $\Delta V = 10\ V$ su una linea di circa $50\ m$ si avrebbe...    
+
+```math  
+u = \dfrac{\Delta V\% \cdot 1000}{I_b\cdot\ell} = \dfrac{10\cdot 1000}{9.7\cdot 50}\simeq 20.62\ \tiny{\frac{mV}{Am}}
+```
+
+Dalla tabella a pagina **X-77** del manuale con trifase (ma soddisfatta anche nel monofase) $\cos\varphi = 0.9$ ricaviamo una sezione di $2.5\ mm^2$ che sappiamo essere in accordo con le considerazioni di posa e quindi con la portata.  
+
+![pianta](https://github.com/user-attachments/assets/efe3d4b7-6fba-48d2-bf38-53631b93bea4)  
+
+
+## Protezione da contatti indiretti  
+
+La protezione si ottiene utilizzando interruttori differenziali insieme ad un appropriato impianto di terra in modo da rispettare la tensione di contatto limite $U_L$ che in ambienti ordinari e' $50\ V$  
+
+$R_E \cdot I_{dn} \le U_L$  
+
+Ipotizzando una resistivita' del terreno di $\rho = 300\ \Omega m$ dalle tabelle a pagina **X-172** del manuale si scelgono due picchetti in parallelo di diametro $\varnothing = 18\ mm$ e lunghezza $\ell = 3\ m$ in acciaio zincato a caldo di resistenza $R_{Ep} = 95.6\ \Omega$  
+
+Assicursandosi di distanziare i picchetti di $6$ volte la loro lunghezza e' possibile utilizzare la seguente formula per stimare la resistenza di dispersione totale, dove $N$ e' il numero di dispersori.  
+
+$R_E = \dfrac{R_{Ep}}{N} = \dfrac{95.6}{2} = 47.8\ \Omega$  
+
+Consultando il manuale a pagina **X-176** scegliamo per il quadro generale **QE1** il differenziale con la corrente di intervento maggiore $I_{dn} = 1\ A$ di tipo **S** (selettivo) per soddisfare la condizione di protezione.  
+
+$47.8 \cdot 1 \le 50\ V$  
+
+Per gli altri quadri scegliamo dei differenziali con $I_n = 30\ mA$  
