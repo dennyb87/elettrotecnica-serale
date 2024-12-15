@@ -2,7 +2,7 @@
 
 Un trasformatore ha i seguenti dati di targa:  
 
-$$
+```math
 \begin{aligned}
     S_n &= 25\ kVA \\
     K_0 &= \dfrac{6\ kV}{0.4\ kV} = 15\ \text{(collegamento Dy)}  \\
@@ -11,7 +11,7 @@ $$
     P_{cc\%} &= 2\ \% \\
     \cos\varphi_{cc} &= 0.42
 \end{aligned}
-$$
+```
 
 Il trasformatore alimenta due carichi in parallelo con una tensione $V_2 = 380\ V$. Il primo a stella di tipo **RL** che assorbe $P_{21} = 12\ kW$ con $\cos\varphi_{21} =0.8$, mentre il secondo a triangolo che assorbe $P_{22} = 9\ kW$.  
 
