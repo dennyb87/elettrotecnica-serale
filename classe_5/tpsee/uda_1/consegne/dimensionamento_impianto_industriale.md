@@ -98,7 +98,7 @@ Applichiamo un ulteriore fattore di contemporaneita' ed utilizzo per una potenza
 
 $P_c = 15.3 \cdot 0.9 = 13.77\ kW$  
 
-Si ha allora che la corrente di impiego sulla linea per il quadro QE5 e' di:  
+Si ha allora che la corrente di impiego sulla linea per il quadro **QE5** e' di:  
 
 $I_b = \dfrac{P_c}{\sqrt{3}\cdot 400} = \dfrac{13\ 770}{\sqrt{3}\cdot 400} \simeq 19.88\ A$  
 
@@ -110,7 +110,7 @@ $$
 
 Dalla tabella a pagina **X-77** del manuale con trifase $\cos\varphi = 0.9$ ricaviamo una sezione di $2.5\ mm^2$.  
 
-Ipotizzando *cavi unipolari* in **EPR** posati in aria su passerelle perforate (posa 13), troviamo a pagina **X-60** una $I_0 = 33\ A$. Nella stessa passerella sara' presente il circuito dello spogliatoio (QE4) per cui dalla tabella a pagina X-64 scegliamo un $K_1 = 0.88$ mentre la temperatura ambiente ci permette di utilizzare un coefficitente unitario.  
+Ipotizzando *cavi unipolari* in **EPR** posati in aria su passerelle perforate (posa 13), troviamo a pagina **X-60** una $I_0 = 33\ A$. Nella stessa passerella sara' presente il circuito dello spogliatoio (**QE4**) per cui dalla tabella a pagina X-64 scegliamo un $K_1 = 0.88$ mentre la temperatura ambiente ci permette di utilizzare un coefficitente unitario.  
 
 $I_z = I_0\cdot K_1\cdot K_2= 33\cdot 0.88\cdot 1 = 29.4\ A$  
 
@@ -123,7 +123,7 @@ $19.88 \le 25 \le 29.04\ A$
 
 ## QE4, QE3, QE2  
 
-I quadri restanti hanno potenze minori e a maggior ragione e' possibile installare cavi della stessa sezione garantendo cadute di tensioni minori, o coprire maggiori distanze a parita' di caduta di tensione. Ad esempio per il magazzino QE3 con $P_c = 6.72\ kW$ si avra' una corrente di impiego...  
+I quadri restanti hanno potenze minori e a maggior ragione e' possibile installare cavi della stessa sezione garantendo cadute di tensioni minori, o coprire maggiori distanze a parita' di caduta di tensione. Pertanto prevediamo di installare **magnetotermici modulari** da $I_n = 25\ A$ anche per questi quadri. Ad esempio per il magazzino **QE3** con $P_c = 6.72\ kW$ si avra' una corrente di impiego...  
 
 $I_b = \dfrac{P_c}{\sqrt{3}\cdot 400} = \dfrac{6\ 720}{\sqrt{3}\cdot 400} \simeq 9.7\ A$  
 
@@ -135,8 +135,7 @@ $$
 
 Dalla tabella a pagina **X-77** del manuale con trifase (ma soddisfatta anche nel monofase) $\cos\varphi = 0.9$ ricaviamo una sezione di $2.5\ mm^2$ che sappiamo essere in accordo con le considerazioni di posa e quindi con la portata.  
 
-![pianta](https://github.com/user-attachments/assets/efe3d4b7-6fba-48d2-bf38-53631b93bea4)  
-
+$I_b \le I_n \le I_z = 9.7 \le 25 \le 29.04\ A$  
 
 ## Protezione da contatti indiretti  
 
@@ -155,3 +154,11 @@ Consultando il manuale a pagina **X-176** scegliamo per il quadro generale **QE1
 $47.8 \cdot 1 \le 50\ V$  
 
 Per gli altri quadri scegliamo dei differenziali con $I_n = 30\ mA$  
+
+## Installazione dei quadri  
+
+![pianta](https://github.com/user-attachments/assets/efe3d4b7-6fba-48d2-bf38-53631b93bea4)  
+
+Si ipotizza un'installazione come in figura, dove il quadro generale **QE1** viene posizionato all'ingresso ma allo stesso tempo vicino al quadro dai maggiori consumi, ovvero **QE5**, in modo da minimizzare la distanza della linea e di conseguenza la caduta di tensione.  
+
+Per gli altri quadri si prevedono correnti minori per cui avremo piu' flessibilita' sulle distanze.  
