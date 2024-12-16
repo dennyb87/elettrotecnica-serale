@@ -90,11 +90,8 @@ $P_{cu} = P_{cc}\bigg(\dfrac{I_2}{I_{2n}}\bigg)^2 = 625\cdot\bigg(\dfrac{28.864}
 
 ## 4 - Impedenza delle fasi del carico  
 
-In un carico collegato a triangolo sappiamo che $V = V_f$ per cui...  
+$P_2 = V_2\cdot I_2 = R_2\cdot I_2^2 \implies R_2 = \dfrac{P_2}{I_2^2}$  
 
-$S_2 = Z_2\cdot I_2^2 \implies Z_2 = \dfrac{S_2}{I_2^2}$  
+Allora dal triangolo delle impedenze...  
 
-$S_2 = \dfrac{P_2}{\cos\varphi_2} = \dfrac{15.33}{0.8} \simeq 19.163\ kVA$  
-
-$Z_2 = \dfrac{S_2}{I_2^2} = \dfrac{19\ 163}{28.864^2} \simeq 23\ \Omega$  
-
+$Z_2 = \dfrac{R_2}{\cos\varphi_2} = \dfrac{P_2}{I_2^2\cdot\cos\varphi_2} = \dfrac{15\ 330}{28.864^2\cdot 0.8} \simeq 23\ \Omega$  
