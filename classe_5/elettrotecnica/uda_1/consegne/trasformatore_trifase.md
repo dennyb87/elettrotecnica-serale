@@ -98,4 +98,4 @@ $S_1 = \sqrt{P_1^2+Q_1^2} = \sqrt{21.83^2+11.4^2} \simeq 24.63\ kVA$
 
 $I_1 = \dfrac{S_1}{\sqrt{3}\cdot V_1} \dfrac{24.63}{\sqrt{3}\cdot 5.9} \simeq 2.41\ A$  
 
-$\cos\varphi_1 = \dfrac{P_1}{S_1} = \dfrac{21.83}{24.63} \simeq 0.886$  
+$\cos\varphi_1 = \dfrac{P_1}{S_1} = \dfrac{21.83}{24.63} \simeq 0.8863$  
