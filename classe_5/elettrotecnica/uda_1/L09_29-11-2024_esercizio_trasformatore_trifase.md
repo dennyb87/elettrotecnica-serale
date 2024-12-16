@@ -90,8 +90,10 @@ $P_{cu} = P_{cc}\bigg(\dfrac{I_2}{I_{2n}}\bigg)^2 = 625\cdot\bigg(\dfrac{28.864}
 
 ## 4 - Impedenza delle fasi del carico  
 
-$P_2 = V_2\cdot I_2 = R_2\cdot I_2^2 \implies R_2 = \dfrac{P_2}{I_2^2}$  
+$P_2 = 3\cdot V_2\cdot I_2 = 3\cdot R_2\cdot I_2^2 \implies R_2 = \dfrac{P_2}{3\cdot I_2^2}$  
 
 Allora dal triangolo delle impedenze...  
 
-$Z_2 = \dfrac{R_2}{\cos\varphi_2} = \dfrac{P_2}{I_2^2\cdot\cos\varphi_2} = \dfrac{15\ 330}{28.864^2\cdot 0.8} \simeq 23\ \Omega$  
+$Z_2 = \dfrac{R_2}{\cos\varphi_2} = \dfrac{P_2}{3\cdot I_2^2\cdot\cos\varphi_2} = \dfrac{15\ 330}{3\cdot 28.864^2\cdot 0.8} \simeq 7.67\ \Omega$  
+
+$Z_{2tot} = 3\cdot Z_2 = 3\cdot 7.67 \simeq 23\ \Omega$  
