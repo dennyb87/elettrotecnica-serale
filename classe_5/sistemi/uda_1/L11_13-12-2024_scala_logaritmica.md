@@ -11,7 +11,7 @@ La scala logaritmica viene utilizzata per rappresentare sullo stesso grafico gra
 | 3   | 1500 |
 | 4   | 37   |
 
-Per ovviare a questo problema si cambia la scala dell'asse delle ordinate riportando i valori equidistanti di **logaritmi in base 10**. Infine invece di tracciare sul grafico i valori reali di $y$ si tracciano i valori di $\log y$  
+...in cui diventa difficile rappresentare sullo stesso grafico grandezze che spaziano intervalli di valori molto grandi. Per ovviare a questo problema si cambia la scala dell'asse delle ordinate riportando i valori equidistanti di **logaritmi in base 10**. Infine invece di tracciare sul grafico i valori reali di $y$ si tracciano i valori di $\log y$  
 
 ![logarithmic_scale](https://github.com/user-attachments/assets/fda68088-43ee-43aa-8fc1-f3bc4138af7d)  
 
