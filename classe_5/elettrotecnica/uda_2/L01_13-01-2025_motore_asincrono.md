@@ -14,3 +14,36 @@ La variazione del campo induttore induce quindi una corrente nel circuito del ro
 
 ![rotating_motor](https://github.com/user-attachments/assets/7a84df5b-8007-4d8c-8a2e-660a556ea1d7)  
 
+## Velocita' angolare  
+
+$\omega = \dfrac{\Delta \theta}{\Delta t}\ [\frac{rad}{s}]$  
+
+Nel caso di moto circolare uniforme e' uguale a...  
+
+$\omega = \dfrac{\Delta \theta}{\Delta t} = \dfrac{2\pi}{T} = 2\pi f$  
+
+La velocita' angolare indica quindi la velocita' di rotazione di un certo oggetto espressa in radianti al secondo.  
+
+## Accelerazione angolare  
+
+$\alpha = \dfrac{\Delta \omega}{\Delta t}\ [\frac{rad}{s^2}]$  
+
+Questa indica la variazione di velocita' dell'oggetto in rotazione espressa in radianti al secondo quadro.  
+
+## Velocita' tangenziale (o perfiferica)  
+
+$v = \omega r = 2\pi fr = \dfrac{2\pi r}{T}\ [\frac{m}{s}]$  
+
+Questa rappresenta la velocita' di un punto posto sulla periferia del corpo in rotazione ed e' espressa in metri al secondo (essendo il radiante un numero puro). E' importante notare la dipendenza dal raggio $r$ per cui a parita' di velocita' angolare $w$ si avranno velocita' diverse in dipendenza dalla distanza dal centro. Al centro del corpo in rotatione si ha quindi velocita' tangenziale zero.  
+
+## Giri al minuto  
+
+$n = \dfrac{60\omega}{2\pi} = \dfrac{60\cdot \cancel{2\pi}\cdot f}{\cancel{2\pi}} = 60f\ [\text{rpm}]$  
+
+Se la frequenza rappresenta in il numero di "giri" al secondo, allora l'rpm rappresenta il numero di giri al minuto. Non fa parte del sistema internazionale e' per semplicita' utilizzo $[\text{rpm}]$ come unita' di misura.  
+
+## Momento di inerzia  
+
+$J =  m \cdot b^2\ [kg \cdot m^2]$  
+
+Il momento di inerzia gioca un ruolo simile alla massa nei moti lineari. Questo esprime la *resistenza* di una massa $m$ distante $b$ dall'asse ad essere messo in rotazione. La sua unita' di misura e' il kilogrammo metro quadro.  
