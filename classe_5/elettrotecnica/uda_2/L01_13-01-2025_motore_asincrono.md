@@ -40,7 +40,7 @@ Questa rappresenta la velocita' di un punto posto sulla periferia del corpo in r
 
 $n = \dfrac{60\omega}{2\pi} = \dfrac{60\cdot \cancel{2\pi}\cdot f}{\cancel{2\pi}} = 60f\ [\text{rpm}]$  
 
-Se la frequenza rappresenta in il numero di "giri" al secondo, allora l'rpm rappresenta il numero di giri al minuto. Non fa parte del sistema internazionale e' per semplicita' utilizzo $[\text{rpm}]$ come unita' di misura.  
+Se la frequenza rappresenta in il numero di *"giri"* al secondo, allora l'rpm rappresenta il numero di giri al minuto. Non fa parte del sistema internazionale e' per semplicita' utilizzo $[\text{rpm}]$ come unita' di misura.  
 
 ## Momento di inerzia  
 
