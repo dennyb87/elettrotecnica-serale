@@ -30,7 +30,7 @@ $\alpha = \dfrac{\Delta \omega}{\Delta t}\ [\frac{rad}{s^2}]$
 
 Questa indica la variazione di velocita' dell'oggetto in rotazione espressa in radianti al secondo quadro.  
 
-## Velocita' tangenziale (o perfiferica)  
+## Velocita' tangenziale (o periferica)  
 
 $v = \omega r = 2\pi fr = \dfrac{2\pi r}{T}\ [\frac{m}{s}]$  
 
@@ -46,4 +46,19 @@ Se la frequenza rappresenta in il numero di *"giri"* al secondo, allora l'rpm ra
 
 $J =  m \cdot b^2\ [kg \cdot m^2]$  
 
-Il momento di inerzia gioca un ruolo simile alla massa nei moti lineari. Questo esprime la *resistenza* di una massa $m$ distante $b$ dall'asse ad essere messo in rotazione. La sua unita' di misura e' il kilogrammo metro quadro.  
+Il momento di inerzia gioca un ruolo simile alla massa nei moti lineari. Questo esprime la *resistenza* di una massa $m$ distante $b$ dall'asse di rotazione ad essere messa in moto rotatorio. La sua unita' di misura e' il kilogrammo metro quadro.  
+
+## Moto rotatorio  
+
+![coppia_motrice](https://github.com/user-attachments/assets/dfb952cc-ee36-4286-9639-c1a51c4c7d66)  
+
+Applicando una coppia di forze $C = Fb$ ad un corpo si ottiene un moto rotatorio. Considerato un cilindro su cui agisce una **coppia motrice** $C_m$ questo comincera' a ruotare solo una volta vinta la **coppia resistente** $C_r$ (il carico) e la **coppia di inerzia** $J\varepsilon = J\dfrac{\Delta \omega}{\Delta t}$ (*momento fittizio che si oppone alla realizzazione del moto*) per cui la condizione  di equilibrio si esprime con:  
+
+$C_m = C_r + J\varepsilon$  
+
+Dove $J$ e' il momento di inerzia e dipende dalla massa e dalla geometria del corpo, per un cilindro di raggio $r$ e massa $M$ uniformemente distribuita si ha che:  
+
+$J = \dfrac{1}{2}mr^2$  
+
+Ne segue che con $\varepsilon = 0$ (accelerazione angolare zero) il corpo ruota a velocita' costante (oppure e' fermo), e si ha quindi l'equilibrio delle coppie $C_m = C_r$  
+Con $\varepsilon \gt 0$ si ha invece $C_m \gt C_r$ dove $C_m - C_r$ rappresenta la **coppia accelerante**. Mentre con $\varepsilon \lt 0$ si ha $C_m \gt C_r$ ovvero la **coppia decelerante**.  
