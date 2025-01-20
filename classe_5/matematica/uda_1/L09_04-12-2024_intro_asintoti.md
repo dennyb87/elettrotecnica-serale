@@ -1,4 +1,4 @@
-# Asintoti  
+# Introduzione asintoti  
 
 ![asymptotes](https://github.com/user-attachments/assets/112ff510-fc17-4d1a-822e-07335a341ced)  
 
