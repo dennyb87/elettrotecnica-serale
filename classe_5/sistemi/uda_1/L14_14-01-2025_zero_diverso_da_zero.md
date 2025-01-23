@@ -17,6 +17,7 @@ $|G(10)| = \sqrt{1 + \bigg(\dfrac{10}{10}\bigg)^2} = \sqrt{2}$
 Per farci un'idea del comportamento della funzione nel diagramma di Bode valutiamo $|G|_{dB}$ per i valori finiti che abbiamo trovato...  
 
 $|G|_{dB} = 20\log 1 = 0\ dB$  
+
 $|G|_{dB} = 20\log \sqrt{2} \simeq 3\ dB$  
 
 Mentre per valori $\gt\gt 1$ si ha $|G|_{dB} = 20\log \bigg(1+\dfrac{\omega}{10}\bigg)$  
