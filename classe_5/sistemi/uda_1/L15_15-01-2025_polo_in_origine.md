@@ -10,7 +10,7 @@ Ne segue che...
 
 $|G| = -\dfrac{1}{\omega}$  
 
-$\angle |G| = -90^\circ$  
+$\angle G = -90^\circ$  
 
 Il grafico lineare del modulo di $G$ sara' allora di questo tipo...  
 
