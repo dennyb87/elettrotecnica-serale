@@ -14,4 +14,15 @@ Se il rotore ha una velocita' di $970\ \text{rpm}$ allora lo scorrimento sara'..
 
 $s = \dfrac{n_0-n}{n_0} = \dfrac{1000-970}{1000} = 0.03$  
 
-Quindi proprio uno scorrimento del 3%.  
+Quindi proprio uno scorrimento del 3%.
+Infine e' importante notare che se $n = 0$ il rotore e' fermo percio' $s = 1$. Se invece $s = 0$ allora $n_0 = n$ ovvero rotore e campo induttore sono sincronizzati.  
+
+## Tensioni indotte  
+
+$E_1 = K\cdot N\cdot f\cdot\phi$  
+
+Questa e' la **tensione indotta** in **fase statorica**, ovvero la tensione generata negli avvolgimenti statorici a causa della variazione di flusso. Dove $K$ dipende dalla geometria, materiali e numero di poli dello statore, $N$ e' il numero di spire degli avvolgimenti, $f$ e' la frequenza, mentre $\phi$ e' il flusso magnetico.  
+
+$E_{2} = K\cdot N\cdot f\phi$  
+
+Mentre la **tensione indotta** in **fase rotorica**, ovvero la tensione generata nel rotore a causa della variazione di flusso.  
