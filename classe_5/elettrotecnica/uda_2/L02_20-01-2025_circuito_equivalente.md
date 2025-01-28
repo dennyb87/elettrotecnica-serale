@@ -19,10 +19,18 @@ Infine e' importante notare che se $n = 0$ il rotore e' fermo percio' $s = 1$. S
 
 ## Tensioni indotte  
 
-$E_1 = K\cdot N\cdot f\cdot\phi$  
+$E_1 = K_1\cdot N_1\cdot f\cdot\phi$  
 
-Questa e' la **tensione indotta** in **fase statorica**, ovvero la tensione generata negli avvolgimenti statorici a causa della variazione di flusso. Dove $K$ dipende dalla geometria, materiali e numero di poli dello statore, $N$ e' il numero di spire degli avvolgimenti, $f$ e' la frequenza, mentre $\phi$ e' il flusso magnetico.  
+Questa e' la **tensione indotta** in **fase statorica**, ovvero la tensione generata negli avvolgimenti statorici a causa della variazione di flusso. Dove $K_1$ dipende dalla geometria, materiali e numero di poli dello statore, $N_1$ e' il numero di spire degli avvolgimenti, $f$ e' la frequenza, mentre $\phi$ e' il flusso magnetico.  
 
-$E_{2} = K\cdot N\cdot f\phi$  
+$E_2 = K_2\cdot N_2\cdot f_r\cdot \phi$  
 
-Mentre la **tensione indotta** in **fase rotorica**, ovvero la tensione generata nel rotore a causa della variazione di flusso.  
+Mentre la **tensione indotta** in **fase rotorica**, ovvero la tensione generata nel rotore a causa della variazione di flusso. Questa dipende, oltre che dalla geometria e numero di spire, dalla frequenza rotorica $f_r$ che e' molto minore di quella del campo induttore $f$ in particolare si ha che:  
+
+$f_r = s\cdot f$  
+
+Percio' dall'esempio sullo scorrimento si ha che:  
+
+$f_r = 0.03\cdot 50 = 1.5\ Hz$  
+
+Essendo una frequenza molto bassa, sul rotore non si tiene conto delle perdite nel ferro che dipendendo appunto dalla frequenza sono quindi tracurabili.  
