@@ -33,4 +33,10 @@ Percio' dall'esempio sullo scorrimento si ha che:
 
 $f_r = 0.03\cdot 50 = 1.5\ Hz$  
 
-Essendo una frequenza molto bassa, sul rotore non si tiene conto delle perdite nel ferro che dipendendo appunto dalla frequenza sono quindi tracurabili.  
+Il [rotore rincorre il campo magnetico rotante](https://youtu.be/AQqyGNOP_3o?si=Bv3rBbfOhP-lJ2wQ&t=166) senza raggiungerlo con uno scorrimento del 3%, percio' il campo induttore vede una variazione di flusso relativa piuttosto piccola che porta quindi ad una piccola una frequenza rotorica. Essendo una frequenza molto bassa, sul rotore non si tiene conto delle perdite nel ferro che dipendendo appunto dalla frequenza sono quindi tracurabili.  
+
+# Circuito equivalente  
+
+![circuito_equivalente](https://github.com/user-attachments/assets/8c614fbb-5c5e-4228-91c5-4280a778e997)  
+
+Il circuito equivalente e' analogo a quello di un trasformatore. Dove $V_1$ e' la tensione di alimentazione, $E_1$ la tensione in fase statorica, $E_2$ la tensione in fase rotorica.  
