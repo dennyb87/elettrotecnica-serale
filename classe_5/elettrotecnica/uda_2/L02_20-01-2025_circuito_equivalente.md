@@ -25,9 +25,13 @@ Questa e' la **tensione indotta** in **fase statorica**, ovvero la tensione gene
 
 $E_2 = K_2\cdot N_2\cdot f_r\cdot \phi$  
 
-Mentre la **tensione indotta** in **fase rotorica**, ovvero la tensione generata nel rotore a causa della variazione di flusso. Questa dipende, oltre che dalla geometria e numero di spire, dalla frequenza rotorica $f_r$ che e' molto minore di quella del campo induttore $f$ in particolare si ha che:  
+Mentre la **tensione indotta** in **fase rotorica**, ovvero la tensione generata nel rotore a causa della variazione di flusso. Questa dipende, oltre che dalla geometria e numero di spire, dalla frequenza rotorica $f_r$ che e' molto minore di quella del campo induttore $f$ in quanto dipende dallo scorrimento $s$ in particolare si ha che:  
 
 $f_r = s\cdot f$  
+
+Si ha allora che a rotore fermo (o bloccato) $f_r = f$ percio' viene definita:  
+
+$E_{20} = \dfrac{E_2}{s} = K_2\cdot N_2\cdot f\cdot \phi \implies E_2 = s\cdot E_{20}$  
 
 Percio' dall'esempio sullo scorrimento si ha che:  
 
@@ -37,6 +41,26 @@ Il [rotore rincorre il campo magnetico rotante](https://youtu.be/AQqyGNOP_3o?si=
 
 # Circuito equivalente  
 
-![circuito_equivalente](https://github.com/user-attachments/assets/8c614fbb-5c5e-4228-91c5-4280a778e997)  
+![circuito_equivalente_2](https://github.com/user-attachments/assets/f3e2f90e-f1fd-4326-a207-de8adc8d5109)   
 
-Il circuito equivalente e' analogo a quello di un trasformatore. Dove $V_1$ e' la tensione di alimentazione, $E_1$ la tensione in fase statorica, $E_2$ la tensione in fase rotorica.  
+Il circuito equivalente e' analogo a quello di un trasformatore. Dove $V_1$ e' la tensione di alimentazione, $E_1$ la tensione in fase statorica, $E_2$ la tensione in fase rotorica. A questo punto abbiamo un circuito equivalente che sul lato del rotore ha una resistenza costante ed una reattanza variabile dipendente da $s$. Vogliamo a questo punto manipolare il circuito, ricordando che...  
+
+$I_2 = \dfrac{s\cdot E_{20}}{R_2+jsX_2}$  
+
+Dividiamo numeratore e denominatore per $s$...  
+
+$I_2 = \dfrac{E_{20}}{\dfrac{R_2}{s}+jX_2}$  
+
+Ma se...  
+
+$\dfrac{R_2}{s} = \dfrac{R_2}{s}+R_2-R_2 = R_2+R_2\bigg(\dfrac{1}{s}-1\bigg)$  
+
+Allora...  
+
+$I_2 = \dfrac{E_{20}}{R_2+R_2\bigg(\dfrac{1}{s}-1\bigg)+jX_2}$  
+
+Possiamo quindi riarrangiare il circuito per ottenere una resistenza variable fittizia che rappresenta il carico meccanico ovvero:  
+
+$R_2\cdot\bigg(\dfrac{1}{s}-1\bigg)$  
+
+![rotor_equivalent](https://github.com/user-attachments/assets/aef181d4-755c-48e6-8511-a037ce0b503b)  
