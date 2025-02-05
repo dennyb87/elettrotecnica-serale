@@ -64,3 +64,34 @@ Possiamo quindi riarrangiare il circuito per ottenere una resistenza variable fi
 $R_2\cdot\bigg(\dfrac{1}{s}-1\bigg)$  
 
 ![rotor_equivalent](https://github.com/user-attachments/assets/aef181d4-755c-48e6-8511-a037ce0b503b)  
+
+# Potenze  
+
+![potenze_mat_sync](https://github.com/user-attachments/assets/b13bdfe5-7442-458a-b285-80a9a76b9c9a)  
+
+Le potenze in gioco sono quelle in figura, da sinistra:  
+
+* potenza assorbita $P_a$
+* perdite nel ferro  $P_f = G_0V_1^2$ 
+* perdite nel rame statoriche $P_{j1} = 3R_1I_1^2$
+* perdite addizionali $P_{add}$
+* potenza trasmessa al rotore $P_T$
+* perdite nel rame rotoriche $P_{j2} = 3R_2I_2^2$
+* perdite per attrito e ventilazione $P_{av}$
+* potenza resa $P_r$
+
+Si ha che...  
+
+$P_a = \sqrt{3}\cdot V_1\cdot I_1\cdot \cos\varphi_1$  
+
+Mentre le perdite addizionali sono fisse, in particolare lo 0.5% della potenza assorbita...  
+
+$P_{add} = \dfrac{0.5}{100}\cdot P_a$  
+
+Abbiamo inoltre che...  
+
+$P_T=P_a-P_f-P_{j1}-P_{add}$
+
+Infine il rendimento sara' quindi...  
+
+$\eta = \dfrac{P_r}{P_a}$  
