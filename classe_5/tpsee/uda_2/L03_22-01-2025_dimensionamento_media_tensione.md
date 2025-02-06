@@ -30,3 +30,24 @@ Con una potenza contrattuale $P_c > 100\ kW$ e' necessaria una fornitura in medi
 * corrente cortocircuito trifase massima $I_k = 12.5\ kA$
 
 ## Impianto di terra  
+
+Il tempo di eliminazione guasto di $t_f \ge 10\ s$ ci costringe ad una tensione di contatto limite $U_{tp} = 85\ V$ come si vede in tabella a pagina X-163 del manuale.  
+
+$R_E \le \dfrac{U_{tp}}{I_f}$  
+
+$\dfrac{U_{tp}}{I_f} = \dfrac{85}{40} = 2.125\ \Omega$  
+
+Si ha quindi che la resistenza dell'impianto di terra dovra' soddisfare la condizione:  
+
+$R_E \le 2.125\ \Omega$  
+
+## Locale ente fornitore -> locale utente  
+
+Il cavo di collegameto allesito dall'utente deve essere il piu' corto possibile e avere sezione adeguata. A pagina X-196 del manuale vediamo che la norma CEI 0-16 prescrive una lunghezza massima di $20\ m$ e una sezione di $95\ mm^2$.  
+
+## Quadro MT  
+
+Considerando una tensione nominale di $15\ kW$ una corrente nominale di $5.97\ A$ ed una corrente di cortocircuito massima di $12.5\ kA$ scegliamo a pagina X-194 del manuale il dispositivo **HD4-17** da $630\ A$. La corrente predefinita e' chiaramente sovradimensionata, ma puo' essere configurata in modo opportuno dal pannello di controllo.  
+
+## Dal quadro MT al trasformatore  
+
