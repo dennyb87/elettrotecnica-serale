@@ -7,14 +7,12 @@ Calcolare il **numero di poli** di un motore asincrono trifase di cui sono note,
 ```math
     s_\% = 3.5\ \%
 ```
-
-```math
-    f_r = 2.1\ Hz\\
-```
-
-```math
-    n_s = 1800\ \text{rpm}
-```
+$$
+\begin{aligned}
+    f_r &= 2.1\ Hz\\
+    n_s &= 1800\ \text{rpm}\\
+\end{aligned}
+$$
 
 Considerato che...  
 
@@ -39,16 +37,18 @@ Ma dato che i dati dipendono dall'esercizio 1 mi sembra non abbiano senso nemmen
 
 ## Esercizio 3  
 
-Un motore asincrono trifase a 8 poli, con rotore avvolto, e collegamento degli avvolgimenti a triangolo e' alimentato da una rete primaria alla tensione $V_1 = 380\ V$ con frequenza $f=50\ Hz$. Nel funzionamento sotto carico, con scorrimento percentuale $s_\% = 3.7\ \%$ il motore presenta le
+Un motore asincrono trifase a 8 poli, con rotore avvolto, e collegamento degli avvolgimenti a triangolo e' alimentato da una rete primaria alla tensione $V_1 = 380\ V$ con frequenza $f=50\ Hz$. Nel funzionamento sotto carico, con scorrimento percentuale 3.7% il motore presenta le
 seguenti caratteristiche:  
 
-```math
-P_f = 720\ W\\
-P_{av} = 500\ W\\
-P_r = 15\ kW\\
-P_{j1} = \dfrac{P_{j2}}{3}\\
-\cos\varphi_1 = 0.88\\
-```
+$$
+\begin{aligned}
+    P_f &= 720\ W\\
+    P_{av} &= 500\ W\\
+    P_r &= 15\ kW\\
+    P_{j1} &= \dfrac{P_{j2}}{3}\\
+    \cos\varphi_1 &= 0.88\\
+\end{aligned}
+$$
 
 Calcolare il rendimento $\eta$ del motore, la coppia trasmessa $C_T$ e la corrente assorbita $I_1$ dalla rete primaria di alimentazione nelle condizioni specificate di carico.  
 
