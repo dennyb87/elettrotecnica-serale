@@ -22,6 +22,7 @@ $f_r = sf \implies f = \dfrac{f_r}{s} = \dfrac{2.1}{0.035} = 60\ Hz$
 
 $n_s = \dfrac{60f}{P} \implies P = \dfrac{60f}{n_s} = \dfrac{60\cdot60}{1800} \simeq 2\ \text{coppie polari}$  
 
+$2P = 4\ poli$  
 
 ## Esercizio 2  
 
