@@ -34,8 +34,6 @@ $n_r = n_s\cdot(1-s) = 1800\cdot(1-0.035) \simeq 1737\ \text{rpm}$
 
 $w_r = \dfrac{2\pi n_r}{60} = \dfrac{2\pi \cdot 1737}{60} \simeq 181.9\ \frac{rad}{s}$  
 
-Ma dato che i dati dipendono dall'esercizio 1 mi sembra non abbiano senso nemmeno questi risultati...  
-
 ## Esercizio 3  
 
 Un motore asincrono trifase a 8 poli, con rotore avvolto, e collegamento degli avvolgimenti a triangolo e' alimentato da una rete primaria alla tensione $V_1 = 380\ V$ con frequenza $f=50\ Hz$. Nel funzionamento sotto carico, con scorrimento percentuale 3.7% il motore presenta le
