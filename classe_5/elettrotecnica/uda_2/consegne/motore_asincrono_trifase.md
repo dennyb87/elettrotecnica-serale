@@ -10,6 +10,9 @@ Calcolare il **numero di poli** di un motore asincrono trifase di cui sono note,
 
 ```math
     f_r = 2.1\ Hz\\
+```
+
+```math
     n_s = 1800\ \text{rpm}
 ```
 
