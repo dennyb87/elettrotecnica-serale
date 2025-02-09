@@ -29,6 +29,12 @@ Con una potenza contrattuale $P_c > 100\ kW$ e' necessaria una fornitura in medi
 * tempo eliminazione guasto $t_f \ge 10\ s$
 * corrente cortocircuito trifase massima $I_k = 12.5\ kA$
 
+Calcoliamo quindi le correnti nominali...  
+
+$I_{bMT} = \dfrac{S_c}{\sqrt{3}\cdot V_{MT}} = \dfrac{155\cdot 10^3}{\sqrt{3}\cdot 15\cdot 10^3} \simeq 5.97\ A$  
+
+$I_{bBT} = \dfrac{S_c}{\sqrt{3}\cdot V_{BT}} = \dfrac{155\cdot 10^3}{\sqrt{3}\cdot 400} \simeq 223.72\ A$  
+
 ## Impianto di terra  
 
 Il tempo di eliminazione guasto di $t_f \ge 10\ s$ ci costringe ad una tensione di contatto limite $U_{tp} = 85\ V$ come si vede in tabella a pagina X-163 del manuale.  
@@ -41,7 +47,7 @@ Si ha quindi che la resistenza dell'impianto di terra dovra' soddisfare la condi
 
 $R_E \le 2.125\ \Omega$  
 
-## Locale ente fornitore -> locale utente  
+## Dal locale ente fornitore al locale utente  
 
 Il cavo di collegameto allesito dall'utente deve essere il piu' corto possibile e avere sezione adeguata. A pagina X-196 del manuale vediamo che la norma CEI 0-16 prescrive una lunghezza massima di $20\ m$ e una sezione di $95\ mm^2$.  
 
@@ -51,3 +57,40 @@ Considerando una tensione nominale di $15\ kW$ una corrente nominale di $5.97\ A
 
 ## Dal quadro MT al trasformatore  
 
+Il cavo che va dal quadro di media tensione al trasformatore si sceglie sulla base dell'energia specifica termica.  
+
+$I_{cc}^2t \le K^2S^2$  
+
+Dove $I_{cc} = 12.5\ kA$ ovvero la corrente di cortocorcuito trifase massima dichiarata dal fornitore, mentre $t = 0.12\ s$ ed e' il tempo di intervento minimo degli interruttori. Infine $K$ dipende dal materiale del conduttore, in questo caso da pagina X-168 del manuale scegliamo $K = 143$ per un cavo in rame multipolare in EPR. Riarrangiando troviamo quindi la sezione...  
+
+$S \ge \sqrt{\dfrac{12.5\cdot10^3\cdot 0.12}{143^2}}= 30.28\ mm^2$  
+
+Scegliamo quindi da pagina X-47 un cavo $U_0/U = 8.7/15\ kV$ da $35\ mm^2$ che ci permette anche in condizioni sfavorevoli (e.g. posa 3A pagina X-62) di ottenere una $I_z = 128\ A$  
+
+## Trasformatore  
+
+Considerando che i trasformatori moderni lavorano meglio intorno al 50% e tenendo conto di un margine del 30% per potenziali ampliamenti futuri, scegliamo da pagina X-201 un trasformatore in resina sovradimensionato:  
+
+$S_n = 250\ kVA$  
+
+$K_0 = \dfrac{15\ kV}{400\ V}$  
+
+$V_{cc} = 0.06$  
+
+## Dimensionamento linea BT  
+
+Con i dati di targa del trasformatore e' possible ricavare le correnti nominali e le correnti di cortocircuito.  
+
+$I_{2n} = \dfrac{S_n}{\sqrt{3}\cdot V_{20n}} = \dfrac{250\cdot 10^3}{\sqrt{3}\cdot 400} \simeq 360.84\ A$  
+
+$I_{2ccBT} = \dfrac{I_{2n}}{V_{cc}} = \dfrac{360.84}{0.06} = 6014\ A$  
+
+$I_{2ccMT} = \dfrac{I_{2ccBT}}{K_0} = \dfrac{6014\cdot 400}{15\cdot 10^3} \simeq 160.37\ A$  
+
+Considerato che normalmente si scelgono **cavi unipolari**, ipotizziamo una posa 3 a pagina X-59 e scegliamo quindi $3(1\times 185)$ cavi unipolari:  
+
+$S = 185\ mm^2$  
+$I_z = 417\ A$  
+$U_0/U = 600/1000\ V$  
+
+Infine scegliamo il neutro e PE $1\times 95$ in quanto assumendo un carico equilibrato e' possibile utilizzare cavi di $\frac{1}{2}$ della sezione di fase.  
