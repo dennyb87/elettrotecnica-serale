@@ -7,7 +7,7 @@ Calcolare il **numero di poli** di un motore asincrono trifase di cui sono note,
 ```math
     s_\% = 3.5\ \%\\
     f_r = 2.1\ Hz\\
-    n_s = 63\ \text{rpm}
+    n_s = 1800\ \text{rpm}
 ```
 
 Considerato che...  
@@ -16,19 +16,18 @@ $f_r = sf \implies f = \dfrac{f_r}{s} = \dfrac{2.1}{0.035} = 60\ Hz$
 
 ...e che...  
 
-$n_s = \dfrac{60f}{P} \implies P = \dfrac{60f}{n_s} = \dfrac{60\cdot60}{63} \simeq 58\ \text{coppie polari}$  
+$n_s = \dfrac{60f}{P} \implies P = \dfrac{60f}{n_s} = \dfrac{60\cdot60}{1800} \simeq 2\ \text{coppie polari}$  
 
-Non ha senso!
 
 ## Esercizio 2  
 
 Facendo riferimento all'esercizio precedente riportare la velocita' del campo magnetico rotante e del rotore in rad/s.  
 
-$w_s = \dfrac{2\pi n_s}{60} = \dfrac{2\pi\cdot 63}{60} \simeq 6.6\ \frac{rad}{s}$  
+$w_s = \dfrac{2\pi n_s}{60} = \dfrac{2\pi\cdot 1800}{60} \simeq 188.5\ \frac{rad}{s}$  
 
-$n_r = n_s\cdot(1-s) = 63\cdot(1-0.035) \simeq 60.79\ \text{rpm}$  
+$n_r = n_s\cdot(1-s) = 1800\cdot(1-0.035) \simeq 1737\ \text{rpm}$  
 
-$w_r = \dfrac{2\pi n_r}{60} = \dfrac{2\pi \cdot 60.79}{60} \simeq 6.37\ \frac{rad}{s}$  
+$w_r = \dfrac{2\pi n_r}{60} = \dfrac{2\pi \cdot 1737}{60} \simeq 181.9\ \frac{rad}{s}$  
 
 Ma dato che i dati dipendono dall'esercizio 1 mi sembra non abbiano senso nemmeno questi risultati...  
 
