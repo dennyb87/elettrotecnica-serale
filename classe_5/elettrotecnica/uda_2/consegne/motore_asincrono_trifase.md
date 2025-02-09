@@ -75,7 +75,7 @@ $P_a = P_T+P_f+\dfrac{sP_T}{3}+P_{add}$
 
 $P_a - 0.005P_a = P_T+P_f+\dfrac{sP_T}{3}$  
 
-$P_a = \dfrac{P_T+P_f+\dfrac{sP_T}{3}}{1-0.005} \dfrac{16\ 095.53+720+198.51}{0.995} \simeq 17\ 099.54\ W$  
+$P_a = \dfrac{P_T+P_f+\dfrac{sP_T}{3}}{1-0.005} = \dfrac{16\ 095.53+720+198.51}{0.995} \simeq 17\ 099.54\ W$  
 
 #### Rendimento  
 
