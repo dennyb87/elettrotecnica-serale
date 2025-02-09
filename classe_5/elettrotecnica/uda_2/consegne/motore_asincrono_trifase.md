@@ -5,7 +5,10 @@
 Calcolare il **numero di poli** di un motore asincrono trifase di cui sono note, in condizioni di funzionamento sotto carico, le seguenti caratteristiche:  
 
 ```math
-    s_\% = 3.5\ \%\\
+    s_\% = 3.5\ \%
+```
+
+```math
     f_r = 2.1\ Hz\\
     n_s = 1800\ \text{rpm}
 ```
