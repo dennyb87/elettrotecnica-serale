@@ -10,9 +10,13 @@ Calcolare il **numero di poli** di un motore asincrono trifase di cui sono note,
 $$
 \begin{aligned}
     f_r &= 2.1\ Hz\\
-    n_s &= 1800\ \text{rpm}\\
+    n_s &= 63\ \text{rpm}\\
 \end{aligned}
 $$
+
+Sapendo che $n_s = n_0 - n$ allora...  
+
+$s = \dfrac{n_s}{n_0}=\dfrac{n_0-n}{n_0} \implies 0.035 = \dfrac{63}{n_0} \implies n_0=\dfrac{63}{0.035} = 1800\ \text{rpm}$  
 
 Considerato che...  
 
@@ -20,7 +24,7 @@ $f_r = sf \implies f = \dfrac{f_r}{s} = \dfrac{2.1}{0.035} = 60\ Hz$
 
 ...e che...  
 
-$n_s = \dfrac{60f}{P} \implies P = \dfrac{60f}{n_s} = \dfrac{60\cdot60}{1800} \simeq 2\ \text{coppie polari}$  
+$n_0 = \dfrac{60f}{P} \implies P = \dfrac{60f}{n_0} = \dfrac{60\cdot60}{1800} \simeq 2\ \text{coppie polari}$  
 
 $2P = 4\ poli$  
 
@@ -28,11 +32,11 @@ $2P = 4\ poli$
 
 Facendo riferimento all'esercizio precedente riportare la velocita' del campo magnetico rotante e del rotore in rad/s.  
 
-$w_s = \dfrac{2\pi n_s}{60} = \dfrac{2\pi\cdot 1800}{60} \simeq 188.5\ \frac{rad}{s}$  
+$w_0 = \dfrac{2\pi n_0}{60} = \dfrac{2\pi\cdot 1800}{60} \simeq 188.5\ \frac{rad}{s}$  
 
-$n_r = n_s\cdot(1-s) = 1800\cdot(1-0.035) \simeq 1737\ \text{rpm}$  
+$n = n_0\cdot(1-s) = 1800\cdot(1-0.035) \simeq 1737\ \text{rpm}$  
 
-$w_r = \dfrac{2\pi n_r}{60} = \dfrac{2\pi \cdot 1737}{60} \simeq 181.9\ \frac{rad}{s}$  
+$w = \dfrac{2\pi n}{60} = \dfrac{2\pi \cdot 1737}{60} \simeq 181.9\ \frac{rad}{s}$  
 
 ## Esercizio 3  
 
