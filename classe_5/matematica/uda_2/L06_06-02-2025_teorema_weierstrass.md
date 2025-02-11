@@ -2,7 +2,7 @@
 
 ![weirstrass](https://github.com/user-attachments/assets/14e7a634-aed2-4c5c-a020-fa1865f9bc5f)  
 
-Questo teorema ci dice che, data una funzione $f(x)$ continua nell'intervallo chiuso e limitato $[a,\ b]$ allora esiste almeno un valore massimo ed un valore minimo nell'intervallo stesso.  
+> Data una funzione $f(x)$ continua nell'intervallo chiuso e limitato $[a,\ b]$ allora esiste almeno un valore massimo ed un valore minimo nell'intervallo stesso.  
 
 Se le ipotesi del teorema sono rispettate allora...  
 
