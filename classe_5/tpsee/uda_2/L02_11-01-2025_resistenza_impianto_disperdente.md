@@ -26,17 +26,15 @@ $R_E = \dfrac{250}{2\pi\cdot115}\bigg[\ln\bigg(\dfrac{2\cdot 115}{4\cdot 10^{-3}
 
 ## Dispersore ad anello  
 
-Si ha una corda con sezione di area $A = 50\ mm^2$ lungo il perimetro di uno stabile $30\ m \times 15\ m$ posata a $h = 0.8\ m$ di profondita'. Si vuole calcolare la resistenza dell'impianto disperdente assumendo una resistivita' del terreno di $\rho_E = 100\ \Omega m$. La corda si richiude su se stessa, percio' utilizziamo la formula del dispersore ad anello trovando prima il perimetro $P$ e poi le misure del cerchio equivalente...  
+Si ha una corda con sezione di area $A_s = 50\ mm^2$ lungo il perimetro di uno stabile $30\ m \times 15\ m$ posata a $h = 0.8\ m$ di profondita'. Si vuole calcolare la resistenza dell'impianto disperdente assumendo una resistivita' del terreno di $\rho_E = 100\ \Omega m$. La corda si richiude su se stessa, percio' utilizziamo la formula del dispersore ad anello trovando prima l'area del cerchio equivalente $A_{eq}$ e poi il suo raggio $r$...  
 
-$P = 2\cdot 30 + 2\cdot 15 = 90\ m$  
+$A_{eq} = 30\cdot 15 = 450\ m^2 = \pi r^2 \implies r =\sqrt{\dfrac{A_{eq}}{\pi}} = \sqrt{\dfrac{450}{\pi}} \simeq 11.97\ m$  
 
-$P = 90\ m =2\pi r \implies r = \dfrac{P}{2\pi} = \dfrac{90}{2\pi} \simeq 14.32\ m$  
-
-$A = 50\ mm^2 = \pi a^2 \implies a = \sqrt{\dfrac{A}{\pi}} = \sqrt{\dfrac{50}{\pi}} \simeq 4\ mm$  
+$A_s = 50\ mm^2 = \pi a^2 \implies a = \sqrt{\dfrac{A_s}{\pi}} = \sqrt{\dfrac{50}{\pi}} \simeq 4\ mm$  
 
 Dove $r$ e' il raggio del cerchio equivalente formato dalla corda, mentre $a$ e' di nuovo il raggio della sezione della corda.  
 
-$R_E = \dfrac{\rho_E}{4\pi^2r}\cdot\bigg[\ln\bigg(\dfrac{8r}{a}\bigg)+\ln\bigg(\dfrac{4r}{h}\bigg)\bigg] = \dfrac{100}{4\pi^2\cdot 14.32}\cdot\bigg[\ln\bigg(\dfrac{8\cdot 14.32}{4\cdot 10^{-3}}\bigg)+\ln\bigg(\dfrac{4\cdot 14.32}{0.8}\bigg)\bigg] \simeq 2.57\ \Omega$  
+$R_E = \dfrac{\rho_E}{4\pi^2r}\cdot\bigg[\ln\bigg(\dfrac{8r}{a}\bigg)+\ln\bigg(\dfrac{4r}{h}\bigg)\bigg] = \dfrac{100}{4\pi^2\cdot 11.97}\cdot\bigg[\ln\bigg(\dfrac{8\cdot 11.97}{4\cdot 10^{-3}}\bigg)+\ln\bigg(\dfrac{4\cdot 11.97}{0.8}\bigg)\bigg] \simeq 3\ \Omega$  
 
 ## Rete magliata  
 
@@ -48,10 +46,8 @@ Dove $\ell$ e' la lunghezza totale del dispersore, ovvero:
 
 $\ell = 3\cdot 50 + 5\cdot 20 = 250\ m$  
 
-Mentre $r$ e' il raggio del cerchio equivalente formata dalla maglia, quindi trovando il perimetro...  
+Mentre $r$ e' il raggio del cerchio equivalente formata dalla maglia, quindi trovando l'area...  
 
-$P = 2\cdot 20+2\cdot 50 = 140\ m$  
+$A_{eq} = 50\cdot 20 = 1000\ m^2 = \pi r^2 \implies r =\sqrt{\dfrac{A_{eq}}{\pi}} = \sqrt{\dfrac{1000}{\pi}} \simeq 17.84\ m$  
 
-$P = 140\ m = 2\pi r \implies r = \dfrac{140}{2\pi}\simeq 22.28\ m$  
-
-$R_E = \dfrac{250}{4\cdot 22.28} + \dfrac{250}{270}\simeq 3.73\ \Omega$  
+$R_E = \dfrac{250}{4\cdot 17.84} + \dfrac{250}{250}\simeq 4.5\ \Omega$  
