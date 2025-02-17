@@ -35,3 +35,21 @@ flowchart TB
     s2--SI-->stopmat
     s2--NO-->readpm  
 ```
+
+
+## Lista di attribuzione  
+
+| componente        | simbolo | ladder ID | stato iniziale | I/O    |
+| ----------------- | ------- | --------- | -------------- | ------ |
+| pulsante marcia   | $P_M$   | $I_1$     | 0              | input  |
+| pulsante arresto  | $P_A$   | $I_2$     | 1              | input  |
+| fine corsa 1      | $F_1$   | $I_3$     | 0              | input  |
+| fine corsa 2      | $F_2$   | $I_4$     | 0              | input  |
+| rele termico      | $R_T$   | $I_5$     | 1              | input  |
+| contattore        | $C_1$   | $Q_1$     | 0              | output |
+| lampada verde     | $L_1$   | $Q_2$     | 1              | output |
+| lampada rossa     | $L_2$   | $Q_3$     | 0              | output |
+| lampada arancione | $L_3$   | $Q_4$     | 0              | output |
+
+
+![nastro_temporizzato](https://github.com/user-attachments/assets/5a4c7523-59b6-49f3-8e2e-851fd9500240)  
