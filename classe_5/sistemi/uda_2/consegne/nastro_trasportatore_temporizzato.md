@@ -18,7 +18,7 @@ flowchart TB
     activatemat-->start
 
     mat--SI-->readps[leggi Pulsante STOP]
-    readps-->ps{PS premuto}--SI-->stopmat[arresta nastro]
+    readps-->ps{PS premuto ?}--SI-->stopmat[arresta nastro]
     stopmat-->start
     ps--NO-->readsc
 
@@ -33,7 +33,7 @@ flowchart TB
     s1--NO-->reads2[leggi sensore 2]
     reads2-->s2{sensore 2 attivato ?}
     s2--SI-->stopmat
-    s2--NO-->readpm  
+    s2--NO-->readpm[leggi Pulsante MARCIA]  
 ```
 
 
