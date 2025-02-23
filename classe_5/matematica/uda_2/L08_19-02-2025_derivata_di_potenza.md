@@ -60,3 +60,5 @@ $\displaystyle{\lim_{x \to 0}\ \dfrac{(1+x)^k-1}{x}} = k$
 Allora data la funzione $f(x) = x^2$ per calcolare $f^\prime(x_0)$ dove $x_0 = 2$ e' sufficiente sostituire $x_0$...  
 
 $f^\prime(x) = nx^{n-1} \implies f^\prime(2) = 2\cdot2^{2-1} = 4$  
+
+E' importante notare che anche se la dimostrazione assume $x \ne 0$ la formula ricavata fornisce il valore corretto anche per zero $f^\prime(0) = n(0)^{n-1} = 0$ percio' vale $\forall\ x \in \mathbb{R}$  
