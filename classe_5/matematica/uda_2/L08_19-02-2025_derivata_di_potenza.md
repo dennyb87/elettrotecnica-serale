@@ -56,3 +56,7 @@ $$
 Nell'ultimo passaggio moltiplichiamo e dividamo per $\dfrac{1}{x}$ utilizzando il limite notevole che permette di ridurre il termine a destra ad $n$  
 
 $\displaystyle{\lim_{x \to 0}\ \dfrac{(1+x)^k-1}{x}} = k$  
+
+Allora data la funzione $f(x) = x^2$ per calcolare $f^\prime(x_0)$ dove $x_0 = 2$ e' sufficiente sostituire $x_0$...  
+
+$f^\prime(x) = nx^{n-1} \implies f^\prime(2) = 2\cdot2^{2-1} = 4$  
