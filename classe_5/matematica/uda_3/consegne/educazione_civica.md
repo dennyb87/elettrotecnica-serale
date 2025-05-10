@@ -1,4 +1,4 @@
-# Tutti i numeri della costituione  
+# Tutti i numeri della costituzione  
 
 Leggendo l'estratto del libro dal titolo *"Relazioni"* non ho potuto far altro che notare l'assenza di quella che io credo sia una delle relazioni fondamentali tra matematica e costituzione: i **sistemi assiomatici**.   
 
